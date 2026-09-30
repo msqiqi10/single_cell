@@ -236,7 +236,7 @@ def main() -> int:
         failures.append(f"expected 18 raw 10x files, found {len(raw_input_files)}")
 
     code_files = [
-        ROOT / "run_inkt_legacy_ppt_qc_pipeline.sh",
+        ROOT / "scripts/runners/run_inkt_legacy_ppt_qc_pipeline.sh",
         ROOT / "notebooks/scripts/iNKT/build_inkt_legacy_ppt_qc_notebook.py",
         ROOT / "notebooks/scripts/iNKT/execute_inkt_notebook.py",
         ROOT / "notebooks/scripts/iNKT/validate_inkt_legacy_ppt_qc.py",

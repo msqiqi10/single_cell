@@ -37,7 +37,7 @@ if [[ "${1:-}" != "--inside-tmux" ]]; then
     tmux new-session -d \
         -s "$session" \
         -n pipeline \
-        "env INKT_LEGACY_RUN_ROOT='$run_root' INKT_LEGACY_NOTEBOOK='$notebook' INKT_LEGACY_SESSION='$session' bash '$ROOT/run_inkt_legacy_ppt_qc_pipeline.sh' --inside-tmux >'$log' 2>&1"
+        "env INKT_LEGACY_RUN_ROOT='$run_root' INKT_LEGACY_NOTEBOOK='$notebook' INKT_LEGACY_SESSION='$session' bash '$ROOT/scripts/runners/run_inkt_legacy_ppt_qc_pipeline.sh' --inside-tmux >'$log' 2>&1"
 
     printf '%s\n' "$session" > "$ROOT/.inkt_legacy_ppt_qc_session"
     printf '%s\n' "$run_root" > "$ROOT/.inkt_legacy_ppt_qc_run_dir"
