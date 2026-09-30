@@ -407,7 +407,7 @@ def package():
 
 def main():
     for name in ['slides','tables','qa']: (OUT/name).mkdir(parents=True,exist_ok=True)
-    record(ROOT/'input/iNKT/iNKT.pptx');record(ROOT/'docs/blooda_adv-2024-014592-main.pdf');record(M/'sources/BLOODA_ADV-2024-014592-mmc2.pdf')
+    record(ROOT/'input/iNKT/iNKT.pptx');record(ROOT/'docs/references/blooda_adv-2024-014592-main.pdf');record(M/'sources/BLOODA_ADV-2024-014592-mmc2.pdf')
     a=ad.read_h5ad(record(M/'objects/scored_base.h5ad'));check(a.shape==(15532,10670),'current object expected cohort')
     with PdfPages(OUT/'iNKT_reference_aligned_20260915.pdf') as pdf:
         overview(pdf);qc_and_embedding(a,pdf)

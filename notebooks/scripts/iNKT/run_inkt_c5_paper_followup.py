@@ -70,7 +70,7 @@ DEFAULT_H5AD = (
     / "output/iNKT_reproduction_deck/20260825_UMAP_PC_sweep/umap_pc_sweep/inkt_selected_umap.h5ad"
 )
 DEFAULT_RAW_ROOT = ROOT / "input/iNKT/data"
-DEFAULT_PAPER = ROOT / "docs/blooda_adv-2024-014592-main.pdf"
+DEFAULT_PAPER = ROOT / "docs/references/blooda_adv-2024-014592-main.pdf"
 DEFAULT_OUT_DIR = (
     ROOT / f"output/iNKT_reproduction_deck/{RUN_DATE}_C5_paper_Fig3DEF_followup"
 )
@@ -3946,7 +3946,7 @@ The former thresholded Tumor-up KEGG ORA is retained as a supplemental sensitivi
 
 ## Paper mapping
 
-Source: docs/blooda_adv-2024-014592-main.pdf.
+Source: docs/references/blooda_adv-2024-014592-main.pdf.
 
 - PDF p6 / journal p764: Figure 3D–F.
 - PDF p7 / journal p765: results text and continued legend.

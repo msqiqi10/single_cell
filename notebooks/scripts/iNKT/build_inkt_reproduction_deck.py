@@ -51,7 +51,7 @@ COMPARE = RUN / "comparison_to_legacy_ppt"
 SWEEP = DEFAULT_OUT_DIR / "umap_pc_sweep"
 SELECTED_FIGURES = SWEEP / "selected_figures"
 STD = SWEEP / "selected_signatures/standardized_legacy"
-DOC = ROOT / "docs/inkt_legacy_ppt_vs_legacy_qc_rerun_content.md"
+DOC = ROOT / "docs/audits/inkt_legacy_ppt_vs_legacy_qc_rerun_content.md"
 LEGACY_PPT = ROOT / "input/iNKT/iNKT.pptx"
 
 SLIDE_W = 13.333

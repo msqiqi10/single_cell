@@ -209,7 +209,7 @@ def main():
     for s in sections:
         for i,t in enumerate(s['tables'],1):pd.DataFrame(t['rows'],columns=t['headers']).to_csv(OUT/f'data/{s["id"]}_report_table_{i}.csv',index=False,encoding='utf-8-sig')
     create_md(sections);create_html(sections);create_docx(sections)
-    extra=[ROOT/'TODOs.txt',ROOT/'docs/inkt_revision_checklist_20260906.md',M/'verification.json',D/'verification.json',Path(__file__)]
+    extra=[ROOT/'TODOs.txt',ROOT/'docs/audits/inkt_revision_checklist_20260906.md',M/'verification.json',D/'verification.json',Path(__file__)]
     for p in extra:SOURCES[str(p.relative_to(ROOT))]=sha(p)
     manifest={'created_date':'2026-09-06','scope':'report existing R01-R13 analysis; no analysis recomputation','source_SHA256':SOURCES,'sections':len(sections),'main_figures':sum(len(s['figures']) for s in sections),'tables':sum(len(s['tables']) for s in sections),'font_source':'https://github.com/notofonts/noto-cjk/tree/main/Sans','font_license':'assets/NotoSansCJK-LICENSE.txt','new_reporting_only_figure':'R06 subset dotplot from existing values','GPU_used':False}
     (OUT/'source_manifest.json').write_text(json.dumps(manifest,indent=2,ensure_ascii=False));print(json.dumps({k:v for k,v in manifest.items() if k!='source_SHA256'},ensure_ascii=False,indent=2),flush=True)

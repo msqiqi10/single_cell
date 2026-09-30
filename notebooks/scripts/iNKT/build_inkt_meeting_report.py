@@ -197,7 +197,7 @@ Cish具体方向：{ct}。这不支持不分组织/cluster地宣布复现论文C
 
 - [会议记录](../../TODOs.txt)，时间点与任务对应见[已核对清单](../iNKT_next_steps_review_20260905/next_steps.md)。本文档中的会议内容是任务证据，执行范围来自用户“先完成会议里交代的事项”。
 - [原PPT](../../input/iNKT/iNKT.pptx)，旧表提取及每页出处保留在PPT验证CSV的slide列。
-- [提供的Blood论文](../../docs/blooda_adv-2024-014592-main.pdf)；[官方全文](https://pmc.ncbi.nlm.nih.gov/articles/PMC11869968/)；[官方补充材料](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11869968/supplementaryFiles)，本地sources/含S1–S8原Excel与补充方法PDF。
+- [提供的Blood论文](../../docs/references/blooda_adv-2024-014592-main.pdf)；[官方全文](https://pmc.ncbi.nlm.nih.gov/articles/PMC11869968/)；[官方补充材料](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11869968/supplementaryFiles)，本地sources/含S1–S8原Excel与补充方法PDF。
 - [Dufva 2023 NK状态论文](https://www.sciencedirect.com/science/article/pii/S1074761323004909)；[Krovi 2020小鼠iNKT参考](https://www.nature.com/articles/s41467-020-20073-8)。用论文图中marker面板，不宣称使用完整作者分类器。
 - [scVelo官方输入与方法说明](https://scvelo.readthedocs.io/en/stable/VelocityBasics.html)：需要spliced/unspliced计数，速度计算及投射不同于表达UMAP。
 - [MGI同源映射](https://www.informatics.jax.org/downloads/reports/HOM_MouseHumanSequence.rpt)；Reactome官方API响应逐条冻结在sources/reactome_api/。
@@ -212,7 +212,7 @@ def manifest():
     files={str(p.relative_to(OUT)):sha256_file(p) for p in OUT.rglob('*') if p.is_file() and p.name not in ['manifest.json'] and not p.name.endswith('.log')}
     script_paths=set((ROOT/'notebooks/scripts/iNKT').glob('*meeting*.py'))|{ROOT/'notebooks/scripts/iNKT/run_inkt_c5_paper_followup.py',ROOT/'notebooks/scripts/iNKT/inkt_palette.py'}
     scripts={str(p.relative_to(ROOT)):sha256_file(p) for p in sorted(script_paths)}
-    external=[ROOT/'TODOs.txt',ROOT/'input/iNKT/iNKT.pptx',ROOT/'docs/blooda_adv-2024-014592-main.pdf',OLD/'legacy_ppt_de_tables_extracted.csv',OLD/'legacy_ppt_pathway_tables_extracted.csv',BASE/'tables/20260830_KEGG_2019_Mouse.gmt']
+    external=[ROOT/'TODOs.txt',ROOT/'input/iNKT/iNKT.pptx',ROOT/'docs/references/blooda_adv-2024-014592-main.pdf',OLD/'legacy_ppt_de_tables_extracted.csv',OLD/'legacy_ppt_pathway_tables_extracted.csv',BASE/'tables/20260830_KEGG_2019_Mouse.gmt']
     external_hashes={str(p.relative_to(ROOT)):sha256_file(p) for p in external}
     js(OUT/'manifest.json',{'created_UTC':time.strftime('%Y-%m-%dT%H:%M:%SZ',time.gmtime()),'source_input':str(INPUT),'source_sha256':sha256_file(INPUT),'versions':versions,'scripts_sha256':scripts,'external_inputs_sha256':external_hashes,'artifacts_sha256':files,'GPU_used':False})
     (OUT/'sources/analysis_environment_versions.txt').write_text('\n'.join(f'{k}=={v}' for k,v in versions.items())+'\n')
