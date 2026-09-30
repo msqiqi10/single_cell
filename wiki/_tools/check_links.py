@@ -35,7 +35,7 @@ def links_of(text):
 
 
 def main():
-    pages = {p.stem: p for p in WIKI.glob("*.md")}
+    pages = {p.stem: p for p in WIKI.glob("*.md") if p.stem != "README_PUBLISHING"}  # repo-only file, not a wiki page
     problems = 0
     graph = {}
     for name, p in pages.items():
