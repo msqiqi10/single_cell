@@ -1,0 +1,7 @@
+{
+  "semantic_cosine_test_auc": 0.9156663588796553,
+  "semantic_cosine_test_ap": 0.9213808088426567,
+  "split_seed": 42,
+  "negative_splits_disjoint": true,
+  "train_negative_excludes_all_true_edges_and_heldout_negatives": true
+}

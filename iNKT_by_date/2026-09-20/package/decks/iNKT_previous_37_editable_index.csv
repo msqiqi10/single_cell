@@ -1,0 +1,38 @@
+slide,section,source_page,title,text,table,image
+1,Main talk,old_01,iNKT: results in the reference presentation formats,6,1,0
+2,Main talk,old_02,"Material, dataset and QC",9,1,3
+3,Main talk,old_03,Clusters and tissue composition,8,0,3
+4,Main talk,old_04,"UMAP: 50, 100 and 200 principal components",5,0,1
+5,Main talk,old_05,iNKT1 marker program,10,0,11
+6,Main talk,old_06,iNKT2 marker program,12,0,15
+7,Main talk,old_07,iNKT17 marker program,11,0,11
+8,Main talk,old_08,Bone marrow: cluster and condition frequencies,8,0,2
+9,Main talk,old_09,Spleen: cluster and condition frequencies,8,0,2
+10,Main talk,old_10,Thymus: cluster and condition frequencies,8,0,2
+11,Main talk,old_11,T2 vs. Control DEGs: global,8,1,3
+12,Main talk,old_12,T2 vs. Control DEGs: BM,8,1,3
+13,Main talk,old_13,T2 vs. Control DEGs: Spl,8,1,3
+14,Main talk,old_14,T2 vs. Control DEGs: Thy,8,1,3
+15,Main talk,old_15,T2 vs. Control DEGs: C0 / BM,8,1,3
+16,Main talk,old_16,T2 vs. Control DEGs: C6 / Thy,8,1,3
+17,Main talk,old_17,T2 vs. Control DEGs: C5-1 / Spl,8,1,3
+18,Main talk,old_18,T2 vs. Control DEGs: C5-2 / BM,8,1,3
+19,Main talk,old_19,Pathways: C6 / Thy,6,1,0
+20,Main talk,old_20,Pathways: C0 / BM,6,1,0
+21,Main talk,old_21,Pathways: C5-1 / Spl,6,1,0
+22,Main talk,old_22,D  Differential expression: Control vs. Tumor,10,0,4
+23,Main talk,old_23,E  Paper pathways: C0 / BM,23,0,2
+24,Main talk,old_24,E  Paper pathways: C5-1 / Spl,23,0,2
+25,Main talk,old_25,E  Paper pathways: C6 / Thy,23,0,2
+26,Main talk,old_26,E  Current top pathways: C0 / BM,16,0,1
+27,Main talk,old_27,E  Current top pathways: C5-1 / Spl,16,0,1
+28,Main talk,old_28,E  Current top pathways: C6 / Thy,16,0,1
+29,Main talk,old_29,F  Shared T2-up genes across state × tissue,9,0,2
+30,Main talk,old_30,Batch sensitivity: show the actual UMAPs,9,0,3
+31,Main talk,old_31,Additional analysis: signed GSEA and heat-shock sensitivity,5,0,1
+32,Main talk,old_32,Additional analysis: reference NK state coverage,5,0,1
+33,Main talk,old_33,Additional analysis: bone marrow separately,5,0,1
+34,Main talk,old_34,IL-4 and CD94: condition-masked expression,5,0,1
+35,Main talk,old_35,Local information: bone marrow C4,5,0,1
+36,Main talk,old_36,Local information: spleen C3 CCT/TriC program,5,0,1
+37,Main talk,old_37,"What is comparable, and what remains different",5,1,0

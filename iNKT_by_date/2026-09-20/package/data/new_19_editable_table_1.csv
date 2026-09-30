@@ -1,0 +1,9 @@
+Contrast,Core delta,BH q (cell level),QC same direction,Control-score agrees,Max QC |SMD|
+Spl/C1,-0.131,0.059,NA,yes,NA
+BM/C2,-0.100,0.22,5/5,yes,0.17
+BM/C4,+0.086,0.025,5/5,yes,0.06
+Thy/C2,+0.067,0.49,4/5,yes,0.18
+Spl/C4,+0.061,0.3,5/5,yes,0.20
+Spl/C0,+0.059,0.46,4/5,yes,0.19
+Thy/C6,-0.049,0.4,5/5,yes,0.08
+Spl/C5-2,-0.035,0.34,NA,yes,NA

@@ -1,0 +1,102 @@
+[
+  {
+    "original_path": "output/iNKT_meeting_followup_20260905/tables/state_signature_coverage.csv",
+    "package_path": "data/previous_source_tables/output/iNKT_meeting_followup_20260905/tables/state_signature_coverage.csv",
+    "sha256": "0cea3acd5a4d8229578c963083086e792adbbce196a7226f3a663c20c2a12719"
+  },
+  {
+    "original_path": "output/iNKT_meeting_followup_20260905/tables/frequency_reconciliation_1.csv",
+    "package_path": "data/previous_source_tables/output/iNKT_meeting_followup_20260905/tables/frequency_reconciliation_1.csv",
+    "sha256": "24b8e9ba0d702053e2a590ff467894f284326d95324c6e60e836bfefb9764f38"
+  },
+  {
+    "original_path": "output/iNKT_meeting_followup_20260905/de/global.csv.gz",
+    "package_path": "data/previous_source_tables/output/iNKT_meeting_followup_20260905/de/global.csv.gz",
+    "sha256": "0163a6d10b0062633d2a0b552cbc0037d7796747e6b9e7b97aae79433f6aedcc"
+  },
+  {
+    "original_path": "output/iNKT_meeting_followup_20260905/de/tissue__bone_marrow.csv.gz",
+    "package_path": "data/previous_source_tables/output/iNKT_meeting_followup_20260905/de/tissue__bone_marrow.csv.gz",
+    "sha256": "9a08da8c87af913c1d331c86455892a12daa08ce3797ca09a33276f1a2aff05c"
+  },
+  {
+    "original_path": "output/iNKT_meeting_followup_20260905/de/tissue__spleen.csv.gz",
+    "package_path": "data/previous_source_tables/output/iNKT_meeting_followup_20260905/de/tissue__spleen.csv.gz",
+    "sha256": "c364dff69df1dc37cc027d551b1ece64b60110ff24e0c7ff99fbbb937b5e6e07"
+  },
+  {
+    "original_path": "output/iNKT_meeting_followup_20260905/de/tissue__thymus.csv.gz",
+    "package_path": "data/previous_source_tables/output/iNKT_meeting_followup_20260905/de/tissue__thymus.csv.gz",
+    "sha256": "440f8610b1bf247ea2ce4b1b6566668258851416c6fc7436bb60aaf3475e6d98"
+  },
+  {
+    "original_path": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C0__bone_marrow.csv.gz",
+    "package_path": "data/previous_source_tables/output/iNKT_meeting_followup_20260905/de/cluster_tissue__C0__bone_marrow.csv.gz",
+    "sha256": "21ca04e8e8c64e50bc0af24a25dc724342fb4ee1d4ca848ce4c47a4102932ac6"
+  },
+  {
+    "original_path": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C6__thymus.csv.gz",
+    "package_path": "data/previous_source_tables/output/iNKT_meeting_followup_20260905/de/cluster_tissue__C6__thymus.csv.gz",
+    "sha256": "15eaee83371e33b553637c9b245fd49d78de0363fb8bcf4847a731f6370ba8ad"
+  },
+  {
+    "original_path": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C5-1__spleen.csv.gz",
+    "package_path": "data/previous_source_tables/output/iNKT_meeting_followup_20260905/de/cluster_tissue__C5-1__spleen.csv.gz",
+    "sha256": "9af55b7fc6da85f8a016684d4cbc2740426e77c5f7ba7aa78d2275720d3930e1"
+  },
+  {
+    "original_path": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C5-2__bone_marrow.csv.gz",
+    "package_path": "data/previous_source_tables/output/iNKT_meeting_followup_20260905/de/cluster_tissue__C5-2__bone_marrow.csv.gz",
+    "sha256": "166b08ef75d51836905cf8e032780a437a2e82093c95931039606bec4c6f23c3"
+  },
+  {
+    "original_path": "output/iNKT_meeting_followup_20260905/tables/PPT_pathway_validation_every_row.csv",
+    "package_path": "data/previous_source_tables/output/iNKT_meeting_followup_20260905/tables/PPT_pathway_validation_every_row.csv",
+    "sha256": "291c7d1afc7043efe71165919580e631ee00efbb35b359054f83e76bd6c1aaee"
+  },
+  {
+    "original_path": "output/iNKT_meeting_followup_20260905/sources/Blood_TableS3.csv",
+    "package_path": "data/previous_source_tables/output/iNKT_meeting_followup_20260905/sources/Blood_TableS3.csv",
+    "sha256": "c4102b3ef6e128c9e2db991d749b6b87d9eba717cd4e8d14f150ec4e8f7ae8bc"
+  },
+  {
+    "original_path": "output/iNKT_meeting_followup_20260905/tables/Blood_TableS3_all48_pathway_validation.csv",
+    "package_path": "data/previous_source_tables/output/iNKT_meeting_followup_20260905/tables/Blood_TableS3_all48_pathway_validation.csv",
+    "sha256": "9a6914d05c9c224cbcf44c65497adebffa43b97754d751b905fb1a9e0cc673ad"
+  },
+  {
+    "original_path": "output/iNKT_meeting_followup_20260905/enrichment/cluster_tissue__C0__bone_marrow__full__KEGG_Mouse_2019__ORA_paper.csv.gz",
+    "package_path": "data/previous_source_tables/output/iNKT_meeting_followup_20260905/enrichment/cluster_tissue__C0__bone_marrow__full__KEGG_Mouse_2019__ORA_paper.csv.gz",
+    "sha256": "dc08a12621646fda3b4fb673a0da28393514446025c15c18692a124e7a59e7fc"
+  },
+  {
+    "original_path": "output/iNKT_meeting_followup_20260905/enrichment/cluster_tissue__C5-1__spleen__full__KEGG_Mouse_2019__ORA_paper.csv.gz",
+    "package_path": "data/previous_source_tables/output/iNKT_meeting_followup_20260905/enrichment/cluster_tissue__C5-1__spleen__full__KEGG_Mouse_2019__ORA_paper.csv.gz",
+    "sha256": "4dbaec063092795c4ac2358304aab17581efff1df8c8aac9982c8d7a222c2c97"
+  },
+  {
+    "original_path": "output/iNKT_meeting_followup_20260905/enrichment/cluster_tissue__C6__thymus__full__KEGG_Mouse_2019__ORA_paper.csv.gz",
+    "package_path": "data/previous_source_tables/output/iNKT_meeting_followup_20260905/enrichment/cluster_tissue__C6__thymus__full__KEGG_Mouse_2019__ORA_paper.csv.gz",
+    "sha256": "b17ddedb8f6f3741cebaf47765ca52241c991539e61c2ede0009b5a7c44c3a28"
+  },
+  {
+    "original_path": "output/iNKT_reproduction_deck/20260830_C5_paper_Fig3DEF_followup/tables/20260830_Fig3F_C5split_BM_Spleen_membership_paper.csv",
+    "package_path": "data/previous_source_tables/output/iNKT_reproduction_deck/20260830_C5_paper_Fig3DEF_followup/tables/20260830_Fig3F_C5split_BM_Spleen_membership_paper.csv",
+    "sha256": "42b21d96a6c743c82aa40eb72dba4a38b1e46a769e353418bff3c0f604a3e627"
+  },
+  {
+    "original_path": "output/iNKT_reproduction_deck/20260830_C5_paper_Fig3DEF_followup/tables/20260830_Fig3F_C5split_BM_Spleen_summary_paper.csv",
+    "package_path": "data/previous_source_tables/output/iNKT_reproduction_deck/20260830_C5_paper_Fig3DEF_followup/tables/20260830_Fig3F_C5split_BM_Spleen_summary_paper.csv",
+    "sha256": "87e077ffd399c705f511794ac652714fd7daf6e55767cb8f2cb2505afc9cce72"
+  },
+  {
+    "original_path": "output/iNKT_reproduction_deck/20260830_C5_paper_Fig3DEF_followup/tables/20260830_Fig3F_C5split_BM_Spleen_membership_robust.csv",
+    "package_path": "data/previous_source_tables/output/iNKT_reproduction_deck/20260830_C5_paper_Fig3DEF_followup/tables/20260830_Fig3F_C5split_BM_Spleen_membership_robust.csv",
+    "sha256": "cf9f7f3381ae9ba17a52b1b2668da540eefdb2e56cee2d99963c938516ec3260"
+  },
+  {
+    "original_path": "output/iNKT_reproduction_deck/20260830_C5_paper_Fig3DEF_followup/tables/20260830_Fig3F_C5split_BM_Spleen_summary_robust.csv",
+    "package_path": "data/previous_source_tables/output/iNKT_reproduction_deck/20260830_C5_paper_Fig3DEF_followup/tables/20260830_Fig3F_C5split_BM_Spleen_summary_robust.csv",
+    "sha256": "c67e2e9a8713463f3bf3cc54ba8b2d3ee1f9d6ebc0cc6f37053766a4a8f1b1eb"
+  }
+]

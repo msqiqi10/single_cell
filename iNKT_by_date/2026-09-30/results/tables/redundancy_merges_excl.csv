@@ -1,0 +1,29 @@
+representative,representative_term,merged_term_id,merged_term,jaccard,merged_source
+GO:0009060,aerobic respiration,GO:0045333,cellular respiration,0.8594594594594595,GO BP
+GO:0015980,energy derivation by oxidation of organic compounds,GO:0006091,generation of precursor metabolites and energy,0.8871595330739299,GO BP
+GO:0015986,proton motive force-driven ATP synthesis,GO:0042776,proton motive force-driven mitochondrial ATP synthesis,0.9310344827586207,GO BP
+GO:0015986,proton motive force-driven ATP synthesis,GO:0006754,ATP biosynthetic process,0.8529411764705882,GO BP
+GO:0015986,proton motive force-driven ATP synthesis,GO:0009206,purine ribonucleoside triphosphate biosynthetic process,0.7532467532467533,GO BP
+GO:0009145,purine nucleoside triphosphate biosynthetic process,GO:0009142,nucleoside triphosphate biosynthetic process,0.8953488372093024,GO BP
+GO:0009145,purine nucleoside triphosphate biosynthetic process,GO:0009201,ribonucleoside triphosphate biosynthetic process,0.8953488372093024,GO BP
+GO:0009145,purine nucleoside triphosphate biosynthetic process,GO:0009152,purine ribonucleotide biosynthetic process,0.7572815533980582,GO BP
+GO:0046034,ATP metabolic process,GO:0009205,purine ribonucleoside triphosphate metabolic process,0.8611111111111112,GO BP
+GO:0046034,ATP metabolic process,GO:0009144,purine nucleoside triphosphate metabolic process,0.8157894736842105,GO BP
+GO:0046034,ATP metabolic process,GO:0009141,nucleoside triphosphate metabolic process,0.8051948051948052,GO BP
+GO:0009260,ribonucleotide biosynthetic process,GO:0046390,ribose phosphate biosynthetic process,0.9504132231404959,GO BP
+GO:0009260,ribonucleotide biosynthetic process,GO:0006164,purine nucleotide biosynthetic process,0.7591240875912408,GO BP
+GO:0009260,ribonucleotide biosynthetic process,GO:0009165,nucleotide biosynthetic process,0.7516339869281046,GO BP
+GO:0009150,purine ribonucleotide metabolic process,GO:0009259,ribonucleotide metabolic process,0.926829268292683,GO BP
+GO:0009150,purine ribonucleotide metabolic process,GO:0019693,ribose phosphate metabolic process,0.8962264150943396,GO BP
+GO:0009150,purine ribonucleotide metabolic process,GO:0006163,purine nucleotide metabolic process,0.7755102040816326,GO BP
+GO:0022900,electron transport chain,GO:0022904,respiratory electron transport chain,0.9054054054054054,GO BP
+GO:0042773,ATP synthesis coupled electron transport,GO:0042775,mitochondrial ATP synthesis coupled electron transport,1.0,GO BP
+GO:0042773,ATP synthesis coupled electron transport,GO:0019646,aerobic electron transport chain,0.8627450980392157,GO BP
+GO:0008535,respiratory chain complex IV assembly,GO:0033617,mitochondrial respiratory chain complex IV assembly,0.9333333333333333,GO BP
+GO:0006753,nucleoside phosphate metabolic process,GO:0072521,purine-containing compound metabolic process,0.7858880778588808,GO BP
+GO:0006753,nucleoside phosphate metabolic process,GO:0055086,nucleobase-containing small molecule metabolic process,0.9399038461538461,GO BP
+GO:0046933,"proton-transporting ATP synthase activity, rotational mechanism",GO:0015252,proton channel activity,0.75,GO MF
+GO:0030548,acetylcholine receptor regulator activity,GO:0099602,neurotransmitter receptor regulator activity,0.875,GO MF
+GO:0005525,GTP binding,GO:0019001,guanyl nucleotide binding,0.912,GO MF
+GO:0005525,GTP binding,GO:0032561,guanyl ribonucleotide binding,0.9344262295081968,GO MF
+GO:0001653,peptide receptor activity,GO:0008528,G protein-coupled peptide receptor activity,0.9411764705882353,GO MF

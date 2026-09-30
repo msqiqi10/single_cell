@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1152pt" height="648pt" viewBox="0 0 1152 648" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-19T11:22:01.264426</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 648 
+L 1152 648 
+L 1152 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="table_1">
+    <g id="patch_2">
+     <path d="M 46.08 195.48 
+L 205.056 195.48 
+L 205.056 136.08 
+L 46.08 136.08 
+z
+" style="fill: #eef1f4; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_1">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="61.9776" y="168.378047" transform="rotate(-0 61.9776 168.378047)">Analysis</text>
+    </g>
+    <g id="patch_3">
+     <path d="M 205.056 195.48 
+L 364.032 195.48 
+L 364.032 136.08 
+L 205.056 136.08 
+z
+" style="fill: #eef1f4; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_2">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="220.9536" y="168.378047" transform="rotate(-0 220.9536 168.378047)">Reference</text>
+    </g>
+    <g id="patch_4">
+     <path d="M 364.032 195.48 
+L 713.7792 195.48 
+L 713.7792 136.08 
+L 364.032 136.08 
+z
+" style="fill: #eef1f4; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_3">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="399.00672" y="168.378047" transform="rotate(-0 399.00672 168.378047)">Input / definition</text>
+    </g>
+    <g id="patch_5">
+     <path d="M 713.7792 195.48 
+L 1105.92 195.48 
+L 1105.92 136.08 
+L 713.7792 136.08 
+z
+" style="fill: #eef1f4; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_4">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="752.99328" y="168.378047" transform="rotate(-0 752.99328 168.378047)">Implementation</text>
+    </g>
+    <g id="patch_6">
+     <path d="M 46.08 254.88 
+L 205.056 254.88 
+L 205.056 195.48 
+L 46.08 195.48 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_5">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="61.9776" y="227.778047" transform="rotate(-0 61.9776 227.778047)">Cytotoxicity</text>
+    </g>
+    <g id="patch_7">
+     <path d="M 205.056 254.88 
+L 364.032 254.88 
+L 364.032 195.48 
+L 205.056 195.48 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="220.9536" y="227.778047" transform="rotate(-0 220.9536 227.778047)">PAGER Fig. 5C/D</text>
+    </g>
+    <g id="patch_8">
+     <path d="M 364.032 254.88 
+L 713.7792 254.88 
+L 713.7792 195.48 
+L 364.032 195.48 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="399.00672" y="227.778047" transform="rotate(-0 399.00672 227.778047)">Core: Prf1, Gzma, Gzmb; E1: +Ctla2a</text>
+    </g>
+    <g id="patch_9">
+     <path d="M 713.7792 254.88 
+L 1105.92 254.88 
+L 1105.92 195.48 
+L 713.7792 195.48 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_8">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="752.99328" y="227.778047" transform="rotate(-0 752.99328 227.778047)">Mean log1p expression; matched-control score sensitivity</text>
+    </g>
+    <g id="patch_10">
+     <path d="M 46.08 314.28 
+L 205.056 314.28 
+L 205.056 254.88 
+L 46.08 254.88 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="61.9776" y="287.178047" transform="rotate(-0 61.9776 287.178047)">GO cluster identity</text>
+    </g>
+    <g id="patch_11">
+     <path d="M 205.056 314.28 
+L 364.032 314.28 
+L 364.032 254.88 
+L 205.056 254.88 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="220.9536" y="287.178047" transform="rotate(-0 220.9536 287.178047)">GAFA Fig. 4c</text>
+    </g>
+    <g id="patch_12">
+     <path d="M 364.032 314.28 
+L 713.7792 314.28 
+L 713.7792 254.88 
+L 364.032 254.88 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_11">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="399.00672" y="287.178047" transform="rotate(-0 399.00672 287.178047)">Cluster vs rest within each tissue</text>
+    </g>
+    <g id="patch_13">
+     <path d="M 713.7792 314.28 
+L 1105.92 314.28 
+L 1105.92 254.88 
+L 713.7792 254.88 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_12">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="752.99328" y="287.178047" transform="rotate(-0 752.99328 287.178047)">Wilcoxon, gene BH &lt;= .05 and log2FC &gt;= .25</text>
+    </g>
+    <g id="patch_14">
+     <path d="M 46.08 373.68 
+L 205.056 373.68 
+L 205.056 314.28 
+L 46.08 314.28 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_13">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="61.9776" y="346.577656" transform="rotate(-0 61.9776 346.577656)">GO treatment response</text>
+    </g>
+    <g id="patch_15">
+     <path d="M 205.056 373.68 
+L 364.032 373.68 
+L 364.032 314.28 
+L 205.056 314.28 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_14">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="220.9536" y="346.578047" transform="rotate(-0 220.9536 346.578047)">GAFA functional comparison</text>
+    </g>
+    <g id="patch_16">
+     <path d="M 364.032 373.68 
+L 713.7792 373.68 
+L 713.7792 314.28 
+L 364.032 314.28 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_15">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="399.00672" y="346.578047" transform="rotate(-0 399.00672 346.578047)">T2-up and Ctrl-up genes tested separately</text>
+    </g>
+    <g id="patch_17">
+     <path d="M 713.7792 373.68 
+L 1105.92 373.68 
+L 1105.92 314.28 
+L 713.7792 314.28 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_16">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="752.99328" y="346.578047" transform="rotate(-0 752.99328 346.578047)">Hypergeometric; full eligible GO BP/MF/CC families</text>
+    </g>
+    <g id="patch_18">
+     <path d="M 46.08 433.08 
+L 205.056 433.08 
+L 205.056 373.68 
+L 46.08 373.68 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_17">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="61.9776" y="405.978047" transform="rotate(-0 61.9776 405.978047)">Local trajectories</text>
+    </g>
+    <g id="patch_19">
+     <path d="M 205.056 433.08 
+L 364.032 433.08 
+L 364.032 373.68 
+L 205.056 373.68 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_18">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="220.9536" y="405.978047" transform="rotate(-0 220.9536 405.978047)">PAGER Fig. 5D</text>
+    </g>
+    <g id="patch_20">
+     <path d="M 364.032 433.08 
+L 713.7792 433.08 
+L 713.7792 373.68 
+L 364.032 373.68 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_19">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="399.00672" y="405.978047" transform="rotate(-0 399.00672 405.978047)">Recompute diffusion map on tissue-specific graphs</text>
+    </g>
+    <g id="patch_21">
+     <path d="M 713.7792 433.08 
+L 1105.92 433.08 
+L 1105.92 373.68 
+L 713.7792 373.68 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_20">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="752.99328" y="405.978047" transform="rotate(-0 752.99328 405.978047)">Precursor-rooted DPT; 20 shared bins; 3-root sensitivity</text>
+    </g>
+    <g id="patch_22">
+     <path d="M 46.08 492.48 
+L 205.056 492.48 
+L 205.056 433.08 
+L 46.08 433.08 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_21">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="61.9776" y="465.378047" transform="rotate(-0 61.9776 465.378047)">Robustness</text>
+    </g>
+    <g id="patch_23">
+     <path d="M 205.056 492.48 
+L 364.032 492.48 
+L 364.032 433.08 
+L 205.056 433.08 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_22">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="220.9536" y="465.378047" transform="rotate(-0 220.9536 465.378047)">Adaptation to this dataset</text>
+    </g>
+    <g id="patch_24">
+     <path d="M 364.032 492.48 
+L 713.7792 492.48 
+L 713.7792 433.08 
+L 364.032 433.08 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_23">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="399.00672" y="465.378047" transform="rotate(-0 399.00672 465.378047)">Stable clusters; five QC-matched resamples</text>
+    </g>
+    <g id="patch_25">
+     <path d="M 713.7792 492.48 
+L 1105.92 492.48 
+L 1105.92 433.08 
+L 713.7792 433.08 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_24">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="752.99328" y="465.378047" transform="rotate(-0 752.99328 465.378047)">Effects and direction consistency; no animal replication</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_25">
+   <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: start" x="40.32" y="46.636406" transform="rotate(-0 40.32 46.636406)">Analysis design and reference mapping</text>
+  </g>
+  <g id="text_26">
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #444444" x="40.32" y="73.918125" transform="rotate(-0 40.32 73.918125)">Methods adapted to mouse iNKT; biological conclusions are derived from these data.</text>
+  </g>
+  <g id="text_27">
+   <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="40.32" y="613.098516" transform="rotate(-0 40.32 613.098516)">Exploratory transcriptional results; one sample label per tissue x condition; no animal-level inference.</text>
+  </g>
+  <g id="text_28">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="40.32" y="632.448" transform="rotate(-0 40.32 632.448)">Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135; Borra et al. 2026, GAFA, Sec. 3.5 / Fig. 4c; doi:10.3390/biology15070588</text>
+  </g>
+  <g id="text_29">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end" x="1111.68" y="632.448" transform="rotate(-0 1111.68 632.448)">2</text>
+  </g>
+  <g id="text_30">
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="57.6" y="550.8" transform="rotate(-0 57.6 550.8)">GO uses official mouse annotations. An enrichment of upregulated genes does not prove pathway activation.</text>
+  </g>
+ </g>
+</svg>

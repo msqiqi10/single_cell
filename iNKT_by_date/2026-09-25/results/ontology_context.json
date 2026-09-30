@@ -1,0 +1,10 @@
+{
+  "ontology_paths": 308,
+  "prior_bridges": 236,
+  "relations": [
+    "is_a",
+    "part_of"
+  ],
+  "graph_acyclic": true,
+  "scope": "Separate explanatory layers, not added to or used to retrain the Jaccard GNN"
+}

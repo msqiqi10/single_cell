@@ -1,0 +1,48 @@
+representative,representative_term,merged_term_id,merged_term,jaccard,merged_source
+GO:0009060,aerobic respiration,GO:0045333,cellular respiration,0.8693467336683417,GO BP
+GO:0003735,structural constituent of ribosome,KEGG:Ribosome,Ribosome,0.782608695652174,KEGG
+GO:0015980,energy derivation by oxidation of organic compounds,GO:0006091,generation of precursor metabolites and energy,0.8929889298892989,GO BP
+GO:0140236,translation at presynapse,GO:0140241,translation at synapse,0.9791666666666666,GO BP
+GO:0140236,translation at presynapse,GO:0140242,translation at postsynapse,0.9791666666666666,GO BP
+GO:0015986,proton motive force-driven ATP synthesis,GO:0042776,proton motive force-driven mitochondrial ATP synthesis,0.9402985074626866,GO BP
+GO:0015986,proton motive force-driven ATP synthesis,GO:0006754,ATP biosynthetic process,0.8701298701298701,GO BP
+GO:0015986,proton motive force-driven ATP synthesis,GO:0009206,purine ribonucleoside triphosphate biosynthetic process,0.7790697674418605,GO BP
+GO:0015986,proton motive force-driven ATP synthesis,GO:0009145,purine nucleoside triphosphate biosynthetic process,0.7701149425287356,GO BP
+GO:1901740,negative regulation of myoblast fusion,GO:0034242,negative regulation of syncytium formation by plasma membrane fusion,0.9791666666666666,GO BP
+GO:1901740,negative regulation of myoblast fusion,GO:1901739,regulation of myoblast fusion,0.8103448275862069,GO BP
+GO:0006941,striated muscle contraction,GO:0006936,muscle contraction,0.7657657657657657,GO BP
+GO:0006412,translation,GO:0160307,protein biosynthetic process,1.0,GO BP
+GO:0046034,ATP metabolic process,GO:0009205,purine ribonucleoside triphosphate metabolic process,0.8717948717948718,GO BP
+GO:0046034,ATP metabolic process,GO:0009144,purine nucleoside triphosphate metabolic process,0.8292682926829268,GO BP
+GO:0046034,ATP metabolic process,GO:0009141,nucleoside triphosphate metabolic process,0.8192771084337349,GO BP
+GO:0009142,nucleoside triphosphate biosynthetic process,GO:0009201,ribonucleoside triphosphate biosynthetic process,1.0,GO BP
+GO:0009142,nucleoside triphosphate biosynthetic process,GO:0009260,ribonucleotide biosynthetic process,0.7580645161290323,GO BP
+GO:0009152,purine ribonucleotide biosynthetic process,GO:0046390,ribose phosphate biosynthetic process,0.8615384615384616,GO BP
+GO:0009152,purine ribonucleotide biosynthetic process,GO:0006164,purine nucleotide biosynthetic process,0.8296296296296296,GO BP
+GO:0042775,mitochondrial ATP synthesis coupled electron transport,GO:0042773,ATP synthesis coupled electron transport,0.9666666666666667,GO BP
+GO:0042775,mitochondrial ATP synthesis coupled electron transport,GO:0019646,aerobic electron transport chain,0.8813559322033898,GO BP
+GO:0009150,purine ribonucleotide metabolic process,GO:0009259,ribonucleotide metabolic process,0.9308755760368663,GO BP
+GO:0009150,purine ribonucleotide metabolic process,GO:0019693,ribose phosphate metabolic process,0.9017857142857143,GO BP
+GO:0009150,purine ribonucleotide metabolic process,GO:0006163,purine nucleotide metabolic process,0.7859922178988327,GO BP
+GO:0022900,electron transport chain,GO:0022904,respiratory electron transport chain,0.9176470588235294,GO BP
+GO:0072522,purine-containing compound biosynthetic process,GO:1901293,nucleoside phosphate biosynthetic process,0.7586206896551724,GO BP
+GO:0007283,spermatogenesis,GO:0048232,male gamete generation,0.9736070381231672,GO BP
+GO:0007283,spermatogenesis,GO:0007276,gamete generation,0.772093023255814,GO BP
+GO:0006753,nucleoside phosphate metabolic process,GO:0072521,purine-containing compound metabolic process,0.7919621749408984,GO BP
+GO:0006753,nucleoside phosphate metabolic process,GO:0055086,nucleobase-containing small molecule metabolic process,0.9415887850467289,GO BP
+GO:0008535,respiratory chain complex IV assembly,GO:0033617,mitochondrial respiratory chain complex IV assembly,0.9032258064516129,GO BP
+GO:0015078,proton transmembrane transporter activity,GO:1902600,proton transmembrane transport,0.8504672897196262,GO BP
+GO:0030548,acetylcholine receptor regulator activity,GO:0099602,neurotransmitter receptor regulator activity,0.875,GO MF
+GO:0046933,"proton-transporting ATP synthase activity, rotational mechanism",GO:0015252,proton channel activity,0.7777777777777778,GO MF
+GO:0010257,NADH dehydrogenase complex assembly,GO:0032981,mitochondrial respiratory chain complex I assembly,1.0,GO BP
+GO:0008137,NADH dehydrogenase (ubiquinone) activity,GO:0003954,NADH dehydrogenase activity,0.782608695652174,GO MF
+GO:0019730,antimicrobial humoral response,GO:0061844,antimicrobial humoral immune response mediated by antimicrobial peptide,0.7878787878787878,GO BP
+GO:0006364,rRNA processing,GO:0016072,rRNA metabolic process,0.8767772511848341,GO BP
+GO:0015075,monoatomic ion transmembrane transporter activity,GO:0034220,monoatomic ion transmembrane transport,0.7755102040816326,GO BP
+GO:0015075,monoatomic ion transmembrane transporter activity,GO:0008324,monoatomic cation transmembrane transporter activity,0.8571428571428571,GO MF
+GO:0005525,GTP binding,GO:0019001,guanyl nucleotide binding,0.9130434782608695,GO MF
+GO:0005525,GTP binding,GO:0032561,guanyl ribonucleotide binding,0.9352226720647774,GO MF
+GO:0046661,male sex differentiation,GO:0008584,male gonad development,0.8904109589041096,GO BP
+GO:0046661,male sex differentiation,GO:0046546,development of primary male sexual characteristics,0.8904109589041096,GO BP
+GO:0095500,acetylcholine receptor signaling pathway,GO:1905145,cellular response to acetylcholine,0.9090909090909091,GO BP
+GO:0016887,ATP hydrolysis activity,GO:0140657,ATP-dependent activity,0.7572815533980582,GO MF

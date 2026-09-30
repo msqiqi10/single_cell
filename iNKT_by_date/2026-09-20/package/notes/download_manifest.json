@@ -1,0 +1,14 @@
+{
+  "go-basic.obo": {
+    "url": "https://current.geneontology.org/ontology/go-basic.obo",
+    "sha256": "b08d45b268b8c24ccb2513dbbbc7d4df9f6521c099b413f79eb31e06e0fa3bcc",
+    "bytes": 32227785,
+    "retrieved_utc": "2026-09-19T11:06:06.627493+00:00"
+  },
+  "mgi.gaf.gz": {
+    "url": "https://current.geneontology.org/annotations/mgi.gaf.gz",
+    "sha256": "9b7613f786f9f805531a8f6768f310220d28c82095f938e1212c86f39596ce30",
+    "bytes": 14020707,
+    "retrieved_utc": "2026-09-19T11:06:07.091400+00:00"
+  }
+}

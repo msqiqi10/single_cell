@@ -1,0 +1,143 @@
+source_page,panel_index,panel_file,svg_file,origin,original_image,source_reference
+old_02,10,assets/panels/old_02_panel_02.png,assets/panels/old_02_panel_02.svg,individual_matplotlib_axes,,"Original iNKT deck, slide 2; current object: 20260905 scored_base.h5ad."
+old_02,11,assets/panels/old_02_panel_03.png,assets/panels/old_02_panel_03.svg,individual_matplotlib_axes,,"Original iNKT deck, slide 2; current object: 20260905 scored_base.h5ad."
+old_02,12,assets/panels/old_02_panel_04.png,assets/panels/old_02_panel_04.svg,individual_matplotlib_axes,,"Original iNKT deck, slide 2; current object: 20260905 scored_base.h5ad."
+old_03,8,assets/panels/old_03_panel_01.png,assets/panels/old_03_panel_01.svg,individual_matplotlib_axes,,"Original iNKT slides 4–5/12; Blood Fig. 3B is t-SNE/K-means, so axes and labels are not copied."
+old_03,9,assets/panels/old_03_panel_02.png,assets/panels/old_03_panel_02.svg,individual_matplotlib_axes,,"Original iNKT slides 4–5/12; Blood Fig. 3B is t-SNE/K-means, so axes and labels are not copied."
+old_03,10,assets/panels/old_03_panel_03.png,assets/panels/old_03_panel_03.svg,individual_matplotlib_axes,,"Original iNKT slides 4–5/12; Blood Fig. 3B is t-SNE/K-means, so axes and labels are not copied."
+old_04,5,assets/panels/old_04_panel_01.png,,original_image_file,output/iNKT_reproduction_deck/20260825_UMAP_PC_sweep/umap_pc_sweep/figures/umap_pc_sweep_tissue_cluster.png,Original iNKT slide 4; frozen 20260825 PC-sweep result.
+old_05,10,assets/panels/old_05_panel_01.png,assets/panels/old_05_panel_01.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_05,11,assets/panels/old_05_panel_02.png,assets/panels/old_05_panel_02.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_05,12,assets/panels/old_05_panel_03.png,assets/panels/old_05_panel_03.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_05,13,assets/panels/old_05_panel_04.png,assets/panels/old_05_panel_04.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_05,14,assets/panels/old_05_panel_05.png,assets/panels/old_05_panel_05.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_05,15,assets/panels/old_05_panel_06.png,assets/panels/old_05_panel_06.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_05,16,assets/panels/old_05_panel_07.png,assets/panels/old_05_panel_07.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_05,17,assets/panels/old_05_panel_08.png,assets/panels/old_05_panel_08.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_05,18,assets/panels/old_05_panel_09.png,assets/panels/old_05_panel_09.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_05,19,assets/panels/old_05_panel_10.png,assets/panels/old_05_panel_10.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_05,20,assets/panels/old_05_panel_11.png,assets/panels/old_05_panel_11.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_06,12,assets/panels/old_06_panel_01.png,assets/panels/old_06_panel_01.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_06,13,assets/panels/old_06_panel_02.png,assets/panels/old_06_panel_02.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_06,14,assets/panels/old_06_panel_03.png,assets/panels/old_06_panel_03.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_06,15,assets/panels/old_06_panel_04.png,assets/panels/old_06_panel_04.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_06,16,assets/panels/old_06_panel_05.png,assets/panels/old_06_panel_05.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_06,17,assets/panels/old_06_panel_06.png,assets/panels/old_06_panel_06.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_06,18,assets/panels/old_06_panel_07.png,assets/panels/old_06_panel_07.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_06,19,assets/panels/old_06_panel_08.png,assets/panels/old_06_panel_08.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_06,20,assets/panels/old_06_panel_09.png,assets/panels/old_06_panel_09.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_06,21,assets/panels/old_06_panel_10.png,assets/panels/old_06_panel_10.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_06,22,assets/panels/old_06_panel_11.png,assets/panels/old_06_panel_11.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_06,23,assets/panels/old_06_panel_12.png,assets/panels/old_06_panel_12.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_06,24,assets/panels/old_06_panel_13.png,assets/panels/old_06_panel_13.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_06,25,assets/panels/old_06_panel_14.png,assets/panels/old_06_panel_14.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_06,26,assets/panels/old_06_panel_15.png,assets/panels/old_06_panel_15.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_07,11,assets/panels/old_07_panel_01.png,assets/panels/old_07_panel_01.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_07,12,assets/panels/old_07_panel_02.png,assets/panels/old_07_panel_02.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_07,13,assets/panels/old_07_panel_03.png,assets/panels/old_07_panel_03.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_07,14,assets/panels/old_07_panel_04.png,assets/panels/old_07_panel_04.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_07,15,assets/panels/old_07_panel_05.png,assets/panels/old_07_panel_05.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_07,16,assets/panels/old_07_panel_06.png,assets/panels/old_07_panel_06.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_07,17,assets/panels/old_07_panel_07.png,assets/panels/old_07_panel_07.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_07,18,assets/panels/old_07_panel_08.png,assets/panels/old_07_panel_08.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_07,19,assets/panels/old_07_panel_09.png,assets/panels/old_07_panel_09.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_07,20,assets/panels/old_07_panel_10.png,assets/panels/old_07_panel_10.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_07,21,assets/panels/old_07_panel_11.png,assets/panels/old_07_panel_11.svg,individual_matplotlib_axes,,Original iNKT slides 6–8; marker panel and saved continuous scores from the 20260905 state analysis.
+old_08,8,assets/panels/old_08_panel_01.png,assets/panels/old_08_panel_01.svg,individual_matplotlib_axes,,Blood Fig. 3C; saved 20260905 frequency_reconciliation_1.csv.
+old_08,9,assets/panels/old_08_panel_02.png,assets/panels/old_08_panel_02.svg,individual_matplotlib_axes,,Blood Fig. 3C; saved 20260905 frequency_reconciliation_1.csv.
+old_09,8,assets/panels/old_09_panel_01.png,assets/panels/old_09_panel_01.svg,individual_matplotlib_axes,,Blood Fig. 3C; saved 20260905 frequency_reconciliation_1.csv.
+old_09,9,assets/panels/old_09_panel_02.png,assets/panels/old_09_panel_02.svg,individual_matplotlib_axes,,Blood Fig. 3C; saved 20260905 frequency_reconciliation_1.csv.
+old_10,8,assets/panels/old_10_panel_01.png,assets/panels/old_10_panel_01.svg,individual_matplotlib_axes,,Blood Fig. 3C; saved 20260905 frequency_reconciliation_1.csv.
+old_10,9,assets/panels/old_10_panel_02.png,assets/panels/old_10_panel_02.svg,individual_matplotlib_axes,,Blood Fig. 3C; saved 20260905 frequency_reconciliation_1.csv.
+old_11,9,assets/panels/old_11_panel_01.png,assets/panels/old_11_panel_01.svg,individual_matplotlib_axes,,Original iNKT slide 10; current 20260905 DE.
+old_11,10,assets/panels/old_11_panel_02.png,assets/panels/old_11_panel_02.svg,individual_matplotlib_axes,,Original iNKT slide 10; current 20260905 DE.
+old_11,11,assets/panels/old_11_panel_03.png,assets/panels/old_11_panel_03.svg,individual_matplotlib_axes,,Original iNKT slide 10; current 20260905 DE.
+old_12,9,assets/panels/old_12_panel_01.png,assets/panels/old_12_panel_01.svg,individual_matplotlib_axes,,Original iNKT slide 11; current 20260905 DE.
+old_12,10,assets/panels/old_12_panel_02.png,assets/panels/old_12_panel_02.svg,individual_matplotlib_axes,,Original iNKT slide 11; current 20260905 DE.
+old_12,11,assets/panels/old_12_panel_03.png,assets/panels/old_12_panel_03.svg,individual_matplotlib_axes,,Original iNKT slide 11; current 20260905 DE.
+old_13,9,assets/panels/old_13_panel_01.png,assets/panels/old_13_panel_01.svg,individual_matplotlib_axes,,Original iNKT slide 11; current 20260905 DE.
+old_13,10,assets/panels/old_13_panel_02.png,assets/panels/old_13_panel_02.svg,individual_matplotlib_axes,,Original iNKT slide 11; current 20260905 DE.
+old_13,11,assets/panels/old_13_panel_03.png,assets/panels/old_13_panel_03.svg,individual_matplotlib_axes,,Original iNKT slide 11; current 20260905 DE.
+old_14,9,assets/panels/old_14_panel_01.png,assets/panels/old_14_panel_01.svg,individual_matplotlib_axes,,Original iNKT slide 11; current 20260905 DE.
+old_14,10,assets/panels/old_14_panel_02.png,assets/panels/old_14_panel_02.svg,individual_matplotlib_axes,,Original iNKT slide 11; current 20260905 DE.
+old_14,11,assets/panels/old_14_panel_03.png,assets/panels/old_14_panel_03.svg,individual_matplotlib_axes,,Original iNKT slide 11; current 20260905 DE.
+old_15,9,assets/panels/old_15_panel_01.png,assets/panels/old_15_panel_01.svg,individual_matplotlib_axes,,Original iNKT slide 17 layout; current BM C0; current 20260905 DE.
+old_15,10,assets/panels/old_15_panel_02.png,assets/panels/old_15_panel_02.svg,individual_matplotlib_axes,,Original iNKT slide 17 layout; current BM C0; current 20260905 DE.
+old_15,11,assets/panels/old_15_panel_03.png,assets/panels/old_15_panel_03.svg,individual_matplotlib_axes,,Original iNKT slide 17 layout; current BM C0; current 20260905 DE.
+old_16,9,assets/panels/old_16_panel_01.png,assets/panels/old_16_panel_01.svg,individual_matplotlib_axes,,Original iNKT slide 13 layout; current Thy C6; current 20260905 DE.
+old_16,10,assets/panels/old_16_panel_02.png,assets/panels/old_16_panel_02.svg,individual_matplotlib_axes,,Original iNKT slide 13 layout; current Thy C6; current 20260905 DE.
+old_16,11,assets/panels/old_16_panel_03.png,assets/panels/old_16_panel_03.svg,individual_matplotlib_axes,,Original iNKT slide 13 layout; current Thy C6; current 20260905 DE.
+old_17,9,assets/panels/old_17_panel_01.png,assets/panels/old_17_panel_01.svg,individual_matplotlib_axes,,Original iNKT slide 19 layout; current Spl C5-1; current 20260905 DE.
+old_17,10,assets/panels/old_17_panel_02.png,assets/panels/old_17_panel_02.svg,individual_matplotlib_axes,,Original iNKT slide 19 layout; current Spl C5-1; current 20260905 DE.
+old_17,11,assets/panels/old_17_panel_03.png,assets/panels/old_17_panel_03.svg,individual_matplotlib_axes,,Original iNKT slide 19 layout; current Spl C5-1; current 20260905 DE.
+old_18,9,assets/panels/old_18_panel_01.png,assets/panels/old_18_panel_01.svg,individual_matplotlib_axes,,Original iNKT cluster-DE layout; current BM C5-2; current 20260905 DE.
+old_18,10,assets/panels/old_18_panel_02.png,assets/panels/old_18_panel_02.svg,individual_matplotlib_axes,,Original iNKT cluster-DE layout; current BM C5-2; current 20260905 DE.
+old_18,11,assets/panels/old_18_panel_03.png,assets/panels/old_18_panel_03.svg,individual_matplotlib_axes,,Original iNKT cluster-DE layout; current BM C5-2; current 20260905 DE.
+old_22,10,assets/panels/old_22_panel_01.png,assets/panels/old_22_panel_01.svg,individual_matplotlib_axes,,Blood Fig. 3D; current DE tables (20260905). Paper combines K1+K2; these panels do not claim that population equivalence.
+old_22,11,assets/panels/old_22_panel_02.png,assets/panels/old_22_panel_02.svg,individual_matplotlib_axes,,Blood Fig. 3D; current DE tables (20260905). Paper combines K1+K2; these panels do not claim that population equivalence.
+old_22,12,assets/panels/old_22_panel_03.png,assets/panels/old_22_panel_03.svg,individual_matplotlib_axes,,Blood Fig. 3D; current DE tables (20260905). Paper combines K1+K2; these panels do not claim that population equivalence.
+old_22,13,assets/panels/old_22_panel_04.png,assets/panels/old_22_panel_04.svg,individual_matplotlib_axes,,Blood Fig. 3D; current DE tables (20260905). Paper combines K1+K2; these panels do not claim that population equivalence.
+old_23,5,assets/panels/old_23_panel_01.png,assets/panels/old_23_panel_01.svg,individual_matplotlib_axes,,"Blood Fig. 3E/Table S3; our ORA: nominal DEG P ≤ 0.05, linear FC ≥ 1.5; frozen KEGG_2019_Mouse."
+old_23,24,assets/panels/old_23_panel_03.png,assets/panels/old_23_panel_03.svg,individual_matplotlib_axes,,"Blood Fig. 3E/Table S3; our ORA: nominal DEG P ≤ 0.05, linear FC ≥ 1.5; frozen KEGG_2019_Mouse."
+old_24,5,assets/panels/old_24_panel_01.png,assets/panels/old_24_panel_01.svg,individual_matplotlib_axes,,"Blood Fig. 3E/Table S3; our ORA: nominal DEG P ≤ 0.05, linear FC ≥ 1.5; frozen KEGG_2019_Mouse."
+old_24,24,assets/panels/old_24_panel_03.png,assets/panels/old_24_panel_03.svg,individual_matplotlib_axes,,"Blood Fig. 3E/Table S3; our ORA: nominal DEG P ≤ 0.05, linear FC ≥ 1.5; frozen KEGG_2019_Mouse."
+old_25,5,assets/panels/old_25_panel_01.png,assets/panels/old_25_panel_01.svg,individual_matplotlib_axes,,"Blood Fig. 3E/Table S3; our ORA: nominal DEG P ≤ 0.05, linear FC ≥ 1.5; frozen KEGG_2019_Mouse."
+old_25,24,assets/panels/old_25_panel_03.png,assets/panels/old_25_panel_03.svg,individual_matplotlib_axes,,"Blood Fig. 3E/Table S3; our ORA: nominal DEG P ≤ 0.05, linear FC ≥ 1.5; frozen KEGG_2019_Mouse."
+old_26,5,assets/panels/old_26_panel_01.png,assets/panels/old_26_panel_01.svg,individual_matplotlib_axes,,Blood Fig. 3E presentation adapted to current data; exact tested KEGG terms retained.
+old_27,5,assets/panels/old_27_panel_01.png,assets/panels/old_27_panel_01.svg,individual_matplotlib_axes,,Blood Fig. 3E presentation adapted to current data; exact tested KEGG terms retained.
+old_28,5,assets/panels/old_28_panel_01.png,assets/panels/old_28_panel_01.svg,individual_matplotlib_axes,,Blood Fig. 3E presentation adapted to current data; exact tested KEGG terms retained.
+old_29,9,assets/panels/old_29_panel_01.png,assets/panels/old_29_panel_01.svg,individual_matplotlib_axes,,"Blood Fig. 3F; original C5 overlap memberships from 20260830; geometry is schematic, not area-proportional."
+old_29,10,assets/panels/old_29_panel_02.png,assets/panels/old_29_panel_02.svg,individual_matplotlib_axes,,"Blood Fig. 3F; original C5 overlap memberships from 20260830; geometry is schematic, not area-proportional."
+old_30,9,assets/panels/old_30_panel_01.png,assets/panels/old_30_panel_01.svg,individual_matplotlib_axes,,R01 from the 20260906 report; embedding objects and metrics generated on 20260905.
+old_30,10,assets/panels/old_30_panel_02.png,assets/panels/old_30_panel_02.svg,individual_matplotlib_axes,,R01 from the 20260906 report; embedding objects and metrics generated on 20260905.
+old_30,11,assets/panels/old_30_panel_03.png,assets/panels/old_30_panel_03.svg,individual_matplotlib_axes,,R01 from the 20260906 report; embedding objects and metrics generated on 20260905.
+old_31,5,assets/panels/old_31_panel_01.png,,original_image_file,output/iNKT_meeting_followup_20260905/figures/13_PPT_KEGG_heat_shock_sensitivity.png,20260905 existing GSEA; this is not the enrichment-score plot of Blood Fig. 3E.
+old_32,5,assets/panels/old_32_panel_01.png,,original_image_file,output/iNKT_meeting_followup_20260905/figures/09_full_feature_NK_state_sensitivity.png,R02; original 20260905 full-feature state-score output.
+old_33,5,assets/panels/old_33_panel_01.png,,original_image_file,output/iNKT_meeting_followup_20260905/figures/10_stable_bone_marrow.png,R03; 20260905 stability-selected bone marrow output.
+old_34,5,assets/panels/old_34_panel_01.png,,original_image_file,output/iNKT_reproduction_deck/20260830_C5_paper_Fig3DEF_followup/figures/20260830_IL4_CD94_condition_masks.png,20260830 condition-mask output; marker display requested in the earlier meeting.
+old_35,5,assets/panels/old_35_panel_01.png,,original_image_file,output/iNKT_discovery_20260905/figures/discovery_BM_C4_focal.png,R13; 20260905 discovery results; relates to the local-vs-global question in original iNKT slides 27–28.
+old_36,5,assets/panels/old_36_panel_01.png,,original_image_file,output/iNKT_discovery_20260905/figures/discovery_CCT_driver_evidence.png,R13; 20260905 discovery output.
+new_01,8,assets/panels/new_01_panel_01.png,assets/panels/new_01_panel_01.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135; Borra et al. 2026, GAFA, Sec. 3.5 / Fig. 4c; doi:10.3390/biology15070588"
+new_03,7,assets/panels/new_03_panel_01.png,assets/panels/new_03_panel_01.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_03,8,assets/panels/new_03_panel_02.png,assets/panels/new_03_panel_02.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_03,9,assets/panels/new_03_panel_03.png,assets/panels/new_03_panel_03.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_04,10,assets/panels/new_04_panel_01.png,assets/panels/new_04_panel_01.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_04,11,assets/panels/new_04_panel_02.png,assets/panels/new_04_panel_02.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_04,12,assets/panels/new_04_panel_03.png,assets/panels/new_04_panel_03.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_04,13,assets/panels/new_04_panel_04.png,assets/panels/new_04_panel_04.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_04,14,assets/panels/new_04_panel_05.png,assets/panels/new_04_panel_05.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_05,10,assets/panels/new_05_panel_01.png,assets/panels/new_05_panel_01.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_05,11,assets/panels/new_05_panel_02.png,assets/panels/new_05_panel_02.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_05,12,assets/panels/new_05_panel_03.png,assets/panels/new_05_panel_03.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_05,13,assets/panels/new_05_panel_04.png,assets/panels/new_05_panel_04.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_05,14,assets/panels/new_05_panel_05.png,assets/panels/new_05_panel_05.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_06,10,assets/panels/new_06_panel_01.png,assets/panels/new_06_panel_01.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_06,11,assets/panels/new_06_panel_02.png,assets/panels/new_06_panel_02.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_06,12,assets/panels/new_06_panel_03.png,assets/panels/new_06_panel_03.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_06,13,assets/panels/new_06_panel_04.png,assets/panels/new_06_panel_04.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_06,14,assets/panels/new_06_panel_05.png,assets/panels/new_06_panel_05.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_07,6,assets/panels/new_07_panel_01.png,assets/panels/new_07_panel_01.svg,individual_matplotlib_axes,,"Borra et al. 2026, GAFA, Sec. 3.5 / Fig. 4c; doi:10.3390/biology15070588"
+new_07,7,assets/panels/new_07_panel_02.png,assets/panels/new_07_panel_02.svg,individual_matplotlib_axes,,"Borra et al. 2026, GAFA, Sec. 3.5 / Fig. 4c; doi:10.3390/biology15070588"
+new_08,6,assets/panels/new_08_panel_01.png,assets/panels/new_08_panel_01.svg,individual_matplotlib_axes,,"Borra et al. 2026, GAFA, Sec. 3.5 / Fig. 4c; doi:10.3390/biology15070588"
+new_08,7,assets/panels/new_08_panel_02.png,assets/panels/new_08_panel_02.svg,individual_matplotlib_axes,,"Borra et al. 2026, GAFA, Sec. 3.5 / Fig. 4c; doi:10.3390/biology15070588"
+new_09,6,assets/panels/new_09_panel_01.png,assets/panels/new_09_panel_01.svg,individual_matplotlib_axes,,"Borra et al. 2026, GAFA, Sec. 3.5 / Fig. 4c; doi:10.3390/biology15070588"
+new_09,7,assets/panels/new_09_panel_02.png,assets/panels/new_09_panel_02.svg,individual_matplotlib_axes,,"Borra et al. 2026, GAFA, Sec. 3.5 / Fig. 4c; doi:10.3390/biology15070588"
+new_10,6,assets/panels/new_10_panel_01.png,assets/panels/new_10_panel_01.svg,individual_matplotlib_axes,,"Borra et al. 2026, GAFA, Sec. 3.5 / Fig. 4c; doi:10.3390/biology15070588"
+new_10,7,assets/panels/new_10_panel_02.png,assets/panels/new_10_panel_02.svg,individual_matplotlib_axes,,"Borra et al. 2026, GAFA, Sec. 3.5 / Fig. 4c; doi:10.3390/biology15070588"
+new_11,6,assets/panels/new_11_panel_01.png,assets/panels/new_11_panel_01.svg,individual_matplotlib_axes,,"Borra et al. 2026, GAFA, Sec. 3.5 / Fig. 4c; doi:10.3390/biology15070588"
+new_11,7,assets/panels/new_11_panel_02.png,assets/panels/new_11_panel_02.svg,individual_matplotlib_axes,,"Borra et al. 2026, GAFA, Sec. 3.5 / Fig. 4c; doi:10.3390/biology15070588"
+new_12,6,assets/panels/new_12_panel_01.png,assets/panels/new_12_panel_01.svg,individual_matplotlib_axes,,"Borra et al. 2026, GAFA, Sec. 3.5 / Fig. 4c; doi:10.3390/biology15070588"
+new_12,7,assets/panels/new_12_panel_02.png,assets/panels/new_12_panel_02.svg,individual_matplotlib_axes,,"Borra et al. 2026, GAFA, Sec. 3.5 / Fig. 4c; doi:10.3390/biology15070588"
+new_13,8,assets/panels/new_13_panel_01.png,assets/panels/new_13_panel_01.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_13,9,assets/panels/new_13_panel_02.png,assets/panels/new_13_panel_02.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_13,10,assets/panels/new_13_panel_03.png,assets/panels/new_13_panel_03.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_14,8,assets/panels/new_14_panel_01.png,assets/panels/new_14_panel_01.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_14,9,assets/panels/new_14_panel_02.png,assets/panels/new_14_panel_02.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_14,10,assets/panels/new_14_panel_03.png,assets/panels/new_14_panel_03.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_15,8,assets/panels/new_15_panel_01.png,assets/panels/new_15_panel_01.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_15,9,assets/panels/new_15_panel_02.png,assets/panels/new_15_panel_02.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_15,10,assets/panels/new_15_panel_03.png,assets/panels/new_15_panel_03.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135"
+new_16,8,assets/panels/new_16_panel_01.png,assets/panels/new_16_panel_01.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135; Borra et al. 2026, GAFA, Sec. 3.5 / Fig. 4c; doi:10.3390/biology15070588"
+new_16,9,assets/panels/new_16_panel_02.png,assets/panels/new_16_panel_02.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135; Borra et al. 2026, GAFA, Sec. 3.5 / Fig. 4c; doi:10.3390/biology15070588"
+new_17,6,assets/panels/new_17_panel_01.png,assets/panels/new_17_panel_01.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135; official mouse GO annotations"
+new_18,6,assets/panels/new_18_panel_01.png,assets/panels/new_18_panel_01.svg,individual_matplotlib_axes,,"Huang et al. 2024, PAGER-scFGA, Fig. 5; doi:10.3389/fbinf.2024.1336135; sensitivity analyses added for this dataset"

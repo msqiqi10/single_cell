@@ -1,0 +1,54 @@
+[project]
+name = "bio3-scanpy-env"
+version = "0.1.0"
+description = "Scanpy and scVI environment for local single-cell analysis workflows."
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "anndata>=0.11",
+    "celltypist>=1.6",
+    "gseapy>=1.1",
+    "igraph>=0.11",
+    "ipykernel>=6.29",
+    "kaleido>=0.2",
+    "leidenalg>=0.10",
+    "louvain==0.8.2",
+    "matplotlib>=3.8",
+    "networkx>=3.2",
+    "nbclient>=0.10",
+    "nbformat>=5.10",
+    "numpy>=1.26",
+    "openpyxl>=3.1",
+    "pandas>=2.2",
+    "plotly>=5.22",
+    "pooch>=1.8",
+    "pygam>=0.9",
+    "scanpy>=1.10",
+    "scikit-image>=0.25",
+    "scipy>=1.12",
+    "scvi-tools>=1.3",
+    "seaborn>=0.13",
+    "statsmodels>=0.14",
+    "torch>=2.3",
+    "adjusttext>=1.4.0",
+    "ipywidgets>=8.1.8",
+    "dask[diagnostics,distributed]>=2026.6.0",
+    "sklearn-ann>=0.1.4",
+    "annoy>=1.17.3",
+]
+
+[tool.uv]
+package = false
+
+[tool.uv.extra-build-dependencies]
+louvain = ["cmake"]
+
+[tool.uv.sources]
+torch = [
+    { index = "pytorch-cpu", marker = "sys_platform == 'linux'" },
+]
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true

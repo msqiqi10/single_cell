@@ -1,0 +1,39 @@
+{
+  "stage": "01_complete_candidate_inputs",
+  "date": "2026-09-25",
+  "primary_gene_rule": {
+    "gene_BH_FDR_max": 0.05,
+    "absolute_log2FC_min": 0.25
+  },
+  "legacy_comparator_rule": {
+    "nominal_P_max": 0.05,
+    "linear_FC_min": 1.5
+  },
+  "source_hashes": {
+    "work/remote37/data/previous_source_tables/output/iNKT_meeting_followup_20260905/de/cluster_tissue__C0__bone_marrow.csv.gz": "21ca04e8e8c64e50bc0af24a25dc724342fb4ee1d4ca848ce4c47a4102932ac6",
+    "work/remote37/data/previous_source_tables/output/iNKT_meeting_followup_20260905/de/cluster_tissue__C5-1__spleen.csv.gz": "9af55b7fc6da85f8a016684d4cbc2740426e77c5f7ba7aa78d2275720d3930e1",
+    "work/remote37/data/previous_source_tables/output/iNKT_meeting_followup_20260905/de/cluster_tissue__C5-2__bone_marrow.csv.gz": "166b08ef75d51836905cf8e032780a437a2e82093c95931039606bec4c6f23c3",
+    "work/remote37/data/previous_source_tables/output/iNKT_meeting_followup_20260905/de/cluster_tissue__C6__thymus.csv.gz": "15eaee83371e33b553637c9b245fd49d78de0363fb8bcf4847a731f6370ba8ad",
+    "work/remote37/data/previous_source_tables/output/iNKT_meeting_followup_20260905/de/global.csv.gz": "0163a6d10b0062633d2a0b552cbc0037d7796747e6b9e7b97aae79433f6aedcc",
+    "work/remote37/data/previous_source_tables/output/iNKT_meeting_followup_20260905/de/tissue__bone_marrow.csv.gz": "9a08da8c87af913c1d331c86455892a12daa08ce3797ca09a33276f1a2aff05c",
+    "work/remote37/data/previous_source_tables/output/iNKT_meeting_followup_20260905/de/tissue__spleen.csv.gz": "c364dff69df1dc37cc027d551b1ece64b60110ff24e0c7ff99fbbb937b5e6e07",
+    "work/remote37/data/previous_source_tables/output/iNKT_meeting_followup_20260905/de/tissue__thymus.csv.gz": "440f8610b1bf247ea2ce4b1b6566668258851416c6fc7436bb60aaf3475e6d98",
+    "work/remote37/original/output/iNKT_discovery_20260905/tables/functional_screen_all.csv.gz": "e480a5f845b011da9624d90f738548e7c637fc925331c2e08b847b859d43fc5f"
+  },
+  "interpretation": "cell-level differences in pooled biological samples; no new DE test; selected focused panel is hypothesis-directed",
+  "missing_for_next_stage": [
+    "existing full GO tables and frozen ontology memberships on remote",
+    "remaining tissue-by-cluster complete DE files",
+    "verified mouse GO node/embedding inputs for GOLDEN"
+  ],
+  "official_method_sources": {
+    "GOLDEN": {
+      "url": "https://github.com/ai-pharm-AU/GOLDEN",
+      "commit": "94f9d367483ccb4872630ebaa3b611b11220d9a6"
+    },
+    "GOLDEN_GNN": {
+      "url": "https://github.com/ai-pharm-AU/GOLDEN-GNN",
+      "commit": "a85654b6b853ddd60e59efa7f3bb769832d687b0"
+    }
+  }
+}

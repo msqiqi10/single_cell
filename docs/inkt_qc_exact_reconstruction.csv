@@ -1,0 +1,8 @@
+sample,raw_cells,legacy_ppt_cells,legacy_reconstructed_cells,current_cells,legacy_removed,current_removed
+Ctrl_BM,3998,3379,3379,3978,619,20
+Ctrl_Spleen,3829,3422,3422,3808,407,21
+Ctrl_Thymus,2101,1372,1372,2033,729,68
+T2_BM,3131,2731,2731,3095,400,36
+T2_Spleen,3760,3371,3371,3737,389,23
+T2_Thymus,1639,1257,1257,1553,382,86
+TOTAL,18458,15532,15532,18204,2926,254

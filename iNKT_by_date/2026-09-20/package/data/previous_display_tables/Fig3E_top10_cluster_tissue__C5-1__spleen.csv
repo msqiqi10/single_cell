@@ -1,0 +1,11 @@
+term,direction,n_query,pathway_size,overlap,universe_size,enrichment_ratio,pvalue,overlap_genes,rule,fdr,unit_id,library,sensitivity,score
+Cocaine addiction,Tumor,286,22,4,10670,6.783216783216783,0.0025247152257563,Cdk5r1;Dlg4;Fosb;Jun,paper,0.752365137275386,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,5.981627004493862
+Estrogen signaling pathway,Tumor,286,71,6,10670,3.152762730227519,0.0117392848766088,Ebag9;Fos;Hspa1a;Hspa1b;Itpr1;Jun,paper,1.0,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,4.444814379843889
+Fanconi anemia pathway,Tumor,286,44,4,10670,3.391608391608392,0.0296288611906039,Ercc1;Mlh1;Rmi1;Top3b,paper,1.0,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,3.5190063524719704
+Mucin type O-glycan biosynthesis,Tumor,286,14,2,10670,5.329670329670329,0.0526973383373496,C1galt1c1;Galnt11,paper,1.0,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,2.943190330642933
+IL-17 signaling pathway,Tumor,286,54,4,10670,2.763532763532764,0.0562365816815727,Fos;Fosb;Il17re;Jun,paper,1.0,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,2.8781878142378314
+Folate biosynthesis,Tumor,286,15,2,10670,4.974358974358975,0.0597544277702372,Akr1b10;Mocs1,paper,1.0,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,2.817511985974944
+Mannose type O-glycan biosynthesis,Tumor,286,15,2,10670,4.974358974358975,0.0597544277702372,Pomgnt1;Rxylt1,paper,1.0,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,2.817511985974944
+Osteoclast differentiation,Tumor,286,80,5,10670,2.331730769230769,0.0632893901769145,Fos;Fosb;Jun;Junb;Map2k7,paper,1.0,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,2.7600375756195312
+Amphetamine addiction,Tumor,286,35,3,10670,3.197802197802198,0.0664705283612279,Fos;Fosb;Jun,paper,1.0,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,2.7109966120926607
+Fluid shear stress and atherosclerosis,Tumor,286,83,5,10670,2.247451343836886,0.0717655269889582,Fos;Gstp1;Jun;Map2k7;Sumo3,paper,1.0,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,2.6343510437270883

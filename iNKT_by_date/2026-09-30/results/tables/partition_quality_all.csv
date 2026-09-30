@@ -1,0 +1,6 @@
+version,method,n_groups,n_singletons,modularity_overlap_graph,mean_within_group_semantic_cosine,k_rule
+all,overlap_louvain,49,32,0.5657813496994838,0.5764311,"Louvain resolution 1, seed 42"
+all,semantic_only,15,0,0.39417213574872145,0.49519426,"Ward, max silhouette k=2..15"
+all,golden_fusion,2,0,0.42266748529713083,0.25995314,"Ward, max silhouette k=2..15"
+all,gnn_semantic,15,0,0.5136035149625353,0.49195683,"Ward, max silhouette k=2..15"
+all,gnn_only_seed42,15,0,0.5369856554667825,0.45817623,"Ward, max silhouette k=2..15"

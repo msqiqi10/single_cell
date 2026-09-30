@@ -1,0 +1,196 @@
+{
+  "passed": true,
+  "shape": [
+    15532,
+    32285
+  ],
+  "cell_alignment": "exact retained cell IDs and original order",
+  "integer_counts": true,
+  "normalization_for_marker_summary": "full-feature count total per retained cell, target 10000, log1p",
+  "status": "descriptive coverage/detection audit, not new differential-expression tests or secretion assay",
+  "markers": [
+    {
+      "gene": "Dusp1",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 5380,
+      "total_UMI": 20036
+    },
+    {
+      "gene": "Fos",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 3787,
+      "total_UMI": 12778
+    },
+    {
+      "gene": "Jun",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 8152,
+      "total_UMI": 26753
+    },
+    {
+      "gene": "Junb",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 11604,
+      "total_UMI": 59602
+    },
+    {
+      "gene": "Jund",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 14502,
+      "total_UMI": 74504
+    },
+    {
+      "gene": "Fosb",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 3559,
+      "total_UMI": 5980
+    },
+    {
+      "gene": "Fosl1",
+      "status": "detected",
+      "in_primary": false,
+      "n_detected": 1,
+      "total_UMI": 1
+    },
+    {
+      "gene": "Fosl2",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 1309,
+      "total_UMI": 1604
+    },
+    {
+      "gene": "Nr4a1",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 745,
+      "total_UMI": 1142
+    },
+    {
+      "gene": "Il1r1",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 113,
+      "total_UMI": 147
+    },
+    {
+      "gene": "Il6ra",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 562,
+      "total_UMI": 759
+    },
+    {
+      "gene": "Cd8a",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 280,
+      "total_UMI": 794
+    },
+    {
+      "gene": "Ciita",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 175,
+      "total_UMI": 184
+    },
+    {
+      "gene": "Rorc",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 194,
+      "total_UMI": 259
+    },
+    {
+      "gene": "Il23r",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 85,
+      "total_UMI": 113
+    },
+    {
+      "gene": "Ccr6",
+      "status": "detected",
+      "in_primary": false,
+      "n_detected": 60,
+      "total_UMI": 111
+    },
+    {
+      "gene": "Il17a",
+      "status": "listed_but_zero_in_retained_cells",
+      "in_primary": false,
+      "n_detected": 0,
+      "total_UMI": 0
+    },
+    {
+      "gene": "Il17f",
+      "status": "detected",
+      "in_primary": false,
+      "n_detected": 2,
+      "total_UMI": 2
+    },
+    {
+      "gene": "Tbx21",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 5685,
+      "total_UMI": 7744
+    },
+    {
+      "gene": "Gata3",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 6696,
+      "total_UMI": 9657
+    },
+    {
+      "gene": "Zbtb16",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 3606,
+      "total_UMI": 4766
+    },
+    {
+      "gene": "Nkg7",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 14132,
+      "total_UMI": 97011
+    },
+    {
+      "gene": "Prf1",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 2715,
+      "total_UMI": 3337
+    },
+    {
+      "gene": "Gzma",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 938,
+      "total_UMI": 7359
+    },
+    {
+      "gene": "Gzmb",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 2748,
+      "total_UMI": 8912
+    },
+    {
+      "gene": "Ccl5",
+      "status": "detected",
+      "in_primary": true,
+      "n_detected": 12661,
+      "total_UMI": 169709
+    }
+  ],
+  "full_feature_counts_match_primary_count_layer_for_all_primary_genes": true
+}

@@ -1,0 +1,114 @@
+{
+  "exclusion_regex": "^(Rp[ls]\\d|Rplp\\d|Rpsa$|Mrp[ls]\\d|mt-|Hsp(?!g)|Dnaj)",
+  "checks": {
+    "all_q_rederivation": [
+      {
+        "term": "GO:0022853",
+        "unit": "cluster_tissue__C3__spleen",
+        "direction": "T2_up",
+        "q_table": 0.0068663333780082,
+        "q_rederived": 0.006866333378008266,
+        "match": true
+      },
+      {
+        "term": "GO:0072522",
+        "unit": "cluster_tissue__C0__bone_marrow",
+        "direction": "T2_up",
+        "q_table": 2.16321126218664e-07,
+        "q_rederived": 2.16321126218664e-07,
+        "match": true
+      },
+      {
+        "term": "GO:0055131",
+        "unit": "cluster_tissue__C6__thymus",
+        "direction": "Ctrl_up",
+        "q_table": 0.0313682082915513,
+        "q_rederived": 0.031368208291551396,
+        "match": true
+      }
+    ],
+    "all_all_12_anchors_present": "True",
+    "all_edges_rule_ok": true,
+    "all_nonanchor_nodes_all_sig": true,
+    "excl_q_rederivation": [
+      {
+        "term": "GO:0009117",
+        "unit": "cluster_tissue__C0__bone_marrow",
+        "direction": "T2_up",
+        "q_table": 0.0019339524513736,
+        "q_rederived": 0.001933952451373698,
+        "match": true
+      },
+      {
+        "term": "GO:0006753",
+        "unit": "cluster_tissue__C3__spleen",
+        "direction": "T2_up",
+        "q_table": 9.688492796039534e-05,
+        "q_rederived": 9.688492796039534e-05,
+        "match": true
+      },
+      {
+        "term": "GO:0030547",
+        "unit": "cluster_tissue__C4__bone_marrow",
+        "direction": "T2_up",
+        "q_table": 0.0040284173081037,
+        "q_rederived": 0.004028417308103721,
+        "match": true
+      }
+    ],
+    "excl_all_12_anchors_present": "True",
+    "excl_no_excluded_genes_remaining": true,
+    "excl_excluded_gene_hits": [],
+    "excl_n_genes_excluded_of_10670": 242,
+    "excl_edges_rule_ok": true,
+    "excl_nonanchor_nodes_all_sig": true,
+    "reuse_vs_0919": {
+      "n_matched": 312550,
+      "max_abs_q_diff": 1.1102230246251563e-16,
+      "n_kKM_mismatch": 0
+    }
+  },
+  "network_summary": {
+    "all": {
+      "n_significant_terms_before_collapse": 147,
+      "n_nodes_before_collapse": 159,
+      "n_nodes": 112,
+      "n_merged_away": 47,
+      "n_edges": 231,
+      "n_isolates": 32,
+      "n_anchor_nodes": 12,
+      "n_anchor_significant": 1,
+      "groups": {
+        "overlap_louvain": 49,
+        "semantic_only": 15,
+        "golden_fusion": 2,
+        "gnn_semantic": 15,
+        "gnn_only_seed42": 15
+      },
+      "k_gnn": 15,
+      "k_sem": 15,
+      "k_fusion": 2
+    },
+    "excl": {
+      "n_significant_terms_before_collapse": 82,
+      "n_nodes_before_collapse": 94,
+      "n_nodes": 66,
+      "n_merged_away": 28,
+      "n_edges": 157,
+      "n_isolates": 21,
+      "n_anchor_nodes": 12,
+      "n_anchor_significant": 1,
+      "groups": {
+        "overlap_louvain": 31,
+        "semantic_only": 15,
+        "golden_fusion": 3,
+        "gnn_semantic": 4,
+        "gnn_only_seed42": 3
+      },
+      "k_gnn": 4,
+      "k_sem": 15,
+      "k_fusion": 3
+    }
+  },
+  "passed": "True"
+}

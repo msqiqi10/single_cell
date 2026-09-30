@@ -1,0 +1,57 @@
+{
+  "passed": true,
+  "gnn_k": 7,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "node_alignment": true,
+  "external_validation": false,
+  "scope": "Internal transductive reconstruction of a small GO overlap graph, balanced held-out edge/non-edge samples; not biological validation or a method benchmark",
+  "gnn_fusion": "concat(0.5 * L2 semantic, 0.5 * L2 GNN); exploratory extension; reference seed42, k maximizes silhouette2..12",
+  "metrics": [
+    {
+      "seed": 42,
+      "n_test_positive": 57,
+      "n_test_negative": 57,
+      "GNN_AUC": 0.9926131117266851,
+      "GNN_AP": 0.9923752571663805,
+      "semantic_AUC": 0.9156663588796553,
+      "semantic_AP": 0.9213808088426567,
+      "common_neighbors_AUC": 0.9684518313327177,
+      "common_neighbors_AP": 0.9664090806941104,
+      "Adamic_Adar_AUC": 0.9682979378270237,
+      "Adamic_Adar_AP": 0.9681994176500883,
+      "best_epoch": 100
+    },
+    {
+      "seed": 43,
+      "n_test_positive": 57,
+      "n_test_negative": 57,
+      "GNN_AUC": 0.9818405663281009,
+      "GNN_AP": 0.983334580351415,
+      "semantic_AUC": 0.8941212680824869,
+      "semantic_AP": 0.9003559707416862,
+      "common_neighbors_AUC": 0.9595260080024622,
+      "common_neighbors_AP": 0.9529420088061694,
+      "Adamic_Adar_AUC": 0.9599876885195444,
+      "Adamic_Adar_AP": 0.9551693915093453,
+      "best_epoch": 100
+    },
+    {
+      "seed": 44,
+      "n_test_positive": 57,
+      "n_test_negative": 57,
+      "GNN_AUC": 0.9892274546014158,
+      "GNN_AP": 0.9890474903914166,
+      "semantic_AUC": 0.9064327485380117,
+      "semantic_AP": 0.9074590167373955,
+      "common_neighbors_AUC": 0.9621421975992612,
+      "common_neighbors_AP": 0.9606419194300257,
+      "Adamic_Adar_AUC": 0.964142813173284,
+      "Adamic_Adar_AP": 0.9630770146136622,
+      "best_epoch": 100
+    }
+  ]
+}

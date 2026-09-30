@@ -1,0 +1,20 @@
+01 iNKT cytotoxicity and Gene Ontology
+02 Analysis design and reference mapping
+03 Cytotoxic gene coverage and scoring
+04 Bone marrow: cytotoxic expression and condition effects
+05 Spleen: cytotoxic expression and condition effects
+06 Thymus: cytotoxic expression and condition effects
+07 Bone marrow: GO biological processes: cluster identity
+08 Spleen: GO biological processes: cluster identity
+09 Thymus: GO biological processes: cluster identity
+10 Bone marrow: GO biological processes: condition response
+11 Spleen: GO biological processes: condition response
+12 Thymus: GO biological processes: condition response
+13 Bone marrow: local cytotoxicity along pseudotime
+14 Spleen: local cytotoxicity along pseudotime
+15 Thymus: local cytotoxicity along pseudotime
+16 Core signature changes do not imply a full killing pathway
+17 Cellular components of cytotoxic module genes
+18 Robustness: QC matching and alternative clustering
+19 Evidence summary and next interpretation
+Completed presentation: 19 pages

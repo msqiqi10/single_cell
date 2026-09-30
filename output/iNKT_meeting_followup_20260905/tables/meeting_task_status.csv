@@ -1,0 +1,13 @@
+meeting_task,status,detail,artifact
+Batch effect removal 尝试,已执行，有解释限制,Harmony 按 tissue、按 sample 各一版，与原图比较；没有独立技术 batch 字段。,figures/18_integration_evaluation.png
+五种参考状态映射,已执行；adaptive 无法可靠评分,当前过滤集可评分3种；完整原始特征敏感性可评分4种，resting 的 Gzmk 仅17细胞检出。,tables/full_feature_score_coverage.csv
+单组织分析，骨髓优先,已完成,三个组织分别重新选HVG/PCA/邻居/聚类；保留0.5分辨率以及按种子稳定性选择的分群。,tables/selected_stability_resolution.csv
+论文 velocity 叠加到 clusters,输入阻塞，未完成,缺少 spliced/unspliced 或 BAM/FASTQ；没有用DPT或位移箭头替代。,tables/input_missing_tasks.json
+PPT DEG 与通路验证,已完成可检验条目；部分旧库无法复现,全部原始DEG和130条通路记录逐行核查，KEGG和可解析Reactome重算；其余旧库保留未解决状态与驱动基因结果。,tables/PPT_pathway_validation_every_row.csv
+Blood Figure3E KEGG和驱动基因验证,已完成跨数据集验证,17条主图通路与S5的23基因已检验；S3全部48条逐项核查，库缺失/过小条目保留未检验状态。原图并排。,figures/11_Blood_Fig3E_side_by_side.png
+缩小scope、解释top10和重复驱动基因,已完成,固定组织×cluster对照，完整统计表；top10仅显示顺序，所有显著term和重叠驱动基因另存。,tables/KEGG_top10_driver_redundancy.csv
+Heat-shock masking,已完成,对所有≥20细胞/条件的原始对照，从排名、基因集、背景同时去掉Hsp*/Dnaj*再计算。,figures/13_PPT_KEGG_heat_shock_sensitivity.png
+IL4/CD94计数和位置变化,已完成,按组织、条件、cluster含C5-1/C5-2报告阳性/总数；位置箭头只表示描述性中位数位移。,tables/IL4_CD94_counts_by_cluster_tissue_condition.csv
+频率和分母说明,已完成,补组织×条件总数，计数/百分比/公式；区分condition内frequency与cluster内condition share。,figures/08_frequency_denominators.png
+cluster内新增而汇总稀释的信号,已完成探索性筛选,提供signed effect、tissue/global对照和dotplot；未将显著性不同当作交互作用显著。,tables/cluster_signals_diluted_in_tissue.csv
+额外肝/肾toxicity项目,输入阻塞，未完成,缺少会议所说邮件PMID清单。,tables/input_missing_tasks.json

@@ -1,0 +1,16 @@
+{
+  "stage": "full candidate audit and mouse GO network",
+  "comparisons": 20,
+  "nodes": 97,
+  "edges": 577,
+  "candidate_rule": "gene BH FDR<=0.05 and abs(log2FC)>=0.25; separate directions",
+  "node_rule": "BP q_family<=0.05 in at least one of 20 original/tissue condition comparisons; stable and identity comparisons excluded from node selection",
+  "edge_rule": "Jaccard of complete measured gene members >=0.25 and at least 3 shared genes; not a regulatory or causal edge",
+  "clustering_baseline": "complete linkage on 1-Jaccard, thresholds 0.25,0.5,0.75; exploratory redundancy grouping",
+  "membership": "complete frozen measured gene sets, not query-only overlap",
+  "input_hashes": {
+    "iNKT_by_date/2026-09-19/sources/GO_mouse_measured.gmt": "a92ccd3aa07426e3604d8ba7daaccc2be476be00d1fa10193b20dd8f7b2cd7ea",
+    "iNKT_by_date/2026-09-19/sources/go-basic.obo": "b08d45b268b8c24ccb2513dbbbc7d4df9f6521c099b413f79eb31e06e0fa3bcc",
+    "iNKT_by_date/2026-09-19/results/tables/GO_ORA_all.csv.gz": "85f915766f310ef74337b865264e07348a7d2acb6704785c4301bd155f7264d2"
+  }
+}

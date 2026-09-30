@@ -1,0 +1,59 @@
+slide,section,source_page,title,text,table,image
+1,Main talk,custom_01,"iNKT: cell states, cytotoxic programs and functional changes",8,0,0
+2,Main talk,old_02,"Material, dataset and QC",9,1,3
+3,Main talk,old_03,Clusters and tissue composition,8,0,3
+4,Main talk,old_05,iNKT1 marker program,10,0,11
+5,Main talk,old_06,iNKT2 marker program,12,0,15
+6,Main talk,old_07,iNKT17 marker program,11,0,11
+7,Main talk,old_08,Bone marrow: cluster and condition frequencies,8,0,2
+8,Main talk,old_09,Spleen: cluster and condition frequencies,8,0,2
+9,Main talk,old_10,Thymus: cluster and condition frequencies,8,0,2
+10,Main talk,old_22,D  Differential expression: Control vs. Tumor,10,0,4
+11,Main talk,new_02,Analysis design and reference mapping,6,1,0
+12,Main talk,new_03,Cytotoxic gene coverage and scoring,7,0,3
+13,Main talk,new_04,Bone marrow: cytotoxic expression and condition effects,10,0,5
+14,Main talk,new_05,Spleen: cytotoxic expression and condition effects,10,0,5
+15,Main talk,new_06,Thymus: cytotoxic expression and condition effects,10,0,5
+16,Main talk,new_07,Bone marrow: GO biological processes: cluster identity,6,0,2
+17,Main talk,new_08,Spleen: GO biological processes: cluster identity,6,0,2
+18,Main talk,new_09,Thymus: GO biological processes: cluster identity,6,0,2
+19,Main talk,new_10,Bone marrow: GO biological processes: condition response,6,0,2
+20,Main talk,new_11,Spleen: GO biological processes: condition response,6,0,2
+21,Main talk,new_12,Thymus: GO biological processes: condition response,6,0,2
+22,Main talk,new_17,Cellular components of cytotoxic module genes,6,0,1
+23,Main talk,new_13,Bone marrow: local cytotoxicity along pseudotime,8,0,3
+24,Main talk,new_14,Spleen: local cytotoxicity along pseudotime,8,0,3
+25,Main talk,new_15,Thymus: local cytotoxicity along pseudotime,8,0,3
+26,Main talk,new_18,Robustness: QC matching and alternative clustering,6,0,1
+27,Main talk,new_16,Core signature changes do not imply a full killing pathway,8,0,2
+28,Main talk,custom_02,Interpretation: localized effector changes with shared metabolic signals,4,1,0
+29,Appendix,old_01,iNKT: results in the reference presentation formats,6,1,0
+30,Appendix,old_04,"UMAP: 50, 100 and 200 principal components",5,0,1
+31,Appendix,old_11,T2 vs. Control DEGs: global,8,1,3
+32,Appendix,old_12,T2 vs. Control DEGs: BM,8,1,3
+33,Appendix,old_13,T2 vs. Control DEGs: Spl,8,1,3
+34,Appendix,old_14,T2 vs. Control DEGs: Thy,8,1,3
+35,Appendix,old_15,T2 vs. Control DEGs: C0 / BM,8,1,3
+36,Appendix,old_16,T2 vs. Control DEGs: C6 / Thy,8,1,3
+37,Appendix,old_17,T2 vs. Control DEGs: C5-1 / Spl,8,1,3
+38,Appendix,old_18,T2 vs. Control DEGs: C5-2 / BM,8,1,3
+39,Appendix,old_19,Pathways: C6 / Thy,6,1,0
+40,Appendix,old_20,Pathways: C0 / BM,6,1,0
+41,Appendix,old_21,Pathways: C5-1 / Spl,6,1,0
+42,Appendix,old_23,E  Paper pathways: C0 / BM,23,0,2
+43,Appendix,old_24,E  Paper pathways: C5-1 / Spl,23,0,2
+44,Appendix,old_25,E  Paper pathways: C6 / Thy,23,0,2
+45,Appendix,old_26,E  Current top pathways: C0 / BM,16,0,1
+46,Appendix,old_27,E  Current top pathways: C5-1 / Spl,16,0,1
+47,Appendix,old_28,E  Current top pathways: C6 / Thy,16,0,1
+48,Appendix,old_29,F  Shared T2-up genes across state × tissue,9,0,2
+49,Appendix,old_30,Batch sensitivity: show the actual UMAPs,9,0,3
+50,Appendix,old_31,Additional analysis: signed GSEA and heat-shock sensitivity,5,0,1
+51,Appendix,old_32,Additional analysis: reference NK state coverage,5,0,1
+52,Appendix,old_33,Additional analysis: bone marrow separately,5,0,1
+53,Appendix,old_34,IL-4 and CD94: condition-masked expression,5,0,1
+54,Appendix,old_35,Local information: bone marrow C4,5,0,1
+55,Appendix,old_36,Local information: spleen C3 CCT/TriC program,5,0,1
+56,Appendix,old_37,"What is comparable, and what remains different",5,1,0
+57,Appendix,new_01,iNKT cytotoxicity and Gene Ontology,8,0,1
+58,Appendix,new_19,Evidence summary and next interpretation,6,1,0

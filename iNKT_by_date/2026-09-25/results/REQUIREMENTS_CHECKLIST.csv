@@ -1,0 +1,14 @@
+requirement_id,meeting_source,requirement,status,evidence,remaining_boundary
+R01,Yue 01:39-01:42,Full candidate lists beyond top genes,completed,tables/all_26_existing_DE_with_eligibility.csv.gz,Five low-cell DEs and global retained but excluded from main GO network
+R02,Yue 01:40-01:42,Count input genes and pathway coverage,completed,tables/full_candidate_GO_coverage.csv,No annotation is not proof of no function
+R03,Yue 01:42-01:45,Group GO terms and show relationships,completed,network/annotated_nodes.csv,Exploratory BP grouping with heterogeneous group retained
+R04,Yue 01:39-01:47,GOLDEN Fusion GNN route,completed,network/gnn_baseline_comparison.csv,Mouse GO adaptation replaces unavailable original m-type network
+R05,Yue 01:46,Integrate expert priors with knowledge relations,completed,tables/expert_prior_to_module_bridges.csv,Prior bridges and ontology ancestry are explanatory not causal
+R06,Rob 01:22-01:26,MAPK AP-1 and named genes across populations,completed,tables/AP1_complex_GO_exact_ID.csv,AP-1 transcriptional enrichment does not prove MAPK activation
+R07,Rob 01:22 and 01:33,iNKT17 identity versus condition function,completed,tables/full_feature_marker_by_group.csv,Secretion unmeasured; full feature and condition detection audited
+R08,Rob 01:21-01:23,Consider inflammatory or stress environment,completed,tables/Rob_panel_QC_matched_summary.csv,Processing and biological environment remain confounded
+R09,Yue 01:48-01:50,Retain existing ontology and cytotoxicity direction,completed,existing_evidence/cytotoxicity_integrated_summary.csv,Core score is not killing activity; extended results differ
+R10,Rob 01:28-01:29,Deliver testable experimental candidates,completed,EXPERIMENT_CANDIDATES.md,Wet-lab execution belongs to collaborator stage
+R11,Rob 00:37,Record pooled mouse design,completed,EXPERIMENT_CANDIDATES.md,Independent animal pool identities still required
+R12,Rob 01:31-01:35,Prepare new AML data extension,external_pending,EXPERIMENT_CANDIDATES.md,Actual data share and metadata not received; no AML analysis claimed
+R13,Rob 01:28-01:29,Independent functional verification,external_pending,EXPERIMENT_CANDIDATES.md,No wet-lab data or independent replication available

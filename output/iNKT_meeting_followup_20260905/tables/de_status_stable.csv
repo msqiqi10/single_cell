@@ -1,0 +1,16 @@
+unit_id,tissue,cluster,resolution,n_tumor,n_control,strict_min20,n_up,n_down,status
+stable__bone_marrow_S0,bone_marrow,bone_marrow_S0,0.3,2228,2821,True,307,314,computed
+stable__bone_marrow_S1,bone_marrow,bone_marrow_S1,0.3,323,370,True,112,31,computed
+stable__bone_marrow_S2,bone_marrow,bone_marrow_S2,0.3,40,25,True,0,0,computed
+stable__bone_marrow_S3,bone_marrow,bone_marrow_S3,0.3,102,108,True,20,3,computed
+stable__bone_marrow_S4,bone_marrow,bone_marrow_S4,0.3,38,55,True,0,1,computed
+stable__spleen_S0,spleen,spleen_S0,0.3,2651,2878,True,298,480,computed
+stable__spleen_S1,spleen,spleen_S1,0.3,56,41,True,2,0,computed
+stable__spleen_S2,spleen,spleen_S2,0.3,415,268,True,42,27,computed
+stable__spleen_S3,spleen,spleen_S3,0.3,249,235,True,45,19,computed
+stable__thymus_S0,thymus,thymus_S0,0.5,207,399,True,36,14,computed
+stable__thymus_S1,thymus,thymus_S1,0.5,460,499,True,51,26,computed
+stable__thymus_S2,thymus,thymus_S2,0.5,477,391,True,62,20,computed
+stable__thymus_S3,thymus,thymus_S3,0.5,30,26,True,0,0,computed
+stable__thymus_S4,thymus,thymus_S4,0.5,38,11,False,0,0,computed
+stable__thymus_S5,thymus,thymus_S5,0.5,45,46,True,0,0,computed

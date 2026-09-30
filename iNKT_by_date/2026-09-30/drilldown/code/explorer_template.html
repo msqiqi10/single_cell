@@ -1,0 +1,145 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>iNKT pathway and gene network explorer</title>
+<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
+<style>
+:root{--bg:#fff;--fg:#1c1c1c;--mut:#666;--line:#ddd;--panel:#f7f7f8}
+@media(prefers-color-scheme:dark){:root{--bg:#161618;--fg:#e8e8e8;--mut:#9a9a9a;--line:#333;--panel:#202024}}
+body{margin:0;background:var(--bg);color:var(--fg);font:13px/1.4 system-ui,sans-serif}
+header{padding:8px 14px;border-bottom:1px solid var(--line);display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+h1{font-size:15px;margin:0}
+.tabs button{padding:5px 12px;border:1px solid var(--line);background:var(--panel);color:var(--fg);cursor:pointer}
+.tabs button.on{background:#2b6cb0;color:#fff}
+.view{display:none;height:calc(100vh - 100px)}.view.on{display:flex}
+.net{flex:1;min-width:0;position:relative}.net>div{position:absolute;inset:0}
+aside{width:320px;overflow:auto;padding:8px 12px;border-left:1px solid var(--line);background:var(--panel)}
+.ctl{padding:6px 14px;border-bottom:1px solid var(--line);display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+.ctl label{white-space:nowrap}
+footer{padding:6px 14px;border-top:1px solid var(--line);color:var(--mut);font-size:11px}
+.gl{max-height:260px;overflow:auto;word-break:break-word}
+code{background:var(--line);padding:0 3px}
+button.act{padding:4px 8px;margin:4px 0}
+@media(max-width:800px){.view.on{flex-direction:column;height:auto}.net{height:60vh;flex:none}aside{width:auto}}
+</style></head><body>
+<header><h1>iNKT pathway / gene network explorer</h1>
+<span class="tabs"><button id="tb1" class="on">(i) Pathway network</button> <button id="tb2">(ii) Gene network</button></span></header>
+<div class="view on" id="v1"><div style="flex:1;display:flex;flex-direction:column;min-width:0">
+<div class="ctl"><label>Version <select id="ver"><option value="b">(b) primary: excl. ribo/mito/Hsp</option><option value="a">(a) all genes</option></select></label><span id="gf"></span></div>
+<div class="net"><div id="net1"></div></div></div>
+<aside id="side1"><b>Click a node</b><p>Node size = best -log10 q; colour = GNN+semantic group; shape: circle GO BP, square GO MF, diamond KEGG, triangle GO CC. Black thick rim = anchor; dashed hollow = non-significant anchor.</p></aside></div>
+<div class="view" id="v2"><div style="flex:1;display:flex;flex-direction:column;min-width:0">
+<div class="ctl"><label>Colour by log2FC in <select id="cmp"></select></label>
+<label>Filter to <select id="flt"></select></label>
+<label><input type="checkbox" id="hideund"> hide undetected</label>
+<label>min shared terms <input type="range" id="minw" min="2" max="12" value="2" style="width:100px"> <span id="minwv"></span></label><span id="gcount"></span></div>
+<div class="net"><div id="net2"></div></div></div>
+<aside id="side2"><b>Click a gene</b><p>Colour = log2FC (T2 vs Ctrl; blue down, red up, clipped at +/-1.5). Red border + star = DEG (FDR&le;0.05, |log2FC|&ge;0.25) in the selected comparison. Grey hollow = not detected. Edges = genes co-annotated in &ge;2 significant terms/anchors (weight = number of shared terms); annotation only, no STRING/PPI.</p></aside></div>
+<footer id="foot"></footer>
+<script>
+const D=/*DATA*/null;
+const PAL=['#1f77b4','#aec7e8','#ff7f0e','#ffbb78','#2ca02c','#98df8a','#d62728','#ff9896','#9467bd','#c5b0d5','#8c564b','#c49c94','#e377c2','#f7b6d2','#7f7f7f','#bcbd22','#17becf','#9edae5','#393b79','#637939'];
+const SHAPE={'GO BP':'dot','GO MF':'square','KEGG':'diamond','GO CC anchor':'triangle'};
+document.getElementById('foot').textContent=D.caveats;
+const $=id=>document.getElementById(id);
+function el(html){const d=document.createElement('div');d.innerHTML=html;return d;}
+function esc(s){return String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
+// ---------- tabs
+function show(n){$('v1').classList.toggle('on',n==1);$('v2').classList.toggle('on',n==2);$('tb1').classList.toggle('on',n==1);$('tb2').classList.toggle('on',n==2);
+  if(n==2){initGene();} setTimeout(()=>{(n==1?net1:net2)&&(n==1?net1:net2).fit();},50);}
+$('tb1').onclick=()=>{location.hash='view=terms';show(1)};$('tb2').onclick=()=>{location.hash='view=genes';show(2)};
+// ---------- view (i)
+let net1,ds1,de1,curVer='b',sel1=null,off=new Set();
+function lab1(n){return n.term.length>30?n.term.slice(0,29)+'…':n.term;}
+function buildTerms(){
+  const T=D.TV[curVer];const gcol={};Object.keys(T.groups).sort().forEach((g,i)=>gcol[g]=PAL[i%PAL.length]);
+  const gfd=$('gf');gfd.innerHTML='Groups: '+Object.keys(T.groups).sort().map(g=>`<label style="color:${gcol[g]}"><input type="checkbox" data-g="${g}" checked> ${esc(T.groups[g])}</label>`).join(' ');
+  off=new Set();gfd.querySelectorAll('input').forEach(c=>c.onchange=()=>{c.checked?off.delete(c.dataset.g):off.add(c.dataset.g);applyStyle();});
+  const nodes=T.nodes.map((n,i)=>{const hollow=n.anchor&&!n.sig;const c=gcol[n.grp]||'#888';
+    const t=el(`<div style="max-width:380px"><b>${esc(n.term)}</b><br>${esc(n.src)} | best q = ${n.q==null?'n/a (no data)':n.q.toExponential(2)}<br>Comparisons: ${esc(n.comps||'none significant')}<br>Hit genes: ${esc(n.hits.split(';').slice(0,40).join(', '))}${n.hits.split(';').length>40?' ...':''}<br>Group ${n.grp}${n.anchor?' | ANCHOR':''}${n.anchor&&!n.sig?' (not significant)':''}</div>`);
+    return {id:i,label:n.anchor?lab1(n):'',title:t,shape:SHAPE[n.src]||'dot',size:hollow?12:8+1.1*(n.nl||1),
+      color:{background:hollow?'rgba(255,255,255,0.0)':c,border:hollow?c:(n.anchor?'#000':c),highlight:{background:c,border:'#000'}},borderWidth:hollow?2:(n.anchor?3:1),shapeProperties:{borderDashes:hollow?[5,4]:false},
+      font:{size:20,color:getComputedStyle(document.body).color,strokeWidth:4,strokeColor:getComputedStyle(document.body).backgroundColor},_g:n.grp,_c:c,_h:hollow};});
+  const edges=T.edges.map((e,i)=>({id:i,from:e[0],to:e[1],width:0.5+4*e[2],color:{color:'#999',opacity:.5},title:`Jaccard ${e[2]}, ${e[3]} shared genes`}));
+  ds1=new vis.DataSet(nodes);de1=new vis.DataSet(edges);
+  if(net1)net1.destroy();
+  net1=new vis.Network($('net1'),{nodes:ds1,edges:de1},{physics:{solver:'forceAtlas2Based',forceAtlas2Based:{gravitationalConstant:-60,springLength:70,centralGravity:0.06},stabilization:{iterations:300}},interaction:{hover:true,tooltipDelay:100}});
+  net1.once('stabilizationIterationsDone',()=>net1.setOptions({physics:false}));
+  net1.on('click',p=>{sel1=p.nodes.length?p.nodes[0]:null;applyStyle();panel1();});
+  sel1=null;setTimeout(applyStyle,0);
+}
+function applyStyle(){
+  const T=D.TV[curVer];let nb=null;
+  if(sel1!=null){nb=new Set([sel1]);T.edges.forEach(e=>{if(e[0]==sel1)nb.add(e[1]);if(e[1]==sel1)nb.add(e[0]);});}
+  ds1.update(T.nodes.map((n,i)=>{const hid=off.has(n.grp);const fade=hid||(nb&&!nb.has(i));return {id:i,hidden:false,opacity:hid?0.05:(fade?0.12:1),label:(n.anchor||(nb&&nb.has(i)))&&!fade?lab1(n):''};}));
+  de1.update(T.edges.map((e,i)=>{const on=nb?(e[0]==sel1||e[1]==sel1):true;const hid=off.has(T.nodes[e[0]].grp)||off.has(T.nodes[e[1]].grp);return {id:i,color:{color:'#999',opacity:hid?0.02:(on?(nb?.9:.5):.05)}};}));
+}
+function panel1(){
+  const s=$('side1');if(sel1==null){s.innerHTML='<b>Click a node</b>';return;}
+  const n=D.TV[curVer].nodes[sel1];
+  s.innerHTML=`<b>${esc(n.term)}</b><br>${esc(n.id)} | ${esc(n.src)} | q = ${n.q==null?'n/a':n.q.toExponential(2)}<br>Group ${n.grp}<br>Comparisons: ${esc(n.comps||'none significant')}<br><button class="act" id="open2">Open gene network filtered to this pathway (${n.genes.length} genes)</button><br><b>Genes (${n.genes.length})</b> ${n.anchor&&D.drill.some(d=>d.id==n.id)?'(full frozen annotation, incl. undetected)':'(measured genes)'}<div class="gl">${n.genes.map(esc).join(', ')}</div><p style="color:var(--mut)">Hit (DE) genes: ${esc(n.hits.split(';').join(', '))}</p>`;
+  $('open2').onclick=()=>{location.hash='view=genes&term='+encodeURIComponent(n.id)+'&ver='+curVer;_lastH=location.hash;route();};
+}
+$('ver').onchange=e=>{curVer=e.target.value;buildTerms();panel1();};
+// ---------- view (ii)
+let net2,ds2,de2,gInit=false,sel2=null,curSet=null;
+const cmp=$('cmp'),flt=$('flt');
+function lfcColor(v){if(v==null)return '#ccc';const t=Math.max(-1.5,Math.min(1.5,v))/1.5;const r=t>0?[214,96,77]:[67,147,195];const a=Math.abs(t);const w=[247,247,247];return 'rgb('+w.map((x,i)=>Math.round(x+(r[i]-x)*a)).join(',')+')';}
+function initGene(){
+  if(gInit)return;gInit=true;
+  D.comps.forEach((c,i)=>cmp.add(new Option(c,i)));cmp.value=1;
+  flt.add(new Option('All drilled genes (union)','ALL'));D.drill.forEach(d=>flt.add(new Option(d.name+' ('+d.genes.length+')','D:'+d.id)));
+  D.TV.b.nodes.forEach(n=>{if(!D.drill.some(d=>d.id==n.id))flt.add(new Option('term: '+n.term,'T:'+n.id));});
+  [cmp,flt,$('hideund'),$('minw')].forEach(c=>c.onchange=render2);
+  render2(true);
+}
+function filterSet(){
+  const v=flt.value;let list=null;
+  if(v.startsWith('D:'))list=D.drill.find(d=>d.id==v.slice(2)).genes;
+  else if(v.startsWith('T:'))list=D.TV.b.nodes.find(n=>n.id==v.slice(2)).genes;
+  return list?new Set(list):null;
+}
+function render2(first){
+  const ci=+cmp.value,set=filterSet();let idxs=[];
+  D.genes.forEach((g,i)=>{if(set&&!set.has(g.g))return;if($('hideund').checked&&!g.det)return;idxs.push(i);});
+  const keep=new Set(idxs);
+  let ed=D.gedges.filter(e=>keep.has(e[0])&&keep.has(e[1]));
+  // auto threshold: lowest weight such that <=3500 edges, unless user moved slider
+  let mw=+$('minw').value;
+  if(first===true||this===flt){let w=2;while(ed.filter(e=>e[2]>=w).length>3500&&w<12)w++;mw=w;$('minw').value=w;}
+  ed=ed.filter(e=>e[2]>=mw);$('minwv').textContent='>= '+mw+' ('+ed.length+' edges)';
+  const nodes=idxs.map(i=>{const g=D.genes[i],d=g.deg[ci],c=g.det?lfcColor(g.lfc[ci]):'rgba(0,0,0,0)';
+    const rows=D.comps.map((n,k)=>`<tr><td>${n}</td><td>${g.lfc[k]==null?'NA':g.lfc[k]}</td><td>${g.fdr[k]==null?'NA':g.fdr[k].toExponential?g.fdr[k].toExponential(1):g.fdr[k]}</td><td>${g.deg[k]?'DEG':''}</td></tr>`).join('');
+    const t=el(`<div style="max-width:360px"><b>${g.g}</b> ${g.det?'':'(not detected)'}<table><tr><th>comp</th><th>log2FC</th><th>FDR</th><th></th></tr>${rows}</table>Drilled pathways: ${esc(g.dp.join('; ')||'none')}<br>Significant terms containing gene: ${g.nsig}${g.tm.length?' ('+esc(g.tm.join('; '))+(g.nsig>g.tm.length?' ...':'')+')':''}</div>`);
+    return {id:i,label:d?'★ '+g.g:'',title:t,shape:'dot',size:d?14:8,color:{background:c,border:d?'#e00':(g.det?'#555':'#999'),highlight:{background:c,border:'#000'}},borderWidth:d?4:1,shapeProperties:{borderDashes:g.det?false:[3,3]},font:{size:13,color:getComputedStyle(document.body).color,strokeWidth:3,strokeColor:getComputedStyle(document.body).backgroundColor}};});
+  const edges=ed.map((e,k)=>({id:k,from:e[0],to:e[1],width:0.3+0.25*e[2],color:{color:'#999',opacity:.35}}));
+  $('gcount').textContent=nodes.length+' genes shown'+(set&&flt.value.startsWith('T:')?' (only genes of the term that are in the drilled gene set)':'');
+  ds2=new vis.DataSet(nodes);de2=new vis.DataSet(edges);curSet={edges:ed};sel2=null;
+  if(net2)net2.destroy();
+  net2=new vis.Network($('net2'),{nodes:ds2,edges:de2},{physics:{solver:'barnesHut',barnesHut:{gravitationalConstant:-3000,springLength:90,avoidOverlap:.2},stabilization:{iterations:250}},interaction:{hover:true,tooltipDelay:100}});
+  net2.once('stabilizationIterationsDone',()=>net2.setOptions({physics:false}));
+  net2.on('click',p=>{sel2=p.nodes.length?p.nodes[0]:null;style2();panel2();});
+  $('side2').innerHTML='<b>Click a gene</b>';
+}
+function style2(){
+  let nb=null;if(sel2!=null){nb=new Set([sel2]);curSet.edges.forEach(e=>{if(e[0]==sel2)nb.add(e[1]);if(e[1]==sel2)nb.add(e[0]);});}
+  const ci=+cmp.value;
+  ds2.update(ds2.getIds().map(i=>{const g=D.genes[i];const f=nb&&!nb.has(i);return {id:i,opacity:f?0.1:1,label:(g.deg[ci]||(nb&&nb.has(i)))&&!f?(g.deg[ci]?'★ ':'')+g.g:''};}));
+  de2.update(curSet.edges.map((e,k)=>({id:k,color:{color:'#999',opacity:nb?((e[0]==sel2||e[1]==sel2)?.9:.03):.35}})));
+}
+function panel2(){
+  const s=$('side2');if(sel2==null){s.innerHTML='<b>Click a gene</b>';return;}
+  const g=D.genes[sel2];const nbs=[];curSet.edges.forEach(e=>{if(e[0]==sel2)nbs.push([D.genes[e[1]].g,e[2]]);if(e[1]==sel2)nbs.push([D.genes[e[0]].g,e[2]]);});nbs.sort((a,b)=>b[1]-a[1]);
+  s.innerHTML=`<b>${g.g}</b> ${g.det?'':'(not detected)'}<br>Drilled pathways: ${esc(g.dp.join('; ')||'none')}<br>DEG in: ${D.comps.filter((c,k)=>g.deg[k]).join(', ')||'none of the six'}<br>Significant terms containing gene: ${g.nsig}<br><b>Shown neighbours (${nbs.length})</b><div class="gl">${nbs.map(x=>esc(x[0])+' ('+x[1]+')').join(', ')}</div>`;
+}
+// ---------- routing
+function route(){
+  const h=new URLSearchParams(location.hash.slice(1));
+  if(h.get('view')=='genes'){show(2);const t=h.get('term');if(t){let v=D.drill.some(d=>d.id==t)?'D:'+t:'T:'+t;if(![...flt.options].some(o=>o.value==v))v='ALL';flt.value=v;render2.call(flt);}}
+  else show(1);
+}
+buildTerms();
+let _lastH=null;window.addEventListener('hashchange',()=>{if(location.hash!==_lastH){_lastH=location.hash;route();}});_lastH=location.hash;route();
+document.addEventListener('keydown',e=>{if(e.key!=='Escape')return;
+  if($('v1').classList.contains('on')){if(sel1!=null){sel1=null;applyStyle();panel1();net1.unselectAll();}}
+  else if(sel2!=null){sel2=null;style2();panel2();net2.unselectAll();}});
+window.__ready=true;
+</script></body></html>

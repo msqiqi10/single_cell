@@ -1,0 +1,20 @@
+slide,section,source_page,title,text,table,image
+1,Main talk,new_01,iNKT cytotoxicity and Gene Ontology,8,0,1
+2,Main talk,new_02,Analysis design and reference mapping,6,1,0
+3,Main talk,new_03,Cytotoxic gene coverage and scoring,7,0,3
+4,Main talk,new_04,Bone marrow: cytotoxic expression and condition effects,10,0,5
+5,Main talk,new_05,Spleen: cytotoxic expression and condition effects,10,0,5
+6,Main talk,new_06,Thymus: cytotoxic expression and condition effects,10,0,5
+7,Main talk,new_07,Bone marrow: GO biological processes: cluster identity,6,0,2
+8,Main talk,new_08,Spleen: GO biological processes: cluster identity,6,0,2
+9,Main talk,new_09,Thymus: GO biological processes: cluster identity,6,0,2
+10,Main talk,new_10,Bone marrow: GO biological processes: condition response,6,0,2
+11,Main talk,new_11,Spleen: GO biological processes: condition response,6,0,2
+12,Main talk,new_12,Thymus: GO biological processes: condition response,6,0,2
+13,Main talk,new_13,Bone marrow: local cytotoxicity along pseudotime,8,0,3
+14,Main talk,new_14,Spleen: local cytotoxicity along pseudotime,8,0,3
+15,Main talk,new_15,Thymus: local cytotoxicity along pseudotime,8,0,3
+16,Main talk,new_16,Core signature changes do not imply a full killing pathway,8,0,2
+17,Main talk,new_17,Cellular components of cytotoxic module genes,6,0,1
+18,Main talk,new_18,Robustness: QC matching and alternative clustering,6,0,1
+19,Main talk,new_19,Evidence summary and next interpretation,6,1,0

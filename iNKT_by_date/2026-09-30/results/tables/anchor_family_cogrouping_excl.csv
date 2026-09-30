@@ -1,0 +1,36 @@
+version,method,family_A,family_B,shares_a_group,groups_A,groups_B
+excl,overlap_louvain,AP-1,MAPK,False,L05,L26;L27;L28;L29
+excl,overlap_louvain,AP-1,IL-17/Th17,False,L05,L17;L25;L30;L31
+excl,overlap_louvain,AP-1,TCR,False,L05,L17
+excl,overlap_louvain,MAPK,IL-17/Th17,False,L26;L27;L28;L29,L17;L25;L30;L31
+excl,overlap_louvain,MAPK,TCR,False,L26;L27;L28;L29,L17
+excl,overlap_louvain,IL-17/Th17,TCR,True,L17;L25;L30;L31,L17
+excl,overlap_louvain,ALL 4 families,,False,L05;L17;L25;L26;L27;L28;L29;L30;L31,
+excl,semantic_only,AP-1,MAPK,False,S11,S15
+excl,semantic_only,AP-1,IL-17/Th17,False,S11,S14
+excl,semantic_only,AP-1,TCR,False,S11,S09
+excl,semantic_only,MAPK,IL-17/Th17,False,S15,S14
+excl,semantic_only,MAPK,TCR,False,S15,S09
+excl,semantic_only,IL-17/Th17,TCR,False,S14,S09
+excl,semantic_only,ALL 4 families,,False,S09;S11;S14;S15,
+excl,golden_fusion,AP-1,MAPK,True,F03,F03
+excl,golden_fusion,AP-1,IL-17/Th17,True,F03,F03
+excl,golden_fusion,AP-1,TCR,True,F03,F03
+excl,golden_fusion,MAPK,IL-17/Th17,True,F03,F03
+excl,golden_fusion,MAPK,TCR,True,F03,F03
+excl,golden_fusion,IL-17/Th17,TCR,True,F03,F03
+excl,golden_fusion,ALL 4 families,,True,F03,
+excl,gnn_semantic,AP-1,MAPK,True,G03,G03
+excl,gnn_semantic,AP-1,IL-17/Th17,True,G03,G03
+excl,gnn_semantic,AP-1,TCR,True,G03,G03
+excl,gnn_semantic,MAPK,IL-17/Th17,True,G03,G03
+excl,gnn_semantic,MAPK,TCR,True,G03,G03
+excl,gnn_semantic,IL-17/Th17,TCR,True,G03,G03
+excl,gnn_semantic,ALL 4 families,,True,G03,
+excl,gnn_only_seed42,AP-1,MAPK,True,Z03,Z03
+excl,gnn_only_seed42,AP-1,IL-17/Th17,True,Z03,Z03
+excl,gnn_only_seed42,AP-1,TCR,True,Z03,Z03
+excl,gnn_only_seed42,MAPK,IL-17/Th17,True,Z03,Z03
+excl,gnn_only_seed42,MAPK,TCR,True,Z03,Z03
+excl,gnn_only_seed42,IL-17/Th17,TCR,True,Z03,Z03
+excl,gnn_only_seed42,ALL 4 families,,True,Z03,

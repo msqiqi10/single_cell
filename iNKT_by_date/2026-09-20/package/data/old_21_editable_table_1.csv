@@ -1,0 +1,31 @@
+Pathway / reaction,Legacy source,Old FDR,T2-up FDR,Ctrl-up FDR,Current overlapping genes
+"hsa05020 Prion disease - Homo sapiens
+(human)","KEGG
+2021
+HUMAN",0.046,2e-07,1,"T2: Cox6c, Hspa1b, Ndufa13 +7 more
+Ctrl: Hspa8"
+"STIP1(HOP) binds HSP90 and
+HSP70:HSP40:nascent protein","Reactome
+2021",4e-06,0.074,0.0015,"T2: Hspa1b
+Ctrl: Dnaja1, Hspa8"
+ATP hydrolysis by HSP70,"Reactome
+2021",0.0018,0.074,0.0015,"T2: Hspa1b
+Ctrl: Dnaja1, Hspa8"
+HSP70 binds to HSP40:nascent protein,"Reactome
+2021",0.0018,0.074,0.0015,"T2: Hspa1b
+Ctrl: Dnaja1, Hspa8"
+HSF1-mediated gene expression,"Reactome
+2021",0.0027,0.074,0.0015,"T2: Hspa1b
+Ctrl: Hspa8, Hsph1"
+"ATP binding to HSP90 triggers
+conformation change","Reactome
+2021",0.0014,0.074,0.023,"T2: Hspa1b
+Ctrl: Hspa8"
+"FKBP4 binds
+HSP90:ATP:STIP1:HSP70:nascent protein","Reactome
+2021",0.0018,0.074,0.024,"T2: Hspa1b
+Ctrl: Hspa8"
+"FKBP5 binds
+HSP90:ATP:STIP1:HSP70:nascent protein","Reactome
+2021",0.0018,0.074,0.024,"T2: Hspa1b
+Ctrl: Hspa8"

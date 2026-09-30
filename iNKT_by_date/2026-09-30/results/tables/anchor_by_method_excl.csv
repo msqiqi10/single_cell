@@ -1,0 +1,13 @@
+term_id,term,source,anchor_family,significant,best_q,n_measured_genes,overlap_louvain,semantic_only,golden_fusion,gnn_semantic,gnn_only_seed42,overlap_louvain_group_rep,semantic_only_group_rep,golden_fusion_group_rep,gnn_semantic_group_rep
+GO:0035976,transcription factor AP-1 complex,GO CC anchor,AP-1,True,0.0001698621700488,6,L05,S11,F03,G03,Z03,transcription factor AP-1 complex,transcription factor AP-1 complex,Cardiac muscle contraction,Cardiac muscle contraction
+KEGG:IL-17 signaling pathway,IL-17 signaling pathway,KEGG,IL-17/Th17,False,0.0711618686209891,51,L25,S14,F03,G03,Z03,IL-17 signaling pathway,IL-17 signaling pathway,Cardiac muscle contraction,Cardiac muscle contraction
+KEGG:TNF signaling pathway,TNF signaling pathway,KEGG,TNF,False,0.5605397363776559,78,L25,S09,F03,G03,Z03,IL-17 signaling pathway,Retrograde endocannabinoid signaling,Cardiac muscle contraction,Cardiac muscle contraction
+KEGG:MAPK signaling pathway,MAPK signaling pathway,KEGG,MAPK,False,0.6357748197511948,159,L26,S15,F03,G03,Z03,MAPK signaling pathway,MAPK signaling pathway,Cardiac muscle contraction,Cardiac muscle contraction
+GO:0000165,MAPK cascade,GO BP,MAPK,False,1.0,114,L27,S15,F03,G03,Z03,MAPK cascade,MAPK signaling pathway,Cardiac muscle contraction,Cardiac muscle contraction
+GO:0007254,JNK cascade,GO BP,MAPK,False,1.0,30,L27,S15,F03,G03,Z03,MAPK cascade,MAPK signaling pathway,Cardiac muscle contraction,Cardiac muscle contraction
+GO:0038066,p38MAPK cascade,GO BP,MAPK,False,1.0,22,L28,S15,F03,G03,Z03,p38MAPK cascade,MAPK signaling pathway,Cardiac muscle contraction,Cardiac muscle contraction
+GO:0070371,ERK1 and ERK2 cascade,GO BP,MAPK,False,1.0,22,L29,S15,F03,G03,Z03,ERK1 and ERK2 cascade,MAPK signaling pathway,Cardiac muscle contraction,Cardiac muscle contraction
+GO:0072538,T-helper 17 type immune response,GO BP,IL-17/Th17,False,1.0,16,L30,S14,F03,G03,Z03,T-helper 17 type immune response,IL-17 signaling pathway,Cardiac muscle contraction,Cardiac muscle contraction
+KEGG:T cell receptor signaling pathway,T cell receptor signaling pathway,KEGG,TCR,False,1.0,92,L17,S09,F03,G03,Z03,Natural killer cell mediated cytotoxicity,Retrograde endocannabinoid signaling,Cardiac muscle contraction,Cardiac muscle contraction
+KEGG:Th17 cell differentiation,Th17 cell differentiation,KEGG,IL-17/Th17,False,1.0,79,L17,S14,F03,G03,Z03,Natural killer cell mediated cytotoxicity,IL-17 signaling pathway,Cardiac muscle contraction,Cardiac muscle contraction
+GO:0032620,interleukin-17 production,GO BP,IL-17/Th17,False,,0,L31,S14,F03,G03,Z03,interleukin-17 production,IL-17 signaling pathway,Cardiac muscle contraction,Cardiac muscle contraction

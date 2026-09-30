@@ -1,0 +1,7 @@
+{
+  "cell_sha256": "ccd857b4033f0574d7643dd219e6a4dac8b7d958f677c939654708407a6d5363",
+  "source_sha256": "c3d7188282b5c93303ce0c087a5fd31e522260207e556f72c52830e7f43a86b9",
+  "file_sha256": "128c7ca0789d0b4c08197f27a414697582e054cf9563e2cf1a0ec5f2724ca434",
+  "n_genes": 10670,
+  "method": "Wilcoxon tie-corrected BH; full log1p raw; T2 vs Ctrl"
+}

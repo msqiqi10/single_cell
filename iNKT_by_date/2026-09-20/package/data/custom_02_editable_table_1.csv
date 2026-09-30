@@ -1,0 +1,5 @@
+Population / scope,Observation,Interpretation
+Bone marrow C4,Core score +0.086; q=0.025. Gzmb detection 29% to 44%.,Selective Gzmb-associated effector transcriptional shift.
+Spleen C3,Core score -0.023; q=0.0015. Prf1 and Nkg7 decrease.,Small reduction in effector-associated transcripts.
+Both populations,T2-up genes enriched for oxidative phosphorylation.,Respiration-related gene expression shifts; no metabolic flux measured.
+Limits,Broader E1 signature and killing-related GO are not significant.,No demonstrated change in killing capacity or animal-level treatment effect.

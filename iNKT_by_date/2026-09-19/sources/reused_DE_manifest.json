@@ -1,0 +1,172 @@
+[
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/tissue__bone_marrow.csv.gz",
+    "sha256": "9a08da8c87af913c1d331c86455892a12daa08ce3797ca09a33276f1a2aff05c",
+    "copied_to": "results/de/tissue__bone_marrow.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C0__bone_marrow.csv.gz",
+    "sha256": "21ca04e8e8c64e50bc0af24a25dc724342fb4ee1d4ca848ce4c47a4102932ac6",
+    "copied_to": "results/de/cluster_tissue__C0__bone_marrow.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C1__bone_marrow.csv.gz",
+    "sha256": "53c9d404ddcb4272f05c99037d28745ecabc9d828ad95f89ef4a00170928bbfe",
+    "copied_to": "results/de/cluster_tissue__C1__bone_marrow.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C2__bone_marrow.csv.gz",
+    "sha256": "33cf4a35a4fa0759e471f2f9d06408ffdde19b1cffb7ecdf6fae1a228aad6141",
+    "copied_to": "results/de/cluster_tissue__C2__bone_marrow.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C3__bone_marrow.csv.gz",
+    "sha256": "f64c8d7c5af4d352efbbb6ae199bb8ad73b56e5561020d93ab0a8b0568761dbe",
+    "copied_to": "results/de/cluster_tissue__C3__bone_marrow.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C4__bone_marrow.csv.gz",
+    "sha256": "b963daea568e1ec6afa6d901d9f07a12330cff9fc3ed04dd36a3a74e82f09dc5",
+    "copied_to": "results/de/cluster_tissue__C4__bone_marrow.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C5-1__bone_marrow.csv.gz",
+    "sha256": "44051c6cd5bc9e80bb9a016198055930109e7aa7ce9c9a463f0c2296b89c50ea",
+    "copied_to": "results/de/cluster_tissue__C5-1__bone_marrow.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C5-2__bone_marrow.csv.gz",
+    "sha256": "166b08ef75d51836905cf8e032780a437a2e82093c95931039606bec4c6f23c3",
+    "copied_to": "results/de/cluster_tissue__C5-2__bone_marrow.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/tissue__spleen.csv.gz",
+    "sha256": "c364dff69df1dc37cc027d551b1ece64b60110ff24e0c7ff99fbbb937b5e6e07",
+    "copied_to": "results/de/tissue__spleen.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C0__spleen.csv.gz",
+    "sha256": "9e0b01a1418cf5e40acda1f577fe8c28fab1adfa1bda981d910ee6e4ebb35b0c",
+    "copied_to": "results/de/cluster_tissue__C0__spleen.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C1__spleen.csv.gz",
+    "sha256": "887b269920313aeba246e95cd240694d2ec7e44a66c9a6de723b25964fe5fd9e",
+    "copied_to": "results/de/cluster_tissue__C1__spleen.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C2__spleen.csv.gz",
+    "sha256": "d94e5ce733f146de31cf36e1c65851d5892b52fce119c48b550c83b8849326b3",
+    "copied_to": "results/de/cluster_tissue__C2__spleen.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C3__spleen.csv.gz",
+    "sha256": "95dc7a25b0137cb12b44903411cc80720513742ae882ab56dea95a6bdc187f0b",
+    "copied_to": "results/de/cluster_tissue__C3__spleen.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C4__spleen.csv.gz",
+    "sha256": "ee92481f080f778c77e0a7f2fe76fb4733a8878caf664a33f056d847bfb8d952",
+    "copied_to": "results/de/cluster_tissue__C4__spleen.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C5-1__spleen.csv.gz",
+    "sha256": "9af55b7fc6da85f8a016684d4cbc2740426e77c5f7ba7aa78d2275720d3930e1",
+    "copied_to": "results/de/cluster_tissue__C5-1__spleen.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C5-2__spleen.csv.gz",
+    "sha256": "708e0de448dd4f096f6313cec974bb1a1d283b0854548c90b17bfaceac29c49a",
+    "copied_to": "results/de/cluster_tissue__C5-2__spleen.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/tissue__thymus.csv.gz",
+    "sha256": "440f8610b1bf247ea2ce4b1b6566668258851416c6fc7436bb60aaf3475e6d98",
+    "copied_to": "results/de/tissue__thymus.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C2__thymus.csv.gz",
+    "sha256": "d75686659dad7c081d7cf5fbdfba1a0989c179a69b0d3ac168f0757da6008501",
+    "copied_to": "results/de/cluster_tissue__C2__thymus.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C6__thymus.csv.gz",
+    "sha256": "15eaee83371e33b553637c9b245fd49d78de0363fb8bcf4847a731f6370ba8ad",
+    "copied_to": "results/de/cluster_tissue__C6__thymus.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/cluster_tissue__C7__thymus.csv.gz",
+    "sha256": "deb422c06c7a494dd0333ca68a8d2fc1500272f143b1629312a129d1b4130ad6",
+    "copied_to": "results/de/cluster_tissue__C7__thymus.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/stable__bone_marrow_S0.csv.gz",
+    "sha256": "51447dfa23bde00423dfdf31e7c5d2d7ef0d5644422d46f6c76028e00a313a22",
+    "copied_to": "results/de/stable__bone_marrow_S0.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/stable__bone_marrow_S1.csv.gz",
+    "sha256": "e7051b56e4e0f626b3dd817a2b6fb9878a43127edb4293da4873de9f42c43114",
+    "copied_to": "results/de/stable__bone_marrow_S1.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/stable__bone_marrow_S2.csv.gz",
+    "sha256": "5ee61f6dacdf65f9a326c1e65020d19c7440c5362fa3ee0ccb58b004f9c10410",
+    "copied_to": "results/de/stable__bone_marrow_S2.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/stable__bone_marrow_S3.csv.gz",
+    "sha256": "d7433317f707a54f0b436f3fabf84c2dfe5ec4a6c9a0c14f843f73ccaa04596c",
+    "copied_to": "results/de/stable__bone_marrow_S3.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/stable__bone_marrow_S4.csv.gz",
+    "sha256": "6a8210452c38d1749cd677de0677c9c7bcfe3637b1763e2aad79821fbd6b4c93",
+    "copied_to": "results/de/stable__bone_marrow_S4.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/stable__spleen_S0.csv.gz",
+    "sha256": "be2c4ef366ce7f21e6a39eb0a4505e4e69877974accc5890aabf98c09ab217e2",
+    "copied_to": "results/de/stable__spleen_S0.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/stable__spleen_S1.csv.gz",
+    "sha256": "bbde21a491c17e2fe83a605dd94d9156f86bd06fc05157a0319449f75f745656",
+    "copied_to": "results/de/stable__spleen_S1.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/stable__spleen_S2.csv.gz",
+    "sha256": "67959d6a3d8eb1b2353aec2564e217f4f4ae0d8259b1721f576eb3d5a92f6245",
+    "copied_to": "results/de/stable__spleen_S2.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/stable__spleen_S3.csv.gz",
+    "sha256": "0abd45e32135b5a29904658f9cae4a4d6689e9fdcd14f4d3294517b0b45e338d",
+    "copied_to": "results/de/stable__spleen_S3.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/stable__thymus_S0.csv.gz",
+    "sha256": "4e7700c4034293456baddc35980b8d4b6e984877fedc48d45302b037cc7ed14f",
+    "copied_to": "results/de/stable__thymus_S0.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/stable__thymus_S1.csv.gz",
+    "sha256": "7d26c0a8ab7f751f4c8b04de893151cf3182e76c2ef810da13031453156d568c",
+    "copied_to": "results/de/stable__thymus_S1.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/stable__thymus_S2.csv.gz",
+    "sha256": "1584aa10a5a42bef24fc9a3262967919356c92cb9a1e345f41a7446fee9927e9",
+    "copied_to": "results/de/stable__thymus_S2.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/stable__thymus_S3.csv.gz",
+    "sha256": "75cb1af34b88071a08685b371d0648f812730ea50d42879d691e6aef0dc6fd9e",
+    "copied_to": "results/de/stable__thymus_S3.csv.gz"
+  },
+  {
+    "file": "output/iNKT_meeting_followup_20260905/de/stable__thymus_S5.csv.gz",
+    "sha256": "38bc7d22bf50df0a1ac1901011f9c48d63dccb7d477574893d33ab6fd24d8506",
+    "copied_to": "results/de/stable__thymus_S5.csv.gz"
+  }
+]

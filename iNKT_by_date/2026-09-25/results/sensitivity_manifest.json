@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "GO_comparisons": 3,
+  "GO_tests": 26762,
+  "removed_genes": 151,
+  "GO_rule": "T2-up robust list; remove ^(Rpl|Rps|Hsp|Dnaj) from query AND expressed background; rebuild term size5..500 and BH by unit/namespace",
+  "QC_rule": "20 fixed seeds0..19, equal cell counts within combined quartile bins of total counts, detected genes, mitochondrial percentage",
+  "QC_effect": "difference in mean primary log1p expression, not log2FC; draw range not biological CI; no new inferential P values",
+  "note": "Sensitivity cannot separate true environmental stress from dissociation or batch; main analysis unchanged"
+}

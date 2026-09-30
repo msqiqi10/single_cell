@@ -1,0 +1,14 @@
+{
+  "upstream_commit": "a85654b6b853ddd60e59efa7f3bb769832d687b0",
+  "upstream_sha256": "6cf59f57e5e9916020c1c6e2a11741babf9922acfcbc79e50d39d85d38a471bf",
+  "adapter_sha256": "3564933e5dc469d0b76c46cbd861acde1af366c3ad646130b3ea509add8c0120",
+  "changes": [
+    "remove unused gensim dependency",
+    "unique and disjoint validation/test negative edges",
+    "training negatives exclude ALL true edges including held-out positives and held-out negatives",
+    "test evaluation only at final validation-selected checkpoint",
+    "export actual splits and semantic-only baseline",
+    "non-pickled Unicode ID arrays"
+  ],
+  "architecture": "upstream GraphSageEncoder unchanged; 256 hidden, 2 layers, dropout0.1, Adam1e-3,120 epochs"
+}

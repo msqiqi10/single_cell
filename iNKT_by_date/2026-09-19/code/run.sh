@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd /home/zzz0054/bio3
+out=iNKT_by_date/2026-09-19
+export CUDA_VISIBLE_DEVICES=""
+export OMP_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1 MKL_NUM_THREADS=1 NUMEXPR_NUM_THREADS=1
+rm -f "$out/results/logs/run.exit"
+trap 'echo $? > "$out/results/logs/run.exit"' EXIT
+.venv/bin/python -u "$out/code/test_analysis.py" > "$out/results/logs/tests.log" 2>&1
+.venv/bin/python -u "$out/code/analyze.py" all > "$out/results/logs/analysis.log" 2>&1
+.venv/bin/python -u "$out/code/summarize.py" > "$out/results/logs/summary.log" 2>&1
+.venv/bin/python -u "$out/code/presentation.py" > "$out/results/logs/presentation.log" 2>&1
+.venv/bin/python -u "$out/code/verify.py" > "$out/results/logs/verification.log" 2>&1

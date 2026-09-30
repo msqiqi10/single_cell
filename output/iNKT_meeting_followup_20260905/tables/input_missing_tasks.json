@@ -1,0 +1,37 @@
+{
+  "velocity": {
+    "status": "blocked_missing_spliced_unspliced",
+    "layers": [
+      "counts"
+    ],
+    "searched": "/home/zzz0054/bio3/input/iNKT",
+    "required": "matching spliced/unspliced counts or BAM/FASTQ plus reference annotations",
+    "existing_dpt_is_velocity": false
+  },
+  "toxicity": {
+    "status": "blocked_missing_PMID_inventory",
+    "required": "emailed liver/kidney toxicity PMID list or local path"
+  },
+  "sample_metadata": {
+    "condition_samples": {
+      "Ctrl": {
+        "Ctrl_Thymus": 1372,
+        "Ctrl_BM": 3379,
+        "Ctrl_Spleen": 3422,
+        "T2_Thymus": 0,
+        "T2_BM": 0,
+        "T2_Spleen": 0
+      },
+      "T2": {
+        "Ctrl_Thymus": 0,
+        "Ctrl_BM": 0,
+        "Ctrl_Spleen": 0,
+        "T2_Thymus": 1257,
+        "T2_BM": 2731,
+        "T2_Spleen": 3371
+      }
+    },
+    "technical_batch_column_present": false,
+    "animal_replicate_column_present": false
+  }
+}

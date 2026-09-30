@@ -1,0 +1,9 @@
+unit_id,scope,tissue,cluster,n_tumor,n_control,tested_genes,main_T2_up,main_Control_up,paper_T2_up,paper_Control_up,inference_level
+cluster_tissue__C0__bone_marrow,cluster_tissue,bone_marrow,C0,2090,2533,10670,274,318,166,174,pooled_sample_cell_level_exploratory
+cluster_tissue__C5-1__spleen,cluster_tissue,spleen,C5-1,345,239,10670,42,27,286,279,pooled_sample_cell_level_exploratory
+cluster_tissue__C5-2__bone_marrow,cluster_tissue,bone_marrow,C5-2,96,104,10670,16,3,217,302,pooled_sample_cell_level_exploratory
+cluster_tissue__C6__thymus,cluster_tissue,thymus,C6,1087,1227,10670,140,164,188,195,pooled_sample_cell_level_exploratory
+global,global,all,ALL,7359,8173,10670,500,568,139,99,pooled_sample_cell_level_exploratory
+tissue__bone_marrow,tissue,bone_marrow,ALL,2731,3379,10670,350,368,145,155,pooled_sample_cell_level_exploratory
+tissue__spleen,tissue,spleen,ALL,3371,3422,10670,356,508,186,134,pooled_sample_cell_level_exploratory
+tissue__thymus,tissue,thymus,ALL,1257,1372,10670,195,157,221,162,pooled_sample_cell_level_exploratory

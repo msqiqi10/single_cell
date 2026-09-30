@@ -1,0 +1,12 @@
+module,gene,measured,n_detected
+PAGER_core,Prf1,True,2715
+PAGER_core,Gzma,True,938
+PAGER_core,Gzmb,True,2748
+PAGER_E1,Prf1,True,2715
+PAGER_E1,Ctla2a,True,9221
+PAGER_E1,Gzma,True,938
+PAGER_E1,Gzmb,True,2748
+prior_effector,Prf1,True,2715
+prior_effector,Gzma,True,938
+prior_effector,Gzmb,True,2748
+prior_effector,Nkg7,True,14132

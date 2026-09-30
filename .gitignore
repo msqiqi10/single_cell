@@ -1,0 +1,15 @@
+# OS / editor
+.DS_Store
+
+# Python / Node
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.ipynb_checkpoints/
+
+# Large binary data (see DATA_NOT_IN_GIT.md)
+# GitHub rejects files >100 MB and warns above 50 MB. Git cannot ignore by size,
+# so the three >50 MB files are all *.h5ad and are covered by this pattern.
+*.h5ad
+*.zip

@@ -1,0 +1,15 @@
+{
+  "full_DE_rows": 85360,
+  "unique_comparisons": 8,
+  "genes_per_comparison": 10670,
+  "same_feature_universe": true,
+  "exported_gene_lists": 32,
+  "all_list_lengths_match": true,
+  "no_duplicate_gene_within_comparison": true,
+  "focus_missing_genes": [
+    "Ccr6",
+    "Il17a",
+    "Il17f"
+  ],
+  "raw_data_or_existing_PPT_modified": false
+}

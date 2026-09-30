@@ -1,0 +1,19 @@
+11:10:13 Scoring modules
+11:10:46 Within-tissue marker DE bone_marrow
+11:11:05 Within-tissue marker DE spleen
+11:11:20 Within-tissue marker DE thymus
+/home/zzz0054/bio3/.venv/lib/python3.12/site-packages/scanpy/tools/_rank_genes_groups.py:380: RuntimeWarning: invalid value encountered in divide
+  scores[group_index, :] = (
+/home/zzz0054/bio3/.venv/lib/python3.12/site-packages/scanpy/tools/_rank_genes_groups.py:380: RuntimeWarning: invalid value encountered in divide
+  scores[group_index, :] = (
+/home/zzz0054/bio3/.venv/lib/python3.12/site-packages/scanpy/tools/_rank_genes_groups.py:380: RuntimeWarning: invalid value encountered in divide
+  scores[group_index, :] = (
+/home/zzz0054/bio3/.venv/lib/python3.12/site-packages/scanpy/tools/_rank_genes_groups.py:380: RuntimeWarning: invalid value encountered in divide
+  scores[group_index, :] = (
+/home/zzz0054/bio3/.venv/lib/python3.12/site-packages/scanpy/tools/_rank_genes_groups.py:380: RuntimeWarning: invalid value encountered in divide
+  scores[group_index, :] = (
+11:12:00 GO tests: 783045, q_family <= .05: 4944
+11:12:00 Tissue-specific diffusion pseudotime bone_marrow
+11:12:04 Tissue-specific diffusion pseudotime spleen
+11:12:09 Tissue-specific diffusion pseudotime thymus
+11:12:12 COMPLETE all

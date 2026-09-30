@@ -1,0 +1,10 @@
+test_bh_matches_known_values (__main__.AnalysisTests.test_bh_matches_known_values) ... ok
+test_empty_query_has_no_false_positive (__main__.AnalysisTests.test_empty_query_has_no_false_positive) ... ok
+test_ontology_avoids_regulates_and_obsolete (__main__.AnalysisTests.test_ontology_avoids_regulates_and_obsolete) ... ok
+test_ora_uses_measured_universe_and_tests_zero_hits (__main__.AnalysisTests.test_ora_uses_measured_universe_and_tests_zero_hits) ... ok
+test_qc_match_balanced_unique_reproducible (__main__.AnalysisTests.test_qc_match_balanced_unique_reproducible) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.017s
+
+OK

@@ -1,0 +1,42 @@
+{
+  "all": {
+    "n_significant_terms_before_collapse": 147,
+    "n_nodes_before_collapse": 159,
+    "n_nodes": 112,
+    "n_merged_away": 47,
+    "n_edges": 231,
+    "n_isolates": 32,
+    "n_anchor_nodes": 12,
+    "n_anchor_significant": 1,
+    "groups": {
+      "overlap_louvain": 49,
+      "semantic_only": 15,
+      "golden_fusion": 2,
+      "gnn_semantic": 15,
+      "gnn_only_seed42": 15
+    },
+    "k_gnn": 15,
+    "k_sem": 15,
+    "k_fusion": 2
+  },
+  "excl": {
+    "n_significant_terms_before_collapse": 82,
+    "n_nodes_before_collapse": 94,
+    "n_nodes": 66,
+    "n_merged_away": 28,
+    "n_edges": 157,
+    "n_isolates": 21,
+    "n_anchor_nodes": 12,
+    "n_anchor_significant": 1,
+    "groups": {
+      "overlap_louvain": 31,
+      "semantic_only": 15,
+      "golden_fusion": 3,
+      "gnn_semantic": 4,
+      "gnn_only_seed42": 3
+    },
+    "k_gnn": 4,
+    "k_sem": 15,
+    "k_fusion": 3
+  }
+}

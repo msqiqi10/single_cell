@@ -1,0 +1,7 @@
+slide,unit,direction,tested_genes,n_input,n_tested_pathways,n_input_in_any_tested_KEGG,n_input_outside_tested_KEGG,n_input_in_display_top10,n_significant_KEGG_FDR05,n_robust_FDR05_abslogFC025
+26,cluster_tissue__C0__bone_marrow,Tumor,10670,166,298,43,123,22.0,0,274
+26,cluster_tissue__C0__bone_marrow,Control,10670,174,298,74,100,,0,318
+27,cluster_tissue__C5-1__spleen,Tumor,10670,286,298,89,197,24.0,0,42
+27,cluster_tissue__C5-1__spleen,Control,10670,279,298,94,185,,0,27
+28,cluster_tissue__C6__thymus,Tumor,10670,188,298,59,129,16.0,0,140
+28,cluster_tissue__C6__thymus,Control,10670,195,298,76,119,,0,164

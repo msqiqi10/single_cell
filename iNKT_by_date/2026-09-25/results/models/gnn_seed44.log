@@ -1,0 +1,19 @@
+/Users/zeruzhang/Documents/Codex/2026-09-24/users-zeruzhang-downloads-zoom-0923/local_inkt/src/gnn_mouse_holdout.py:116: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /Users/runner/work/pytorch/pytorch/aten/src/ATen/Context.cpp:855.)
+  return torch.sparse_coo_tensor(
+device=cpu nodes=97 edges(train/val/test)=463/57/57
+epoch=001 loss=1.3905 val_loss=1.3526 val_auc=0.9003 val_ap=0.9227 test_auc=nan test_ap=nan
+epoch=010 loss=0.8373 val_loss=0.8975 val_auc=0.9434 val_ap=0.9463 test_auc=nan test_ap=nan
+epoch=020 loss=0.8121 val_loss=0.8457 val_auc=0.9397 val_ap=0.9446 test_auc=nan test_ap=nan
+epoch=030 loss=0.6993 val_loss=0.8523 val_auc=0.9381 val_ap=0.9453 test_auc=nan test_ap=nan
+epoch=040 loss=0.7268 val_loss=0.8298 val_auc=0.9514 val_ap=0.9549 test_auc=nan test_ap=nan
+epoch=050 loss=0.7288 val_loss=0.8061 val_auc=0.9591 val_ap=0.9576 test_auc=nan test_ap=nan
+epoch=060 loss=0.6688 val_loss=0.7718 val_auc=0.9655 val_ap=0.9639 test_auc=nan test_ap=nan
+epoch=070 loss=0.6165 val_loss=0.7416 val_auc=0.9695 val_ap=0.9664 test_auc=nan test_ap=nan
+epoch=080 loss=0.5640 val_loss=0.7006 val_auc=0.9720 val_ap=0.9689 test_auc=nan test_ap=nan
+epoch=090 loss=0.5557 val_loss=0.6391 val_auc=0.9812 val_ap=0.9776 test_auc=nan test_ap=nan
+epoch=100 loss=0.5566 val_loss=0.5633 val_auc=0.9858 val_ap=0.9833 test_auc=nan test_ap=nan
+epoch=110 loss=0.5186 val_loss=0.5723 val_auc=0.9828 val_ap=0.9809 test_auc=nan test_ap=nan
+epoch=120 loss=0.4258 val_loss=0.5623 val_auc=0.9831 val_ap=0.9810 test_auc=nan test_ap=nan
+saved embeddings: runs/meeting_followup/models/gnn_seed44.npz
+wrote metrics: runs/meeting_followup/models/gnn_seed44.csv
+wrote summary: runs/meeting_followup/models/gnn_seed44.summary.json

@@ -1,0 +1,22 @@
+gene,go_id,term,n_measured_genes
+Ctla2a,GO:0030425,dendrite,391
+Ctla2a,GO:0097447,dendritic tree,391
+Gzma,GO:0005764,lysosome,442
+Gzma,GO:0000323,lytic vacuole,442
+Gzma,GO:0044194,cytolytic granule,14
+Gzmb,GO:0005769,early endosome,317
+Gzmb,GO:0005764,lysosome,442
+Gzmb,GO:0000323,lytic vacuole,442
+Gzmb,GO:0044194,cytolytic granule,14
+Nkg7,GO:0005774,vacuolar membrane,308
+Nkg7,GO:0005764,lysosome,442
+Nkg7,GO:0005765,lysosomal membrane,262
+Nkg7,GO:0098852,lytic vacuole membrane,262
+Nkg7,GO:0000323,lytic vacuole,442
+Nkg7,GO:0101004,cytolytic granule membrane,5
+Nkg7,GO:0044194,cytolytic granule,14
+Prf1,GO:0005764,lysosome,442
+Prf1,GO:0000323,lytic vacuole,442
+Prf1,GO:0001772,immunological synapse,45
+Prf1,GO:0031904,endosome lumen,10
+Prf1,GO:0044194,cytolytic granule,14

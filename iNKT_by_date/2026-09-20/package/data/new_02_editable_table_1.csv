@@ -1,0 +1,6 @@
+Analysis,Reference,Input / definition,Implementation
+Cytotoxicity,PAGER Fig. 5C/D,"Core: Prf1, Gzma, Gzmb; E1: +Ctla2a",Mean log1p expression; matched-control score sensitivity
+GO cluster identity,GAFA Fig. 4c,Cluster vs rest within each tissue,"Wilcoxon, gene BH <= .05 and log2FC >= .25"
+GO treatment response,GAFA functional comparison,T2-up and Ctrl-up genes tested separately,Hypergeometric; full eligible GO BP/MF/CC families
+Local trajectories,PAGER Fig. 5D,Recompute diffusion map on tissue-specific graphs,Precursor-rooted DPT; 20 shared bins; 3-root sensitivity
+Robustness,Adaptation to this dataset,Stable clusters; five QC-matched resamples,Effects and direction consistency; no animal replication

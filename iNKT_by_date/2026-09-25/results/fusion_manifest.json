@@ -1,0 +1,24 @@
+{
+  "method": "Local mouse GO adaptation of GOLDEN description plus adjacency fusion",
+  "upstream_commit": "94f9d367483ccb4872630ebaa3b611b11220d9a6",
+  "formula": "concat(alpha * L2(description embedding), (1-alpha) * raw weighted adjacency)",
+  "alpha": 0.5,
+  "clustering": "Ward agglomerative, Euclidean",
+  "k": 2,
+  "k_selection": "maximum silhouette for k=2..12 at fixed alpha=0.5; descriptive exploratory selection, no biological label tuning",
+  "semantic_model": {
+    "repository": "sentence-transformers/all-MiniLM-L6-v2",
+    "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+    "local_dir": "/Users/zeruzhang/Documents/Codex/2026-09-24/users-zeruzhang-downloads-zoom-0923/local_inkt/models/all-MiniLM-L6-v2",
+    "purpose": "Local embeddings of public GO definitions; no private study data uploaded"
+  },
+  "nodes": 97,
+  "embedding_dimensions": 384,
+  "adaptations": [
+    "mouse frozen GO definitions and measured gene members replace unavailable PAGER metadata",
+    "Jaccard>=0.25 and shared>=3 replaces unavailable m-type network; not mathematically identical to original m-type",
+    "explicit common GO order, retained isolates, correct label-to-node mapping",
+    "k sweep and alpha sensitivity recorded, rather than externally assumed number of modules"
+  ],
+  "not_claimed": "Unmodified official GOLDEN reproduction, gold-standard biological modules, pathway activation, or causal edges"
+}

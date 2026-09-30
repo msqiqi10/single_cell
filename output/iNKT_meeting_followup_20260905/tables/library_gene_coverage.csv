@@ -1,0 +1,2139 @@
+library,term,n_source_genes,n_mapped_measured,coverage
+Reactome_2022_Human,2-LTR Circle Formation R-HSA-164843,8,7,0.875
+Reactome_2022_Human,GAG Synthesis Requires Tetrasaccharide Linker Sequence R-HSA-1971475,26,11,0.4230769230769231
+Reactome_2022_Human,ABC Transporter Disorders R-HSA-5619084,77,62,0.8051948051948052
+Reactome_2022_Human,ABC Transporters In Lipid Homeostasis R-HSA-1369062,18,8,0.4444444444444444
+Reactome_2022_Human,ABC-family Proteins Mediated Transport R-HSA-382556,102,77,0.7549019607843137
+Reactome_2022_Human,ADORA2B Mediated Anti-Inflammatory Cytokine Production R-HSA-9660821,131,32,0.24427480916030533
+Reactome_2022_Human,ADP Signaling Thru P2Y Purinoceptor 1 R-HSA-418592,25,12,0.48
+Reactome_2022_Human,ADP Signaling Thru P2Y Purinoceptor 12 R-HSA-392170,22,10,0.45454545454545453
+Reactome_2022_Human,AKT Phosphorylates Targets In Cytosol R-HSA-198323,14,13,0.9285714285714286
+Reactome_2022_Human,AKT Phosphorylates Targets In Nucleus R-HSA-198693,10,9,0.9
+Reactome_2022_Human,ALK Mutants Bind TKIs R-HSA-9700645,12,9,0.75
+Reactome_2022_Human,AMPK Inhibits chREBP Transcriptional Activity R-HSA-163680,8,5,0.625
+Reactome_2022_Human,APC Truncation Mutants Have Impaired AXIN Binding R-HSA-5467337,14,13,0.9285714285714286
+Reactome_2022_Human,APC-Cdc20 Mediated Degradation Of Nek2A R-HSA-179409,26,25,0.9615384615384616
+Reactome_2022_Human,APC/C-mediated Degradation Of Cell Cycle Proteins R-HSA-174143,87,82,0.9425287356321839
+Reactome_2022_Human,APC/C:Cdc20 Mediated Degradation Of Cyclin B R-HSA-174048,24,24,1.0
+Reactome_2022_Human,APC/C:Cdc20 Mediated Degradation Of Securin R-HSA-174154,67,64,0.9552238805970149
+Reactome_2022_Human,APC/C:Cdc20 Mediated Degradation Of Mitotic Proteins R-HSA-176409,75,70,0.9333333333333333
+Reactome_2022_Human,APC/C:Cdh1 Mediated Degradation Of Cdc20 And APC/C:Cdh1 Targets In Late Mitosis/Early G1 R-HSA-174178,73,70,0.958904109589041
+Reactome_2022_Human,APC:Cdc20 Mediated Degradation Of Cell Cycle Proteins Before Cycle Checkpoint Satisfied R-HSA-179419,73,69,0.9452054794520548
+Reactome_2022_Human,APEX1-Independent Resolution Of AP Sites Via Single Nucleotide Replacement Pathway R-HSA-5649702,7,7,1.0
+Reactome_2022_Human,APOBEC3G Mediated Resistance To HIV-1 R-HSA-180689,6,4,0.6666666666666666
+Reactome_2022_Human,ARMS-mediated Activation R-HSA-170984,7,5,0.7142857142857143
+Reactome_2022_Human,ATF4 Activates Genes In Response To Endoplasmic Reticulum Stress R-HSA-380994,27,22,0.8148148148148148
+Reactome_2022_Human,ATF6 (ATF6-alpha) Activates Chaperone Genes R-HSA-381183,9,8,0.8888888888888888
+Reactome_2022_Human,ATF6 (ATF6-alpha) Activates Chaperones R-HSA-381033,11,10,0.9090909090909091
+Reactome_2022_Human,AUF1 (hnRNP D0) Binds And Destabilizes mRNA R-HSA-450408,54,50,0.9259259259259259
+Reactome_2022_Human,AURKA Activation By TPX2 R-HSA-8854518,72,65,0.9027777777777778
+Reactome_2022_Human,Abacavir ADME R-HSA-2161522,10,5,0.5
+Reactome_2022_Human,Abacavir Metabolism R-HSA-2161541,5,2,0.4
+Reactome_2022_Human,Abacavir Transmembrane Transport R-HSA-2161517,5,3,0.6
+Reactome_2022_Human,Aberrant Regulation Of Mitotic G1/S Transition In Cancer Due To RB1 Defects R-HSA-9659787,17,14,0.8235294117647058
+Reactome_2022_Human,Aberrant Regulation Of Mitotic Cell Cycle Due To RB1 Defects R-HSA-9687139,36,33,0.9166666666666666
+Reactome_2022_Human,Aberrant Regulation Of Mitotic Exit In Cancer Due To RB1 Defects R-HSA-9687136,20,20,1.0
+Reactome_2022_Human,Abortive Elongation Of HIV-1 Transcript In Absence Of Tat R-HSA-167242,23,21,0.9130434782608695
+Reactome_2022_Human,Acetylcholine Neurotransmitter Release Cycle R-HSA-264642,17,7,0.4117647058823529
+Reactome_2022_Human,Acetylcholine Binding And Downstream Events R-HSA-181431,14,1,0.07142857142857142
+Reactome_2022_Human,Acetylcholine Inhibits Contraction Of Outer Hair Cells R-HSA-9667769,5,0,0.0
+Reactome_2022_Human,Acetylcholine Regulates Insulin Secretion R-HSA-399997,10,7,0.7
+Reactome_2022_Human,Acrosome Reaction And Sperm:Oocyte Membrane Binding R-HSA-1300645,6,2,0.3333333333333333
+Reactome_2022_Human,Activated NOTCH1 Transmits Signal To Nucleus R-HSA-2122948,31,21,0.6774193548387096
+Reactome_2022_Human,Activated NTRK2 Signals Thru CDK5 R-HSA-9032845,5,3,0.6
+Reactome_2022_Human,Activated NTRK2 Signals Thru FRS2 And FRS3 R-HSA-9028731,9,6,0.6666666666666666
+Reactome_2022_Human,Activated NTRK2 Signals Thru FYN R-HSA-9032500,6,1,0.16666666666666666
+Reactome_2022_Human,Activated NTRK2 Signals Thru PI3K R-HSA-9028335,6,4,0.6666666666666666
+Reactome_2022_Human,Activated NTRK2 Signals Thru RAS R-HSA-9026519,7,5,0.7142857142857143
+Reactome_2022_Human,Activated NTRK3 Signals Thru PI3K R-HSA-9603381,6,3,0.5
+Reactome_2022_Human,Activated NTRK3 Signals Thru RAS R-HSA-9034864,7,6,0.8571428571428571
+Reactome_2022_Human,Activated PKN1 Stimulates Transcription Of Androgen Receptor Regulated KLK2 And KLK3 R-HSA-5625886,36,11,0.3055555555555556
+Reactome_2022_Human,Activated Point Mutants Of FGFR2 R-HSA-2033519,17,1,0.058823529411764705
+Reactome_2022_Human,Activation Of AMPK Downstream Of NMDARs R-HSA-9619483,10,7,0.7
+Reactome_2022_Human,Activation Of APC/C And APC/C:Cdc20 Mediated Degradation Of Mitotic Proteins R-HSA-176814,76,71,0.9342105263157895
+Reactome_2022_Human,Activation Of ATR In Response To Replication Stress R-HSA-176187,36,31,0.8611111111111112
+Reactome_2022_Human,Activation Of BAD And Translocation To Mitochondria R-HSA-111447,15,15,1.0
+Reactome_2022_Human,Activation Of BH3-only Proteins R-HSA-114452,30,27,0.9
+Reactome_2022_Human,Activation Of C3 And C5 R-HSA-174577,6,0,0.0
+Reactome_2022_Human,Activation Of Ca-permeable Kainate Receptor R-HSA-451308,9,5,0.5555555555555556
+Reactome_2022_Human,Activation Of G Protein Gated Potassium Channels R-HSA-1296041,29,8,0.27586206896551724
+Reactome_2022_Human,Activation Of GABAB Receptors R-HSA-991365,42,13,0.30952380952380953
+Reactome_2022_Human,Activation Of HOX Genes During Differentiation R-HSA-5619507,91,52,0.5714285714285714
+Reactome_2022_Human,Activation Of IRF3/IRF7 Mediated By TBK1/IKK Epsilon R-HSA-936964,17,14,0.8235294117647058
+Reactome_2022_Human,Activation Of Matrix Metalloproteinases R-HSA-1592389,33,3,0.09090909090909091
+Reactome_2022_Human,Activation Of NF-kappaB In B Cells R-HSA-1169091,66,64,0.9696969696969697
+Reactome_2022_Human,"Activation Of NIMA Kinases NEK9, NEK6, NEK7 R-HSA-2980767",7,7,1.0
+Reactome_2022_Human,Activation Of NMDA Receptors And Postsynaptic Events R-HSA-442755,74,34,0.4594594594594595
+Reactome_2022_Human,Activation Of NOXA And Translocation To Mitochondria R-HSA-111448,5,4,0.8
+Reactome_2022_Human,Activation Of PPARGC1A (PGC-1alpha) By Phosphorylation R-HSA-2151209,10,6,0.6
+Reactome_2022_Human,Activation Of PUMA And Translocation To Mitochondria R-HSA-139915,9,6,0.6666666666666666
+Reactome_2022_Human,Activation Of RAC1 R-HSA-428540,12,8,0.6666666666666666
+Reactome_2022_Human,Activation Of RAC1 Downstream Of NMDARs R-HSA-9619229,7,5,0.7142857142857143
+Reactome_2022_Human,Activation Of SMO R-HSA-5635838,18,10,0.5555555555555556
+Reactome_2022_Human,Activation Of TRKA Receptors R-HSA-187015,6,1,0.16666666666666666
+Reactome_2022_Human,Activation Of Caspases Thru Apoptosome-Mediated Cleavage R-HSA-111459,6,5,0.8333333333333334
+Reactome_2022_Human,Activation Of Gene Expression By SREBF (SREBP) R-HSA-2426168,42,38,0.9047619047619048
+Reactome_2022_Human,Activation Of Kainate Receptors Upon Glutamate Binding R-HSA-451326,29,15,0.5172413793103449
+Reactome_2022_Human,Activation Of AP-1 Family Of Transcription Factors R-HSA-450341,10,8,0.8
+Reactome_2022_Human,Activation Of TFAP2 (AP-2) Family Of Transcription Factors R-HSA-8866907,12,6,0.5
+Reactome_2022_Human,"mRNA Activation Upon Binding Of Cap-Binding Complex And eIFs, Subsequent Binding To 43S R-HSA-72662",58,51,0.8793103448275862
+Reactome_2022_Human,Activation Of Phototransduction Cascade R-HSA-2485179,11,3,0.2727272727272727
+Reactome_2022_Human,Activation Of Pre-Replicative Complex R-HSA-68962,32,28,0.875
+Reactome_2022_Human,Acyl Chain Remodeling Of CL R-HSA-1482798,6,5,0.8333333333333334
+Reactome_2022_Human,Acyl Chain Remodeling Of DAG And TAG R-HSA-1482883,7,3,0.42857142857142855
+Reactome_2022_Human,Acyl Chain Remodelling Of PC R-HSA-1482788,27,9,0.3333333333333333
+Reactome_2022_Human,Acyl Chain Remodelling Of PE R-HSA-1482839,29,8,0.27586206896551724
+Reactome_2022_Human,Acyl Chain Remodelling Of PG R-HSA-1482925,18,5,0.2777777777777778
+Reactome_2022_Human,Acyl Chain Remodelling Of PI R-HSA-1482922,17,3,0.17647058823529413
+Reactome_2022_Human,Acyl Chain Remodelling Of PS R-HSA-1482801,22,7,0.3181818181818182
+Reactome_2022_Human,Adaptive Immune System R-HSA-1280218,733,510,0.6957708049113234
+Reactome_2022_Human,Adenylate Cyclase Activating Pathway R-HSA-170660,9,3,0.3333333333333333
+Reactome_2022_Human,Adenylate Cyclase Inhibitory Pathway R-HSA-170670,13,5,0.38461538461538464
+Reactome_2022_Human,Adherens Junctions Interactions R-HSA-418990,29,9,0.3103448275862069
+Reactome_2022_Human,"Adrenaline,noradrenaline Inhibits Insulin Secretion R-HSA-400042",28,10,0.35714285714285715
+Reactome_2022_Human,Adrenoceptors R-HSA-390696,9,2,0.2222222222222222
+Reactome_2022_Human,Advanced Glycosylation Endproduct Receptor Signaling R-HSA-879415,13,9,0.6923076923076923
+Reactome_2022_Human,Aflatoxin Activation And Detoxification R-HSA-5423646,19,5,0.2631578947368421
+Reactome_2022_Human,Aggrephagy R-HSA-9646399,24,18,0.75
+Reactome_2022_Human,Alpha-defensins R-HSA-1462054,8,2,0.25
+Reactome_2022_Human,Alpha-oxidation Of Phytanate R-HSA-389599,6,4,0.6666666666666666
+Reactome_2022_Human,Alpha-protein Kinase 1 Signaling Pathway R-HSA-9645460,11,9,0.8181818181818182
+Reactome_2022_Human,Amine Ligand-Binding Receptors R-HSA-375280,40,5,0.125
+Reactome_2022_Human,Amino Acid Conjugation R-HSA-156587,9,0,0.0
+Reactome_2022_Human,Amino Acid Transport Across Plasma Membrane R-HSA-352230,33,14,0.42424242424242425
+Reactome_2022_Human,Amino Acids Regulate mTORC1 R-HSA-9639288,55,46,0.8363636363636363
+Reactome_2022_Human,Unattached Kinetochores Signal Amplification Via A MAD2 Inhibitory Signal R-HSA-141444,93,84,0.9032258064516129
+Reactome_2022_Human,Amyloid Fiber Formation R-HSA-977225,79,31,0.3924050632911392
+Reactome_2022_Human,Anchoring Fibril Formation R-HSA-2214320,7,1,0.14285714285714285
+Reactome_2022_Human,Anchoring Of Basal Body To Plasma Membrane R-HSA-5620912,97,82,0.845360824742268
+Reactome_2022_Human,Androgen Biosynthesis R-HSA-193048,11,3,0.2727272727272727
+Reactome_2022_Human,Anti-inflammatory Response Favoring Leishmania Infection R-HSA-9662851,165,51,0.3090909090909091
+Reactome_2022_Human,"Antigen Presentation: Folding, Assembly, Peptide Loading Of Class I MHC R-HSA-983170",28,19,0.6785714285714286
+Reactome_2022_Human,Antigen Activates B Cell Receptor Leading To Second Messenger Generation R-HSA-983695,31,23,0.7419354838709677
+Reactome_2022_Human,Antigen processing-Cross Presentation R-HSA-1236975,104,77,0.7403846153846154
+Reactome_2022_Human,Antigen Processing: Ubiquitination And Proteasome Degradation R-HSA-983168,307,253,0.8241042345276873
+Reactome_2022_Human,Antimicrobial Peptides R-HSA-6803157,89,14,0.15730337078651685
+Reactome_2022_Human,Antiviral Mechanism By IFN-stimulated Genes R-HSA-1169410,83,69,0.8313253012048193
+Reactome_2022_Human,Apoptosis R-HSA-109581,178,151,0.848314606741573
+Reactome_2022_Human,Apoptosis Induced DNA Fragmentation R-HSA-140342,13,13,1.0
+Reactome_2022_Human,Apoptotic Cleavage Of Cell Adhesion Proteins R-HSA-351906,11,5,0.45454545454545453
+Reactome_2022_Human,Apoptotic Cleavage Of Cellular Proteins R-HSA-111465,38,28,0.7368421052631579
+Reactome_2022_Human,Apoptotic Execution Phase R-HSA-75153,52,42,0.8076923076923077
+Reactome_2022_Human,Apoptotic Factor-Mediated Response R-HSA-111471,20,16,0.8
+Reactome_2022_Human,Aquaporin-mediated Transport R-HSA-445717,50,20,0.4
+Reactome_2022_Human,Arachidonate Production From DAG R-HSA-426048,5,4,0.8
+Reactome_2022_Human,Arachidonic Acid Metabolism R-HSA-2142753,59,16,0.2711864406779661
+Reactome_2022_Human,Aryl Hydrocarbon Receptor Signaling R-HSA-8937144,7,4,0.5714285714285714
+Reactome_2022_Human,Asparagine N-linked Glycosylation R-HSA-446203,282,220,0.7801418439716312
+Reactome_2022_Human,Aspartate And Asparagine Metabolism R-HSA-8963693,11,3,0.2727272727272727
+Reactome_2022_Human,Aspirin ADME R-HSA-9749641,44,2,0.045454545454545456
+Reactome_2022_Human,Assembly Of HIV Virion R-HSA-175474,18,15,0.8333333333333334
+Reactome_2022_Human,Assembly And Cell Surface Presentation Of NMDA Receptors R-HSA-9609736,25,8,0.32
+Reactome_2022_Human,Assembly Of Active LPL And LIPC Lipase Complexes R-HSA-8963889,19,6,0.3157894736842105
+Reactome_2022_Human,Assembly Of Collagen Fibrils And Other Multimeric Structures R-HSA-2022090,57,8,0.14035087719298245
+Reactome_2022_Human,Assembly Of ORC Complex At Origin Of Replication R-HSA-68616,38,15,0.39473684210526316
+Reactome_2022_Human,Assembly Of Pre-Replicative Complex R-HSA-68867,110,86,0.7818181818181819
+Reactome_2022_Human,Association Of TriC/CCT With Target Proteins During Biosynthesis R-HSA-390471,38,31,0.8157894736842105
+Reactome_2022_Human,Asymmetric Localization Of PCP Proteins R-HSA-4608870,62,51,0.8225806451612904
+Reactome_2022_Human,Atorvastatin ADME R-HSA-9754706,9,1,0.1111111111111111
+Reactome_2022_Human,Attachment And Entry R-HSA-9678110,5,1,0.2
+Reactome_2022_Human,Attachment Of GPI Anchor To uPAR R-HSA-162791,7,6,0.8571428571428571
+Reactome_2022_Human,Attenuation Phase R-HSA-3371568,26,16,0.6153846153846154
+Reactome_2022_Human,Autodegradation Of Cdh1 By Cdh1:APC/C R-HSA-174084,63,63,1.0
+Reactome_2022_Human,Autodegradation Of E3 Ubiquitin Ligase COP1 R-HSA-349425,51,48,0.9411764705882353
+Reactome_2022_Human,Autophagy R-HSA-9612973,128,105,0.8203125
+Reactome_2022_Human,Axon Guidance R-HSA-422475,519,302,0.581888246628131
+Reactome_2022_Human,Axonal Growth Inhibition (RHOA Activation) R-HSA-193634,8,3,0.375
+Reactome_2022_Human,Azathioprine ADME R-HSA-9748787,21,13,0.6190476190476191
+Reactome_2022_Human,B-WICH Complex Positively Regulates rRNA Expression R-HSA-5250924,59,36,0.6101694915254238
+Reactome_2022_Human,BBSome-mediated Cargo-Targeting To Cilium R-HSA-5620922,23,16,0.6956521739130435
+Reactome_2022_Human,BH3-only Proteins Associate With And Inactivate Anti-Apoptotic BCL-2 Members R-HSA-111453,9,9,1.0
+Reactome_2022_Human,"BMAL1:CLOCK,NPAS2 Activates Circadian Gene Expression R-HSA-1368108",27,18,0.6666666666666666
+Reactome_2022_Human,Base Excision Repair R-HSA-73884,72,51,0.7083333333333334
+Reactome_2022_Human,"Base-Excision Repair, AP Site Formation R-HSA-73929",44,23,0.5227272727272727
+Reactome_2022_Human,Basigin Interactions R-HSA-210991,25,15,0.6
+Reactome_2022_Human,Beta Defensins R-HSA-1461957,35,2,0.05714285714285714
+Reactome_2022_Human,Beta Oxidation Of butanoyl-CoA To acetyl-CoA R-HSA-77352,5,3,0.6
+Reactome_2022_Human,Beta Oxidation Of decanoyl-CoA To octanoyl-CoA-CoA R-HSA-77346,6,6,1.0
+Reactome_2022_Human,Beta Oxidation Of hexanoyl-CoA To butanoyl-CoA R-HSA-77350,5,5,1.0
+Reactome_2022_Human,Beta Oxidation Of lauroyl-CoA To decanoyl-CoA-CoA R-HSA-77310,5,5,1.0
+Reactome_2022_Human,Beta Oxidation Of octanoyl-CoA To hexanoyl-CoA R-HSA-77348,5,5,1.0
+Reactome_2022_Human,Beta-catenin Independent WNT Signaling R-HSA-3858494,142,104,0.7323943661971831
+Reactome_2022_Human,Beta-catenin Phosphorylation Cascade R-HSA-196299,17,16,0.9411764705882353
+Reactome_2022_Human,Beta-oxidation Of pristanoyl-CoA R-HSA-389887,9,7,0.7777777777777778
+Reactome_2022_Human,Beta-oxidation Of Very Long Chain Fatty Acids R-HSA-390247,11,9,0.8181818181818182
+Reactome_2022_Human,Bicarbonate Transporters R-HSA-425381,10,4,0.4
+Reactome_2022_Human,Bile Acid And Bile Salt Metabolism R-HSA-194068,45,12,0.26666666666666666
+Reactome_2022_Human,Binding And Uptake Of Ligands By Scavenger Receptors R-HSA-2173782,41,9,0.21951219512195122
+Reactome_2022_Human,Binding And Entry Of HIV Virion R-HSA-173107,6,4,0.6666666666666666
+Reactome_2022_Human,Binding Of TCF/LEF:CTNNB1 To Target Gene Promoters R-HSA-4411364,8,7,0.875
+Reactome_2022_Human,Biological Oxidations R-HSA-211859,218,71,0.3256880733944954
+Reactome_2022_Human,Biosynthesis Of DHA-derived SPMs R-HSA-9018677,17,3,0.17647058823529413
+Reactome_2022_Human,Biosynthesis Of E-series 18(S)-resolvins R-HSA-9018896,5,2,0.4
+Reactome_2022_Human,Biosynthesis Of EPA-derived SPMs R-HSA-9018679,6,2,0.3333333333333333
+Reactome_2022_Human,Biosynthesis Of Maresin-Like SPMs R-HSA-9027307,6,0,0.0
+Reactome_2022_Human,Biosynthesis Of Maresins R-HSA-9018682,8,0,0.0
+Reactome_2022_Human,Biosynthesis Of Specialized Proresolving Mediators (SPMs) R-HSA-9018678,19,4,0.21052631578947367
+Reactome_2022_Human,Biosynthesis Of N-glycan Precursor (Dolichol LLO) And Transfer To Protein R-HSA-446193,77,60,0.7792207792207793
+Reactome_2022_Human,Biotin Transport And Metabolism R-HSA-196780,11,8,0.7272727272727273
+Reactome_2022_Human,Blood Group Systems Biosynthesis R-HSA-9033658,22,8,0.36363636363636365
+Reactome_2022_Human,Branched-chain Amino Acid Catabolism R-HSA-70895,21,19,0.9047619047619048
+Reactome_2022_Human,Budding And Maturation Of HIV Virion R-HSA-162588,29,23,0.7931034482758621
+Reactome_2022_Human,Butyrate Response Factor 1 Binds And Destabilizes mRNA R-HSA-450385,17,16,0.9411764705882353
+Reactome_2022_Human,Butyrophilin (BTN) Family Interactions R-HSA-8851680,12,1,0.08333333333333333
+Reactome_2022_Human,C-type Lectin Receptors (CLRs) R-HSA-5621481,141,101,0.7163120567375887
+Reactome_2022_Human,CASP8 Activity Is Inhibited R-HSA-5218900,11,9,0.8181818181818182
+Reactome_2022_Human,CD163 Mediating An Anti-Inflammatory Response R-HSA-9662834,9,6,0.6666666666666666
+Reactome_2022_Human,CD209 (DC-SIGN) Signaling R-HSA-5621575,20,16,0.8
+Reactome_2022_Human,CD22 Mediated BCR Regulation R-HSA-5690714,6,3,0.5
+Reactome_2022_Human,CD28 Co-Stimulation R-HSA-389356,34,26,0.7647058823529411
+Reactome_2022_Human,CD28 Dependent PI3K/Akt Signaling R-HSA-389357,23,17,0.7391304347826086
+Reactome_2022_Human,CD28 Dependent Vav1 Pathway R-HSA-389359,12,10,0.8333333333333334
+Reactome_2022_Human,CDC42 GTPase Cycle R-HSA-9013148,149,99,0.6644295302013423
+Reactome_2022_Human,CDC6 Association With ORC:origin Complex R-HSA-68689,8,6,0.75
+Reactome_2022_Human,CDK-mediated Phosphorylation And Removal Of Cdc6 R-HSA-69017,72,68,0.9444444444444444
+Reactome_2022_Human,CHL1 Interactions R-HSA-447041,9,5,0.5555555555555556
+Reactome_2022_Human,CLEC7A (Dectin-1) Induces NFAT Activation R-HSA-5607763,11,11,1.0
+Reactome_2022_Human,CLEC7A (Dectin-1) Signaling R-HSA-5607764,99,87,0.8787878787878788
+Reactome_2022_Human,CLEC7A/inflammasome Pathway R-HSA-5660668,6,5,0.8333333333333334
+Reactome_2022_Human,COPI-dependent Golgi-to-ER Retrograde Traffic R-HSA-6811434,78,56,0.717948717948718
+Reactome_2022_Human,COPI-independent Golgi-to-ER Retrograde Traffic R-HSA-6811436,34,29,0.8529411764705882
+Reactome_2022_Human,COPI-mediated Anterograde Transport R-HSA-6807878,80,61,0.7625
+Reactome_2022_Human,COPII-mediated Vesicle Transport R-HSA-204005,66,52,0.7878787878787878
+Reactome_2022_Human,CREB Phosphorylation R-HSA-199920,7,5,0.7142857142857143
+Reactome_2022_Human,CREB1 Phosphorylation Thru NMDA Receptor-Mediated Activation Of RAS Signaling R-HSA-442742,27,16,0.5925925925925926
+Reactome_2022_Human,CREB1 Phosphorylation Thru Activation Of Adenylate Cyclase R-HSA-442720,12,6,0.5
+Reactome_2022_Human,CREB1 Phosphorylation Thru Activation Of CaMKII/CaMKK/CaMKIV Cascasde R-HSA-442729,8,8,1.0
+Reactome_2022_Human,CREB3 Factors Activate Genes R-HSA-8874211,8,5,0.625
+Reactome_2022_Human,CRMPs In Sema3A Signaling R-HSA-399956,16,9,0.5625
+Reactome_2022_Human,CS/DS Degradation R-HSA-2024101,14,5,0.35714285714285715
+Reactome_2022_Human,CTLA4 Inhibitory Signaling R-HSA-389513,21,19,0.9047619047619048
+Reactome_2022_Human,CTNNB1 S33 Mutants Not Phosphorylated R-HSA-5358747,15,14,0.9333333333333333
+Reactome_2022_Human,CYP2E1 Reactions R-HSA-211999,11,0,0.0
+Reactome_2022_Human,Ca-dependent Events R-HSA-111996,35,19,0.5428571428571428
+Reactome_2022_Human,Ca2+ Activated K+ Channels R-HSA-1296052,8,2,0.25
+Reactome_2022_Human,Ca2+ Pathway R-HSA-4086398,61,35,0.5737704918032787
+Reactome_2022_Human,CaM Pathway R-HSA-111997,33,18,0.5454545454545454
+Reactome_2022_Human,CaMK IV-mediated Phosphorylation Of CREB R-HSA-111932,10,9,0.9
+Reactome_2022_Human,Calcineurin Activates NFAT R-HSA-2025928,9,8,0.8888888888888888
+Reactome_2022_Human,Calcitonin-like Ligand Receptors R-HSA-419812,10,3,0.3
+Reactome_2022_Human,Calnexin/calreticulin Cycle R-HSA-901042,26,25,0.9615384615384616
+Reactome_2022_Human,Cap-dependent Translation Initiation R-HSA-72737,116,102,0.8793103448275862
+Reactome_2022_Human,Carboxyterminal Post-Translational Modifications Of Tubulin R-HSA-8955332,41,17,0.4146341463414634
+Reactome_2022_Human,Cardiac Conduction R-HSA-5576891,126,35,0.2777777777777778
+Reactome_2022_Human,Cargo Concentration In ER R-HSA-5694530,32,20,0.625
+Reactome_2022_Human,Cargo Recognition For Clathrin-Mediated Endocytosis R-HSA-8856825,104,70,0.6730769230769231
+Reactome_2022_Human,Cargo Trafficking To Periciliary Membrane R-HSA-5620920,50,38,0.76
+Reactome_2022_Human,Carnitine Metabolism R-HSA-200425,11,9,0.8181818181818182
+Reactome_2022_Human,Caspase Activation Via Death Receptors In Presence Of Ligand R-HSA-140534,16,12,0.75
+Reactome_2022_Human,Caspase Activation Via Dependence Receptors In Absence Of Ligand R-HSA-418889,10,6,0.6
+Reactome_2022_Human,Caspase Activation Via Extrinsic Apoptotic Signaling Pathway R-HSA-5357769,26,18,0.6923076923076923
+Reactome_2022_Human,Caspase-mediated Cleavage Of Cytoskeletal Proteins R-HSA-264870,12,11,0.9166666666666666
+Reactome_2022_Human,Cation-coupled Chloride Cotransporters R-HSA-426117,7,5,0.7142857142857143
+Reactome_2022_Human,Cdc20:Phospho-APC/C Mediated Degradation Of Cyclin A R-HSA-174184,72,69,0.9583333333333334
+Reactome_2022_Human,Cell Cycle Checkpoints R-HSA-69620,271,232,0.8560885608856088
+Reactome_2022_Human,Cell Cycle R-HSA-1640170,654,542,0.8287461773700305
+Reactome_2022_Human,"Cell Cycle, Mitotic R-HSA-69278",523,433,0.8279158699808795
+Reactome_2022_Human,"Cell Death Signaling Via NRAGE, NRIF And NADE R-HSA-204998",74,48,0.6486486486486487
+Reactome_2022_Human,Cell Junction Organization R-HSA-446728,86,29,0.3372093023255814
+Reactome_2022_Human,Cell Recruitment (Pro-Inflammatory Response) R-HSA-9664424,25,16,0.64
+Reactome_2022_Human,Cell Surface Interactions At Vascular Wall R-HSA-202733,134,66,0.4925373134328358
+Reactome_2022_Human,Cell-Cell Communication R-HSA-1500931,120,52,0.43333333333333335
+Reactome_2022_Human,Cell-cell Junction Organization R-HSA-421270,61,15,0.2459016393442623
+Reactome_2022_Human,Cell-extracellular Matrix Interactions R-HSA-446353,16,9,0.5625
+Reactome_2022_Human,Cellular Senescence R-HSA-2559583,165,124,0.7515151515151515
+Reactome_2022_Human,Cellular Hexose Transport R-HSA-189200,21,4,0.19047619047619047
+Reactome_2022_Human,Cellular Response To Chemical Stress R-HSA-9711123,182,149,0.8186813186813187
+Reactome_2022_Human,Cellular Response To Heat Stress R-HSA-3371556,99,77,0.7777777777777778
+Reactome_2022_Human,Cellular Response To Hypoxia R-HSA-1234174,73,66,0.9041095890410958
+Reactome_2022_Human,Cellular Response To Starvation R-HSA-9711097,153,130,0.8496732026143791
+Reactome_2022_Human,Cellular Responses To Stimuli R-HSA-8953897,736,572,0.7771739130434783
+Reactome_2022_Human,Cellular Responses To Stress R-HSA-2262752,722,570,0.7894736842105263
+Reactome_2022_Human,Centrosome Maturation R-HSA-380287,81,69,0.8518518518518519
+Reactome_2022_Human,ChREBP Activates Metabolic Gene Expression R-HSA-163765,7,4,0.5714285714285714
+Reactome_2022_Human,Chaperone Mediated Autophagy R-HSA-9613829,20,13,0.65
+Reactome_2022_Human,Chaperonin-mediated Protein Folding R-HSA-390466,90,59,0.6555555555555556
+Reactome_2022_Human,Chemokine Receptors Bind Chemokines R-HSA-380108,56,14,0.25
+Reactome_2022_Human,Chk1/Chk2(Cds1) Mediated Inactivation Of Cyclin B:Cdk1 Complex R-HSA-75035,13,12,0.9230769230769231
+Reactome_2022_Human,Cholesterol Biosynthesis R-HSA-191273,26,25,0.9615384615384616
+Reactome_2022_Human,Choline Catabolism R-HSA-6798163,6,4,0.6666666666666666
+Reactome_2022_Human,Chondroitin Sulfate Biosynthesis R-HSA-2022870,20,7,0.35
+Reactome_2022_Human,Chondroitin Sulfate/Dermatan Sulfate Metabolism R-HSA-1793185,50,27,0.54
+Reactome_2022_Human,Chromatin Modifying Enzymes R-HSA-3247509,238,195,0.819327731092437
+Reactome_2022_Human,Chromosome Maintenance R-HSA-73886,118,90,0.7627118644067796
+Reactome_2022_Human,Chylomicron Assembly R-HSA-8963888,9,2,0.2222222222222222
+Reactome_2022_Human,Chylomicron Clearance R-HSA-8964026,5,2,0.4
+Reactome_2022_Human,Chylomicron Remodeling R-HSA-8963901,9,0,0.0
+Reactome_2022_Human,Cilium Assembly R-HSA-5617833,186,144,0.7741935483870968
+Reactome_2022_Human,Circadian Clock R-HSA-400253,69,53,0.7681159420289855
+Reactome_2022_Human,Citric Acid Cycle (TCA Cycle) R-HSA-71403,21,18,0.8571428571428571
+Reactome_2022_Human,Class A/1 (Rhodopsin-like Receptors) R-HSA-373076,327,57,0.1743119266055046
+Reactome_2022_Human,Class B/2 (Secretin Family Receptors) R-HSA-373080,92,19,0.20652173913043478
+Reactome_2022_Human,Class C/3 (Metabotropic Glutamate/Pheromone Receptors) R-HSA-420499,40,0,0.0
+Reactome_2022_Human,Class I MHC Mediated Antigen Processing And Presentation R-HSA-983169,378,298,0.7883597883597884
+Reactome_2022_Human,Class I Peroxisomal Membrane Protein Import R-HSA-9603798,20,18,0.9
+Reactome_2022_Human,Classical Antibody-Mediated Complement Activation R-HSA-173623,6,0,0.0
+Reactome_2022_Human,Clathrin-mediated Endocytosis R-HSA-8856828,142,100,0.704225352112676
+Reactome_2022_Human,Cleavage Of Damaged Purine R-HSA-110331,37,16,0.43243243243243246
+Reactome_2022_Human,Cleavage Of Damaged Pyrimidine R-HSA-110329,42,21,0.5
+Reactome_2022_Human,Cobalamin (Cbl) Metabolism R-HSA-9759218,6,6,1.0
+Reactome_2022_Human,"Cobalamin (Cbl, Vitamin B12) Transport And Metabolism R-HSA-196741",21,12,0.5714285714285714
+Reactome_2022_Human,Coenzyme A Biosynthesis R-HSA-196783,8,8,1.0
+Reactome_2022_Human,Cohesin Loading Onto Chromatin R-HSA-2470946,10,10,1.0
+Reactome_2022_Human,Collagen Biosynthesis And Modifying Enzymes R-HSA-1650814,67,7,0.1044776119402985
+Reactome_2022_Human,Collagen Chain Trimerization R-HSA-8948216,44,0,0.0
+Reactome_2022_Human,Collagen Degradation R-HSA-1442490,40,8,0.2
+Reactome_2022_Human,Collagen Formation R-HSA-1474290,90,15,0.16666666666666666
+Reactome_2022_Human,Common Pathway Of Fibrin Clot Formation R-HSA-140875,22,4,0.18181818181818182
+Reactome_2022_Human,Competing Endogenous RNAs (ceRNAs) Regulate PTEN Translation R-HSA-8948700,10,9,0.9
+Reactome_2022_Human,Complement Cascade R-HSA-166658,55,9,0.16363636363636364
+Reactome_2022_Human,Complex I Biogenesis R-HSA-6799198,51,49,0.9607843137254902
+Reactome_2022_Human,Condensation Of Prometaphase Chromosomes R-HSA-2514853,10,10,1.0
+Reactome_2022_Human,Condensation Of Prophase Chromosomes R-HSA-2299718,43,19,0.4418604651162791
+Reactome_2022_Human,Conjugation Of Benzoate With Glycine R-HSA-177135,6,0,0.0
+Reactome_2022_Human,Conjugation Of Salicylate With Glycine R-HSA-177128,8,0,0.0
+Reactome_2022_Human,Constitutive Signaling By AKT1 E17K In Cancer R-HSA-5674400,26,23,0.8846153846153846
+Reactome_2022_Human,Constitutive Signaling By Aberrant PI3K In Cancer R-HSA-2219530,78,32,0.41025641025641024
+Reactome_2022_Human,Constitutive Signaling By EGFRvIII R-HSA-5637810,14,12,0.8571428571428571
+Reactome_2022_Human,Constitutive Signaling By Ligand-Responsive EGFR Cancer Variants R-HSA-1236382,18,16,0.8888888888888888
+Reactome_2022_Human,Constitutive Signaling By NOTCH1 HD Domain Mutants R-HSA-2691232,15,9,0.6
+Reactome_2022_Human,Constitutive Signaling By NOTCH1 HD+PEST Domain Mutants R-HSA-2894862,58,44,0.7586206896551724
+Reactome_2022_Human,Constitutive Signaling By NOTCH1 t(7;9)(NOTCH1:M1580 K2555) Translocation Mutant R-HSA-2660826,7,3,0.42857142857142855
+Reactome_2022_Human,Constitutive Signaling By Overexpressed ERBB2 R-HSA-9634285,10,8,0.8
+Reactome_2022_Human,Conversion From APC/C:Cdc20 To APC/C:Cdh1 In Late Anaphase R-HSA-176407,20,20,1.0
+Reactome_2022_Human,Cooperation Of PDCL (PhLP1) And TRiC/CCT In G-protein Beta Folding R-HSA-6814122,37,23,0.6216216216216216
+Reactome_2022_Human,Cooperation Of Prefoldin And TriC/CCT In Actin And Tubulin Folding R-HSA-389958,33,21,0.6363636363636364
+Reactome_2022_Human,Costimulation By CD28 Family R-HSA-388841,68,50,0.7352941176470589
+Reactome_2022_Human,Creatine Metabolism R-HSA-71288,10,1,0.1
+Reactome_2022_Human,Creation Of C4 And C2 Activators R-HSA-166786,14,0,0.0
+Reactome_2022_Human,Cristae Formation R-HSA-8949613,29,27,0.9310344827586207
+Reactome_2022_Human,Cross-presentation Of Particulate Exogenous Antigens (Phagosomes) R-HSA-1236973,8,3,0.375
+Reactome_2022_Human,Cross-presentation Of Soluble Exogenous Antigens (Endosomes) R-HSA-1236978,48,42,0.875
+Reactome_2022_Human,Crosslinking Of Collagen Fibrils R-HSA-2243919,10,0,0.0
+Reactome_2022_Human,Cyclin A/B1/B2 Associated Events During G2/M Transition R-HSA-69273,25,23,0.92
+Reactome_2022_Human,Cyclin A:Cdk2-associated Events At S Phase Entry R-HSA-69656,84,79,0.9404761904761905
+Reactome_2022_Human,Cyclin D Associated Events In G1 R-HSA-69231,47,40,0.851063829787234
+Reactome_2022_Human,Cyclin E Associated Events During G1/S Transition R-HSA-69202,82,77,0.9390243902439024
+Reactome_2022_Human,Cytochrome P450 - Arranged By Substrate Type R-HSA-211897,65,13,0.2
+Reactome_2022_Human,Cytochrome C-Mediated Apoptotic Response R-HSA-111461,13,10,0.7692307692307693
+Reactome_2022_Human,Cytokine Signaling In Immune System R-HSA-1280215,702,453,0.6452991452991453
+Reactome_2022_Human,Cytoprotection By HMOX1 R-HSA-9707564,57,48,0.8421052631578947
+Reactome_2022_Human,Cytosolic Iron-Sulfur Cluster Assembly R-HSA-2564830,12,12,1.0
+Reactome_2022_Human,Cytosolic Sensors Of Pathogen-Associated DNA R-HSA-1834949,63,59,0.9365079365079365
+Reactome_2022_Human,Cytosolic Sulfonation Of Small Molecules R-HSA-156584,22,9,0.4090909090909091
+Reactome_2022_Human,Cytosolic tRNA Aminoacylation R-HSA-379716,24,24,1.0
+Reactome_2022_Human,DAG And IP3 Signaling R-HSA-1489509,39,24,0.6153846153846154
+Reactome_2022_Human,DAP12 Interactions R-HSA-2172127,43,20,0.46511627906976744
+Reactome_2022_Human,DAP12 Signaling R-HSA-2424491,28,20,0.7142857142857143
+Reactome_2022_Human,DARPP-32 Events R-HSA-180024,24,19,0.7916666666666666
+Reactome_2022_Human,DCC Mediated Attractive Signaling R-HSA-418885,14,6,0.42857142857142855
+Reactome_2022_Human,DDX58/IFIH1-mediated Induction Of Interferon-Alpha/Beta R-HSA-168928,81,57,0.7037037037037037
+Reactome_2022_Human,DEx/H-box Helicases Activate Type I IFN And Inflammatory Cytokines Production R-HSA-3134963,7,7,1.0
+Reactome_2022_Human,DNA Damage Bypass R-HSA-73893,48,45,0.9375
+Reactome_2022_Human,DNA Damage Recognition In GG-NER R-HSA-5696394,37,36,0.972972972972973
+Reactome_2022_Human,DNA Damage Reversal R-HSA-73942,8,8,1.0
+Reactome_2022_Human,DNA Damage/Telomere Stress Induced Senescence R-HSA-2559586,61,37,0.6065573770491803
+Reactome_2022_Human,DNA Double Strand Break Response R-HSA-5693606,61,42,0.6885245901639344
+Reactome_2022_Human,DNA Double-Strand Break Repair R-HSA-5693532,149,123,0.825503355704698
+Reactome_2022_Human,DNA Repair R-HSA-73894,310,265,0.8548387096774194
+Reactome_2022_Human,DNA Replication Pre-Initiation R-HSA-69002,127,101,0.7952755905511811
+Reactome_2022_Human,DNA Replication R-HSA-69306,155,124,0.8
+Reactome_2022_Human,DNA Methylation R-HSA-5334118,34,11,0.3235294117647059
+Reactome_2022_Human,DNA Replication Initiation R-HSA-68952,8,8,1.0
+Reactome_2022_Human,DNA Strand Elongation R-HSA-69190,31,29,0.9354838709677419
+Reactome_2022_Human,DSCAM Interactions R-HSA-376172,11,4,0.36363636363636365
+Reactome_2022_Human,Deactivation Of Beta-Catenin Transactivating Complex R-HSA-3769402,42,28,0.6666666666666666
+Reactome_2022_Human,Deadenylation Of mRNA R-HSA-429947,25,22,0.88
+Reactome_2022_Human,Deadenylation-dependent mRNA Decay R-HSA-429914,56,52,0.9285714285714286
+Reactome_2022_Human,Death Receptor Signaling R-HSA-73887,139,101,0.7266187050359713
+Reactome_2022_Human,Dectin-1 Mediated Noncanonical NF-kB Signaling R-HSA-5607761,61,57,0.9344262295081968
+Reactome_2022_Human,Dectin-2 Family R-HSA-5621480,29,3,0.10344827586206896
+Reactome_2022_Human,Defective B3GALT6 Causes EDSP2 And SEMDJL1 R-HSA-4420332,20,6,0.3
+Reactome_2022_Human,Defective B3GALTL Causes PpS R-HSA-5083635,37,3,0.08108108108108109
+Reactome_2022_Human,Defective B3GAT3 Causes JDSSDHD R-HSA-3560801,20,6,0.3
+Reactome_2022_Human,Defective B4GALT1 Causes B4GALT1-CDG (CDG-2d) R-HSA-3656244,8,1,0.125
+Reactome_2022_Human,"Defective B4GALT7 Causes EDS, Progeroid Type R-HSA-3560783",20,6,0.3
+Reactome_2022_Human,Defective C1GALT1C1 Causes TNPS R-HSA-5083632,19,2,0.10526315789473684
+Reactome_2022_Human,Defective CFTR Causes Cystic Fibrosis R-HSA-5678895,60,56,0.9333333333333333
+Reactome_2022_Human,"Defective CHST14 Causes EDS, Musculocontractural Type R-HSA-3595174",8,1,0.125
+Reactome_2022_Human,Defective CHST3 Causes SEDCJD R-HSA-3595172,8,0,0.0
+Reactome_2022_Human,Defective CHST6 Causes MCDC1 R-HSA-3656225,8,0,0.0
+Reactome_2022_Human,Defective CHSY1 Causes TPBS R-HSA-3595177,8,1,0.125
+Reactome_2022_Human,Defective CSF2RA Causes SMDP4 R-HSA-5688890,7,1,0.14285714285714285
+Reactome_2022_Human,"Defective EXT1 Causes Exostoses 1, TRPS2 And CHDS R-HSA-3656253",13,6,0.46153846153846156
+Reactome_2022_Human,Defective F9 Activation R-HSA-9673221,5,0,0.0
+Reactome_2022_Human,Defective GALNT12 Causes CRCS1 R-HSA-5083636,18,1,0.05555555555555555
+Reactome_2022_Human,Defective GALNT3 Causes HFTC R-HSA-5083625,18,0,0.0
+Reactome_2022_Human,Defective HDR Thru Homologous Recombination (HRR) Due To BRCA1 Loss-Of-Function R-HSA-9701192,25,21,0.84
+Reactome_2022_Human,Defective HLCS Causes Multiple Carboxylase Deficiency R-HSA-3371599,7,6,0.8571428571428571
+Reactome_2022_Human,Defective Intrinsic Pathway For Apoptosis R-HSA-9734009,24,20,0.8333333333333334
+Reactome_2022_Human,Defective LFNG Causes SCDO3 R-HSA-5083630,5,3,0.6
+Reactome_2022_Human,Defective RIPK1-mediated Regulated Necrosis R-HSA-9693928,5,5,1.0
+Reactome_2022_Human,Defective ST3GAL3 Causes MCT12 And EIEE15 R-HSA-3656243,8,1,0.125
+Reactome_2022_Human,Defective TPR May Confer Susceptibility Towards Thyroid Papillary Carcinoma (TPC) R-HSA-5619107,32,28,0.875
+Reactome_2022_Human,Defective Factor IX Causes Hemophilia B R-HSA-9668250,8,2,0.25
+Reactome_2022_Human,Defective Factor VIII Causes Hemophilia A R-HSA-9662001,7,4,0.5714285714285714
+Reactome_2022_Human,Defective Homologous Recombination Repair (HRR) Due To BRCA2 Loss Of Function R-HSA-9701190,41,36,0.8780487804878049
+Reactome_2022_Human,Defective Pyroptosis R-HSA-9710421,42,20,0.47619047619047616
+Reactome_2022_Human,Defects In Biotin (Btn) Metabolism R-HSA-3323169,8,6,0.75
+Reactome_2022_Human,Defects In Cobalamin (B12) Metabolism R-HSA-3296469,13,10,0.7692307692307693
+Reactome_2022_Human,Defects In Vitamin And Cofactor Metabolism R-HSA-3296482,21,16,0.7619047619047619
+Reactome_2022_Human,Defects Of Contact Activation System (CAS) And Kallikrein/Kinin System (KKS) R-HSA-9651496,15,5,0.3333333333333333
+Reactome_2022_Human,Defensins R-HSA-1461973,43,4,0.09302325581395349
+Reactome_2022_Human,Degradation Of AXIN R-HSA-4641257,54,52,0.9629629629629629
+Reactome_2022_Human,Degradation Of DVL R-HSA-4641258,55,51,0.9272727272727272
+Reactome_2022_Human,Degradation Of GLI1 By Proteasome R-HSA-5610780,59,55,0.9322033898305084
+Reactome_2022_Human,Degradation Of GLI2 By Proteasome R-HSA-5610783,59,55,0.9322033898305084
+Reactome_2022_Human,Degradation Of Beta-Catenin By Destruction Complex R-HSA-195253,84,78,0.9285714285714286
+Reactome_2022_Human,Degradation Of Cysteine And Homocysteine R-HSA-1614558,13,9,0.6923076923076923
+Reactome_2022_Human,Degradation Of Extracellular Matrix R-HSA-1474228,109,27,0.24770642201834864
+Reactome_2022_Human,Depolymerisation Of Nuclear Lamina R-HSA-4419969,15,14,0.9333333333333333
+Reactome_2022_Human,Deposition Of New CENPA-containing Nucleosomes At Centromere R-HSA-606279,53,32,0.6037735849056604
+Reactome_2022_Human,Deregulated CDK5 Triggers Neurodegenerative Pathways In Alzheimers Disease Models R-HSA-8862803,21,18,0.8571428571428571
+Reactome_2022_Human,Dermatan Sulfate Biosynthesis R-HSA-2022923,11,4,0.36363636363636365
+Reactome_2022_Human,Detoxification Of Reactive Oxygen Species R-HSA-3299685,34,20,0.5882352941176471
+Reactome_2022_Human,Deubiquitination R-HSA-5688426,279,217,0.7777777777777778
+Reactome_2022_Human,Developmental Biology R-HSA-1266738,1073,485,0.45200372786579684
+Reactome_2022_Human,Digestion R-HSA-8935690,23,0,0.0
+Reactome_2022_Human,Digestion And Absorption R-HSA-8963743,28,0,0.0
+Reactome_2022_Human,Digestion Of Dietary Carbohydrate R-HSA-189085,11,0,0.0
+Reactome_2022_Human,Digestion Of Dietary Lipid R-HSA-192456,7,0,0.0
+Reactome_2022_Human,Dimerization Of Procaspase-8 R-HSA-69416,11,9,0.8181818181818182
+Reactome_2022_Human,Disassembly Of Destruction Complex And Recruitment Of AXIN To Membrane R-HSA-4641262,29,21,0.7241379310344828
+Reactome_2022_Human,Disease R-HSA-1643685,1736,1136,0.6543778801843319
+Reactome_2022_Human,Diseases Associated With N-glycosylation Of Proteins R-HSA-3781860,20,17,0.85
+Reactome_2022_Human,Diseases Associated With O-glycosylation Of Proteins R-HSA-3906995,69,15,0.21739130434782608
+Reactome_2022_Human,Diseases Associated With Glycosaminoglycan Metabolism R-HSA-3560782,40,16,0.4
+Reactome_2022_Human,Diseases Associated With Glycosylation Precursor Biosynthesis R-HSA-5609975,15,14,0.9333333333333333
+Reactome_2022_Human,Diseases Associated With Surfactant Metabolism R-HSA-5687613,9,2,0.2222222222222222
+Reactome_2022_Human,Diseases Associated With TLR Signaling Cascade R-HSA-5602358,31,21,0.6774193548387096
+Reactome_2022_Human,Diseases Associated With Visual Transduction R-HSA-2474795,13,2,0.15384615384615385
+Reactome_2022_Human,Diseases Of Base Excision Repair R-HSA-9605308,5,4,0.8
+Reactome_2022_Human,Diseases Of DNA Repair R-HSA-9675135,51,45,0.8823529411764706
+Reactome_2022_Human,Diseases Of Mismatch Repair (MMR) R-HSA-5423599,5,5,1.0
+Reactome_2022_Human,Diseases Of Carbohydrate Metabolism R-HSA-5663084,33,25,0.7575757575757576
+Reactome_2022_Human,Diseases Of Glycosylation R-HSA-3781865,143,61,0.42657342657342656
+Reactome_2022_Human,Diseases Of Metabolism R-HSA-5668914,247,117,0.47368421052631576
+Reactome_2022_Human,Diseases Of Mitotic Cell Cycle R-HSA-9675126,38,35,0.9210526315789473
+Reactome_2022_Human,Diseases Of Programmed Cell Death R-HSA-9645723,71,45,0.6338028169014085
+Reactome_2022_Human,Diseases Of Signal Transduction By Growth Factor Receptors And Second Messengers R-HSA-5663202,424,314,0.7405660377358491
+Reactome_2022_Human,Disinhibition Of SNARE Formation R-HSA-114516,5,4,0.8
+Reactome_2022_Human,Disorders Of Developmental Biology R-HSA-9675151,12,11,0.9166666666666666
+Reactome_2022_Human,Disorders Of Transmembrane Transporters R-HSA-5619115,176,114,0.6477272727272727
+Reactome_2022_Human,Displacement Of DNA Glycosylase By APEX1 R-HSA-110357,9,9,1.0
+Reactome_2022_Human,Dissolution Of Fibrin Clot R-HSA-75205,13,3,0.23076923076923078
+Reactome_2022_Human,Dopamine Neurotransmitter Release Cycle R-HSA-212676,23,8,0.34782608695652173
+Reactome_2022_Human,Dopamine Receptors R-HSA-390651,5,0,0.0
+Reactome_2022_Human,Downregulation Of ERBB2 Signaling R-HSA-8863795,29,21,0.7241379310344828
+Reactome_2022_Human,Downregulation Of ERBB2:ERBB3 Signaling R-HSA-1358803,13,11,0.8461538461538461
+Reactome_2022_Human,Downregulation Of ERBB4 Signaling R-HSA-1253288,9,7,0.7777777777777778
+Reactome_2022_Human,Downregulation Of SMAD2/3:SMAD4 Transcriptional Activity R-HSA-2173795,31,28,0.9032258064516129
+Reactome_2022_Human,Downregulation Of TGF-beta Receptor Signaling R-HSA-2173788,26,24,0.9230769230769231
+Reactome_2022_Human,Downstream TCR Signaling R-HSA-202424,94,80,0.851063829787234
+Reactome_2022_Human,Downstream Signal Transduction R-HSA-186763,28,21,0.75
+Reactome_2022_Human,Downstream Signaling Events Of B Cell Receptor (BCR) R-HSA-1168372,79,75,0.9493670886075949
+Reactome_2022_Human,Downstream Signaling Of Activated FGFR1 R-HSA-5654687,30,12,0.4
+Reactome_2022_Human,Downstream Signaling Of Activated FGFR2 R-HSA-5654696,29,12,0.41379310344827586
+Reactome_2022_Human,Downstream Signaling Of Activated FGFR3 R-HSA-5654708,24,12,0.5
+Reactome_2022_Human,Downstream Signaling Of Activated FGFR4 R-HSA-5654716,26,12,0.46153846153846156
+Reactome_2022_Human,Drug ADME R-HSA-9748784,95,26,0.2736842105263158
+Reactome_2022_Human,Drug-mediated Inhibition Of CDK4/CDK6 Activity R-HSA-9754119,5,4,0.8
+Reactome_2022_Human,Dual Incision In GG-NER R-HSA-5696400,41,40,0.975609756097561
+Reactome_2022_Human,Dual Incision In TC-NER R-HSA-6782135,65,62,0.9538461538461539
+Reactome_2022_Human,E2F Mediated Regulation Of DNA Replication R-HSA-113510,22,19,0.8636363636363636
+Reactome_2022_Human,E2F-enabled Inhibition Of Pre-Replication Complex Formation R-HSA-113507,9,7,0.7777777777777778
+Reactome_2022_Human,E3 Ubiquitin Ligases Ubiquitinate Target Proteins R-HSA-8866654,56,42,0.75
+Reactome_2022_Human,ECM Proteoglycans R-HSA-3000178,55,11,0.2
+Reactome_2022_Human,EGFR Transactivation By Gastrin R-HSA-2179392,8,6,0.75
+Reactome_2022_Human,EGFR Downregulation R-HSA-182971,31,24,0.7741935483870968
+Reactome_2022_Human,EGFR Interacts With Phospholipase C-gamma R-HSA-212718,9,4,0.4444444444444444
+Reactome_2022_Human,EGR2 And SOX10-mediated Initiation Of Schwann Cell Myelination R-HSA-9619665,29,12,0.41379310344827586
+Reactome_2022_Human,EML4 And NUDC In Mitotic Spindle Formation R-HSA-9648025,97,88,0.9072164948453608
+Reactome_2022_Human,EPH-Ephrin Signaling R-HSA-2682334,91,50,0.5494505494505495
+Reactome_2022_Human,EPH-ephrin Mediated Repulsion Of Cells R-HSA-3928665,49,23,0.46938775510204084
+Reactome_2022_Human,EPHA-mediated Growth Cone Collapse R-HSA-3928663,15,8,0.5333333333333333
+Reactome_2022_Human,EPHB-mediated Forward Signaling R-HSA-3928662,34,23,0.6764705882352942
+Reactome_2022_Human,ER Quality Control Compartment (ERQC) R-HSA-901032,21,20,0.9523809523809523
+Reactome_2022_Human,ER To Golgi Anterograde Transport R-HSA-199977,133,104,0.7819548872180451
+Reactome_2022_Human,ER-Phagosome Pathway R-HSA-1236974,89,72,0.8089887640449438
+Reactome_2022_Human,ERBB2 Activates PTK6 Signaling R-HSA-8847993,13,5,0.38461538461538464
+Reactome_2022_Human,ERBB2 Regulates Cell Motility R-HSA-6785631,15,8,0.5333333333333333
+Reactome_2022_Human,ERCC6 (CSB) And EHMT2 (G9a) Positively Regulate rRNA Expression R-HSA-427389,45,22,0.4888888888888889
+Reactome_2022_Human,ERK/MAPK Targets R-HSA-198753,22,18,0.8181818181818182
+Reactome_2022_Human,ERKs Are Inactivated R-HSA-202670,13,12,0.9230769230769231
+Reactome_2022_Human,ESR-mediated Signaling R-HSA-8939211,188,120,0.6382978723404256
+Reactome_2022_Human,Early Phase Of HIV Life Cycle R-HSA-162594,16,14,0.875
+Reactome_2022_Human,Early SARS-CoV-2 Infection Events R-HSA-9772572,37,21,0.5675675675675675
+Reactome_2022_Human,Effects Of PIP2 Hydrolysis R-HSA-114508,27,19,0.7037037037037037
+Reactome_2022_Human,Eicosanoid Ligand-Binding Receptors R-HSA-391903,15,8,0.5333333333333333
+Reactome_2022_Human,Eicosanoids R-HSA-211979,12,1,0.08333333333333333
+Reactome_2022_Human,Elastic Fibre Formation R-HSA-1566948,39,9,0.23076923076923078
+Reactome_2022_Human,Elevation Of Cytosolic Ca2+ Levels R-HSA-139853,15,8,0.5333333333333333
+Reactome_2022_Human,Endogenous Sterols R-HSA-211976,27,11,0.4074074074074074
+Reactome_2022_Human,Endosomal Sorting Complex Required For Transport (ESCRT) R-HSA-917729,30,26,0.8666666666666667
+Reactome_2022_Human,Endosomal/Vacuolar Pathway R-HSA-1236977,11,3,0.2727272727272727
+Reactome_2022_Human,Energy Dependent Regulation Of mTOR By LKB1-AMPK R-HSA-380972,29,27,0.9310344827586207
+Reactome_2022_Human,Entry Of Influenza Virion Into Host Cell Via Endocytosis R-HSA-168275,6,6,1.0
+Reactome_2022_Human,Ephrin Signaling R-HSA-3928664,18,10,0.5555555555555556
+Reactome_2022_Human,Epigenetic Regulation Of Gene Expression R-HSA-212165,116,89,0.7672413793103449
+Reactome_2022_Human,Erythrocytes Take Up Carbon Dioxide And Release Oxygen R-HSA-1237044,11,3,0.2727272727272727
+Reactome_2022_Human,Erythrocytes Take Up Oxygen And Release Carbon Dioxide R-HSA-1247673,7,0,0.0
+Reactome_2022_Human,Erythropoietin Activates Phosphoinositide-3-kinase (PI3K) R-HSA-9027276,12,10,0.8333333333333334
+Reactome_2022_Human,Erythropoietin Activates Phospholipase C Gamma (PLCG) R-HSA-9027277,7,4,0.5714285714285714
+Reactome_2022_Human,Erythropoietin Activates RAS R-HSA-9027284,13,11,0.8461538461538461
+Reactome_2022_Human,Erythropoietin Activates STAT5 R-HSA-9027283,7,5,0.7142857142857143
+Reactome_2022_Human,Establishment Of Sister Chromatid Cohesion R-HSA-2468052,11,11,1.0
+Reactome_2022_Human,Estrogen Biosynthesis R-HSA-193144,6,1,0.16666666666666666
+Reactome_2022_Human,Estrogen-dependent Gene Expression R-HSA-9018519,119,80,0.6722689075630253
+Reactome_2022_Human,Estrogen-dependent Nuclear Events Downstream Of ESR-membrane Signaling R-HSA-9634638,24,16,0.6666666666666666
+Reactome_2022_Human,Estrogen-stimulated Signaling Thru PRKCZ R-HSA-9634635,5,4,0.8
+Reactome_2022_Human,Ethanol Oxidation R-HSA-71384,11,5,0.45454545454545453
+Reactome_2022_Human,Eukaryotic Translation Elongation R-HSA-156842,90,78,0.8666666666666667
+Reactome_2022_Human,Eukaryotic Translation Termination R-HSA-72764,90,78,0.8666666666666667
+Reactome_2022_Human,Export Of Viral Ribonucleoproteins From Nucleus R-HSA-168274,36,32,0.8888888888888888
+Reactome_2022_Human,Expression And Translocation Of Olfactory Receptors R-HSA-9752946,393,1,0.002544529262086514
+Reactome_2022_Human,Extension Of Telomeres R-HSA-180786,50,46,0.92
+Reactome_2022_Human,Extra-nuclear Estrogen Signaling R-HSA-9009391,73,41,0.5616438356164384
+Reactome_2022_Human,Extracellular Matrix Organization R-HSA-1474244,291,75,0.25773195876288657
+Reactome_2022_Human,Extrinsic Pathway Of Fibrin Clot Formation R-HSA-140834,5,2,0.4
+Reactome_2022_Human,FBXL7 Down-Regulates AURKA During Mitotic Entry And In Early Mitosis R-HSA-8854050,54,51,0.9444444444444444
+Reactome_2022_Human,FBXW7 Mutants And NOTCH1 In Cancer R-HSA-2644605,5,5,1.0
+Reactome_2022_Human,FCERI Mediated Ca+2 Mobilization R-HSA-2871809,29,25,0.8620689655172413
+Reactome_2022_Human,FCERI Mediated MAPK Activation R-HSA-2871796,29,24,0.8275862068965517
+Reactome_2022_Human,FCERI Mediated NF-kB Activation R-HSA-2871837,78,72,0.9230769230769231
+Reactome_2022_Human,FCGR Activation R-HSA-2029481,13,5,0.38461538461538464
+Reactome_2022_Human,FCGR3A-mediated IL10 Synthesis R-HSA-9664323,38,18,0.47368421052631576
+Reactome_2022_Human,FCGR3A-mediated Phagocytosis R-HSA-9664422,60,44,0.7333333333333333
+Reactome_2022_Human,FGFR1 Ligand Binding And Activation R-HSA-190242,16,1,0.0625
+Reactome_2022_Human,FGFR1 Mutant Receptor Activation R-HSA-1839124,30,19,0.6333333333333333
+Reactome_2022_Human,FGFR1b Ligand Binding And Activation R-HSA-190370,6,1,0.16666666666666666
+Reactome_2022_Human,FGFR1c Ligand Binding And Activation R-HSA-190373,12,1,0.08333333333333333
+Reactome_2022_Human,FGFR2 Alternative Splicing R-HSA-6803529,26,20,0.7692307692307693
+Reactome_2022_Human,FGFR2 Ligand Binding And Activation R-HSA-190241,20,2,0.1
+Reactome_2022_Human,FGFR2 Mutant Receptor Activation R-HSA-1839126,33,15,0.45454545454545453
+Reactome_2022_Human,FGFR2b Ligand Binding And Activation R-HSA-190377,10,2,0.2
+Reactome_2022_Human,FGFR2c Ligand Binding And Activation R-HSA-190375,13,1,0.07692307692307693
+Reactome_2022_Human,FGFR3 Ligand Binding And Activation R-HSA-190239,13,1,0.07692307692307693
+Reactome_2022_Human,FGFR3 Mutant Receptor Activation R-HSA-2033514,12,1,0.08333333333333333
+Reactome_2022_Human,FGFR3b Ligand Binding And Activation R-HSA-190371,7,0,0.0
+Reactome_2022_Human,FGFR4 Ligand Binding And Activation R-HSA-190322,14,1,0.07142857142857142
+Reactome_2022_Human,FGFRL1 Modulation Of FGFR1 Signaling R-HSA-5658623,13,3,0.23076923076923078
+Reactome_2022_Human,FLT3 Signaling R-HSA-9607240,37,32,0.8648648648648649
+Reactome_2022_Human,FLT3 Signaling By CBL Mutants R-HSA-9706377,7,6,0.8571428571428571
+Reactome_2022_Human,FLT3 Signaling In Disease R-HSA-9682385,27,24,0.8888888888888888
+Reactome_2022_Human,FLT3 Signaling Thru SRC Family Kinases R-HSA-9706374,6,3,0.5
+Reactome_2022_Human,FOXO-mediated Transcription R-HSA-9614085,65,49,0.7538461538461538
+Reactome_2022_Human,FOXO-mediated Transcription Of Cell Cycle Genes R-HSA-9617828,17,14,0.8235294117647058
+Reactome_2022_Human,FOXO-mediated Transcription Of Cell Death Genes R-HSA-9614657,16,16,1.0
+Reactome_2022_Human,"FOXO-mediated Transcription Of Oxidative Stress, Metabolic And Neuronal Genes R-HSA-9615017",29,16,0.5517241379310345
+Reactome_2022_Human,FRS-mediated FGFR1 Signaling R-HSA-5654693,22,7,0.3181818181818182
+Reactome_2022_Human,FRS-mediated FGFR2 Signaling R-HSA-5654700,24,7,0.2916666666666667
+Reactome_2022_Human,FRS-mediated FGFR3 Signaling R-HSA-5654706,19,7,0.3684210526315789
+Reactome_2022_Human,FRS-mediated FGFR4 Signaling R-HSA-5654712,21,7,0.3333333333333333
+Reactome_2022_Human,Factors Involved In Megakaryocyte Development And Platelet Production R-HSA-983231,136,77,0.5661764705882353
+Reactome_2022_Human,Fanconi Anemia Pathway R-HSA-6783310,38,30,0.7894736842105263
+Reactome_2022_Human,FasL/ CD95L Signaling R-HSA-75157,5,4,0.8
+Reactome_2022_Human,Fatty Acids Bound To GPR40 (FFAR1) Regulate Insulin Secretion R-HSA-434316,8,5,0.625
+Reactome_2022_Human,Fatty Acid Metabolism R-HSA-8978868,173,99,0.5722543352601156
+Reactome_2022_Human,Fatty Acids R-HSA-211935,15,1,0.06666666666666667
+Reactome_2022_Human,Fatty acyl-CoA Biosynthesis R-HSA-75105,37,23,0.6216216216216216
+Reactome_2022_Human,Fc Epsilon Receptor (FCERI) Signaling R-HSA-2454202,130,115,0.8846153846153846
+Reactome_2022_Human,Fcgamma Receptor (FCGR) Dependent Phagocytosis R-HSA-2029480,87,63,0.7241379310344828
+Reactome_2022_Human,Fertilization R-HSA-1187000,25,6,0.24
+Reactome_2022_Human,Fibronectin Matrix Formation R-HSA-1566977,6,2,0.3333333333333333
+Reactome_2022_Human,Ficolins Bind To Repetitive Carbohydrate Structures On Target Cell Surface R-HSA-2855086,5,0,0.0
+Reactome_2022_Human,Folding Of Actin By CCT/TriC R-HSA-390450,10,8,0.8
+Reactome_2022_Human,Formation Of ATP By Chemiosmotic Coupling R-HSA-163210,16,14,0.875
+Reactome_2022_Human,Formation Of Fibrin Clot (Clotting Cascade) R-HSA-140877,37,7,0.1891891891891892
+Reactome_2022_Human,Formation Of HIV Elongation Complex In Absence Of HIV Tat R-HSA-167152,45,41,0.9111111111111111
+Reactome_2022_Human,Formation Of HIV-1 Elongation Complex Containing HIV-1 Tat R-HSA-167200,43,39,0.9069767441860465
+Reactome_2022_Human,Formation Of Incision Complex In GG-NER R-HSA-5696395,42,40,0.9523809523809523
+Reactome_2022_Human,Formation Of RNA Pol II Elongation Complex R-HSA-112382,58,54,0.9310344827586207
+Reactome_2022_Human,Formation Of Senescence-Associated Heterochromatin Foci (SAHF) R-HSA-2559584,17,16,0.9411764705882353
+Reactome_2022_Human,Formation Of TC-NER Pre-Incision Complex R-HSA-6781823,52,49,0.9423076923076923
+Reactome_2022_Human,Formation Of A Pool Of Free 40S Subunits R-HSA-72689,98,86,0.8775510204081632
+Reactome_2022_Human,Formation Of Annular Gap Junctions R-HSA-196025,9,5,0.5555555555555556
+Reactome_2022_Human,Formation Of Apoptosome R-HSA-111458,11,8,0.7272727272727273
+Reactome_2022_Human,Formation Of Early Elongation Complex R-HSA-113418,33,30,0.9090909090909091
+Reactome_2022_Human,Formation Of Editosome R-HSA-75094,8,1,0.125
+Reactome_2022_Human,Formation Of beta-catenin:TCF Transactivating Complex R-HSA-201722,60,33,0.55
+Reactome_2022_Human,Formation Of Cornified Envelope R-HSA-6809371,74,9,0.12162162162162163
+Reactome_2022_Human,"Formation Of Ternary Complex, And Subsequently, 43S Complex R-HSA-72695",50,44,0.88
+Reactome_2022_Human,Formation Of Tubulin Folding Intermediates By CCT/TriC R-HSA-389960,26,15,0.5769230769230769
+Reactome_2022_Human,Formation Of Xylulose-5-Phosphate R-HSA-5661270,5,4,0.8
+Reactome_2022_Human,Formyl Peptide Receptors Bind Formyl Peptides And Many Other Ligands R-HSA-444473,8,2,0.25
+Reactome_2022_Human,Free Fatty Acid Receptors R-HSA-444209,5,1,0.2
+Reactome_2022_Human,Free Fatty Acids Regulate Insulin Secretion R-HSA-400451,11,7,0.6363636363636364
+Reactome_2022_Human,Frs2-mediated Activation R-HSA-170968,12,10,0.8333333333333334
+Reactome_2022_Human,Fructose Catabolism R-HSA-70350,5,3,0.6
+Reactome_2022_Human,Fructose Metabolism R-HSA-5652084,7,5,0.7142857142857143
+Reactome_2022_Human,G Alpha (12/13) Signaling Events R-HSA-416482,78,43,0.5512820512820513
+Reactome_2022_Human,G Alpha (I) Signaling Events R-HSA-418594,312,90,0.28846153846153844
+Reactome_2022_Human,G Alpha (Q) Signaling Events R-HSA-416476,212,79,0.37264150943396224
+Reactome_2022_Human,G Alpha (S) Signaling Events R-HSA-418555,153,47,0.30718954248366015
+Reactome_2022_Human,G Alpha (Z) Signaling Events R-HSA-418597,47,20,0.425531914893617
+Reactome_2022_Human,G Beta:Gamma Signaling Thru BTK R-HSA-8964315,18,8,0.4444444444444444
+Reactome_2022_Human,G Beta:Gamma Signaling Thru CDC42 R-HSA-8964616,20,11,0.55
+Reactome_2022_Human,G Beta:Gamma Signaling Thru PI3Kgamma R-HSA-392451,25,14,0.56
+Reactome_2022_Human,G Beta:Gamma Signaling Thru PLC Beta R-HSA-418217,20,10,0.5
+Reactome_2022_Human,G-protein Activation R-HSA-202040,24,12,0.5
+Reactome_2022_Human,G-protein Beta:Gamma Signaling R-HSA-397795,32,19,0.59375
+Reactome_2022_Human,G-protein Mediated Events R-HSA-112040,52,32,0.6153846153846154
+Reactome_2022_Human,G0 And Early G1 R-HSA-1538133,27,23,0.8518518518518519
+Reactome_2022_Human,G1/S DNA Damage Checkpoints R-HSA-69615,67,60,0.8955223880597015
+Reactome_2022_Human,G1/S Transition R-HSA-69206,129,119,0.9224806201550387
+Reactome_2022_Human,G1/S-Specific Transcription R-HSA-69205,29,26,0.896551724137931
+Reactome_2022_Human,G2 Phase R-HSA-68911,5,4,0.8
+Reactome_2022_Human,G2/M Checkpoints R-HSA-69481,148,123,0.831081081081081
+Reactome_2022_Human,G2/M DNA Damage Checkpoint R-HSA-69473,77,58,0.7532467532467533
+Reactome_2022_Human,G2/M DNA Replication Checkpoint R-HSA-69478,5,5,1.0
+Reactome_2022_Human,G2/M Transition R-HSA-69275,182,161,0.8846153846153846
+Reactome_2022_Human,GAB1 Signalosome R-HSA-180292,17,10,0.5882352941176471
+Reactome_2022_Human,GABA Receptor Activation R-HSA-977443,59,15,0.2542372881355932
+Reactome_2022_Human,"GABA Synthesis, Release, Reuptake And Degradation R-HSA-888590",19,8,0.42105263157894735
+Reactome_2022_Human,GDP-fucose Biosynthesis R-HSA-6787639,6,6,1.0
+Reactome_2022_Human,GLI Proteins Bind Promoters Of Hh Responsive Genes To Promote Transcription R-HSA-5635851,7,1,0.14285714285714285
+Reactome_2022_Human,GLI3 Is Processed To GLI3R By Proteasome R-HSA-5610785,59,55,0.9322033898305084
+Reactome_2022_Human,GP1b-IX-V Activation Signaling R-HSA-430116,9,3,0.3333333333333333
+Reactome_2022_Human,GPCR Downstream Signaling R-HSA-388396,619,203,0.32794830371567046
+Reactome_2022_Human,GPCR Ligand Binding R-HSA-500792,458,75,0.16375545851528384
+Reactome_2022_Human,GPER1 Signaling R-HSA-9634597,43,20,0.46511627906976744
+Reactome_2022_Human,GPVI-mediated Activation Cascade R-HSA-114604,32,23,0.71875
+Reactome_2022_Human,GRB2 Events In EGFR Signaling R-HSA-179812,12,7,0.5833333333333334
+Reactome_2022_Human,GRB2 Events In ERBB2 Signaling R-HSA-1963640,15,8,0.5333333333333333
+Reactome_2022_Human,GRB2:SOS Provides Linkage To MAPK Signaling For Integrins R-HSA-354194,15,6,0.4
+Reactome_2022_Human,GRB7 Events In ERBB2 Signaling R-HSA-1306955,5,2,0.4
+Reactome_2022_Human,GSK3B And BTRC:CUL1-mediated-degradation Of NFE2L2 R-HSA-9762114,51,51,1.0
+Reactome_2022_Human,GTP Hydrolysis And Joining Of 60S Ribosomal Subunit R-HSA-72706,109,96,0.8807339449541285
+Reactome_2022_Human,Gain-of-function MRAS Complexes Activate RAF Signaling R-HSA-9726842,8,6,0.75
+Reactome_2022_Human,"Gamma Carboxylation, Hypusine Formation And Arylsulfatase Activation R-HSA-163841",42,21,0.5
+Reactome_2022_Human,Gamma-carboxylation Of Protein Precursors R-HSA-159740,10,3,0.3
+Reactome_2022_Human,"Gamma-carboxylation, Transport, And Amino-Terminal Cleavage Of Proteins R-HSA-159854",11,4,0.36363636363636365
+Reactome_2022_Human,Gap Junction Assembly R-HSA-190861,16,0,0.0
+Reactome_2022_Human,Gap Junction Degradation R-HSA-190873,10,6,0.6
+Reactome_2022_Human,Gap Junction Trafficking R-HSA-190828,25,6,0.24
+Reactome_2022_Human,Gap Junction Trafficking And Regulation R-HSA-157858,27,7,0.25925925925925924
+Reactome_2022_Human,Gap-filling DNA Repair Synthesis And Ligation In GG-NER R-HSA-5696397,25,25,1.0
+Reactome_2022_Human,Gap-filling DNA Repair Synthesis And Ligation In TC-NER R-HSA-6782210,64,61,0.953125
+Reactome_2022_Human,Gastrin-CREB Signaling Pathway Via PKC And MAPK R-HSA-881907,17,12,0.7058823529411765
+Reactome_2022_Human,Gastrulation R-HSA-9758941,17,7,0.4117647058823529
+Reactome_2022_Human,Gene Silencing By RNA R-HSA-211000,108,64,0.5925925925925926
+Reactome_2022_Human,Gene And Protein Expression By JAK-STAT Signaling After Interleukin-12 Stimulation R-HSA-8950505,35,27,0.7714285714285715
+Reactome_2022_Human,Gene Expression (Transcription) R-HSA-74160,1449,932,0.6432022084195997
+Reactome_2022_Human,Generation Of Second Messenger Molecules R-HSA-202433,32,20,0.625
+Reactome_2022_Human,Generic Transcription Pathway R-HSA-212436,1190,706,0.5932773109243697
+Reactome_2022_Human,Global Genome Nucleotide Excision Repair (GG-NER) R-HSA-5696399,82,79,0.9634146341463414
+Reactome_2022_Human,Glucagon Signaling In Metabolic Regulation R-HSA-163359,32,14,0.4375
+Reactome_2022_Human,Glucagon-like Peptide-1 (GLP1) Regulates Insulin Secretion R-HSA-381676,42,20,0.47619047619047616
+Reactome_2022_Human,Glucagon-type Ligand Receptors R-HSA-420092,33,11,0.3333333333333333
+Reactome_2022_Human,Glucocorticoid Biosynthesis R-HSA-194002,10,2,0.2
+Reactome_2022_Human,Gluconeogenesis R-HSA-70263,32,19,0.59375
+Reactome_2022_Human,Glucose Metabolism R-HSA-70326,89,68,0.7640449438202247
+Reactome_2022_Human,Glucuronidation R-HSA-156588,25,4,0.16
+Reactome_2022_Human,Glutamate Neurotransmitter Release Cycle R-HSA-210500,23,8,0.34782608695652173
+Reactome_2022_Human,Glutamate And Glutamine Metabolism R-HSA-8964539,13,7,0.5384615384615384
+Reactome_2022_Human,"Glutamate Binding, Activation Of AMPA Receptors And Synaptic Plasticity R-HSA-399721",31,16,0.5161290322580645
+Reactome_2022_Human,Glutathione Conjugation R-HSA-156590,36,18,0.5
+Reactome_2022_Human,Glutathione Synthesis And Recycling R-HSA-174403,12,8,0.6666666666666666
+Reactome_2022_Human,Glycerophospholipid Biosynthesis R-HSA-1483206,127,75,0.5905511811023622
+Reactome_2022_Human,Glycerophospholipid Catabolism R-HSA-6814848,7,5,0.7142857142857143
+Reactome_2022_Human,Glycogen Breakdown (Glycogenolysis) R-HSA-70221,14,10,0.7142857142857143
+Reactome_2022_Human,Glycogen Metabolism R-HSA-8982491,24,18,0.75
+Reactome_2022_Human,Glycogen Storage Diseases R-HSA-3229121,15,11,0.7333333333333333
+Reactome_2022_Human,Glycogen Synthesis R-HSA-3322077,13,10,0.7692307692307693
+Reactome_2022_Human,Glycolysis R-HSA-70171,69,54,0.782608695652174
+Reactome_2022_Human,Glycoprotein Hormones R-HSA-209822,10,0,0.0
+Reactome_2022_Human,Glycosaminoglycan Metabolism R-HSA-1630316,120,63,0.525
+Reactome_2022_Human,Glycosphingolipid Metabolism R-HSA-1660662,45,27,0.6
+Reactome_2022_Human,Glyoxylate Metabolism And Glycine Degradation R-HSA-389661,31,18,0.5806451612903226
+Reactome_2022_Human,Golgi Associated Vesicle Biogenesis R-HSA-432722,55,48,0.8727272727272727
+Reactome_2022_Human,Golgi Cisternae Pericentriolar Stack Reorganization R-HSA-162658,14,12,0.8571428571428571
+Reactome_2022_Human,Golgi-to-ER Retrograde Transport R-HSA-8856688,112,85,0.7589285714285714
+Reactome_2022_Human,Growth Hormone Receptor Signaling R-HSA-982772,24,17,0.7083333333333334
+Reactome_2022_Human,HATs Acetylate Histones R-HSA-3214847,106,79,0.7452830188679245
+Reactome_2022_Human,HCMV Early Events R-HSA-9609690,96,60,0.625
+Reactome_2022_Human,HCMV Infection R-HSA-9609646,121,80,0.6611570247933884
+Reactome_2022_Human,HCMV Late Events R-HSA-9610379,91,56,0.6153846153846154
+Reactome_2022_Human,HDACs Deacetylate Histones R-HSA-3214815,60,35,0.5833333333333334
+Reactome_2022_Human,HDL Assembly R-HSA-8963896,7,4,0.5714285714285714
+Reactome_2022_Human,HDL Clearance R-HSA-8964011,5,2,0.4
+Reactome_2022_Human,HDL Remodeling R-HSA-8964058,10,1,0.1
+Reactome_2022_Human,HDMs Demethylate Histones R-HSA-3214842,26,20,0.7692307692307693
+Reactome_2022_Human,HDR Thru Homologous Recombination (HRR) R-HSA-5685942,67,60,0.8955223880597015
+Reactome_2022_Human,HDR Thru Homologous Recombination (HRR) Or Single Strand Annealing (SSA) R-HSA-5693567,114,91,0.7982456140350878
+Reactome_2022_Human,HDR Thru MMEJ (alt-NHEJ) R-HSA-5685939,12,11,0.9166666666666666
+Reactome_2022_Human,HDR Thru Single Strand Annealing (SSA) R-HSA-5685938,37,34,0.918918918918919
+Reactome_2022_Human,HIV Infection R-HSA-162906,229,202,0.8820960698689956
+Reactome_2022_Human,HIV Life Cycle R-HSA-162587,149,131,0.8791946308724832
+Reactome_2022_Human,HIV Transcription Initiation R-HSA-167161,46,40,0.8695652173913043
+Reactome_2022_Human,HIV Elongation Arrest And Recovery R-HSA-167287,33,31,0.9393939393939394
+Reactome_2022_Human,HS-GAG Biosynthesis R-HSA-2022928,30,13,0.43333333333333335
+Reactome_2022_Human,HS-GAG Degradation R-HSA-2024096,21,12,0.5714285714285714
+Reactome_2022_Human,HSF1 Activation R-HSA-3371511,29,18,0.6206896551724138
+Reactome_2022_Human,HSF1-dependent Transactivation R-HSA-3371571,36,23,0.6388888888888888
+Reactome_2022_Human,HSP90 Chaperone Cycle For Steroid Hormone Receptors (SHR) In Presence Of Ligand R-HSA-3371497,38,30,0.7894736842105263
+Reactome_2022_Human,Hedgehog Off State R-HSA-5610787,98,77,0.7857142857142857
+Reactome_2022_Human,Hedgehog On State R-HSA-5632684,85,68,0.8
+Reactome_2022_Human,Hedgehog Ligand Biogenesis R-HSA-5358346,64,54,0.84375
+Reactome_2022_Human,Heme Biosynthesis R-HSA-189451,14,12,0.8571428571428571
+Reactome_2022_Human,Heme Degradation R-HSA-189483,16,7,0.4375
+Reactome_2022_Human,Heme Signaling R-HSA-9707616,45,32,0.7111111111111111
+Reactome_2022_Human,Hemostasis R-HSA-109582,576,312,0.5416666666666666
+Reactome_2022_Human,Heparan Sulfate/Heparin (HS-GAG) Metabolism R-HSA-1638091,53,26,0.49056603773584906
+Reactome_2022_Human,Hh Mutants Abrogate Ligand Secretion R-HSA-5387390,58,52,0.896551724137931
+Reactome_2022_Human,Hh Mutants Are Degraded By ERAD R-HSA-5362768,55,52,0.9454545454545454
+Reactome_2022_Human,Highly Calcium Permeable Nicotinic Acetylcholine Receptors R-HSA-629597,9,0,0.0
+Reactome_2022_Human,Highly Calcium Permeable Postsynaptic Nicotinic Acetylcholine Receptors R-HSA-629594,11,0,0.0
+Reactome_2022_Human,Highly Sodium Permeable Postsynaptic Acetylcholine Nicotinic Receptors R-HSA-629587,7,1,0.14285714285714285
+Reactome_2022_Human,Histidine Catabolism R-HSA-70921,8,3,0.375
+Reactome_2022_Human,Homologous DNA Pairing And Strand Exchange R-HSA-5693579,43,38,0.8837209302325582
+Reactome_2022_Human,Homology Directed Repair R-HSA-5693538,119,96,0.8067226890756303
+Reactome_2022_Human,Hormone Ligand-Binding Receptors R-HSA-375281,12,0,0.0
+Reactome_2022_Human,Host Interactions Of HIV Factors R-HSA-162909,130,116,0.8923076923076924
+Reactome_2022_Human,HuR (ELAVL1) Binds And Stabilizes mRNA R-HSA-450520,10,5,0.5
+Reactome_2022_Human,Hyaluronan Metabolism R-HSA-2142845,16,9,0.5625
+Reactome_2022_Human,Hyaluronan Uptake And Degradation R-HSA-2160916,12,8,0.6666666666666666
+Reactome_2022_Human,Hydrolysis Of LPC R-HSA-1483115,9,2,0.2222222222222222
+Reactome_2022_Human,IGF1R Signaling Cascade R-HSA-2428924,52,22,0.4230769230769231
+Reactome_2022_Human,IKK Complex Recruitment Mediated By RIP1 R-HSA-937041,23,19,0.8260869565217391
+Reactome_2022_Human,IL-6-type Cytokine Receptor Ligand Interactions R-HSA-6788467,17,7,0.4117647058823529
+Reactome_2022_Human,IRAK1 Recruits IKK Complex R-HSA-937039,10,7,0.7
+Reactome_2022_Human,IRAK2 Mediated Activation Of TAK1 Complex R-HSA-937042,10,10,1.0
+Reactome_2022_Human,IRAK2 Mediated Activation Of TAK1 Complex Upon TLR7/8 Or 9 Stimulation R-HSA-975163,15,13,0.8666666666666667
+Reactome_2022_Human,IRAK4 Deficiency (TLR2/4) R-HSA-5603041,18,11,0.6111111111111112
+Reactome_2022_Human,IRE1alpha Activates Chaperones R-HSA-381070,48,41,0.8541666666666666
+Reactome_2022_Human,IRF3 Mediated Activation Of Type 1 IFN R-HSA-1606341,5,4,0.8
+Reactome_2022_Human,IRF3-mediated Induction Of Type I IFN R-HSA-3270619,13,10,0.7692307692307693
+Reactome_2022_Human,IRS Activation R-HSA-74713,5,2,0.4
+Reactome_2022_Human,IRS-mediated Signaling R-HSA-112399,47,19,0.40425531914893614
+Reactome_2022_Human,IRS-related Events Triggered By IGF1R R-HSA-2428928,51,21,0.4117647058823529
+Reactome_2022_Human,ISG15 Antiviral Mechanism R-HSA-1169408,75,61,0.8133333333333334
+Reactome_2022_Human,IkBA Variant Leads To EDA-ID R-HSA-5603029,7,7,1.0
+Reactome_2022_Human,Immune System R-HSA-168256,1943,1193,0.6139989706639217
+Reactome_2022_Human,Immunoregulatory Interactions Between A Lymphoid And A non-Lymphoid Cell R-HSA-198933,123,35,0.2845528455284553
+Reactome_2022_Human,Impaired BRCA2 Binding To PALB2 R-HSA-9709603,24,20,0.8333333333333334
+Reactome_2022_Human,Impaired BRCA2 Binding To RAD51 R-HSA-9709570,35,32,0.9142857142857143
+Reactome_2022_Human,Inactivation Of APC/C Via Direct Inhibition Of APC/C Complex R-HSA-141430,21,21,1.0
+Reactome_2022_Human,Inactivation Of CDC42 And RAC1 R-HSA-428543,7,3,0.42857142857142855
+Reactome_2022_Human,Inactivation Of CSF3 (G-CSF) Signaling R-HSA-9705462,25,21,0.84
+Reactome_2022_Human,"Inactivation, Recovery And Regulation Of Phototransduction Cascade R-HSA-2514859",32,14,0.4375
+Reactome_2022_Human,"Incretin Synthesis, Secretion, And Inactivation R-HSA-400508",24,9,0.375
+Reactome_2022_Human,Infection With Mycobacterium Tuberculosis R-HSA-9635486,26,21,0.8076923076923077
+Reactome_2022_Human,Infectious Disease R-HSA-5663205,961,671,0.6982310093652445
+Reactome_2022_Human,Inflammasomes R-HSA-622312,21,16,0.7619047619047619
+Reactome_2022_Human,Influenza Infection R-HSA-168255,157,138,0.8789808917197452
+Reactome_2022_Human,Influenza Viral RNA Transcription And Replication R-HSA-168273,137,121,0.8832116788321168
+Reactome_2022_Human,Inhibition Of DNA Recombination At Telomere R-HSA-9670095,48,26,0.5416666666666666
+Reactome_2022_Human,Inhibition Of Signaling By Overexpressed EGFR R-HSA-5638303,8,3,0.375
+Reactome_2022_Human,Inhibition Of Replication Initiation Of Damaged DNA By RB1/E2F1 R-HSA-113501,13,12,0.9230769230769231
+Reactome_2022_Human,Initial Triggering Of Complement R-HSA-166663,21,2,0.09523809523809523
+Reactome_2022_Human,Initiation Of Nuclear Envelope (NE) Reformation R-HSA-2995383,19,19,1.0
+Reactome_2022_Human,InlA-mediated Entry Of Listeria Monocytogenes Into Host Cells R-HSA-8876493,8,6,0.75
+Reactome_2022_Human,InlB-mediated Entry Of Listeria Monocytogenes Into Host Cell R-HSA-8875360,15,14,0.9333333333333333
+Reactome_2022_Human,Innate Immune System R-HSA-168249,1035,618,0.5971014492753624
+Reactome_2022_Human,Inositol Phosphate Metabolism R-HSA-1483249,48,32,0.6666666666666666
+Reactome_2022_Human,Insertion Of Tail-Anchored Proteins Into Endoplasmic Reticulum Membrane R-HSA-9609523,22,20,0.9090909090909091
+Reactome_2022_Human,Insulin Processing R-HSA-264876,27,19,0.7037037037037037
+Reactome_2022_Human,Insulin Receptor Recycling R-HSA-77387,26,19,0.7307692307692307
+Reactome_2022_Human,Insulin Receptor Signaling Cascade R-HSA-74751,53,23,0.4339622641509434
+Reactome_2022_Human,Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) Bind RNA R-HSA-428359,7,5,0.7142857142857143
+Reactome_2022_Human,Integration Of Energy Metabolism R-HSA-163685,105,53,0.5047619047619047
+Reactome_2022_Human,Integration Of Provirus R-HSA-162592,10,9,0.9
+Reactome_2022_Human,Integrin Cell Surface Interactions R-HSA-216083,66,23,0.3484848484848485
+Reactome_2022_Human,Integrin Signaling R-HSA-354192,27,14,0.5185185185185185
+Reactome_2022_Human,Interaction With Cumulus Cells And Zona Pellucida R-HSA-2534343,10,1,0.1
+Reactome_2022_Human,Interaction Between L1 And Ankyrins R-HSA-445095,29,4,0.13793103448275862
+Reactome_2022_Human,Interactions Of Rev With Host Cellular Proteins R-HSA-177243,37,33,0.8918918918918919
+Reactome_2022_Human,Interactions Of Vpr With Host Cellular Proteins R-HSA-176033,38,32,0.8421052631578947
+Reactome_2022_Human,Interconversion Of Nucleotide Di- And Triphosphates R-HSA-499943,28,21,0.75
+Reactome_2022_Human,Interferon Signaling R-HSA-913531,200,131,0.655
+Reactome_2022_Human,Interferon Alpha/Beta Signaling R-HSA-909733,72,41,0.5694444444444444
+Reactome_2022_Human,Interferon Gamma Signaling R-HSA-877300,89,53,0.5955056179775281
+Reactome_2022_Human,Interleukin Receptor SHC Signaling R-HSA-912526,27,21,0.7777777777777778
+Reactome_2022_Human,Interleukin-1 Family Signaling R-HSA-446652,152,118,0.7763157894736842
+Reactome_2022_Human,Interleukin-1 Processing R-HSA-448706,9,5,0.5555555555555556
+Reactome_2022_Human,Interleukin-1 Signaling R-HSA-9020702,114,96,0.8421052631578947
+Reactome_2022_Human,Interleukin-10 Signaling R-HSA-6783783,45,17,0.37777777777777777
+Reactome_2022_Human,Interleukin-12 Family Signaling R-HSA-447115,54,41,0.7592592592592593
+Reactome_2022_Human,Interleukin-12 Signaling R-HSA-9020591,44,34,0.7727272727272727
+Reactome_2022_Human,Interleukin-15 Signaling R-HSA-8983432,14,12,0.8571428571428571
+Reactome_2022_Human,Interleukin-17 Signaling R-HSA-448424,69,57,0.8260869565217391
+Reactome_2022_Human,Interleukin-18 Signaling R-HSA-9012546,8,4,0.5
+Reactome_2022_Human,Interleukin-2 Family Signaling R-HSA-451927,44,31,0.7045454545454546
+Reactome_2022_Human,Interleukin-2 Signaling R-HSA-9020558,12,11,0.9166666666666666
+Reactome_2022_Human,Interleukin-20 Family Signaling R-HSA-8854691,26,13,0.5
+Reactome_2022_Human,Interleukin-21 Signaling R-HSA-9020958,10,9,0.9
+Reactome_2022_Human,Interleukin-23 Signaling R-HSA-9020933,9,7,0.7777777777777778
+Reactome_2022_Human,Interleukin-27 Signaling R-HSA-9020956,11,9,0.8181818181818182
+Reactome_2022_Human,"Interleukin-3, Interleukin-5 And GM-CSF Signaling R-HSA-512988",44,35,0.7954545454545454
+Reactome_2022_Human,Interleukin-35 Signaling R-HSA-8984722,12,11,0.9166666666666666
+Reactome_2022_Human,Interleukin-36 Pathway R-HSA-9014826,7,1,0.14285714285714285
+Reactome_2022_Human,Interleukin-37 Signaling R-HSA-9008059,21,18,0.8571428571428571
+Reactome_2022_Human,Interleukin-4 And Interleukin-13 Signaling R-HSA-6785807,107,56,0.5233644859813084
+Reactome_2022_Human,Interleukin-6 Family Signaling R-HSA-6783589,24,13,0.5416666666666666
+Reactome_2022_Human,Interleukin-6 Signaling R-HSA-1059683,11,10,0.9090909090909091
+Reactome_2022_Human,Interleukin-7 Signaling R-HSA-1266695,25,18,0.72
+Reactome_2022_Human,Interleukin-9 Signaling R-HSA-8985947,9,7,0.7777777777777778
+Reactome_2022_Human,Intestinal Absorption R-HSA-8963676,5,0,0.0
+Reactome_2022_Human,Intra-Golgi And Retrograde Golgi-to-ER Traffic R-HSA-6811442,181,143,0.7900552486187845
+Reactome_2022_Human,Intra-Golgi Traffic R-HSA-6811438,42,34,0.8095238095238095
+Reactome_2022_Human,Intracellular Signaling By Second Messengers R-HSA-9006925,306,220,0.7189542483660131
+Reactome_2022_Human,Intraflagellar Transport R-HSA-5620924,41,26,0.6341463414634146
+Reactome_2022_Human,Intrinsic Pathway For Apoptosis R-HSA-109606,55,48,0.8727272727272727
+Reactome_2022_Human,Intrinsic Pathway Of Fibrin Clot Formation R-HSA-140837,21,5,0.23809523809523808
+Reactome_2022_Human,Inwardly Rectifying K+ Channels R-HSA-1296065,35,9,0.2571428571428571
+Reactome_2022_Human,Ion Channel Transport R-HSA-983712,175,76,0.4342857142857143
+Reactome_2022_Human,Ion Homeostasis R-HSA-5578775,50,22,0.44
+Reactome_2022_Human,Ion Transport By P-type ATPases R-HSA-936837,53,27,0.5094339622641509
+Reactome_2022_Human,Iron Uptake And Transport R-HSA-917937,59,43,0.7288135593220338
+Reactome_2022_Human,JNK (c-Jun Kinases) Phosphorylation And Activation Mediated By Activated Human TAK1 R-HSA-450321,18,15,0.8333333333333334
+Reactome_2022_Human,Josephin Domain DUBs R-HSA-5689877,12,10,0.8333333333333334
+Reactome_2022_Human,KEAP1-NFE2L2 Pathway R-HSA-9755511,100,90,0.9
+Reactome_2022_Human,KSRP (KHSRP) Binds And Destabilizes mRNA R-HSA-450604,17,16,0.9411764705882353
+Reactome_2022_Human,Keratan Sulfate Biosynthesis R-HSA-2022854,28,13,0.4642857142857143
+Reactome_2022_Human,Keratan Sulfate Degradation R-HSA-2022857,12,5,0.4166666666666667
+Reactome_2022_Human,Keratan Sulfate/Keratin Metabolism R-HSA-1638074,33,18,0.5454545454545454
+Reactome_2022_Human,Keratinization R-HSA-6805567,208,11,0.052884615384615384
+Reactome_2022_Human,Ketone Body Metabolism R-HSA-74182,10,5,0.5
+Reactome_2022_Human,Killing Mechanisms R-HSA-9664420,11,6,0.5454545454545454
+Reactome_2022_Human,Kinesins R-HSA-983189,42,25,0.5952380952380952
+Reactome_2022_Human,L13a-mediated Translational Silencing Of Ceruloplasmin Expression R-HSA-156827,108,94,0.8703703703703703
+Reactome_2022_Human,L1CAM Interactions R-HSA-373760,99,43,0.43434343434343436
+Reactome_2022_Human,LDL Clearance R-HSA-8964038,18,13,0.7222222222222222
+Reactome_2022_Human,LDL Remodeling R-HSA-8964041,6,1,0.16666666666666666
+Reactome_2022_Human,LGI-ADAM Interactions R-HSA-5682910,14,2,0.14285714285714285
+Reactome_2022_Human,LRR FLII-interacting Protein 1 (LRRFIP1) Activates Type I IFN Production R-HSA-3134973,5,5,1.0
+Reactome_2022_Human,LTC4-CYSLTR Mediated IL4 Production R-HSA-9664535,7,3,0.42857142857142855
+Reactome_2022_Human,Lagging Strand Synthesis R-HSA-69186,20,19,0.95
+Reactome_2022_Human,Laminin Interactions R-HSA-3000157,22,9,0.4090909090909091
+Reactome_2022_Human,Late Phase Of HIV Life Cycle R-HSA-162599,136,118,0.8676470588235294
+Reactome_2022_Human,Late SARS-CoV-2 Infection Events R-HSA-9772573,58,52,0.896551724137931
+Reactome_2022_Human,Late Endosomal Microautophagy R-HSA-9615710,31,24,0.7741935483870968
+Reactome_2022_Human,Leading Strand Synthesis R-HSA-69109,14,14,1.0
+Reactome_2022_Human,Lectin Pathway Of Complement Activation R-HSA-166662,8,0,0.0
+Reactome_2022_Human,Leishmania Infection R-HSA-9658195,247,111,0.4493927125506073
+Reactome_2022_Human,Leukotriene Receptors R-HSA-391906,5,3,0.6
+Reactome_2022_Human,Lewis Blood Group Biosynthesis R-HSA-9037629,18,8,0.4444444444444444
+Reactome_2022_Human,Ligand-receptor Interactions R-HSA-5632681,8,2,0.25
+Reactome_2022_Human,Linoleic Acid (LA) Metabolism R-HSA-2046105,8,4,0.5
+Reactome_2022_Human,Lipid Particle Organization R-HSA-8964572,6,2,0.3333333333333333
+Reactome_2022_Human,Lipophagy R-HSA-9613354,9,7,0.7777777777777778
+Reactome_2022_Human,Listeria Monocytogenes Entry Into Host Cells R-HSA-8876384,19,16,0.8421052631578947
+Reactome_2022_Human,Long-term Potentiation R-HSA-9620244,23,9,0.391304347826087
+Reactome_2022_Human,Loss Of Function Of SMAD2/3 In Cancer R-HSA-3304349,7,6,0.8571428571428571
+Reactome_2022_Human,Loss Of Function Of TGFBR1 In Cancer R-HSA-3656534,7,5,0.7142857142857143
+Reactome_2022_Human,Loss Of MECP2 Binding Ability To NCoR/SMRT Complex R-HSA-9022537,7,6,0.8571428571428571
+Reactome_2022_Human,Loss Of Nlp From Mitotic Centrosomes R-HSA-380259,69,62,0.8985507246376812
+Reactome_2022_Human,Lysine Catabolism R-HSA-71064,12,5,0.4166666666666667
+Reactome_2022_Human,Lysosome Vesicle Biogenesis R-HSA-432720,34,29,0.8529411764705882
+Reactome_2022_Human,Lysosphingolipid And LPA Receptors R-HSA-419408,14,4,0.2857142857142857
+Reactome_2022_Human,M Phase R-HSA-68886,380,312,0.8210526315789474
+Reactome_2022_Human,MAP Kinase Activation R-HSA-450294,62,54,0.8709677419354839
+Reactome_2022_Human,MAP2K And MAPK Activation R-HSA-5674135,37,24,0.6486486486486487
+Reactome_2022_Human,MAP3K8 (TPL2)-dependent MAPK1/3 Activation R-HSA-5684264,16,16,1.0
+Reactome_2022_Human,MAPK Family Signaling Cascades R-HSA-5683057,318,201,0.6320754716981132
+Reactome_2022_Human,MAPK Targets/ Nuclear Events Mediated By MAP Kinases R-HSA-450282,30,24,0.8
+Reactome_2022_Human,MAPK1 (ERK2) Activation R-HSA-112411,9,8,0.8888888888888888
+Reactome_2022_Human,MAPK1/MAPK3 Signaling R-HSA-5684996,277,173,0.6245487364620939
+Reactome_2022_Human,MAPK3 (ERK1) Activation R-HSA-110056,10,9,0.9
+Reactome_2022_Human,MAPK6/MAPK4 Signaling R-HSA-5687128,90,75,0.8333333333333334
+Reactome_2022_Human,MASTL Facilitates Mitotic Progression R-HSA-2465910,10,10,1.0
+Reactome_2022_Human,MECP2 Regulates Neuronal Receptors And Channels R-HSA-9022699,18,10,0.5555555555555556
+Reactome_2022_Human,MECP2 Regulates Transcription Factors R-HSA-9022707,5,2,0.4
+Reactome_2022_Human,MECP2 Regulates Transcription Of Neuronal Ligands R-HSA-9022702,7,4,0.5714285714285714
+Reactome_2022_Human,MET Receptor Activation R-HSA-6806942,6,4,0.6666666666666666
+Reactome_2022_Human,MET Activates PI3K/AKT Signaling R-HSA-8851907,6,6,1.0
+Reactome_2022_Human,MET Activates PTK2 Signaling R-HSA-8874081,17,8,0.47058823529411764
+Reactome_2022_Human,MET Activates PTPN11 R-HSA-8865999,5,5,1.0
+Reactome_2022_Human,MET Activates RAP1 And RAC1 R-HSA-8875555,11,8,0.7272727272727273
+Reactome_2022_Human,MET Activates RAS Signaling R-HSA-8851805,9,8,0.8888888888888888
+Reactome_2022_Human,MET Interacts With TNS Proteins R-HSA-8875513,5,3,0.6
+Reactome_2022_Human,MET Promotes Cell Motility R-HSA-8875878,28,14,0.5
+Reactome_2022_Human,MET Receptor Recycling R-HSA-8875656,9,9,1.0
+Reactome_2022_Human,MHC Class II Antigen Presentation R-HSA-2132295,104,72,0.6923076923076923
+Reactome_2022_Human,MTOR Signaling R-HSA-165159,41,38,0.926829268292683
+Reactome_2022_Human,Macroautophagy R-HSA-1632852,114,96,0.8421052631578947
+Reactome_2022_Human,Major Pathway Of rRNA Processing In Nucleolus And Cytosol R-HSA-6791226,179,164,0.9162011173184358
+Reactome_2022_Human,Maturation Of Nucleoprotein R-HSA-9683610,12,11,0.9166666666666666
+Reactome_2022_Human,Maturation Of Protein 3A R-HSA-9683673,9,8,0.8888888888888888
+Reactome_2022_Human,Maturation Of Spike Protein R-HSA-9683686,5,4,0.8
+Reactome_2022_Human,Meiosis R-HSA-1500620,88,49,0.5568181818181818
+Reactome_2022_Human,Meiotic Recombination R-HSA-912446,56,26,0.4642857142857143
+Reactome_2022_Human,Meiotic Synapsis R-HSA-1221632,60,31,0.5166666666666667
+Reactome_2022_Human,Melanin Biosynthesis R-HSA-5662702,5,0,0.0
+Reactome_2022_Human,Membrane Trafficking R-HSA-199991,599,445,0.7429048414023373
+Reactome_2022_Human,Membrane Binding And Targetting Of GAG Proteins R-HSA-174490,15,13,0.8666666666666667
+Reactome_2022_Human,Metabolic Disorders Of Biological Oxidation Enzymes R-HSA-5579029,34,9,0.2647058823529412
+Reactome_2022_Human,Metabolism R-HSA-1430728,2049,1276,0.6227428013665203
+Reactome_2022_Human,Metabolism Of Angiotensinogen To Angiotensins R-HSA-2022377,18,5,0.2777777777777778
+Reactome_2022_Human,Metabolism Of RNA R-HSA-8953854,666,597,0.8963963963963963
+Reactome_2022_Human,Metabolism Of Amine-Derived Hormones R-HSA-209776,18,2,0.1111111111111111
+Reactome_2022_Human,Metabolism Of Amino Acids And Derivatives R-HSA-71291,364,242,0.6648351648351648
+Reactome_2022_Human,Metabolism Of Carbohydrates R-HSA-71387,285,181,0.6350877192982456
+Reactome_2022_Human,Metabolism Of Cofactors R-HSA-8978934,19,14,0.7368421052631579
+Reactome_2022_Human,Metabolism Of Fat-Soluble Vitamins R-HSA-6806667,47,14,0.2978723404255319
+Reactome_2022_Human,Metabolism Of Folate And Pterines R-HSA-196757,17,10,0.5882352941176471
+Reactome_2022_Human,"Metabolism Of Ingested SeMet, Sec, MeSec Into H2Se R-HSA-2408508",8,2,0.25
+Reactome_2022_Human,Metabolism Of Lipids R-HSA-556833,732,453,0.6188524590163934
+Reactome_2022_Human,Metabolism Of Nitric Oxide: NOS3 Activation And Regulation R-HSA-202131,15,9,0.6
+Reactome_2022_Human,Metabolism Of Non-Coding RNA R-HSA-194441,52,44,0.8461538461538461
+Reactome_2022_Human,Metabolism Of Nucleotides R-HSA-15869,95,66,0.6947368421052632
+Reactome_2022_Human,Metabolism Of Polyamines R-HSA-351202,58,49,0.8448275862068966
+Reactome_2022_Human,Metabolism Of Porphyrins R-HSA-189445,28,18,0.6428571428571429
+Reactome_2022_Human,Metabolism Of Proteins R-HSA-392499,1890,1282,0.6783068783068783
+Reactome_2022_Human,Metabolism Of Steroid Hormones R-HSA-196071,35,15,0.42857142857142855
+Reactome_2022_Human,Metabolism Of Steroids R-HSA-8957322,153,88,0.5751633986928104
+Reactome_2022_Human,Metabolism Of Vitamins And Cofactors R-HSA-196854,186,110,0.5913978494623656
+Reactome_2022_Human,Metabolism Of Water-Soluble Vitamins And Cofactors R-HSA-196849,122,82,0.6721311475409836
+Reactome_2022_Human,Metal Ion SLC Transporters R-HSA-425410,26,16,0.6153846153846154
+Reactome_2022_Human,Metal Sequestration By Antimicrobial Proteins R-HSA-6799990,6,2,0.3333333333333333
+Reactome_2022_Human,Metalloprotease DUBs R-HSA-5689901,31,21,0.6774193548387096
+Reactome_2022_Human,Metallothioneins Bind Metals R-HSA-5661231,11,0,0.0
+Reactome_2022_Human,Methionine Salvage Pathway R-HSA-1237112,6,5,0.8333333333333334
+Reactome_2022_Human,Methylation R-HSA-156581,14,9,0.6428571428571429
+Reactome_2022_Human,MicroRNA (miRNA) Biogenesis R-HSA-203927,24,22,0.9166666666666666
+Reactome_2022_Human,Microbial Modulation Of RIPK1-mediated Regulated Necrosis R-HSA-9686347,6,5,0.8333333333333334
+Reactome_2022_Human,Mineralocorticoid Biosynthesis R-HSA-193993,6,0,0.0
+Reactome_2022_Human,Miro GTPase Cycle R-HSA-9715370,8,8,1.0
+Reactome_2022_Human,Miscellaneous Substrates R-HSA-211958,12,0,0.0
+Reactome_2022_Human,Miscellaneous Transport And Binding Events R-HSA-5223345,23,17,0.7391304347826086
+Reactome_2022_Human,Mismatch Repair R-HSA-5358508,15,15,1.0
+Reactome_2022_Human,Mismatch Repair (MMR) Directed By MSH2:MSH3 (MutSbeta) R-HSA-5358606,14,14,1.0
+Reactome_2022_Human,Mismatch Repair (MMR) Directed By MSH2:MSH6 (MutSalpha) R-HSA-5358565,14,14,1.0
+Reactome_2022_Human,Mitochondrial Fatty Acid Beta-Oxidation R-HSA-77289,36,29,0.8055555555555556
+Reactome_2022_Human,Mitochondrial Uncoupling R-HSA-166187,6,3,0.5
+Reactome_2022_Human,Mitochondrial Biogenesis R-HSA-1592230,89,75,0.8426966292134831
+Reactome_2022_Human,Mitochondrial Calcium Ion Transport R-HSA-8949215,22,19,0.8636363636363636
+Reactome_2022_Human,Mitochondrial Iron-Sulfur Cluster Biogenesis R-HSA-1362409,13,13,1.0
+Reactome_2022_Human,Mitochondrial Protein Import R-HSA-1268020,65,60,0.9230769230769231
+Reactome_2022_Human,Mitochondrial tRNA Aminoacylation R-HSA-379726,21,21,1.0
+Reactome_2022_Human,Mitochondrial Translation R-HSA-5368287,88,86,0.9772727272727273
+Reactome_2022_Human,Mitochondrial Translation Elongation R-HSA-5389840,82,80,0.975609756097561
+Reactome_2022_Human,Mitochondrial Translation Initiation R-HSA-5368286,82,80,0.975609756097561
+Reactome_2022_Human,Mitochondrial Translation Termination R-HSA-5419276,82,80,0.975609756097561
+Reactome_2022_Human,Mitophagy R-HSA-5205647,28,25,0.8928571428571429
+Reactome_2022_Human,Mitotic Anaphase R-HSA-68882,232,202,0.8706896551724138
+Reactome_2022_Human,Mitotic G1 Phase And G1/S Transition R-HSA-453279,147,133,0.9047619047619048
+Reactome_2022_Human,Mitotic G2-G2/M Phases R-HSA-453274,184,163,0.8858695652173914
+Reactome_2022_Human,Mitotic Metaphase And Anaphase R-HSA-2555396,233,203,0.871244635193133
+Reactome_2022_Human,Mitotic Prometaphase R-HSA-68877,186,167,0.8978494623655914
+Reactome_2022_Human,Mitotic Prophase R-HSA-68875,112,81,0.7232142857142857
+Reactome_2022_Human,Mitotic Spindle Checkpoint R-HSA-69618,110,101,0.9181818181818182
+Reactome_2022_Human,Mitotic Telophase/Cytokinesis R-HSA-68884,13,13,1.0
+Reactome_2022_Human,Modulation By Mtb Of Host Immune System R-HSA-9637628,7,5,0.7142857142857143
+Reactome_2022_Human,Molecules Associated With Elastic Fibres R-HSA-2129379,28,7,0.25
+Reactome_2022_Human,Molybdenum Cofactor Biosynthesis R-HSA-947581,6,6,1.0
+Reactome_2022_Human,Mucopolysaccharidoses R-HSA-2206281,11,10,0.9090909090909091
+Reactome_2022_Human,Multifunctional Anion Exchangers R-HSA-427601,9,2,0.2222222222222222
+Reactome_2022_Human,Muscarinic Acetylcholine Receptors R-HSA-390648,5,0,0.0
+Reactome_2022_Human,Muscle Contraction R-HSA-397014,196,58,0.29591836734693877
+Reactome_2022_Human,MyD88 Cascade Initiated On Plasma Membrane R-HSA-975871,96,76,0.7916666666666666
+Reactome_2022_Human,MyD88 Deficiency (TLR2/4) R-HSA-5602498,17,10,0.5882352941176471
+Reactome_2022_Human,MyD88 Dependent Cascade Initiated On Endosome R-HSA-975155,102,81,0.7941176470588235
+Reactome_2022_Human,MyD88-independent TLR4 Cascade R-HSA-166166,107,88,0.822429906542056
+Reactome_2022_Human,MyD88:MAL(TIRAP) Cascade Initiated On Plasma Membrane R-HSA-166058,112,87,0.7767857142857143
+Reactome_2022_Human,Myoclonic Epilepsy Of Lafora R-HSA-3785653,8,7,0.875
+Reactome_2022_Human,Myogenesis R-HSA-525793,29,14,0.4827586206896552
+Reactome_2022_Human,N-Glycan Antennae Elongation R-HSA-975577,15,9,0.6
+Reactome_2022_Human,N-glycan Antennae Elongation In medial/trans-Golgi R-HSA-975576,26,14,0.5384615384615384
+Reactome_2022_Human,N-glycan Trimming And Elongation In cis-Golgi R-HSA-964739,5,4,0.8
+Reactome_2022_Human,N-glycan Trimming In ER And Calnexin/Calreticulin Cycle R-HSA-532668,35,34,0.9714285714285714
+Reactome_2022_Human,NADE Modulates Death Signaling R-HSA-205025,6,4,0.6666666666666666
+Reactome_2022_Human,NCAM Signaling For Neurite Out-Growth R-HSA-375165,57,15,0.2631578947368421
+Reactome_2022_Human,NCAM1 Interactions R-HSA-419037,37,3,0.08108108108108109
+Reactome_2022_Human,NEP/NS2 Interacts With Cellular Export Machinery R-HSA-168333,35,31,0.8857142857142857
+Reactome_2022_Human,NF-kB Activation Thru FADD/RIP-1 Pathway Mediated By Caspase-8 And -10 R-HSA-933543,13,11,0.8461538461538461
+Reactome_2022_Human,NF-kB Is Activated And Signals Survival R-HSA-209560,13,11,0.8461538461538461
+Reactome_2022_Human,NGF-independant TRKA Activation R-HSA-187024,5,1,0.2
+Reactome_2022_Human,NGF-stimulated Transcription R-HSA-9031628,39,26,0.6666666666666666
+Reactome_2022_Human,NIK To Noncanonical NF-kB Signaling R-HSA-5676590,58,56,0.9655172413793104
+Reactome_2022_Human,NOD1/2 Signaling Pathway R-HSA-168638,33,26,0.7878787878787878
+Reactome_2022_Human,NOSTRIN Mediated eNOS Trafficking R-HSA-203641,5,3,0.6
+Reactome_2022_Human,NOTCH1 Intracellular Domain Regulates Transcription R-HSA-2122947,48,38,0.7916666666666666
+Reactome_2022_Human,NOTCH2 Activation And Transmission Of Signal To Nucleus R-HSA-2979096,21,13,0.6190476190476191
+Reactome_2022_Human,NOTCH2 Intracellular Domain Regulates Transcription R-HSA-2197563,12,9,0.75
+Reactome_2022_Human,NOTCH3 Activation And Transmission Of Signal To Nucleus R-HSA-9013507,25,16,0.64
+Reactome_2022_Human,NOTCH3 Intracellular Domain Regulates Transcription R-HSA-9013508,25,15,0.6
+Reactome_2022_Human,NOTCH4 Activation And Transmission Of Signal To Nucleus R-HSA-9013700,11,7,0.6363636363636364
+Reactome_2022_Human,NOTCH4 Intracellular Domain Regulates Transcription R-HSA-9013695,20,13,0.65
+Reactome_2022_Human,NR1H2 And NR1H3 Regulate Gene Expression Linked To Gluconeogenesis R-HSA-9632974,5,3,0.6
+Reactome_2022_Human,NR1H2 And NR1H3 Regulate Gene Expression Linked To Lipogenesis R-HSA-9029558,9,7,0.7777777777777778
+Reactome_2022_Human,NR1H2 And NR1H3 Regulate Gene Expression Linked To Triglyceride Lipolysis In Adipose R-HSA-9031528,5,3,0.6
+Reactome_2022_Human,NR1H2 And NR1H3 Regulate Gene Expression To Control Bile Acid Homeostasis R-HSA-9623433,9,6,0.6666666666666666
+Reactome_2022_Human,NR1H2 And NR1H3 Regulate Gene Expression To Limit Cholesterol Uptake R-HSA-9031525,5,4,0.8
+Reactome_2022_Human,NR1H2 And NR1H3-mediated Signaling R-HSA-9024446,46,29,0.6304347826086957
+Reactome_2022_Human,NR1H3 And NR1H2 Regulate Gene Expression Linked To Cholesterol Transport And Efflux R-HSA-9029569,36,24,0.6666666666666666
+Reactome_2022_Human,NRAGE Signals Death Thru JNK R-HSA-193648,57,32,0.5614035087719298
+Reactome_2022_Human,NRIF Signals Cell Death From Nucleus R-HSA-205043,16,13,0.8125
+Reactome_2022_Human,NS1 Mediated Effects On Host Pathways R-HSA-168276,42,36,0.8571428571428571
+Reactome_2022_Human,Na+/Cl- Dependent Neurotransmitter Transporters R-HSA-442660,19,4,0.21052631578947367
+Reactome_2022_Human,Nectin/Necl Trans Heterodimerization R-HSA-420597,7,1,0.14285714285714285
+Reactome_2022_Human,Neddylation R-HSA-8951664,237,194,0.8185654008438819
+Reactome_2022_Human,Nef Mediated CD4 Down-regulation R-HSA-167590,8,8,1.0
+Reactome_2022_Human,Nef Mediated CD8 Down-regulation R-HSA-182218,7,6,0.8571428571428571
+Reactome_2022_Human,Nef And Signal Transduction R-HSA-164944,8,6,0.75
+Reactome_2022_Human,Nef Mediated Downregulation Of MHC Class I Complex Cell Surface Expression R-HSA-164940,10,8,0.8
+Reactome_2022_Human,Nef-mediated Downmodulation Of Cell Surface Receptors By Recruitment To Clathrin Adapters R-HSA-164938,20,17,0.85
+Reactome_2022_Human,Negative Epigenetic Regulation Of rRNA Expression R-HSA-5250941,77,53,0.6883116883116883
+Reactome_2022_Human,Negative Feedback Regulation Of MAPK Pathway R-HSA-5674499,6,5,0.8333333333333334
+Reactome_2022_Human,Negative Regulation Of FGFR1 Signaling R-HSA-5654726,33,17,0.5151515151515151
+Reactome_2022_Human,Negative Regulation Of FGFR2 Signaling R-HSA-5654727,34,17,0.5
+Reactome_2022_Human,Negative Regulation Of FGFR3 Signaling R-HSA-5654732,29,17,0.5862068965517241
+Reactome_2022_Human,Negative Regulation Of FGFR4 Signaling R-HSA-5654733,31,17,0.5483870967741935
+Reactome_2022_Human,Negative Regulation Of FLT3 R-HSA-9706369,15,14,0.9333333333333333
+Reactome_2022_Human,Negative Regulation Of MAPK Pathway R-HSA-5675221,41,35,0.8536585365853658
+Reactome_2022_Human,Negative Regulation Of MET Activity R-HSA-6807004,21,20,0.9523809523809523
+Reactome_2022_Human,Negative Regulation Of NMDA Receptor-Mediated Neuronal Transmission R-HSA-9617324,21,10,0.47619047619047616
+Reactome_2022_Human,Negative Regulation Of NOTCH4 Signaling R-HSA-9604323,53,52,0.9811320754716981
+Reactome_2022_Human,Negative Regulation Of TCF-dependent Signaling By WNT Ligand Antagonists R-HSA-3772470,15,4,0.26666666666666666
+Reactome_2022_Human,Negative Regulation Of Activity Of TFAP2 (AP-2) Family Transcription Factors R-HSA-8866904,10,4,0.4
+Reactome_2022_Human,Negative Regulation Of PI3K/AKT Network R-HSA-199418,113,63,0.5575221238938053
+Reactome_2022_Human,Negative Regulators Of DDX58/IFIH1 Signaling R-HSA-936440,35,32,0.9142857142857143
+Reactome_2022_Human,Nephrin Family Interactions R-HSA-373753,22,16,0.7272727272727273
+Reactome_2022_Human,Nervous System Development R-HSA-9675108,545,312,0.5724770642201835
+Reactome_2022_Human,Netrin Mediated Repulsion Signals R-HSA-418886,8,2,0.25
+Reactome_2022_Human,Netrin-1 Signaling R-HSA-373752,49,21,0.42857142857142855
+Reactome_2022_Human,Neurexins And Neuroligins R-HSA-6794361,57,15,0.2631578947368421
+Reactome_2022_Human,Neurofascin Interactions R-HSA-447043,7,1,0.14285714285714285
+Reactome_2022_Human,Neuronal System R-HSA-112316,386,111,0.28756476683937826
+Reactome_2022_Human,Neurotoxicity Of Clostridium Toxins R-HSA-168799,10,5,0.5
+Reactome_2022_Human,Neurotransmitter Clearance R-HSA-112311,10,2,0.2
+Reactome_2022_Human,Neurotransmitter Receptors And Postsynaptic Signal Transmission R-HSA-112314,182,64,0.3516483516483517
+Reactome_2022_Human,Neurotransmitter Release Cycle R-HSA-112310,50,16,0.32
+Reactome_2022_Human,Neutrophil Degranulation R-HSA-6798695,468,292,0.6239316239316239
+Reactome_2022_Human,Nicotinamide Salvaging R-HSA-197264,19,11,0.5789473684210527
+Reactome_2022_Human,Nicotinate Metabolism R-HSA-196807,31,21,0.6774193548387096
+Reactome_2022_Human,Nitric Oxide Stimulates Guanylate Cyclase R-HSA-392154,21,10,0.47619047619047616
+Reactome_2022_Human,NoRC Negatively Regulates rRNA Expression R-HSA-427413,74,50,0.6756756756756757
+Reactome_2022_Human,Non-integrin membrane-ECM Interactions R-HSA-3000171,41,19,0.4634146341463415
+Reactome_2022_Human,Noncanonical Activation Of NOTCH3 R-HSA-9017802,8,6,0.75
+Reactome_2022_Human,Nonhomologous End-Joining (NHEJ) R-HSA-5693571,51,35,0.6862745098039216
+Reactome_2022_Human,Nonsense Mediated Decay (NMD) Enhanced By Exon Junction Complex (EJC) R-HSA-975957,112,99,0.8839285714285714
+Reactome_2022_Human,Nonsense Mediated Decay (NMD) Independent Of Exon Junction Complex (EJC) R-HSA-975956,92,79,0.8586956521739131
+Reactome_2022_Human,Norepinephrine Neurotransmitter Release Cycle R-HSA-181430,18,7,0.3888888888888889
+Reactome_2022_Human,Notch-HLH Transcription Pathway R-HSA-350054,28,23,0.8214285714285714
+Reactome_2022_Human,NrCAM Interactions R-HSA-447038,7,3,0.42857142857142855
+Reactome_2022_Human,Nuclear Envelope (NE) Reassembly R-HSA-2995410,75,58,0.7733333333333333
+Reactome_2022_Human,Nuclear Envelope Breakdown R-HSA-2980766,53,48,0.9056603773584906
+Reactome_2022_Human,Nuclear Events (Kinase And Transcription Factor Activation) R-HSA-198725,61,45,0.7377049180327869
+Reactome_2022_Human,Nuclear Pore Complex (NPC) Disassembly R-HSA-3301854,36,32,0.8888888888888888
+Reactome_2022_Human,Nuclear Receptor Transcription Pathway R-HSA-383280,53,25,0.4716981132075472
+Reactome_2022_Human,Nuclear Events Mediated By NFE2L2 R-HSA-9759194,78,71,0.9102564102564102
+Reactome_2022_Human,Nuclear Events Stimulated By ALK Signaling In Cancer R-HSA-9725371,19,17,0.8947368421052632
+Reactome_2022_Human,Nuclear Import Of Rev Protein R-HSA-180746,34,30,0.8823529411764706
+Reactome_2022_Human,Nuclear Signaling By ERBB4 R-HSA-1251985,32,17,0.53125
+Reactome_2022_Human,Nucleotide Excision Repair R-HSA-5696398,108,103,0.9537037037037037
+Reactome_2022_Human,Nucleotide Biosynthesis R-HSA-8956320,13,12,0.9230769230769231
+Reactome_2022_Human,Nucleotide Catabolism R-HSA-8956319,35,20,0.5714285714285714
+Reactome_2022_Human,Nucleotide Salvage R-HSA-8956321,23,14,0.6086956521739131
+Reactome_2022_Human,"Nucleotide-binding Domain, Leucine Rich Repeat Containing NLR Signaling Pathways R-HSA-168643",53,41,0.7735849056603774
+Reactome_2022_Human,Nucleotide-like (Purinergic) Receptors R-HSA-418038,16,4,0.25
+Reactome_2022_Human,O-glycosylation Of TSR Domain-Containing Proteins R-HSA-5173214,38,4,0.10526315789473684
+Reactome_2022_Human,O-linked Glycosylation R-HSA-5173105,107,32,0.29906542056074764
+Reactome_2022_Human,O-linked Glycosylation Of Mucins R-HSA-913709,59,20,0.3389830508474576
+Reactome_2022_Human,OAS Antiviral Response R-HSA-8983711,9,9,1.0
+Reactome_2022_Human,Olfactory Signaling Pathway R-HSA-381753,401,3,0.007481296758104738
+Reactome_2022_Human,Oncogene Induced Senescence R-HSA-2559585,33,28,0.8484848484848485
+Reactome_2022_Human,Oncogenic MAPK Signaling R-HSA-6802957,78,58,0.7435897435897436
+Reactome_2022_Human,Opioid Signaling R-HSA-111885,88,55,0.625
+Reactome_2022_Human,Opsins R-HSA-419771,9,0,0.0
+Reactome_2022_Human,Orc1 Removal From Chromatin R-HSA-68949,69,64,0.927536231884058
+Reactome_2022_Human,Orexin And Neuropeptides FF And QRFP Bind To Their Respective Receptors R-HSA-389397,8,2,0.25
+Reactome_2022_Human,Organelle Biogenesis And Maintenance R-HSA-1852241,275,219,0.7963636363636364
+Reactome_2022_Human,Organic Anion Transport R-HSA-561048,5,0,0.0
+Reactome_2022_Human,Organic Anion Transporters R-HSA-428643,10,3,0.3
+Reactome_2022_Human,Organic Cation Transport R-HSA-549127,10,4,0.4
+Reactome_2022_Human,Organic Cation/Anion/Zwitterion Transport R-HSA-549132,15,4,0.26666666666666666
+Reactome_2022_Human,Other Interleukin Signaling R-HSA-449836,24,13,0.5416666666666666
+Reactome_2022_Human,Other Semaphorin Interactions R-HSA-416700,19,10,0.5263157894736842
+Reactome_2022_Human,Ovarian Tumor Domain Proteases R-HSA-5689896,39,32,0.8205128205128205
+Reactome_2022_Human,Oxidative Stress Induced Senescence R-HSA-2559580,93,64,0.6881720430107527
+Reactome_2022_Human,Oxygen-dependent Proline Hydroxylation Of Hypoxia-inducible Factor Alpha R-HSA-1234176,64,60,0.9375
+Reactome_2022_Human,P2Y Receptors R-HSA-417957,12,3,0.25
+Reactome_2022_Human,PCNA-Dependent Long Patch Base Excision Repair R-HSA-5651801,21,21,1.0
+Reactome_2022_Human,PCP/CE Pathway R-HSA-4086400,88,70,0.7954545454545454
+Reactome_2022_Human,PD-1 Signaling R-HSA-389948,21,11,0.5238095238095238
+Reactome_2022_Human,PECAM1 Interactions R-HSA-210990,12,11,0.9166666666666666
+Reactome_2022_Human,PERK Regulates Gene Expression R-HSA-381042,32,26,0.8125
+Reactome_2022_Human,PI Metabolism R-HSA-1483255,82,67,0.8170731707317073
+Reactome_2022_Human,PI-3K cascade:FGFR1 R-HSA-5654689,21,7,0.3333333333333333
+Reactome_2022_Human,PI-3K cascade:FGFR2 R-HSA-5654695,23,7,0.30434782608695654
+Reactome_2022_Human,PI-3K cascade:FGFR3 R-HSA-5654710,18,7,0.3888888888888889
+Reactome_2022_Human,PI-3K cascade:FGFR4 R-HSA-5654720,20,7,0.35
+Reactome_2022_Human,PI3K Cascade R-HSA-109704,44,16,0.36363636363636365
+Reactome_2022_Human,PI3K Events In ERBB2 Signaling R-HSA-1963642,16,9,0.5625
+Reactome_2022_Human,PI3K Events In ERBB4 Signaling R-HSA-1250342,10,5,0.5
+Reactome_2022_Human,PI3K/AKT Signaling In Cancer R-HSA-2219528,105,56,0.5333333333333333
+Reactome_2022_Human,PI3K/AKT Activation R-HSA-198203,9,6,0.6666666666666666
+Reactome_2022_Human,PI5P Regulates TP53 Acetylation R-HSA-6811555,9,9,1.0
+Reactome_2022_Human,"PI5P, PP2A And IER3 Regulate PI3K/AKT Signaling R-HSA-6811558",106,57,0.5377358490566038
+Reactome_2022_Human,PINK1-PRKN Mediated Mitophagy R-HSA-5205685,22,20,0.9090909090909091
+Reactome_2022_Human,PIP3 Activates AKT Signaling R-HSA-1257604,268,197,0.7350746268656716
+Reactome_2022_Human,PIWI-interacting RNA (piRNA) Biogenesis R-HSA-5601884,29,12,0.41379310344827586
+Reactome_2022_Human,PKA Activation R-HSA-163615,17,7,0.4117647058823529
+Reactome_2022_Human,PKA Activation In Glucagon Signaling R-HSA-164378,16,7,0.4375
+Reactome_2022_Human,PKA-mediated Phosphorylation Of CREB R-HSA-111931,19,8,0.42105263157894735
+Reactome_2022_Human,PKA-mediated Phosphorylation Of Key Metabolic Factors R-HSA-163358,5,2,0.4
+Reactome_2022_Human,PKMTs Methylate Histone Lysines R-HSA-3214841,47,42,0.8936170212765957
+Reactome_2022_Human,PLC Beta Mediated Events R-HSA-112043,47,29,0.6170212765957447
+Reactome_2022_Human,POLB-Dependent Long Patch Base Excision Repair R-HSA-110362,8,8,1.0
+Reactome_2022_Human,"POU5F1 (OCT4), SOX2, NANOG Activate Genes Related To Proliferation R-HSA-2892247",12,2,0.16666666666666666
+Reactome_2022_Human,"POU5F1 (OCT4), SOX2, NANOG Repress Genes Related To Differentiation R-HSA-2892245",9,2,0.2222222222222222
+Reactome_2022_Human,PP2A-mediated Dephosphorylation Of Key Metabolic Factors R-HSA-163767,7,5,0.7142857142857143
+Reactome_2022_Human,PPARA Activates Gene Expression R-HSA-1989781,116,88,0.7586206896551724
+Reactome_2022_Human,PRC2 Methylates Histones And DNA R-HSA-212300,42,20,0.47619047619047616
+Reactome_2022_Human,PTEN Regulation R-HSA-6807070,139,122,0.8776978417266187
+Reactome_2022_Human,PTK6 Expression R-HSA-8849473,5,4,0.8
+Reactome_2022_Human,PTK6 Regulates Cell Cycle R-HSA-8849470,6,4,0.6666666666666666
+Reactome_2022_Human,"PTK6 Regulates RHO GTPases, RAS GTPase And MAP Kinases R-HSA-8849471",13,7,0.5384615384615384
+Reactome_2022_Human,PTK6 Regulates RTKs And Their Effectors AKT1 And DOK1 R-HSA-8849469,9,8,0.8888888888888888
+Reactome_2022_Human,PTK6 Promotes HIF1A Stabilization R-HSA-8857538,6,3,0.5
+Reactome_2022_Human,Packaging Of Telomere Ends R-HSA-171306,33,13,0.3939393939393939
+Reactome_2022_Human,Paracetamol ADME R-HSA-9753281,28,10,0.35714285714285715
+Reactome_2022_Human,Paradoxical Activation Of RAF Signaling By Kinase Inactive BRAF R-HSA-6802955,41,28,0.6829268292682927
+Reactome_2022_Human,Passive Transport By Aquaporins R-HSA-432047,12,3,0.25
+Reactome_2022_Human,Pausing And Recovery Of Tat-mediated HIV Elongation R-HSA-167238,31,29,0.9354838709677419
+Reactome_2022_Human,Pentose Phosphate Pathway R-HSA-71336,14,11,0.7857142857142857
+Reactome_2022_Human,Peptide Chain Elongation R-HSA-156902,86,75,0.872093023255814
+Reactome_2022_Human,Peptide Hormone Biosynthesis R-HSA-209952,12,2,0.16666666666666666
+Reactome_2022_Human,Peptide Hormone Metabolism R-HSA-2980736,89,34,0.38202247191011235
+Reactome_2022_Human,Peptide Ligand-Binding Receptors R-HSA-375276,196,29,0.14795918367346939
+Reactome_2022_Human,Peroxisomal Lipid Metabolism R-HSA-390918,29,22,0.7586206896551724
+Reactome_2022_Human,Peroxisomal Protein Import R-HSA-9033241,63,47,0.746031746031746
+Reactome_2022_Human,Pexophagy R-HSA-9664873,11,10,0.9090909090909091
+Reactome_2022_Human,Phase 0 - Rapid Depolarisation R-HSA-5576892,32,8,0.25
+Reactome_2022_Human,Phase 1 - Inactivation Of Fast Na+ Channels R-HSA-5576894,7,2,0.2857142857142857
+Reactome_2022_Human,Phase 2 - Plateau Phase R-HSA-5576893,15,2,0.13333333333333333
+Reactome_2022_Human,Phase 3 - Rapid Repolarisation R-HSA-5576890,9,1,0.1111111111111111
+Reactome_2022_Human,Phase 4 - Resting Membrane Potential R-HSA-5576886,19,2,0.10526315789473684
+Reactome_2022_Human,Phase I - Functionalization Of Compounds R-HSA-211945,104,30,0.28846153846153844
+Reactome_2022_Human,Phase II - Conjugation Of Compounds R-HSA-156580,107,40,0.37383177570093457
+Reactome_2022_Human,Phenylalanine And Tyrosine Metabolism R-HSA-8963691,11,6,0.5454545454545454
+Reactome_2022_Human,Phenylalanine Metabolism R-HSA-8964208,6,3,0.5
+Reactome_2022_Human,Phosphate Bond Hydrolysis By NTPDase Proteins R-HSA-8850843,8,4,0.5
+Reactome_2022_Human,Phosphate Bond Hydrolysis By NUDT Proteins R-HSA-2393930,7,7,1.0
+Reactome_2022_Human,Phospholipase C-mediated Cascade: FGFR1 R-HSA-5654219,16,2,0.125
+Reactome_2022_Human,Phospholipase C-mediated Cascade; FGFR2 R-HSA-5654221,18,2,0.1111111111111111
+Reactome_2022_Human,Phospholipase C-mediated Cascade; FGFR3 R-HSA-5654227,13,2,0.15384615384615385
+Reactome_2022_Human,Phospholipase C-mediated Cascade; FGFR4 R-HSA-5654228,15,2,0.13333333333333333
+Reactome_2022_Human,Phospholipid Metabolism R-HSA-1483257,208,141,0.6778846153846154
+Reactome_2022_Human,Phosphorylation Of CD3 And TCR Zeta Chains R-HSA-202427,20,10,0.5
+Reactome_2022_Human,Phosphorylation Of Emi1 R-HSA-176417,6,6,1.0
+Reactome_2022_Human,Phosphorylation Of APC/C R-HSA-176412,20,20,1.0
+Reactome_2022_Human,Physiological Factors R-HSA-5578768,14,4,0.2857142857142857
+Reactome_2022_Human,Plasma Lipoprotein Assembly R-HSA-8963898,16,6,0.375
+Reactome_2022_Human,"Plasma Lipoprotein Assembly, Remodeling, And Clearance R-HSA-174824",71,35,0.49295774647887325
+Reactome_2022_Human,Plasma Lipoprotein Clearance R-HSA-8964043,35,22,0.6285714285714286
+Reactome_2022_Human,Plasma Lipoprotein Remodeling R-HSA-8963899,33,8,0.24242424242424243
+Reactome_2022_Human,Platelet Adhesion To Exposed Collagen R-HSA-75892,12,6,0.5
+Reactome_2022_Human,Platelet Aggregation (Plug Formation) R-HSA-76009,36,15,0.4166666666666667
+Reactome_2022_Human,"Platelet Activation, Signaling And Aggregation R-HSA-76002",254,149,0.5866141732283464
+Reactome_2022_Human,Platelet Calcium Homeostasis R-HSA-418360,26,14,0.5384615384615384
+Reactome_2022_Human,Platelet Degranulation R-HSA-114608,125,67,0.536
+Reactome_2022_Human,Platelet Homeostasis R-HSA-418346,83,48,0.5783132530120482
+Reactome_2022_Human,Platelet Sensitization By LDL R-HSA-432142,17,15,0.8823529411764706
+Reactome_2022_Human,Polo-like Kinase Mediated Events R-HSA-156711,16,14,0.875
+Reactome_2022_Human,Polymerase Switching On C-strand Of Telomere R-HSA-174411,25,24,0.96
+Reactome_2022_Human,Positive Epigenetic Regulation Of rRNA Expression R-HSA-5250913,74,50,0.6756756756756757
+Reactome_2022_Human,Post NMDA Receptor Activation Events R-HSA-438064,61,32,0.5245901639344263
+Reactome_2022_Human,Post-chaperonin Tubulin Folding Pathway R-HSA-389977,23,13,0.5652173913043478
+Reactome_2022_Human,Post-transcriptional Silencing By Small RNAs R-HSA-426496,7,6,0.8571428571428571
+Reactome_2022_Human,Post-translational Modification: Synthesis Of GPI-anchored Proteins R-HSA-163125,92,35,0.3804347826086957
+Reactome_2022_Human,Post-translational Protein Modification R-HSA-597592,1383,925,0.6688358640636298
+Reactome_2022_Human,Post-translational Protein Phosphorylation R-HSA-8957275,106,37,0.3490566037735849
+Reactome_2022_Human,Postmitotic Nuclear Pore Complex (NPC) Reformation R-HSA-9615933,27,25,0.9259259259259259
+Reactome_2022_Human,Potassium Channels R-HSA-1296071,102,16,0.1568627450980392
+Reactome_2022_Human,Potential Therapeutics For SARS R-HSA-9679191,97,73,0.7525773195876289
+Reactome_2022_Human,Pre-NOTCH Expression And Processing R-HSA-1912422,78,47,0.6025641025641025
+Reactome_2022_Human,Pre-NOTCH Processing In Golgi R-HSA-1912420,18,14,0.7777777777777778
+Reactome_2022_Human,Pre-NOTCH Processing In Endoplasmic Reticulum R-HSA-1912399,6,4,0.6666666666666666
+Reactome_2022_Human,Pre-NOTCH Transcription And Translation R-HSA-1912408,62,33,0.532258064516129
+Reactome_2022_Human,Prefoldin Mediated Transfer Of Substrate To CCT/TriC R-HSA-389957,28,20,0.7142857142857143
+Reactome_2022_Human,Pregnenolone Biosynthesis R-HSA-196108,12,10,0.8333333333333334
+Reactome_2022_Human,Presynaptic Depolarization And Calcium Channel Opening R-HSA-112308,12,2,0.16666666666666666
+Reactome_2022_Human,Presynaptic Function Of Kainate Receptors R-HSA-500657,21,10,0.47619047619047616
+Reactome_2022_Human,Presynaptic Nicotinic Acetylcholine Receptors R-HSA-622323,12,1,0.08333333333333333
+Reactome_2022_Human,Presynaptic Phase Of Homologous DNA Pairing And Strand Exchange R-HSA-5693616,40,35,0.875
+Reactome_2022_Human,Prevention Of Phagosomal-Lysosomal Fusion R-HSA-9636383,9,9,1.0
+Reactome_2022_Human,Processing And Activation Of SUMO R-HSA-3215018,9,9,1.0
+Reactome_2022_Human,Processing Of Capped Intron-Containing Pre-mRNA R-HSA-72203,242,223,0.9214876033057852
+Reactome_2022_Human,Processing Of Capped Intronless Pre-mRNA R-HSA-75067,29,25,0.8620689655172413
+Reactome_2022_Human,Processing Of DNA Double-Strand Break Ends R-HSA-5693607,80,61,0.7625
+Reactome_2022_Human,Processing Of Intronless Pre-mRNAs R-HSA-77595,20,18,0.9
+Reactome_2022_Human,Processing Of SMDT1 R-HSA-8949664,16,15,0.9375
+Reactome_2022_Human,Processive Synthesis On C-strand Of Telomere R-HSA-174414,19,18,0.9473684210526315
+Reactome_2022_Human,Processive Synthesis On Lagging Strand R-HSA-69183,15,14,0.9333333333333333
+Reactome_2022_Human,Programmed Cell Death R-HSA-5357801,208,170,0.8173076923076923
+Reactome_2022_Human,Prolactin Receptor Signaling R-HSA-1170546,15,9,0.6
+Reactome_2022_Human,Prolonged ERK Activation Events R-HSA-169893,14,12,0.8571428571428571
+Reactome_2022_Human,Prostacyclin Signaling Thru Prostacyclin Receptor R-HSA-392851,19,10,0.5263157894736842
+Reactome_2022_Human,Prostanoid Ligand Receptors R-HSA-391908,9,5,0.5555555555555556
+Reactome_2022_Human,Protein Folding R-HSA-391251,96,65,0.6770833333333334
+Reactome_2022_Human,Protein Localization R-HSA-9609507,164,139,0.8475609756097561
+Reactome_2022_Human,Protein Methylation R-HSA-8876725,17,15,0.8823529411764706
+Reactome_2022_Human,Protein Repair R-HSA-5676934,6,5,0.8333333333333334
+Reactome_2022_Human,Protein Ubiquitination R-HSA-8852135,76,62,0.8157894736842105
+Reactome_2022_Human,Protein-protein Interactions At Synapses R-HSA-6794362,88,24,0.2727272727272727
+Reactome_2022_Human,Proton-coupled Monocarboxylate Transport R-HSA-433692,6,4,0.6666666666666666
+Reactome_2022_Human,Purine Catabolism R-HSA-74259,17,12,0.7058823529411765
+Reactome_2022_Human,Purine Ribonucleoside Monophosphate Biosynthesis R-HSA-73817,10,10,1.0
+Reactome_2022_Human,Purine Salvage R-HSA-74217,13,8,0.6153846153846154
+Reactome_2022_Human,Pyrimidine Catabolism R-HSA-73621,12,5,0.4166666666666667
+Reactome_2022_Human,Pyrimidine Salvage R-HSA-73614,11,7,0.6363636363636364
+Reactome_2022_Human,Pyroptosis R-HSA-5620971,26,16,0.6153846153846154
+Reactome_2022_Human,Pyruvate Metabolism R-HSA-70268,31,22,0.7096774193548387
+Reactome_2022_Human,Pyruvate Metabolism And Citric Acid (TCA) Cycle R-HSA-71406,54,42,0.7777777777777778
+Reactome_2022_Human,RA Biosynthesis Pathway R-HSA-5365859,22,6,0.2727272727272727
+Reactome_2022_Human,RAB GEFs Exchange GTP For GDP On RABs R-HSA-8876198,89,69,0.7752808988764045
+Reactome_2022_Human,RAB Geranylgeranylation R-HSA-8873719,62,38,0.6129032258064516
+Reactome_2022_Human,RAC1 GTPase Cycle R-HSA-9013149,178,117,0.6573033707865169
+Reactome_2022_Human,RAC2 GTPase Cycle R-HSA-9013404,87,63,0.7241379310344828
+Reactome_2022_Human,RAC3 GTPase Cycle R-HSA-9013423,93,65,0.6989247311827957
+Reactome_2022_Human,RAF Activation R-HSA-5673000,32,28,0.875
+Reactome_2022_Human,RAF-independent MAPK1/3 Activation R-HSA-112409,23,19,0.8260869565217391
+Reactome_2022_Human,RAF/MAP Kinase Cascade R-HSA-5673001,271,168,0.6199261992619927
+Reactome_2022_Human,RAS Processing R-HSA-9648002,19,16,0.8421052631578947
+Reactome_2022_Human,RAS Signaling Downstream Of NF1 Loss-Of-Function Variants R-HSA-6802953,6,5,0.8333333333333334
+Reactome_2022_Human,RET Signaling R-HSA-8853659,40,20,0.5
+Reactome_2022_Human,RHO GTPase Effectors R-HSA-195258,269,199,0.7397769516728625
+Reactome_2022_Human,RHO GTPase Cycle R-HSA-9012999,441,299,0.6780045351473923
+Reactome_2022_Human,RHO GTPases Activate Formins R-HSA-5663220,119,106,0.8907563025210085
+Reactome_2022_Human,RHO GTPases Activate NADPH Oxidases R-HSA-5668599,24,17,0.7083333333333334
+Reactome_2022_Human,RHO GTPases Activate ROCKs R-HSA-5627117,19,14,0.7368421052631579
+Reactome_2022_Human,RHO GTPases Activate Rhotekin And Rhophilins R-HSA-5666185,9,4,0.4444444444444444
+Reactome_2022_Human,RHO GTPases Activate WASPs And WAVEs R-HSA-5663213,36,28,0.7777777777777778
+Reactome_2022_Human,RHO GTPases Activate CIT R-HSA-5625900,19,12,0.631578947368421
+Reactome_2022_Human,RHO GTPases Activate IQGAPs R-HSA-5626467,11,9,0.8181818181818182
+Reactome_2022_Human,RHO GTPases Activate KTN1 R-HSA-5625970,10,8,0.8
+Reactome_2022_Human,RHO GTPases Activate PAKs R-HSA-5627123,21,13,0.6190476190476191
+Reactome_2022_Human,RHO GTPases Activate PKNs R-HSA-5625740,62,27,0.43548387096774194
+Reactome_2022_Human,RHOA GTPase Cycle R-HSA-8980692,147,95,0.6462585034013606
+Reactome_2022_Human,RHOB GTPase Cycle R-HSA-9013026,69,42,0.6086956521739131
+Reactome_2022_Human,RHOBTB GTPase Cycle R-HSA-9706574,35,30,0.8571428571428571
+Reactome_2022_Human,RHOBTB1 GTPase Cycle R-HSA-9013422,23,20,0.8695652173913043
+Reactome_2022_Human,RHOBTB2 GTPase Cycle R-HSA-9013418,23,19,0.8260869565217391
+Reactome_2022_Human,RHOBTB3 ATPase Cycle R-HSA-9706019,10,7,0.7
+Reactome_2022_Human,RHOC GTPase Cycle R-HSA-9013106,73,49,0.6712328767123288
+Reactome_2022_Human,RHOD GTPase Cycle R-HSA-9013405,52,39,0.75
+Reactome_2022_Human,RHOF GTPase Cycle R-HSA-9035034,42,30,0.7142857142857143
+Reactome_2022_Human,RHOG GTPase Cycle R-HSA-9013408,74,55,0.7432432432432432
+Reactome_2022_Human,RHOH GTPase Cycle R-HSA-9013407,36,29,0.8055555555555556
+Reactome_2022_Human,RHOJ GTPase Cycle R-HSA-9013409,54,40,0.7407407407407407
+Reactome_2022_Human,RHOQ GTPase Cycle R-HSA-9013406,59,40,0.6779661016949152
+Reactome_2022_Human,RHOT1 GTPase Cycle R-HSA-9013425,5,5,1.0
+Reactome_2022_Human,RHOT2 GTPase Cycle R-HSA-9013419,7,7,1.0
+Reactome_2022_Human,RHOU GTPase Cycle R-HSA-9013420,39,33,0.8461538461538461
+Reactome_2022_Human,RHOV GTPase Cycle R-HSA-9013424,37,30,0.8108108108108109
+Reactome_2022_Human,RIP-mediated NFkB Activation Via ZBP1 R-HSA-1810476,17,16,0.9411764705882353
+Reactome_2022_Human,RIPK1-mediated Regulated Necrosis R-HSA-5213460,31,26,0.8387096774193549
+Reactome_2022_Human,RMTs Methylate Histone Arginines R-HSA-3214858,49,32,0.6530612244897959
+Reactome_2022_Human,RNA Pol II CTD Phosphorylation And Interaction With CE R-HSA-77075,27,25,0.9259259259259259
+Reactome_2022_Human,RNA Polymerase I Promoter Clearance R-HSA-73854,78,52,0.6666666666666666
+Reactome_2022_Human,RNA Polymerase I Promoter Escape R-HSA-73772,59,35,0.5932203389830508
+Reactome_2022_Human,RNA Polymerase I Promoter Opening R-HSA-73728,32,9,0.28125
+Reactome_2022_Human,RNA Polymerase I Transcription Initiation R-HSA-73762,46,43,0.9347826086956522
+Reactome_2022_Human,RNA Polymerase I Transcription R-HSA-73864,79,52,0.6582278481012658
+Reactome_2022_Human,RNA Polymerase I Transcription Termination R-HSA-73863,30,28,0.9333333333333333
+Reactome_2022_Human,RNA Polymerase II Pre-transcription Events R-HSA-674695,80,72,0.9
+Reactome_2022_Human,RNA Polymerase II Transcription R-HSA-73857,1312,822,0.6265243902439024
+Reactome_2022_Human,RNA Polymerase II Transcription Termination R-HSA-73856,67,61,0.9104477611940298
+Reactome_2022_Human,RNA Polymerase III Abortive And Retractive Initiation R-HSA-749476,40,38,0.95
+Reactome_2022_Human,RNA Polymerase III Chain Elongation R-HSA-73780,17,17,1.0
+Reactome_2022_Human,RNA Polymerase III Transcription Initiation From Type 1 Promoter R-HSA-76061,27,27,1.0
+Reactome_2022_Human,RNA Polymerase III Transcription Initiation From Type 2 Promoter R-HSA-76066,26,26,1.0
+Reactome_2022_Human,RNA Polymerase III Transcription Initiation From Type 3 Promoter R-HSA-76071,27,27,1.0
+Reactome_2022_Human,RNA Polymerase III Transcription Initiation R-HSA-76046,35,35,1.0
+Reactome_2022_Human,RNA Polymerase III Transcription Termination R-HSA-73980,22,20,0.9090909090909091
+Reactome_2022_Human,RNA Polymerase II Transcribes snRNA Genes R-HSA-6807505,74,70,0.9459459459459459
+Reactome_2022_Human,RND1 GTPase Cycle R-HSA-9696273,42,24,0.5714285714285714
+Reactome_2022_Human,RND2 GTPase Cycle R-HSA-9696270,43,30,0.6976744186046512
+Reactome_2022_Human,RND3 GTPase Cycle R-HSA-9696264,42,25,0.5952380952380952
+Reactome_2022_Human,ROBO Receptors Bind AKAP5 R-HSA-9010642,8,4,0.5
+Reactome_2022_Human,RORA Activates Gene Expression R-HSA-1368082,18,15,0.8333333333333334
+Reactome_2022_Human,ROS And RNS Production In Phagocytes R-HSA-1222556,36,23,0.6388888888888888
+Reactome_2022_Human,RSK Activation R-HSA-444257,7,4,0.5714285714285714
+Reactome_2022_Human,RUNX1 And FOXP3 Control Development Of Regulatory T Lymphocytes (Tregs) R-HSA-8877330,10,8,0.8
+Reactome_2022_Human,RUNX1 Interacts With Co-Factors Whose Precise Effect On RUNX1 Targets Is Not Known R-HSA-8939243,35,32,0.9142857142857143
+Reactome_2022_Human,RUNX1 Regulates Estrogen Receptor Mediated Transcription R-HSA-8931987,6,5,0.8333333333333334
+Reactome_2022_Human,RUNX1 Regulates Expression Of Components Of Tight Junctions R-HSA-8935964,5,3,0.6
+Reactome_2022_Human,RUNX1 Regulates Genes Involved In Megakaryocyte Differentiation And Platelet Function R-HSA-8936459,66,36,0.5454545454545454
+Reactome_2022_Human,RUNX1 Regulates Transcription Of Genes Involved In BCR Signaling R-HSA-8939245,6,5,0.8333333333333334
+Reactome_2022_Human,RUNX1 Regulates Transcription Of Genes Involved In WNT Signaling R-HSA-8939256,6,3,0.5
+Reactome_2022_Human,RUNX1 Regulates Transcription Of Genes Involved In Differentiation Of HSCs R-HSA-8939236,98,65,0.6632653061224489
+Reactome_2022_Human,RUNX1 Regulates Transcription Of Genes Involved In Differentiation Of Keratinocytes R-HSA-8939242,8,4,0.5
+Reactome_2022_Human,RUNX1 Regulates Transcription Of Genes Involved In Differentiation Of Myeloid Cells R-HSA-8939246,7,7,1.0
+Reactome_2022_Human,RUNX1 Regulates Transcription Of Genes Involved In Interleukin Signaling R-HSA-8939247,5,3,0.6
+Reactome_2022_Human,RUNX2 Regulates Bone Development R-HSA-8941326,31,14,0.45161290322580644
+Reactome_2022_Human,RUNX2 Regulates Chondrocyte Maturation R-HSA-8941284,5,3,0.6
+Reactome_2022_Human,RUNX2 Regulates Genes Involved In Cell Migration R-HSA-8941332,8,6,0.75
+Reactome_2022_Human,RUNX2 Regulates Osteoblast Differentiation R-HSA-8940973,24,11,0.4583333333333333
+Reactome_2022_Human,RUNX3 Regulates Immune Response And Cell Migration R-HSA-8949275,6,6,1.0
+Reactome_2022_Human,RUNX3 Regulates BCL2L11 (BIM) Transcription R-HSA-8952158,5,5,1.0
+Reactome_2022_Human,RUNX3 Regulates CDKN1A Transcription R-HSA-8941855,7,6,0.8571428571428571
+Reactome_2022_Human,RUNX3 Regulates NOTCH Signaling R-HSA-8941856,14,12,0.8571428571428571
+Reactome_2022_Human,RUNX3 Regulates WNT Signaling R-HSA-8951430,8,6,0.75
+Reactome_2022_Human,RUNX3 Regulates YAP1-mediated Transcription R-HSA-8951671,8,2,0.25
+Reactome_2022_Human,RUNX3 Regulates p14-ARF R-HSA-8951936,10,8,0.8
+Reactome_2022_Human,Rab Regulation Of Trafficking R-HSA-9007101,122,95,0.7786885245901639
+Reactome_2022_Human,Rap1 Signaling R-HSA-392517,16,10,0.625
+Reactome_2022_Human,Ras Activation Upon Ca2+ Influx Thru NMDA Receptor R-HSA-442982,19,11,0.5789473684210527
+Reactome_2022_Human,Reactions Specific To Complex N-glycan Synthesis Pathway R-HSA-975578,10,5,0.5
+Reactome_2022_Human,Receptor Mediated Mitophagy R-HSA-8934903,10,8,0.8
+Reactome_2022_Human,Receptor-type Tyrosine-Protein Phosphatases R-HSA-388844,20,5,0.25
+Reactome_2022_Human,Recognition Of DNA Damage By PCNA-containing Replication Complex R-HSA-110314,30,30,1.0
+Reactome_2022_Human,Recruitment And ATM-mediated Phosphorylation Of Repair And Signal Proteins At DNA Double Strand Breaks R-HSA-5693565,60,41,0.6833333333333333
+Reactome_2022_Human,Recruitment Of NuMA To Mitotic Centrosomes R-HSA-380320,80,70,0.875
+Reactome_2022_Human,Recycling Of Bile Acids And Salts R-HSA-159418,18,4,0.2222222222222222
+Reactome_2022_Human,Recycling Of eIF2:GDP R-HSA-72731,8,7,0.875
+Reactome_2022_Human,Recycling Pathway Of L1 R-HSA-437239,28,18,0.6428571428571429
+Reactome_2022_Human,Reduction Of Cytosolic Ca++ Levels R-HSA-418359,11,6,0.5454545454545454
+Reactome_2022_Human,Reelin Signaling Pathway R-HSA-8866376,5,2,0.4
+Reactome_2022_Human,Regulated Necrosis R-HSA-5218859,57,42,0.7368421052631579
+Reactome_2022_Human,Regulated Proteolysis Of p75NTR R-HSA-193692,11,9,0.8181818181818182
+Reactome_2022_Human,Regulation Of APC/C Activators Between G1/S And Early Anaphase R-HSA-176408,80,77,0.9625
+Reactome_2022_Human,Regulation Of Apoptosis R-HSA-169911,52,50,0.9615384615384616
+Reactome_2022_Human,Regulation Of BACH1 Activity R-HSA-9708530,11,11,1.0
+Reactome_2022_Human,Regulation Of Complement Cascade R-HSA-977606,45,7,0.15555555555555556
+Reactome_2022_Human,Regulation Of FOXO Transcriptional Activity By Acetylation R-HSA-9617629,10,10,1.0
+Reactome_2022_Human,Regulation Of FZD By Ubiquitination R-HSA-4641263,20,9,0.45
+Reactome_2022_Human,Regulation Of HMOX1 Expression And Activity R-HSA-9707587,5,5,1.0
+Reactome_2022_Human,Regulation Of HSF1-mediated Heat Shock Response R-HSA-3371453,81,65,0.8024691358024691
+Reactome_2022_Human,Regulation Of IFNA/IFNB Signaling R-HSA-912694,25,11,0.44
+Reactome_2022_Human,Regulation Of IFNG Signaling R-HSA-877312,14,14,1.0
+Reactome_2022_Human,Regulation Of IGF Transport And Uptake By IGFBPs R-HSA-381426,123,40,0.3252032520325203
+Reactome_2022_Human,Regulation Of KIT Signaling R-HSA-1433559,16,12,0.75
+Reactome_2022_Human,Regulation Of MECP2 Expression And Activity R-HSA-9022692,31,26,0.8387096774193549
+Reactome_2022_Human,Regulation Of NF-kappa B Signaling R-HSA-9758274,18,17,0.9444444444444444
+Reactome_2022_Human,Regulation Of PLK1 Activity At G2/M Transition R-HSA-2565942,87,79,0.9080459770114943
+Reactome_2022_Human,Regulation Of PTEN Gene Transcription R-HSA-8943724,61,52,0.8524590163934426
+Reactome_2022_Human,Regulation Of PTEN Localization R-HSA-8948747,9,8,0.8888888888888888
+Reactome_2022_Human,Regulation Of PTEN mRNA Translation R-HSA-8943723,11,10,0.9090909090909091
+Reactome_2022_Human,Regulation Of PTEN Stability And Activity R-HSA-8948751,67,60,0.8955223880597015
+Reactome_2022_Human,Regulation Of RAS By GAPs R-HSA-5658442,65,58,0.8923076923076924
+Reactome_2022_Human,Regulation Of RUNX1 Expression And Activity R-HSA-8934593,17,14,0.8235294117647058
+Reactome_2022_Human,Regulation Of RUNX2 Expression And Activity R-HSA-8939902,72,62,0.8611111111111112
+Reactome_2022_Human,Regulation Of RUNX3 Expression And Activity R-HSA-8941858,54,52,0.9629629629629629
+Reactome_2022_Human,Regulation Of TLR By Endogenous Ligand R-HSA-5686938,18,11,0.6111111111111112
+Reactome_2022_Human,Regulation Of TNFR1 Signaling R-HSA-5357905,35,32,0.9142857142857143
+Reactome_2022_Human,Regulation Of TP53 Activity R-HSA-5633007,157,133,0.8471337579617835
+Reactome_2022_Human,Regulation Of TP53 Activity Thru Acetylation R-HSA-6804758,29,28,0.9655172413793104
+Reactome_2022_Human,Regulation Of TP53 Activity Thru Association With Co-factors R-HSA-6804759,14,8,0.5714285714285714
+Reactome_2022_Human,Regulation Of TP53 Activity Thru Methylation R-HSA-6804760,19,17,0.8947368421052632
+Reactome_2022_Human,Regulation Of TP53 Activity Thru Phosphorylation R-HSA-6804756,90,79,0.8777777777777778
+Reactome_2022_Human,Regulation Of TP53 Degradation R-HSA-6804757,36,31,0.8611111111111112
+Reactome_2022_Human,Regulation Of TP53 Expression And Degradation R-HSA-6806003,37,32,0.8648648648648649
+Reactome_2022_Human,Regulation Of Actin Dynamics For Phagocytic Cup Formation R-HSA-2029482,62,44,0.7096774193548387
+Reactome_2022_Human,Regulation Of Activated PAK-2p34 By Proteasome Mediated Degradation R-HSA-211733,49,47,0.9591836734693877
+Reactome_2022_Human,Regulation Of Beta-Cell Development R-HSA-186712,41,17,0.4146341463414634
+Reactome_2022_Human,Regulation Of Cholesterol Biosynthesis By SREBP (SREBF) R-HSA-1655829,55,51,0.9272727272727272
+Reactome_2022_Human,Regulation Of Commissural Axon Pathfinding By SLIT And ROBO R-HSA-428542,9,0,0.0
+Reactome_2022_Human,Regulation Of Cytoskeletal Remodeling And Cell Spreading By IPP Complex Components R-HSA-446388,8,5,0.625
+Reactome_2022_Human,Regulation Of Expression Of SLITs And ROBOs R-HSA-9010553,167,138,0.8263473053892215
+Reactome_2022_Human,Regulation Of Gene Expression By Hypoxia-inducible Factor R-HSA-1234158,11,7,0.6363636363636364
+Reactome_2022_Human,Regulation Of Gene Expression In Beta Cells R-HSA-210745,20,6,0.3
+Reactome_2022_Human,Regulation Of Gene Expression In Early Pancreatic Precursor Cells R-HSA-210747,8,1,0.125
+Reactome_2022_Human,Regulation Of Gene Expression In Endocrine-Committed (NEUROG3+) Progenitor Cells R-HSA-210746,5,0,0.0
+Reactome_2022_Human,Regulation Of Gene Expression In Late Stage (Branching Morphogenesis) Pancreatic Bud Precursor Cells R-HSA-210744,16,11,0.6875
+Reactome_2022_Human,"Regulation Of Glycolysis By Fructose 2,6-Bisphosphate Metabolism R-HSA-9634600",12,10,0.8333333333333334
+Reactome_2022_Human,Regulation Of Innate Immune Responses To Cytosolic DNA R-HSA-3134975,15,13,0.8666666666666667
+Reactome_2022_Human,Regulation Of Insulin Secretion R-HSA-422356,77,35,0.45454545454545453
+Reactome_2022_Human,Regulation Of Lipid Metabolism By PPARalpha R-HSA-400206,118,90,0.7627118644067796
+Reactome_2022_Human,Regulation Of Localization Of FOXO Transcription Factors R-HSA-9614399,12,11,0.9166666666666666
+Reactome_2022_Human,Regulation Of mRNA Stability By Proteins That Bind AU-rich Elements R-HSA-450531,88,78,0.8863636363636364
+Reactome_2022_Human,Regulation Of Necroptotic Cell Death R-HSA-5675482,29,24,0.8275862068965517
+Reactome_2022_Human,Regulation Of Ornithine Decarboxylase (ODC) R-HSA-350562,50,45,0.9
+Reactome_2022_Human,Regulation Of Pyruvate Dehydrogenase (PDH) Complex R-HSA-204174,16,12,0.75
+Reactome_2022_Human,Regulation Of Signaling By CBL R-HSA-912631,18,14,0.7777777777777778
+Reactome_2022_Human,Regulation Of Signaling By NODAL R-HSA-1433617,11,3,0.2727272727272727
+Reactome_2022_Human,Relaxin Receptors R-HSA-444821,8,0,0.0
+Reactome_2022_Human,Release Of Hh-Np From Secreting Cell R-HSA-5362798,8,1,0.125
+Reactome_2022_Human,Release Of Apoptotic Factors From Mitochondria R-HSA-111457,7,7,1.0
+Reactome_2022_Human,Removal Of Aminoterminal Propeptides From Gamma-Carboxylated Proteins R-HSA-159782,10,3,0.3
+Reactome_2022_Human,Removal Of Flap Intermediate R-HSA-69166,14,13,0.9285714285714286
+Reactome_2022_Human,Removal Of Flap Intermediate From C-strand R-HSA-174437,17,16,0.9411764705882353
+Reactome_2022_Human,Repression Of WNT Target Genes R-HSA-4641265,14,11,0.7857142857142857
+Reactome_2022_Human,Reproduction R-HSA-1474165,113,55,0.48672566371681414
+Reactome_2022_Human,Resolution Of AP Sites Via Multiple-Nucleotide Patch Replacement Pathway R-HSA-110373,25,25,1.0
+Reactome_2022_Human,Resolution Of Abasic Sites (AP Sites) R-HSA-73933,38,38,1.0
+Reactome_2022_Human,Resolution Of D-Loop Structures R-HSA-5693537,34,28,0.8235294117647058
+Reactome_2022_Human,Resolution Of D-loop Structures Thru Holliday Junction Intermediates R-HSA-5693568,33,27,0.8181818181818182
+Reactome_2022_Human,Resolution Of D-loop Structures Thru Synthesis-Dependent Strand Annealing (SDSA) R-HSA-5693554,27,23,0.8518518518518519
+Reactome_2022_Human,Resolution Of Sister Chromatid Cohesion R-HSA-2500257,106,97,0.9150943396226415
+Reactome_2022_Human,Respiratory Electron Transport R-HSA-611105,90,86,0.9555555555555556
+Reactome_2022_Human,"Respiratory Electron Transport, ATP Synthesis By Chemiosmotic Coupling, Heat Production By Uncoupling Proteins R-HSA-163200",112,103,0.9196428571428571
+Reactome_2022_Human,Response Of EIF2AK1 (HRI) To Heme Deficiency R-HSA-9648895,15,10,0.6666666666666666
+Reactome_2022_Human,Response Of EIF2AK4 (GCN2) To Amino Acid Deficiency R-HSA-9633012,98,84,0.8571428571428571
+Reactome_2022_Human,Response Of Mtb To Phagocytosis R-HSA-9637690,22,20,0.9090909090909091
+Reactome_2022_Human,Response To Elevated Platelet Cytosolic Ca2+ R-HSA-76005,130,71,0.5461538461538461
+Reactome_2022_Human,Response To Metal Ions R-HSA-5660526,14,2,0.14285714285714285
+Reactome_2022_Human,Retinoid Metabolism And Transport R-HSA-975634,43,11,0.2558139534883721
+Reactome_2022_Human,Retrograde Neurotrophin Signaling R-HSA-177504,14,9,0.6428571428571429
+Reactome_2022_Human,Retrograde Transport At Trans-Golgi-Network R-HSA-6811440,48,41,0.8541666666666666
+Reactome_2022_Human,Rev-mediated Nuclear Export Of HIV RNA R-HSA-165054,35,31,0.8857142857142857
+Reactome_2022_Human,Reversal Of Alkylation Damage By DNA Dioxygenases R-HSA-73943,7,7,1.0
+Reactome_2022_Human,Reversible Hydration Of Carbon Dioxide R-HSA-1475029,12,2,0.16666666666666666
+Reactome_2022_Human,Ribosomal Scanning And Start Codon Recognition R-HSA-72702,57,51,0.8947368421052632
+Reactome_2022_Human,Role Of ABL In ROBO-SLIT Signaling R-HSA-428890,8,5,0.625
+Reactome_2022_Human,Role Of LAT2/NTAL/LAB On Calcium Mobilization R-HSA-2730905,14,9,0.6428571428571429
+Reactome_2022_Human,Role Of Phospholipids In Phagocytosis R-HSA-2029485,26,16,0.6153846153846154
+Reactome_2022_Human,Role Of Second Messengers In Netrin-1 Signaling R-HSA-418890,10,3,0.3
+Reactome_2022_Human,S Phase R-HSA-69242,161,151,0.937888198757764
+Reactome_2022_Human,SARS-CoV Infections R-HSA-9679506,369,279,0.7560975609756098
+Reactome_2022_Human,SARS-CoV-1 Genome Replication And Transcription R-HSA-9679514,5,4,0.8
+Reactome_2022_Human,SARS-CoV-1 Infection R-HSA-9678108,52,41,0.7884615384615384
+Reactome_2022_Human,SARS-CoV-2 Genome Replication And Transcription R-HSA-9694682,5,4,0.8
+Reactome_2022_Human,SARS-CoV-2 Infection R-HSA-9694516,283,214,0.7561837455830389
+Reactome_2022_Human,SARS-CoV-2 Activates/Modulates Innate And Adaptive Immune Responses R-HSA-9705671,121,82,0.6776859504132231
+Reactome_2022_Human,SARS-CoV-2 Modulates Autophagy R-HSA-9754560,11,10,0.9090909090909091
+Reactome_2022_Human,SARS-CoV-2 Modulates Host Translation Machinery R-HSA-9754678,47,41,0.8723404255319149
+Reactome_2022_Human,SARS-CoV-2 Targets PDZ Proteins In Cell-Cell Junction R-HSA-9705677,5,3,0.6
+Reactome_2022_Human,SARS-CoV-2 Targets Host Intracellular Signaling And Regulatory Pathways R-HSA-9755779,13,10,0.7692307692307693
+Reactome_2022_Human,SARS-CoV-2-host Interactions R-HSA-9705683,196,146,0.7448979591836735
+Reactome_2022_Human,SCF(Skp2)-mediated Degradation Of P27/P21 R-HSA-187577,59,55,0.9322033898305084
+Reactome_2022_Human,SCF-beta-TrCP Mediated Degradation Of Emi1 R-HSA-174113,54,52,0.9629629629629629
+Reactome_2022_Human,SEMA3A-Plexin Repulsion Signaling By Inhibiting Integrin Adhesion R-HSA-399955,14,7,0.5
+Reactome_2022_Human,SHC-mediated cascade:FGFR1 R-HSA-5654688,20,6,0.3
+Reactome_2022_Human,SHC-mediated cascade:FGFR2 R-HSA-5654699,22,6,0.2727272727272727
+Reactome_2022_Human,SHC-mediated cascade:FGFR3 R-HSA-5654704,17,6,0.35294117647058826
+Reactome_2022_Human,SHC-mediated cascade:FGFR4 R-HSA-5654719,19,6,0.3157894736842105
+Reactome_2022_Human,SHC-related Events Triggered By IGF1R R-HSA-2428933,8,7,0.875
+Reactome_2022_Human,SHC1 Events In EGFR Signaling R-HSA-180336,13,8,0.6153846153846154
+Reactome_2022_Human,SHC1 Events In ERBB2 Signaling R-HSA-1250196,21,14,0.6666666666666666
+Reactome_2022_Human,SHC1 Events In ERBB4 Signaling R-HSA-1250347,13,8,0.6153846153846154
+Reactome_2022_Human,SIRT1 Negatively Regulates rRNA Expression R-HSA-427359,37,15,0.40540540540540543
+Reactome_2022_Human,SLBP Dependent Processing Of Replication-Dependent Histone Pre-mRNAs R-HSA-77588,11,8,0.7272727272727273
+Reactome_2022_Human,SLBP Independent Processing Of Histone Pre-mRNAs R-HSA-111367,10,7,0.7
+Reactome_2022_Human,SLC Transporter Disorders R-HSA-5619102,99,52,0.5252525252525253
+Reactome_2022_Human,SLC-mediated Transmembrane Transport R-HSA-425407,247,101,0.4089068825910931
+Reactome_2022_Human,SMAC (DIABLO) Binds To IAPs R-HSA-111463,7,6,0.8571428571428571
+Reactome_2022_Human,"SMAC, XIAP-regulated Apoptotic Response R-HSA-111469",8,7,0.875
+Reactome_2022_Human,SMAD2/3 Phosphorylation Motif Mutants In Cancer R-HSA-3304356,6,5,0.8333333333333334
+Reactome_2022_Human,SMAD2/SMAD3:SMAD4 Heterotrimer Regulates Transcription R-HSA-2173796,36,31,0.8611111111111112
+Reactome_2022_Human,SOS-mediated Signaling R-HSA-112412,6,5,0.8333333333333334
+Reactome_2022_Human,SRP-dependent Cotranslational Protein Targeting To Membrane R-HSA-1799339,108,98,0.9074074074074074
+Reactome_2022_Human,STAT3 Nuclear Events Downstream Of ALK Signaling R-HSA-9701898,10,10,1.0
+Reactome_2022_Human,STAT5 Activation R-HSA-9645135,7,5,0.7142857142857143
+Reactome_2022_Human,STAT5 Activation Downstream Of FLT3 ITD Mutants R-HSA-9702518,10,7,0.7
+Reactome_2022_Human,STING Mediated Induction Of Host Immune Responses R-HSA-1834941,16,13,0.8125
+Reactome_2022_Human,SUMO E3 Ligases SUMOylate Target Proteins R-HSA-3108232,168,137,0.8154761904761905
+Reactome_2022_Human,SUMO Is Proteolytically Processed R-HSA-3065679,5,5,1.0
+Reactome_2022_Human,"SUMO Is Transferred From E1 To E2 (UBE2I, UBC9) R-HSA-3065678",6,6,1.0
+Reactome_2022_Human,SUMOylation R-HSA-2990846,174,143,0.8218390804597702
+Reactome_2022_Human,SUMOylation Of DNA Damage Response And Repair Proteins R-HSA-3108214,76,70,0.9210526315789473
+Reactome_2022_Human,SUMOylation Of DNA Methylation Proteins R-HSA-4655427,16,15,0.9375
+Reactome_2022_Human,SUMOylation Of DNA Replication Proteins R-HSA-4615885,45,41,0.9111111111111111
+Reactome_2022_Human,SUMOylation Of RNA Binding Proteins R-HSA-4570464,47,41,0.8723404255319149
+Reactome_2022_Human,SUMOylation Of SUMOylation Proteins R-HSA-4085377,35,31,0.8857142857142857
+Reactome_2022_Human,SUMOylation Of Chromatin Organization Proteins R-HSA-4551638,57,49,0.8596491228070176
+Reactome_2022_Human,SUMOylation Of Immune Response Proteins R-HSA-4755510,11,11,1.0
+Reactome_2022_Human,SUMOylation Of Intracellular Receptors R-HSA-4090294,29,16,0.5517241379310345
+Reactome_2022_Human,SUMOylation Of Transcription Cofactors R-HSA-3899300,43,39,0.9069767441860465
+Reactome_2022_Human,SUMOylation Of Transcription Factors R-HSA-3232118,19,13,0.6842105263157895
+Reactome_2022_Human,SUMOylation Of Ubiquitinylation Proteins R-HSA-3232142,39,35,0.8974358974358975
+Reactome_2022_Human,Scavenging By Class A Receptors R-HSA-3000480,19,3,0.15789473684210525
+Reactome_2022_Human,Scavenging By Class B Receptors R-HSA-3000471,6,1,0.16666666666666666
+Reactome_2022_Human,Scavenging By Class F Receptors R-HSA-3000484,6,3,0.5
+Reactome_2022_Human,Scavenging Of Heme From Plasma R-HSA-2168880,12,3,0.25
+Reactome_2022_Human,Sealing Of Nuclear Envelope (NE) By ESCRT-III R-HSA-9668328,31,16,0.5161290322580645
+Reactome_2022_Human,Selective Autophagy R-HSA-9663891,61,51,0.8360655737704918
+Reactome_2022_Human,Selenoamino Acid Metabolism R-HSA-2408522,114,96,0.8421052631578947
+Reactome_2022_Human,Selenocysteine Synthesis R-HSA-2408557,90,80,0.8888888888888888
+Reactome_2022_Human,Sema3A PAK Dependent Axon Repulsion R-HSA-399954,16,9,0.5625
+Reactome_2022_Human,Sema4D In Semaphorin Signaling R-HSA-400685,24,15,0.625
+Reactome_2022_Human,Sema4D Induced Cell Migration And Growth-Cone Collapse R-HSA-416572,20,12,0.6
+Reactome_2022_Human,Sema4D Mediated Inhibition Of Cell Attachment And Migration R-HSA-416550,8,5,0.625
+Reactome_2022_Human,Semaphorin Interactions R-HSA-373755,64,38,0.59375
+Reactome_2022_Human,Senescence-Associated Secretory Phenotype (SASP) R-HSA-2559582,81,50,0.6172839506172839
+Reactome_2022_Human,Sensing Of DNA Double Strand Breaks R-HSA-5693548,6,5,0.8333333333333334
+Reactome_2022_Human,Sensory Perception R-HSA-9709957,616,64,0.1038961038961039
+Reactome_2022_Human,Sensory Perception Of Salty Taste R-HSA-9730628,6,0,0.0
+Reactome_2022_Human,"Sensory Perception Of Sweet, Bitter, And Umami (Glutamate) Taste R-HSA-9717207",41,5,0.12195121951219512
+Reactome_2022_Human,Sensory Perception Of Taste R-HSA-9717189,47,5,0.10638297872340426
+Reactome_2022_Human,Sensory Processing Of Sound R-HSA-9659379,75,28,0.37333333333333335
+Reactome_2022_Human,Sensory Processing Of Sound By Inner Hair Cells Of Cochlea R-HSA-9662360,67,26,0.3880597014925373
+Reactome_2022_Human,Sensory Processing Of Sound By Outer Hair Cells Of Cochlea R-HSA-9662361,53,18,0.33962264150943394
+Reactome_2022_Human,Separation Of Sister Chromatids R-HSA-2467813,170,157,0.9235294117647059
+Reactome_2022_Human,Serine Biosynthesis R-HSA-977347,9,7,0.7777777777777778
+Reactome_2022_Human,Serotonin Neurotransmitter Release Cycle R-HSA-181429,18,7,0.3888888888888889
+Reactome_2022_Human,Serotonin And Melatonin Biosynthesis R-HSA-209931,5,1,0.2
+Reactome_2022_Human,Serotonin Receptors R-HSA-390666,11,0,0.0
+Reactome_2022_Human,Sialic Acid Metabolism R-HSA-4085001,33,21,0.6363636363636364
+Reactome_2022_Human,Signal Transduction R-HSA-162582,2465,1363,0.5529411764705883
+Reactome_2022_Human,Signal Amplification R-HSA-392518,33,17,0.5151515151515151
+Reactome_2022_Human,Signal Attenuation R-HSA-74749,10,7,0.7
+Reactome_2022_Human,Signal Regulatory Protein Family Interactions R-HSA-391160,13,8,0.6153846153846154
+Reactome_2022_Human,Signal Transduction By L1 R-HSA-445144,20,14,0.7
+Reactome_2022_Human,Signaling By ALK R-HSA-201556,26,20,0.7692307692307693
+Reactome_2022_Human,Signaling By ALK Fusions And Activated Point Mutants R-HSA-9725370,55,49,0.8909090909090909
+Reactome_2022_Human,Signaling By Activin R-HSA-1502540,15,8,0.5333333333333333
+Reactome_2022_Human,Signaling By BMP R-HSA-201451,27,13,0.48148148148148145
+Reactome_2022_Human,Signaling By BRAF And RAF1 Fusions R-HSA-6802952,62,46,0.7419354838709677
+Reactome_2022_Human,Signaling By CSF3 (G-CSF) R-HSA-9674555,30,25,0.8333333333333334
+Reactome_2022_Human,Signaling By EGFR R-HSA-177929,49,40,0.8163265306122449
+Reactome_2022_Human,Signaling By EGFR In Cancer R-HSA-1643713,24,18,0.75
+Reactome_2022_Human,Signaling By ERBB2 ECD Mutants R-HSA-9665348,15,12,0.8
+Reactome_2022_Human,Signaling By ERBB2 KD Mutants R-HSA-9664565,24,16,0.6666666666666666
+Reactome_2022_Human,Signaling By ERBB2 R-HSA-1227986,49,38,0.7755102040816326
+Reactome_2022_Human,Signaling By ERBB2 TMD/JMD Mutants R-HSA-9665686,21,13,0.6190476190476191
+Reactome_2022_Human,Signaling By ERBB2 In Cancer R-HSA-1227990,25,17,0.68
+Reactome_2022_Human,Signaling By ERBB4 R-HSA-1236394,57,34,0.5964912280701754
+Reactome_2022_Human,Signaling By Erythropoietin R-HSA-9006335,24,21,0.875
+Reactome_2022_Human,Signaling By FGFR R-HSA-190236,86,48,0.5581395348837209
+Reactome_2022_Human,Signaling By FGFR In Disease R-HSA-1226099,61,39,0.639344262295082
+Reactome_2022_Human,Signaling By FGFR1 R-HSA-5654736,49,27,0.5510204081632653
+Reactome_2022_Human,Signaling By FGFR1 In Disease R-HSA-5655302,36,25,0.6944444444444444
+Reactome_2022_Human,Signaling By FGFR2 IIIa TM R-HSA-8851708,19,15,0.7894736842105263
+Reactome_2022_Human,Signaling By FGFR2 R-HSA-5654738,72,46,0.6388888888888888
+Reactome_2022_Human,Signaling By FGFR2 In Disease R-HSA-5655253,42,24,0.5714285714285714
+Reactome_2022_Human,Signaling By FGFR3 R-HSA-5654741,39,25,0.6410256410256411
+Reactome_2022_Human,Signaling By FGFR3 In Disease R-HSA-5655332,21,10,0.47619047619047616
+Reactome_2022_Human,Signaling By FGFR4 R-HSA-5654743,40,25,0.625
+Reactome_2022_Human,Signaling By FGFR4 In Disease R-HSA-5655291,10,9,0.9
+Reactome_2022_Human,Signaling By FLT3 ITD And TKD Mutants R-HSA-9703648,15,12,0.8
+Reactome_2022_Human,Signaling By FLT3 Fusion Proteins R-HSA-9703465,18,16,0.8888888888888888
+Reactome_2022_Human,Signaling By GPCR R-HSA-372790,689,212,0.3076923076923077
+Reactome_2022_Human,Signaling By Hedgehog R-HSA-5358351,135,99,0.7333333333333333
+Reactome_2022_Human,Signaling By Hippo R-HSA-2028269,20,13,0.65
+Reactome_2022_Human,Signaling By Insulin Receptor R-HSA-74752,77,41,0.5324675324675324
+Reactome_2022_Human,Signaling By Interleukins R-HSA-449147,453,294,0.6490066225165563
+Reactome_2022_Human,Signaling By KIT In Disease R-HSA-9669938,19,16,0.8421052631578947
+Reactome_2022_Human,Signaling By LRP5 Mutants R-HSA-5339717,6,3,0.5
+Reactome_2022_Human,Signaling By Leptin R-HSA-2586552,11,9,0.8181818181818182
+Reactome_2022_Human,Signaling By MAPK Mutants R-HSA-9652817,7,5,0.7142857142857143
+Reactome_2022_Human,Signaling By MET R-HSA-6806834,63,45,0.7142857142857143
+Reactome_2022_Human,Signaling By MST1 R-HSA-8852405,5,3,0.6
+Reactome_2022_Human,Signaling By NODAL R-HSA-1181150,22,11,0.5
+Reactome_2022_Human,Signaling By NOTCH R-HSA-157118,203,145,0.7142857142857143
+Reactome_2022_Human,Signaling By NOTCH1 R-HSA-1980143,74,54,0.7297297297297297
+Reactome_2022_Human,Signaling By NOTCH2 R-HSA-1980145,32,21,0.65625
+Reactome_2022_Human,Signaling By NOTCH3 R-HSA-9012852,49,31,0.6326530612244898
+Reactome_2022_Human,Signaling By NOTCH4 R-HSA-9013694,81,71,0.8765432098765432
+Reactome_2022_Human,Signaling By NTRK1 (TRKA) R-HSA-187037,114,83,0.7280701754385965
+Reactome_2022_Human,Signaling By NTRK2 (TRKB) R-HSA-9006115,23,15,0.6521739130434783
+Reactome_2022_Human,Signaling By NTRK3 (TRKC) R-HSA-9034015,16,12,0.75
+Reactome_2022_Human,Signaling By NTRKs R-HSA-166520,132,92,0.696969696969697
+Reactome_2022_Human,Signaling By Non-Receptor Tyrosine Kinases R-HSA-9006927,52,33,0.6346153846153846
+Reactome_2022_Human,Signaling By Nuclear Receptors R-HSA-9006931,260,154,0.5923076923076923
+Reactome_2022_Human,Signaling By PDGF R-HSA-186797,52,24,0.46153846153846156
+Reactome_2022_Human,Signaling By PDGFR In Disease R-HSA-9671555,19,16,0.8421052631578947
+Reactome_2022_Human,Signaling By PDGFRA Extracellular Domain Mutants R-HSA-9673770,11,10,0.9090909090909091
+Reactome_2022_Human,Signaling By RAF1 Mutants R-HSA-9656223,38,25,0.6578947368421053
+Reactome_2022_Human,Signaling By RNF43 Mutants R-HSA-5340588,7,3,0.42857142857142855
+Reactome_2022_Human,Signaling By ROBO Receptors R-HSA-376176,209,167,0.7990430622009569
+Reactome_2022_Human,Signaling By Receptor Tyrosine Kinases R-HSA-9006934,496,300,0.6048387096774194
+Reactome_2022_Human,Signaling By Retinoic Acid R-HSA-5362517,41,18,0.43902439024390244
+Reactome_2022_Human,Signaling By Rho GTPases R-HSA-194315,644,452,0.7018633540372671
+Reactome_2022_Human,"Signaling By Rho GTPases, Miro GTPases And RHOBTB3 R-HSA-9716542",660,465,0.7045454545454546
+Reactome_2022_Human,Signaling By SCF-KIT R-HSA-1433557,42,29,0.6904761904761905
+Reactome_2022_Human,Signaling By TGF-beta Receptor Complex R-HSA-170834,91,70,0.7692307692307693
+Reactome_2022_Human,Signaling By TGF-beta Receptor Complex In Cancer R-HSA-3304351,8,6,0.75
+Reactome_2022_Human,Signaling By TGFB Family Members R-HSA-9006936,119,78,0.6554621848739496
+Reactome_2022_Human,Signaling By Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R) R-HSA-2404192,53,22,0.41509433962264153
+Reactome_2022_Human,Signaling By VEGF R-HSA-194138,102,69,0.6764705882352942
+Reactome_2022_Human,Signaling By WNT R-HSA-195721,294,187,0.6360544217687075
+Reactome_2022_Human,Signaling By WNT In Cancer R-HSA-4791275,33,23,0.696969696969697
+Reactome_2022_Human,Signaling By Activated Point Mutants Of FGFR1 R-HSA-1839122,11,1,0.09090909090909091
+Reactome_2022_Human,Signaling By Cytosolic FGFR1 Fusion Mutants R-HSA-1839117,17,16,0.9411764705882353
+Reactome_2022_Human,Signaling By High-Kinase Activity BRAF Mutants R-HSA-6802948,33,21,0.6363636363636364
+Reactome_2022_Human,Signaling By Membrane-Tethered Fusions Of PDGFRA Or PDGFRB R-HSA-9673768,5,3,0.6
+Reactome_2022_Human,Signaling By B Cell Receptor (BCR) R-HSA-983705,109,97,0.8899082568807339
+Reactome_2022_Human,Signaling To ERKs R-HSA-187687,33,25,0.7575757575757576
+Reactome_2022_Human,Signaling To RAS R-HSA-167044,19,12,0.631578947368421
+Reactome_2022_Human,Signaling To P38 Via RIT And RIN R-HSA-187706,5,2,0.4
+Reactome_2022_Human,Small Interfering RNA (siRNA) Biogenesis R-HSA-426486,9,8,0.8888888888888888
+Reactome_2022_Human,Smooth Muscle Contraction R-HSA-445355,43,19,0.4418604651162791
+Reactome_2022_Human,Sodium-coupled Phosphate Cotransporters R-HSA-427652,5,2,0.4
+Reactome_2022_Human,"Sodium-coupled Sulphate, Di- And Tri-Carboxylate Transporters R-HSA-433137",5,0,0.0
+Reactome_2022_Human,Sodium/Calcium Exchangers R-HSA-425561,10,4,0.4
+Reactome_2022_Human,Sodium/Proton Exchangers R-HSA-425986,8,4,0.5
+Reactome_2022_Human,Sperm Motility And Taxes R-HSA-1300642,9,3,0.3333333333333333
+Reactome_2022_Human,Sphingolipid De Novo Biosynthesis R-HSA-1660661,44,30,0.6818181818181818
+Reactome_2022_Human,Sphingolipid Metabolism R-HSA-428157,89,57,0.6404494382022472
+Reactome_2022_Human,Spry Regulation Of FGF Signaling R-HSA-1295596,16,15,0.9375
+Reactome_2022_Human,Stabilization Of P53 R-HSA-69541,56,52,0.9285714285714286
+Reactome_2022_Human,Stimuli-sensing Channels R-HSA-2672351,100,33,0.33
+Reactome_2022_Human,Striated Muscle Contraction R-HSA-390522,33,8,0.24242424242424243
+Reactome_2022_Human,Sulfide Oxidation To Sulfate R-HSA-1614517,5,4,0.8
+Reactome_2022_Human,Sulfur Amino Acid Metabolism R-HSA-1614635,26,17,0.6538461538461539
+Reactome_2022_Human,Suppression Of Apoptosis R-HSA-9635465,6,5,0.8333333333333334
+Reactome_2022_Human,Suppression Of Phagosomal Maturation R-HSA-9637687,13,12,0.9230769230769231
+Reactome_2022_Human,Surfactant Metabolism R-HSA-5683826,29,6,0.20689655172413793
+Reactome_2022_Human,Switching Of Origins To A Post-Replicative State R-HSA-69052,90,84,0.9333333333333333
+Reactome_2022_Human,Synaptic Adhesion-Like Molecules R-HSA-8849932,21,6,0.2857142857142857
+Reactome_2022_Human,Syndecan Interactions R-HSA-3000170,20,12,0.6
+Reactome_2022_Human,Synthesis Of (16-20)-Hydroxyeicosatetraenoic Acids (HETE) R-HSA-2142816,9,0,0.0
+Reactome_2022_Human,Synthesis Of 12-Eicosatetraenoic Acid Derivatives R-HSA-2142712,7,2,0.2857142857142857
+Reactome_2022_Human,Synthesis Of 15-Eicosatetraenoic Acid Derivatives R-HSA-2142770,6,2,0.3333333333333333
+Reactome_2022_Human,Synthesis Of 5-Eicosatetraenoic Acids R-HSA-2142688,9,3,0.3333333333333333
+Reactome_2022_Human,Synthesis Of DNA R-HSA-69239,119,112,0.9411764705882353
+Reactome_2022_Human,Synthesis Of Dolichyl-phosphate R-HSA-446199,6,6,1.0
+Reactome_2022_Human,Synthesis Of GDP-mannose R-HSA-446205,5,4,0.8
+Reactome_2022_Human,"Synthesis Of IP2, IP, And Ins In Cytosol R-HSA-1855183",14,12,0.8571428571428571
+Reactome_2022_Human,Synthesis Of IP3 And IP4 In Cytosol R-HSA-1855204,26,14,0.5384615384615384
+Reactome_2022_Human,Synthesis Of Ketone Bodies R-HSA-77111,8,4,0.5
+Reactome_2022_Human,Synthesis Of Leukotrienes (LT) And Eoxins (EX) R-HSA-2142691,21,6,0.2857142857142857
+Reactome_2022_Human,Synthesis Of Lipoxins (LX) R-HSA-2142700,6,1,0.16666666666666666
+Reactome_2022_Human,Synthesis Of PA R-HSA-1483166,39,20,0.5128205128205128
+Reactome_2022_Human,Synthesis Of PC R-HSA-1483191,27,16,0.5925925925925926
+Reactome_2022_Human,Synthesis Of PE R-HSA-1483213,13,9,0.6923076923076923
+Reactome_2022_Human,Synthesis Of PG R-HSA-1483148,8,5,0.625
+Reactome_2022_Human,Synthesis Of PI R-HSA-1483226,5,4,0.8
+Reactome_2022_Human,Synthesis Of PIPs At ER Membrane R-HSA-1483248,5,5,1.0
+Reactome_2022_Human,Synthesis Of PIPs At Golgi Membrane R-HSA-1660514,17,14,0.8235294117647058
+Reactome_2022_Human,Synthesis Of PIPs At Early Endosome Membrane R-HSA-1660516,16,16,1.0
+Reactome_2022_Human,Synthesis Of PIPs At Late Endosome Membrane R-HSA-1660517,11,11,1.0
+Reactome_2022_Human,Synthesis Of PIPs At Plasma Membrane R-HSA-1660499,51,43,0.8431372549019608
+Reactome_2022_Human,Synthesis Of Prostaglandins (PG) And Thromboxanes (TX) R-HSA-2162123,15,7,0.4666666666666667
+Reactome_2022_Human,Synthesis Of UDP-N-acetyl-glucosamine R-HSA-446210,8,6,0.75
+Reactome_2022_Human,Synthesis Of Active Ubiquitin: Roles Of E1 And E2 Enzymes R-HSA-8866652,30,29,0.9666666666666667
+Reactome_2022_Human,Synthesis Of Bile Acids And Bile Salts R-HSA-192105,34,11,0.3235294117647059
+Reactome_2022_Human,Synthesis Of Bile Acids And Bile Salts Via 24-Hydroxycholesterol R-HSA-193775,14,1,0.07142857142857142
+Reactome_2022_Human,Synthesis Of Bile Acids And Bile Salts Via 27-Hydroxycholesterol R-HSA-193807,15,3,0.2
+Reactome_2022_Human,Synthesis Of Bile Acids And Bile Salts Via 7Alpha-Hydroxycholesterol R-HSA-193368,24,6,0.25
+Reactome_2022_Human,Synthesis Of diphthamide-EEF2 R-HSA-5358493,8,6,0.75
+Reactome_2022_Human,Synthesis Of Epoxy (EET) And Dihydroxyeicosatrienoic Acids (DHET) R-HSA-2142670,8,0,0.0
+Reactome_2022_Human,Synthesis Of Glycosylphosphatidylinositol (GPI) R-HSA-162710,18,17,0.9444444444444444
+Reactome_2022_Human,Synthesis Of Pyrophosphates In Cytosol R-HSA-1855167,10,7,0.7
+Reactome_2022_Human,Synthesis Of Substrates In N-glycan Biosythesis R-HSA-446219,63,48,0.7619047619047619
+Reactome_2022_Human,Synthesis Of Very Long-Chain Fatty acyl-CoAs R-HSA-75876,24,14,0.5833333333333334
+Reactome_2022_Human,Synthesis Of Wybutosine At G37 Of tRNA(Phe) R-HSA-6782861,6,4,0.6666666666666666
+Reactome_2022_Human,"Synthesis, Secretion, And Deacylation Of Ghrelin R-HSA-422085",19,7,0.3684210526315789
+Reactome_2022_Human,"Synthesis, Secretion, And Inactivation Of Glucagon-like Peptide-1 (GLP-1) R-HSA-381771",21,9,0.42857142857142855
+Reactome_2022_Human,"Synthesis, Secretion, And Inactivation Of Glucose-dependent Insulinotropic Polypeptide (GIP) R-HSA-400511",13,7,0.5384615384615384
+Reactome_2022_Human,TAK1-dependent IKK And NF-kappa-B Activation R-HSA-445989,45,35,0.7777777777777778
+Reactome_2022_Human,TBC/RABGAPs R-HSA-8854214,45,36,0.8
+Reactome_2022_Human,TCF Dependent Signaling In Response To WNT R-HSA-201681,198,127,0.6414141414141414
+Reactome_2022_Human,TCR Signaling R-HSA-202403,116,100,0.8620689655172413
+Reactome_2022_Human,TFAP2 (AP-2) Family Regulates Transcription Of Cell Cycle Factors R-HSA-8866911,5,3,0.6
+Reactome_2022_Human,TFAP2 (AP-2) Family Regulates Transcription Of Growth Factors And Their Receptors R-HSA-8866910,13,3,0.23076923076923078
+Reactome_2022_Human,TFAP2A Acts As A Transcriptional Repressor During Retinoic Acid Induced Cell Differentiation R-HSA-8869496,5,3,0.6
+Reactome_2022_Human,TGF-beta Receptor Signaling Activates SMADs R-HSA-2173789,44,32,0.7272727272727273
+Reactome_2022_Human,TGF-beta Receptor Signaling In EMT (Epithelial To Mesenchymal Transition) R-HSA-2173791,16,12,0.75
+Reactome_2022_Human,"TICAM1, RIP1-mediated IKK Complex Recruitment R-HSA-168927",19,17,0.8947368421052632
+Reactome_2022_Human,"TICAM1,TRAF6-dependent Induction Of TAK1 Complex R-HSA-9014325",11,10,0.9090909090909091
+Reactome_2022_Human,TICAM1-dependent Activation Of IRF3/IRF7 R-HSA-9013973,12,11,0.9166666666666666
+Reactome_2022_Human,TLR3-mediated TICAM1-dependent Programmed Cell Death R-HSA-9013957,6,5,0.8333333333333334
+Reactome_2022_Human,TNF Receptor Superfamily (TNFSF) Members Mediating Non-Canonical NF-kB Pathway R-HSA-5676594,17,11,0.6470588235294118
+Reactome_2022_Human,TNF Signaling R-HSA-75893,44,40,0.9090909090909091
+Reactome_2022_Human,TNFR1-induced NFkappaB Signaling Pathway R-HSA-5357956,26,24,0.9230769230769231
+Reactome_2022_Human,TNFR1-induced Proapoptotic Signaling R-HSA-5357786,13,12,0.9230769230769231
+Reactome_2022_Human,TNFR1-mediated Ceramide Production R-HSA-5626978,6,5,0.8333333333333334
+Reactome_2022_Human,TNFR2 Non-Canonical NF-kB Pathway R-HSA-5668541,100,80,0.8
+Reactome_2022_Human,TNFs Bind Their Physiological Receptors R-HSA-5669034,29,16,0.5517241379310345
+Reactome_2022_Human,TP53 Regulates Metabolic Genes R-HSA-5628897,81,75,0.9259259259259259
+Reactome_2022_Human,TP53 Regulates Transcription Of Caspase Activators And Caspases R-HSA-6803207,12,8,0.6666666666666666
+Reactome_2022_Human,TP53 Regulates Transcription Of Cell Cycle Genes R-HSA-6791312,49,39,0.7959183673469388
+Reactome_2022_Human,TP53 Regulates Transcription Of Cell Death Genes R-HSA-5633008,44,29,0.6590909090909091
+Reactome_2022_Human,TP53 Regulates Transcription Of DNA Repair Genes R-HSA-6796648,62,56,0.9032258064516129
+Reactome_2022_Human,TP53 Regulates Transcription Of Death Receptors And Ligands R-HSA-6803211,12,5,0.4166666666666667
+Reactome_2022_Human,TP53 Regulates Transcription Of Genes Involved In Cytochrome C Release R-HSA-6803204,20,16,0.8
+Reactome_2022_Human,TP53 Regulates Transcription Of Genes Involved In G1 Cell Cycle Arrest R-HSA-6804116,14,9,0.6428571428571429
+Reactome_2022_Human,TP53 Regulates Transcription Of Genes Involved In G2 Cell Cycle Arrest R-HSA-6804114,18,15,0.8333333333333334
+Reactome_2022_Human,TP53 Regulates Transcription Of Additional Cell Cycle Genes With Uncertain Roles In P53 Pathway R-HSA-6804115,21,17,0.8095238095238095
+Reactome_2022_Human,TP53 Regulates Transcription Of Additional Cell Death Genes With Uncertain Roles In P53-Dependent Apoptosis R-HSA-6803205,14,8,0.5714285714285714
+Reactome_2022_Human,TRAF3-dependent IRF Activation Pathway R-HSA-918233,15,13,0.8666666666666667
+Reactome_2022_Human,TRAF6 Mediated IRF7 Activation R-HSA-933541,28,14,0.5
+Reactome_2022_Human,TRAF6 Mediated IRF7 Activation In TLR7/8 Or 9 Signaling R-HSA-975110,9,7,0.7777777777777778
+Reactome_2022_Human,TRAF6 Mediated NF-kB Activation R-HSA-933542,25,20,0.8
+Reactome_2022_Human,TRAF6 Mediated Induction Of NFkB And MAP Kinases Upon TLR7/8 Or 9 Activation R-HSA-975138,101,80,0.7920792079207921
+Reactome_2022_Human,TRAF6-mediated Induction Of TAK1 Complex Within TLR4 Complex R-HSA-937072,16,13,0.8125
+Reactome_2022_Human,TRAIL Signaling R-HSA-75158,8,4,0.5
+Reactome_2022_Human,TRIF-mediated Programmed Cell Death R-HSA-2562578,9,7,0.7777777777777778
+Reactome_2022_Human,TRP Channels R-HSA-3295583,25,8,0.32
+Reactome_2022_Human,TYSND1 Cleaves Peroxisomal Proteins R-HSA-9033500,7,6,0.8571428571428571
+Reactome_2022_Human,Tachykinin Receptors Bind Tachykinins R-HSA-380095,5,0,0.0
+Reactome_2022_Human,Tandem Pore Domain Potassium Channels R-HSA-1296346,12,1,0.08333333333333333
+Reactome_2022_Human,Telomere C-strand (Lagging Strand) Synthesis R-HSA-174417,33,31,0.9393939393939394
+Reactome_2022_Human,Telomere C-strand Synthesis Initiation R-HSA-174430,12,12,1.0
+Reactome_2022_Human,Telomere Extension By Telomerase R-HSA-171319,23,21,0.9130434782608695
+Reactome_2022_Human,Telomere Maintenance R-HSA-157579,92,66,0.717391304347826
+Reactome_2022_Human,Terminal Pathway Of Complement R-HSA-166665,7,1,0.14285714285714285
+Reactome_2022_Human,Termination Of O-glycan Biosynthesis R-HSA-977068,25,7,0.28
+Reactome_2022_Human,Termination Of Translesion DNA Synthesis R-HSA-5656169,32,29,0.90625
+Reactome_2022_Human,"Tetrahydrobiopterin (BH4) Synthesis, Recycling, Salvage And Regulation R-HSA-1474151",10,5,0.5
+Reactome_2022_Human,NLRP3 Inflammasome R-HSA-844456,16,13,0.8125
+Reactome_2022_Human,Activation Of Arylsulfatases R-HSA-1663150,13,5,0.38461538461538464
+Reactome_2022_Human,Canonical Retinoid Cycle In Rods (Twilight Vision) R-HSA-2453902,23,5,0.21739130434782608
+Reactome_2022_Human,Citric Acid (TCA) Cycle And Respiratory Electron Transport R-HSA-1428517,163,142,0.8711656441717791
+Reactome_2022_Human,Fatty Acid Cycling Model R-HSA-167826,5,3,0.6
+Reactome_2022_Human,Phototransduction Cascade R-HSA-2514856,33,14,0.42424242424242425
+Reactome_2022_Human,Retinoid Cycle In Cones (Daylight Vision) R-HSA-2187335,7,1,0.14285714285714285
+Reactome_2022_Human,Role Of GTSE1 In G2/M Progression After G2 Checkpoint R-HSA-8852276,59,54,0.9152542372881356
+Reactome_2022_Human,Role Of Nef In HIV-1 Replication And Disease Pathogenesis R-HSA-164952,27,22,0.8148148148148148
+Reactome_2022_Human,Thrombin Signaling Thru Proteinase Activated Receptors (PARs) R-HSA-456926,32,21,0.65625
+Reactome_2022_Human,Thromboxane Signaling Thru TP Receptor R-HSA-428930,24,14,0.5833333333333334
+Reactome_2022_Human,Thyroxine Biosynthesis R-HSA-209968,10,1,0.1
+Reactome_2022_Human,Tie2 Signaling R-HSA-210993,17,11,0.6470588235294118
+Reactome_2022_Human,Tight Junction Interactions R-HSA-420029,30,6,0.2
+Reactome_2022_Human,Toll Like Receptor 3 (TLR3) Cascade R-HSA-168164,103,85,0.8252427184466019
+Reactome_2022_Human,Toll Like Receptor 4 (TLR4) Cascade R-HSA-166016,140,106,0.7571428571428571
+Reactome_2022_Human,Toll Like Receptor 7/8 (TLR7/8) Cascade R-HSA-168181,103,81,0.7864077669902912
+Reactome_2022_Human,Toll Like Receptor 9 (TLR9) Cascade R-HSA-168138,106,85,0.8018867924528302
+Reactome_2022_Human,Toll-like Receptor Cascades R-HSA-168898,162,118,0.7283950617283951
+Reactome_2022_Human,Toxicity Of Botulinum Toxin Type D (botD) R-HSA-5250955,5,4,0.8
+Reactome_2022_Human,Toxicity Of Botulinum Toxin Type F (botF) R-HSA-5250981,5,4,0.8
+Reactome_2022_Human,Trafficking And Processing Of Endosomal TLR R-HSA-1679131,13,6,0.46153846153846156
+Reactome_2022_Human,Trafficking Of GluR2-containing AMPA Receptors R-HSA-416993,17,9,0.5294117647058824
+Reactome_2022_Human,Transcription Of E2F Targets Under Negative Control By DREAM Complex R-HSA-1362277,19,18,0.9473684210526315
+Reactome_2022_Human,Transcription Of E2F Targets Under Negative Control By P107 (RBL1) And P130 (RBL2) In Complex With HDAC1 R-HSA-1362300,16,14,0.875
+Reactome_2022_Human,Transcription Of HIV Genome R-HSA-167172,69,61,0.8840579710144928
+Reactome_2022_Human,Transcription-Coupled Nucleotide Excision Repair (TC-NER) R-HSA-6781827,77,74,0.961038961038961
+Reactome_2022_Human,Transcriptional Regulation By E2F6 R-HSA-8953750,34,32,0.9411764705882353
+Reactome_2022_Human,Transcriptional Regulation By MECP2 R-HSA-8986944,60,35,0.5833333333333334
+Reactome_2022_Human,Transcriptional Regulation By TP53 R-HSA-3700989,354,301,0.8502824858757062
+Reactome_2022_Human,Transcriptional Regulation By VENTX R-HSA-8853884,39,32,0.8205128205128205
+Reactome_2022_Human,Transcriptional Activation Of Mitochondrial Biogenesis R-HSA-2151201,52,43,0.8269230769230769
+Reactome_2022_Human,Transcriptional Activity Of SMAD2/SMAD3:SMAD4 Heterotrimer R-HSA-2173793,51,45,0.8823529411764706
+Reactome_2022_Human,Transcriptional Regulation By RUNX1 R-HSA-8878171,204,146,0.7156862745098039
+Reactome_2022_Human,Transcriptional Regulation By RUNX2 R-HSA-8878166,119,86,0.7226890756302521
+Reactome_2022_Human,Transcriptional Regulation By RUNX3 R-HSA-8878159,95,82,0.8631578947368421
+Reactome_2022_Human,Transcriptional Regulation By Small RNAs R-HSA-5578749,76,49,0.6447368421052632
+Reactome_2022_Human,Transcriptional Regulation By AP-2 (TFAP2) Family Of Transcription Factors R-HSA-8864260,36,19,0.5277777777777778
+Reactome_2022_Human,Transcriptional Regulation Of Granulopoiesis R-HSA-9616222,59,29,0.4915254237288136
+Reactome_2022_Human,Transcriptional Regulation Of Pluripotent Stem Cells R-HSA-452723,30,9,0.3
+Reactome_2022_Human,Transcriptional Regulation Of Testis Differentiation R-HSA-9690406,13,0,0.0
+Reactome_2022_Human,Transcriptional Regulation Of White Adipocyte Differentiation R-HSA-381340,84,63,0.75
+Reactome_2022_Human,Transferrin Endocytosis And Recycling R-HSA-917977,31,22,0.7096774193548387
+Reactome_2022_Human,Translation R-HSA-72766,281,261,0.9288256227758007
+Reactome_2022_Human,Translation Initiation Complex Formation R-HSA-72649,57,50,0.8771929824561403
+Reactome_2022_Human,Translation Of Replicase And Assembly Of Replication Transcription Complex R-HSA-9679504,12,8,0.6666666666666666
+Reactome_2022_Human,Translation Of Structural Proteins R-HSA-9683701,30,27,0.9
+Reactome_2022_Human,Translesion Synthesis By POLH R-HSA-110320,19,19,1.0
+Reactome_2022_Human,Translesion Synthesis By POLI R-HSA-5656121,17,17,1.0
+Reactome_2022_Human,Translesion Synthesis By POLK R-HSA-5655862,17,17,1.0
+Reactome_2022_Human,Translesion Synthesis By REV1 R-HSA-110312,16,16,1.0
+Reactome_2022_Human,Translesion Synthesis By Y Family DNA Polymerases Bypasses Lesions On DNA Template R-HSA-110313,39,36,0.9230769230769231
+Reactome_2022_Human,Translocation Of SLC2A4 (GLUT4) To Plasma Membrane R-HSA-1445148,51,46,0.9019607843137255
+Reactome_2022_Human,Translocation Of ZAP-70 To Immunological Synapse R-HSA-202430,17,7,0.4117647058823529
+Reactome_2022_Human,Transmission Across Chemical Synapses R-HSA-112315,246,85,0.34552845528455284
+Reactome_2022_Human,Transport And Synthesis Of PAPS R-HSA-174362,6,4,0.6666666666666666
+Reactome_2022_Human,Transport Of Mature Transcript To Cytoplasm R-HSA-72202,83,75,0.9036144578313253
+Reactome_2022_Human,Transport Of Mature mRNA Derived From An Intronless Transcript R-HSA-159231,42,37,0.8809523809523809
+Reactome_2022_Human,Transport Of Mature mRNA Derived From An Intron-Containing Transcript R-HSA-159236,74,66,0.8918918918918919
+Reactome_2022_Human,Transport Of Mature mRNAs Derived From Intronless Transcripts R-HSA-159234,43,38,0.8837209302325582
+Reactome_2022_Human,Transport Of RCbl Within Body R-HSA-9758890,8,6,0.75
+Reactome_2022_Human,Transport Of Ribonucleoproteins Into Host Nucleus R-HSA-168271,35,31,0.8857142857142857
+Reactome_2022_Human,"Transport Of Bile Salts And Organic Acids, Metal Ions And Amine Compounds R-HSA-425366",86,33,0.38372093023255816
+Reactome_2022_Human,Transport Of Fatty Acids R-HSA-804914,8,3,0.375
+Reactome_2022_Human,Transport Of Gamma-Carboxylated Protein Precursors From Endoplasmic Reticulum To Golgi Apparatus R-HSA-159763,9,2,0.2222222222222222
+Reactome_2022_Human,Transport Of Inorganic Cations/Anions And Amino Acids/Oligopeptides R-HSA-425393,104,42,0.40384615384615385
+Reactome_2022_Human,Transport Of Nucleosides And Free Purine And Pyrimidine Bases Across Plasma Membrane R-HSA-83936,12,7,0.5833333333333334
+Reactome_2022_Human,Transport Of Nucleotide Sugars R-HSA-727802,9,9,1.0
+Reactome_2022_Human,Transport Of Organic Anions R-HSA-879518,11,2,0.18181818181818182
+Reactome_2022_Human,Transport Of Small Molecules R-HSA-382551,706,351,0.4971671388101983
+Reactome_2022_Human,Transport Of SLBP Dependant Mature mRNA R-HSA-159230,36,31,0.8611111111111112
+Reactome_2022_Human,Transport Of SLBP Independent Mature mRNA R-HSA-159227,35,30,0.8571428571428571
+Reactome_2022_Human,"Transport Of Vitamins, Nucleosides, And Related Molecules R-HSA-425397",43,24,0.5581395348837209
+Reactome_2022_Human,Transport To Golgi And Subsequent Modification R-HSA-948021,164,122,0.7439024390243902
+Reactome_2022_Human,Triglyceride Biosynthesis R-HSA-75109,14,4,0.2857142857142857
+Reactome_2022_Human,Triglyceride Catabolism R-HSA-163560,23,10,0.43478260869565216
+Reactome_2022_Human,Triglyceride Metabolism R-HSA-8979227,37,14,0.3783783783783784
+Reactome_2022_Human,"Tristetraprolin (TTP, ZFP36) Binds And Destabilizes mRNA R-HSA-450513",17,16,0.9411764705882353
+Reactome_2022_Human,Tryptophan Catabolism R-HSA-71240,14,6,0.42857142857142855
+Reactome_2022_Human,Type I Hemidesmosome Assembly R-HSA-446107,9,5,0.5555555555555556
+Reactome_2022_Human,Tyrosine Catabolism R-HSA-8963684,5,3,0.6
+Reactome_2022_Human,UCH Proteinases R-HSA-5689603,95,82,0.8631578947368421
+Reactome_2022_Human,Ub-specific Processing Proteases R-HSA-5689880,201,151,0.7512437810945274
+Reactome_2022_Human,Ubiquinol Biosynthesis R-HSA-2142789,8,8,1.0
+Reactome_2022_Human,Ubiquitin Mediated Degradation Of Phosphorylated Cdc25A R-HSA-69601,51,49,0.9607843137254902
+Reactome_2022_Human,Ubiquitin-dependent Degradation Of Cyclin D R-HSA-75815,51,48,0.9411764705882353
+Reactome_2022_Human,"Unblocking Of NMDA Receptors, Glutamate Binding And Activation R-HSA-438066",21,8,0.38095238095238093
+Reactome_2022_Human,Unfolded Protein Response (UPR) R-HSA-381119,89,72,0.8089887640449438
+Reactome_2022_Human,Unwinding Of DNA R-HSA-176974,11,10,0.9090909090909091
+Reactome_2022_Human,Uptake And Actions Of Bacterial Toxins R-HSA-5339562,29,19,0.6551724137931034
+Reactome_2022_Human,Uptake And Function Of Anthrax Toxins R-HSA-5210891,11,10,0.9090909090909091
+Reactome_2022_Human,Uptake And Function Of Diphtheria Toxin R-HSA-5336415,6,4,0.6666666666666666
+Reactome_2022_Human,Uptake Of Dietary Cobalamins Into Enterocytes R-HSA-9758881,10,2,0.2
+Reactome_2022_Human,Urea Cycle R-HSA-70635,10,4,0.4
+Reactome_2022_Human,VEGF Binds To VEGFR Leading To Receptor Dimerization R-HSA-195399,8,1,0.125
+Reactome_2022_Human,VEGFA-VEGFR2 Pathway R-HSA-4420097,93,65,0.6989247311827957
+Reactome_2022_Human,VEGFR2 Mediated Cell Proliferation R-HSA-5218921,18,12,0.6666666666666666
+Reactome_2022_Human,VEGFR2 Mediated Vascular Permeability R-HSA-5218920,27,19,0.7037037037037037
+Reactome_2022_Human,VLDL Clearance R-HSA-8964046,5,1,0.2
+Reactome_2022_Human,VLDLR Internalisation And Degradation R-HSA-8866427,16,13,0.8125
+Reactome_2022_Human,Vasopressin Regulates Renal Water Homeostasis Via Aquaporins R-HSA-432040,42,18,0.42857142857142855
+Reactome_2022_Human,Vasopressin-like Receptors R-HSA-388479,6,0,0.0
+Reactome_2022_Human,Vesicle-mediated Transport R-HSA-5653656,637,452,0.7095761381475667
+Reactome_2022_Human,Vif-mediated Degradation Of APOBEC3G R-HSA-180585,53,50,0.9433962264150944
+Reactome_2022_Human,Viral Messenger RNA Synthesis R-HSA-168325,47,42,0.8936170212765957
+Reactome_2022_Human,Viral mRNA Translation R-HSA-192823,90,80,0.8888888888888888
+Reactome_2022_Human,Virus Assembly And Release R-HSA-168268,6,6,1.0
+Reactome_2022_Human,Visual Phototransduction R-HSA-2187338,98,30,0.30612244897959184
+Reactome_2022_Human,Vitamin B1 (Thiamin) Metabolism R-HSA-196819,5,4,0.8
+Reactome_2022_Human,Vitamin B2 (Riboflavin) Metabolism R-HSA-196843,7,5,0.7142857142857143
+Reactome_2022_Human,Vitamin B5 (Pantothenate) Metabolism R-HSA-199220,17,13,0.7647058823529411
+Reactome_2022_Human,Vitamin C (Ascorbate) Metabolism R-HSA-196836,7,4,0.5714285714285714
+Reactome_2022_Human,Vitamin D (Calciferol) Metabolism R-HSA-196791,12,5,0.4166666666666667
+Reactome_2022_Human,Vitamins R-HSA-211916,6,0,0.0
+Reactome_2022_Human,Voltage Gated Potassium Channels R-HSA-1296072,43,4,0.09302325581395349
+Reactome_2022_Human,Vpr-mediated Nuclear Import Of PICs R-HSA-180910,35,30,0.8571428571428571
+Reactome_2022_Human,Vpu Mediated Degradation Of CD4 R-HSA-180534,51,49,0.9607843137254902
+Reactome_2022_Human,VxPx Cargo-Targeting To Cilium R-HSA-5620916,21,17,0.8095238095238095
+Reactome_2022_Human,WNT Ligand Biogenesis And Trafficking R-HSA-3238698,26,7,0.2692307692307692
+Reactome_2022_Human,WNT Mediated Activation Of DVL R-HSA-201688,6,5,0.8333333333333334
+Reactome_2022_Human,"WNT5A-dependent Internalization Of FZD2, FZD5 And ROR2 R-HSA-5140745",11,9,0.8181818181818182
+Reactome_2022_Human,WNT5A-dependent Internalization Of FZD4 R-HSA-5099900,15,12,0.8
+Reactome_2022_Human,Wax And Plasmalogen Biosynthesis R-HSA-8848584,7,4,0.5714285714285714
+Reactome_2022_Human,XBP1(S) Activates Chaperone Genes R-HSA-381038,46,39,0.8478260869565217
+Reactome_2022_Human,Xenobiotics R-HSA-211981,24,2,0.08333333333333333
+Reactome_2022_Human,YAP1- And WWTR1 (TAZ)-stimulated Gene Expression R-HSA-2032785,15,5,0.3333333333333333
+Reactome_2022_Human,ZBP1(DAI) Mediated Induction Of Type I IFNs R-HSA-1606322,21,19,0.9047619047619048
+Reactome_2022_Human,Zinc Efflux And Compartmentalization By SLC30 Family R-HSA-435368,7,4,0.5714285714285714
+Reactome_2022_Human,Zinc Influx Into Cells By SLC39 Gene Family R-HSA-442380,10,8,0.8
+Reactome_2022_Human,Zinc Transporters R-HSA-435354,17,12,0.7058823529411765
+Reactome_2022_Human,Activated TAK1 Mediates P38 MAPK Activation R-HSA-450302,19,17,0.8947368421052632
+Reactome_2022_Human,Alpha-Linolenic (Omega3) And Linoleic (Omega6) Acid Metabolism R-HSA-2046104,13,8,0.6153846153846154
+Reactome_2022_Human,cGMP Effects R-HSA-418457,15,7,0.4666666666666667
+Reactome_2022_Human,eNOS Activation R-HSA-203615,11,6,0.5454545454545454
+Reactome_2022_Human,mRNA 3-End Processing R-HSA-72187,58,54,0.9310344827586207
+Reactome_2022_Human,mRNA Capping R-HSA-72086,29,26,0.896551724137931
+Reactome_2022_Human,mRNA Editing R-HSA-75072,10,2,0.2
+Reactome_2022_Human,mRNA Splicing - Major Pathway R-HSA-72163,181,170,0.9392265193370166
+Reactome_2022_Human,mRNA Splicing - Minor Pathway R-HSA-72165,49,44,0.8979591836734694
+Reactome_2022_Human,mRNA Splicing R-HSA-72172,189,177,0.9365079365079365
+Reactome_2022_Human,mRNA Decay By 3 To 5 Exoribonuclease R-HSA-429958,16,15,0.9375
+Reactome_2022_Human,mRNA Decay By 5 To 3 Exoribonuclease R-HSA-430039,15,15,1.0
+Reactome_2022_Human,mTORC1-mediated Signaling R-HSA-166208,24,23,0.9583333333333334
+Reactome_2022_Human,Mitochondrial Fatty Acid Beta-Oxidation Of Saturated Fatty Acids R-HSA-77286,11,9,0.8181818181818182
+Reactome_2022_Human,Mitochondrial Fatty Acid Beta-Oxidation Of Unsaturated Fatty Acids R-HSA-77288,6,6,1.0
+Reactome_2022_Human,p130Cas Linkage To MAPK Signaling For Integrins R-HSA-372708,15,5,0.3333333333333333
+Reactome_2022_Human,p38MAPK Events R-HSA-171007,12,9,0.75
+Reactome_2022_Human,p53-Dependent G1 DNA Damage Response R-HSA-69563,65,58,0.8923076923076924
+Reactome_2022_Human,P75 NTR Receptor-Mediated Signaling R-HSA-193704,95,65,0.6842105263157895
+Reactome_2022_Human,p75NTR Negatively Regulates Cell Cycle Via SC1 R-HSA-193670,6,4,0.6666666666666666
+Reactome_2022_Human,p75NTR Recruits Signaling Complexes R-HSA-209543,13,11,0.8461538461538461
+Reactome_2022_Human,p75NTR Regulates Axonogenesis R-HSA-193697,9,3,0.3333333333333333
+Reactome_2022_Human,p75NTR Signals Via NF-kB R-HSA-193639,16,14,0.875
+Reactome_2022_Human,rRNA Modification In Mitochondrion R-HSA-6793080,6,6,1.0
+Reactome_2022_Human,rRNA Modification In Nucleus And Cytosol R-HSA-6790901,60,58,0.9666666666666667
+Reactome_2022_Human,rRNA Processing R-HSA-72312,199,184,0.9246231155778895
+Reactome_2022_Human,rRNA Processing In Mitochondrion R-HSA-8868766,10,10,1.0
+Reactome_2022_Human,rRNA Processing In Nucleus And Cytosol R-HSA-8868773,189,174,0.9206349206349206
+Reactome_2022_Human,tRNA Aminoacylation R-HSA-379724,42,42,1.0
+Reactome_2022_Human,tRNA Modification In Mitochondrion R-HSA-6787450,9,8,0.8888888888888888
+Reactome_2022_Human,tRNA Modification In Nucleus And Cytosol R-HSA-6782315,42,38,0.9047619047619048
+Reactome_2022_Human,tRNA Processing R-HSA-72306,105,90,0.8571428571428571
+Reactome_2022_Human,tRNA Processing In Mitochondrion R-HSA-6785470,5,5,1.0
+Reactome_2022_Human,tRNA Processing In Nucleus R-HSA-6784531,57,47,0.8245614035087719
+Reactome_2022_Human,trans-Golgi Network Vesicle Budding R-HSA-199992,71,62,0.8732394366197183
+Reactome_2022_Human,vRNP Assembly R-HSA-192905,5,4,0.8
+KEGG_2021_Human,ABC transporters,45,21,0.4666666666666667
+KEGG_2021_Human,AGE-RAGE signaling pathway in diabetic complications,100,56,0.56
+KEGG_2021_Human,AMPK signaling pathway,120,84,0.7
+KEGG_2021_Human,Acute myeloid leukemia,67,51,0.7611940298507462
+KEGG_2021_Human,Adherens junction,71,44,0.6197183098591549
+KEGG_2021_Human,Adipocytokine signaling pathway,69,47,0.6811594202898551
+KEGG_2021_Human,Adrenergic signaling in cardiomyocytes,150,72,0.48
+KEGG_2021_Human,African trypanosomiasis,37,15,0.40540540540540543
+KEGG_2021_Human,"Alanine, aspartate and glutamate metabolism",37,17,0.4594594594594595
+KEGG_2021_Human,Alcoholism,186,68,0.3655913978494624
+KEGG_2021_Human,Aldosterone synthesis and secretion,98,50,0.5102040816326531
+KEGG_2021_Human,Aldosterone-regulated sodium reabsorption,37,17,0.4594594594594595
+KEGG_2021_Human,Allograft rejection,38,13,0.34210526315789475
+KEGG_2021_Human,Alzheimer disease,369,253,0.6856368563685636
+KEGG_2021_Human,Amino sugar and nucleotide sugar metabolism,48,39,0.8125
+KEGG_2021_Human,Aminoacyl-tRNA biosynthesis,66,44,0.6666666666666666
+KEGG_2021_Human,Amoebiasis,102,40,0.39215686274509803
+KEGG_2021_Human,Amphetamine addiction,69,36,0.5217391304347826
+KEGG_2021_Human,Amyotrophic lateral sclerosis,364,272,0.7472527472527473
+KEGG_2021_Human,Antigen processing and presentation,78,36,0.46153846153846156
+KEGG_2021_Human,Apelin signaling pathway,137,76,0.5547445255474452
+KEGG_2021_Human,Apoptosis,142,113,0.795774647887324
+KEGG_2021_Human,Arachidonic acid metabolism,61,13,0.21311475409836064
+KEGG_2021_Human,Arginine and proline metabolism,50,24,0.48
+KEGG_2021_Human,Arginine biosynthesis,22,9,0.4090909090909091
+KEGG_2021_Human,Arrhythmogenic right ventricular cardiomyopathy,77,27,0.35064935064935066
+KEGG_2021_Human,Ascorbate and aldarate metabolism,30,8,0.26666666666666666
+KEGG_2021_Human,Asthma,31,6,0.1935483870967742
+KEGG_2021_Human,Autoimmune thyroid disease,53,12,0.22641509433962265
+KEGG_2021_Human,Autophagy,137,116,0.8467153284671532
+KEGG_2021_Human,Axon guidance,182,80,0.43956043956043955
+KEGG_2021_Human,B cell receptor signaling pathway,81,55,0.6790123456790124
+KEGG_2021_Human,Bacterial invasion of epithelial cells,77,51,0.6623376623376623
+KEGG_2021_Human,Basal cell carcinoma,63,23,0.36507936507936506
+KEGG_2021_Human,Basal transcription factors,45,36,0.8
+KEGG_2021_Human,Base excision repair,33,32,0.9696969696969697
+KEGG_2021_Human,Bile secretion,90,22,0.24444444444444444
+KEGG_2021_Human,Biosynthesis of unsaturated fatty acids,27,17,0.6296296296296297
+KEGG_2021_Human,Bladder cancer,41,27,0.6585365853658537
+KEGG_2021_Human,Breast cancer,147,72,0.4897959183673469
+KEGG_2021_Human,Butanoate metabolism,28,14,0.5
+KEGG_2021_Human,C-type lectin receptor signaling pathway,104,71,0.6826923076923077
+KEGG_2021_Human,Caffeine metabolism,6,1,0.16666666666666666
+KEGG_2021_Human,Calcium signaling pathway,240,78,0.325
+KEGG_2021_Human,Carbohydrate digestion and absorption,47,19,0.40425531914893614
+KEGG_2021_Human,Cardiac muscle contraction,87,35,0.40229885057471265
+KEGG_2021_Human,Cell adhesion molecules,148,39,0.2635135135135135
+KEGG_2021_Human,Cell cycle,124,105,0.8467741935483871
+KEGG_2021_Human,Cellular senescence,156,119,0.7628205128205128
+KEGG_2021_Human,Central carbon metabolism in cancer,70,45,0.6428571428571429
+KEGG_2021_Human,Chagas disease,102,66,0.6470588235294118
+KEGG_2021_Human,Chemical carcinogenesis,239,95,0.39748953974895396
+KEGG_2021_Human,Chemokine signaling pathway,192,106,0.5520833333333334
+KEGG_2021_Human,Cholesterol metabolism,50,22,0.44
+KEGG_2021_Human,Choline metabolism in cancer,98,62,0.6326530612244898
+KEGG_2021_Human,Cholinergic synapse,113,56,0.49557522123893805
+KEGG_2021_Human,Chronic myeloid leukemia,76,66,0.868421052631579
+KEGG_2021_Human,Circadian entrainment,97,40,0.41237113402061853
+KEGG_2021_Human,Circadian rhythm,31,24,0.7741935483870968
+KEGG_2021_Human,Citrate cycle (TCA cycle),30,26,0.8666666666666667
+KEGG_2021_Human,Cocaine addiction,49,22,0.4489795918367347
+KEGG_2021_Human,Collecting duct acid secretion,27,16,0.5925925925925926
+KEGG_2021_Human,Colorectal cancer,86,74,0.8604651162790697
+KEGG_2021_Human,Complement and coagulation cascades,85,7,0.08235294117647059
+KEGG_2021_Human,Coronavirus disease,232,140,0.603448275862069
+KEGG_2021_Human,Cortisol synthesis and secretion,65,30,0.46153846153846156
+KEGG_2021_Human,Cushing syndrome,155,78,0.5032258064516129
+KEGG_2021_Human,Cysteine and methionine metabolism,50,33,0.66
+KEGG_2021_Human,Cytokine-cytokine receptor interaction,295,85,0.288135593220339
+KEGG_2021_Human,Cytosolic DNA-sensing pathway,63,40,0.6349206349206349
+KEGG_2021_Human,D-Glutamine and D-glutamate metabolism,5,2,0.4
+KEGG_2021_Human,DNA replication,36,34,0.9444444444444444
+KEGG_2021_Human,Diabetic cardiomyopathy,203,149,0.7339901477832512
+KEGG_2021_Human,Dilated cardiomyopathy,96,33,0.34375
+KEGG_2021_Human,Dopaminergic synapse,132,73,0.553030303030303
+KEGG_2021_Human,Drug metabolism,108,32,0.2962962962962963
+KEGG_2021_Human,ECM-receptor interaction,88,22,0.25
+KEGG_2021_Human,Endocrine and other factor-regulated calcium reabsorption,53,25,0.4716981132075472
+KEGG_2021_Human,Endocytosis,252,182,0.7222222222222222
+KEGG_2021_Human,Endometrial cancer,58,49,0.8448275862068966
+KEGG_2021_Human,Epithelial cell signaling in Helicobacter pylori infection,70,46,0.6571428571428571
+KEGG_2021_Human,Epstein-Barr virus infection,202,145,0.7178217821782178
+KEGG_2021_Human,ErbB signaling pathway,85,62,0.7294117647058823
+KEGG_2021_Human,Estrogen signaling pathway,137,68,0.49635036496350365
+KEGG_2021_Human,Ether lipid metabolism,49,17,0.3469387755102041
+KEGG_2021_Human,Fanconi anemia pathway,54,42,0.7777777777777778
+KEGG_2021_Human,Fat digestion and absorption,43,13,0.3023255813953488
+KEGG_2021_Human,Fatty acid biosynthesis,18,13,0.7222222222222222
+KEGG_2021_Human,Fatty acid degradation,43,33,0.7674418604651163
+KEGG_2021_Human,Fatty acid elongation,27,19,0.7037037037037037
+KEGG_2021_Human,Fc epsilon RI signaling pathway,68,43,0.6323529411764706
+KEGG_2021_Human,Fc gamma R-mediated phagocytosis,97,64,0.6597938144329897
+KEGG_2021_Human,Ferroptosis,41,29,0.7073170731707317
+KEGG_2021_Human,Fluid shear stress and atherosclerosis,139,77,0.5539568345323741
+KEGG_2021_Human,Focal adhesion,201,95,0.472636815920398
+KEGG_2021_Human,Folate biosynthesis,26,13,0.5
+KEGG_2021_Human,FoxO signaling pathway,131,97,0.7404580152671756
+KEGG_2021_Human,Fructose and mannose metabolism,33,24,0.7272727272727273
+KEGG_2021_Human,GABAergic synapse,89,30,0.33707865168539325
+KEGG_2021_Human,Galactose metabolism,31,19,0.6129032258064516
+KEGG_2021_Human,Gap junction,88,46,0.5227272727272727
+KEGG_2021_Human,Gastric acid secretion,76,32,0.42105263157894735
+KEGG_2021_Human,Gastric cancer,149,75,0.5033557046979866
+KEGG_2021_Human,Glioma,75,55,0.7333333333333333
+KEGG_2021_Human,Glucagon signaling pathway,107,66,0.616822429906542
+KEGG_2021_Human,Glutamatergic synapse,114,42,0.3684210526315789
+KEGG_2021_Human,Glutathione metabolism,57,32,0.5614035087719298
+KEGG_2021_Human,Glycerolipid metabolism,61,33,0.5409836065573771
+KEGG_2021_Human,Glycerophospholipid metabolism,98,54,0.5510204081632653
+KEGG_2021_Human,"Glycine, serine and threonine metabolism",40,17,0.425
+KEGG_2021_Human,Glycolysis / Gluconeogenesis,67,36,0.5373134328358209
+KEGG_2021_Human,Glycosaminoglycan biosynthesis,53,33,0.6226415094339622
+KEGG_2021_Human,Glycosaminoglycan degradation,19,14,0.7368421052631579
+KEGG_2021_Human,Glycosphingolipid biosynthesis,45,26,0.5777777777777777
+KEGG_2021_Human,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,26,24,0.9230769230769231
+KEGG_2021_Human,Glyoxylate and dicarboxylate metabolism,30,23,0.7666666666666667
+KEGG_2021_Human,GnRH secretion,64,31,0.484375
+KEGG_2021_Human,GnRH signaling pathway,93,54,0.5806451612903226
+KEGG_2021_Human,Graft-versus-host disease,42,12,0.2857142857142857
+KEGG_2021_Human,"Growth hormone synthesis, secretion and action",119,71,0.5966386554621849
+KEGG_2021_Human,HIF-1 signaling pathway,109,72,0.6605504587155964
+KEGG_2021_Human,Hedgehog signaling pathway,56,30,0.5357142857142857
+KEGG_2021_Human,Hematopoietic cell lineage,99,38,0.3838383838383838
+KEGG_2021_Human,Hepatitis B,162,123,0.7592592592592593
+KEGG_2021_Human,Hepatitis C,157,107,0.6815286624203821
+KEGG_2021_Human,Hepatocellular carcinoma,168,103,0.6130952380952381
+KEGG_2021_Human,Herpes simplex virus 1 infection,498,180,0.3614457831325301
+KEGG_2021_Human,Hippo signaling pathway,163,82,0.5030674846625767
+KEGG_2021_Human,Histidine metabolism,22,9,0.4090909090909091
+KEGG_2021_Human,Homologous recombination,41,36,0.8780487804878049
+KEGG_2021_Human,Human T-cell leukemia virus 1 infection,219,161,0.7351598173515982
+KEGG_2021_Human,Human cytomegalovirus infection,225,147,0.6533333333333333
+KEGG_2021_Human,Human immunodeficiency virus 1 infection,212,149,0.7028301886792453
+KEGG_2021_Human,Human papillomavirus infection,331,182,0.5498489425981873
+KEGG_2021_Human,Huntington disease,306,224,0.7320261437908496
+KEGG_2021_Human,Hypertrophic cardiomyopathy,90,31,0.34444444444444444
+KEGG_2021_Human,IL-17 signaling pathway,94,51,0.5425531914893617
+KEGG_2021_Human,Inflammatory bowel disease,65,32,0.49230769230769234
+KEGG_2021_Human,Inflammatory mediator regulation of TRP channels,98,47,0.47959183673469385
+KEGG_2021_Human,Influenza A,172,106,0.6162790697674418
+KEGG_2021_Human,Inositol phosphate metabolism,73,58,0.7945205479452054
+KEGG_2021_Human,Insulin resistance,108,71,0.6574074074074074
+KEGG_2021_Human,Insulin secretion,86,35,0.4069767441860465
+KEGG_2021_Human,Insulin signaling pathway,137,97,0.708029197080292
+KEGG_2021_Human,Intestinal immune network for IgA production,48,19,0.3958333333333333
+KEGG_2021_Human,JAK-STAT signaling pathway,162,83,0.5123456790123457
+KEGG_2021_Human,Kaposi sarcoma-associated herpesvirus infection,193,127,0.6580310880829016
+KEGG_2021_Human,Legionellosis,57,34,0.5964912280701754
+KEGG_2021_Human,Leishmaniasis,77,37,0.4805194805194805
+KEGG_2021_Human,Leukocyte transendothelial migration,114,59,0.5175438596491229
+KEGG_2021_Human,Linoleic acid metabolism,29,3,0.10344827586206896
+KEGG_2021_Human,Lipid and atherosclerosis,215,134,0.6232558139534884
+KEGG_2021_Human,Long-term depression,60,33,0.55
+KEGG_2021_Human,Long-term potentiation,67,41,0.6119402985074627
+KEGG_2021_Human,Longevity regulating pathway,102,76,0.7450980392156863
+KEGG_2021_Human,Lysine degradation,63,50,0.7936507936507936
+KEGG_2021_Human,Lysosome,128,105,0.8203125
+KEGG_2021_Human,MAPK signaling pathway,294,164,0.5578231292517006
+KEGG_2021_Human,Malaria,50,13,0.26
+KEGG_2021_Human,Mannose type O-glycan biosynthesis,23,15,0.6521739130434783
+KEGG_2021_Human,Maturity onset diabetes of the young,26,1,0.038461538461538464
+KEGG_2021_Human,Measles,139,101,0.7266187050359713
+KEGG_2021_Human,Melanogenesis,101,44,0.43564356435643564
+KEGG_2021_Human,Melanoma,72,40,0.5555555555555556
+KEGG_2021_Human,Metabolism of xenobiotics by cytochrome P450,76,12,0.15789473684210525
+KEGG_2021_Human,MicroRNAs in cancer,310,109,0.35161290322580646
+KEGG_2021_Human,Mineral absorption,60,18,0.3
+KEGG_2021_Human,Mismatch repair,23,22,0.9565217391304348
+KEGG_2021_Human,Mitophagy,68,55,0.8088235294117647
+KEGG_2021_Human,Morphine addiction,91,36,0.3956043956043956
+KEGG_2021_Human,Mucin type O-glycan biosynthesis,36,16,0.4444444444444444
+KEGG_2021_Human,N-Glycan biosynthesis,50,41,0.82
+KEGG_2021_Human,NF-kappa B signaling pathway,104,68,0.6538461538461539
+KEGG_2021_Human,NOD-like receptor signaling pathway,181,108,0.5966850828729282
+KEGG_2021_Human,Natural killer cell mediated cytotoxicity,131,69,0.5267175572519084
+KEGG_2021_Human,Necroptosis,159,91,0.5723270440251572
+KEGG_2021_Human,"Neomycin, kanamycin and gentamicin biosynthesis",5,2,0.4
+KEGG_2021_Human,Neuroactive ligand-receptor interaction,341,40,0.11730205278592376
+KEGG_2021_Human,Neurotrophin signaling pathway,119,88,0.7394957983193278
+KEGG_2021_Human,Neutrophil extracellular trap formation,189,70,0.37037037037037035
+KEGG_2021_Human,Nicotinate and nicotinamide metabolism,35,25,0.7142857142857143
+KEGG_2021_Human,Nicotine addiction,40,2,0.05
+KEGG_2021_Human,Nitrogen metabolism,17,3,0.17647058823529413
+KEGG_2021_Human,Non-alcoholic fatty liver disease,155,119,0.7677419354838709
+KEGG_2021_Human,Non-homologous end-joining,13,13,1.0
+KEGG_2021_Human,Non-small cell lung cancer,72,56,0.7777777777777778
+KEGG_2021_Human,Notch signaling pathway,59,38,0.6440677966101694
+KEGG_2021_Human,Nucleotide excision repair,47,42,0.8936170212765957
+KEGG_2021_Human,Olfactory transduction,440,19,0.04318181818181818
+KEGG_2021_Human,One carbon pool by folate,20,13,0.65
+KEGG_2021_Human,Oocyte meiosis,129,82,0.6356589147286822
+KEGG_2021_Human,Osteoclast differentiation,127,80,0.6299212598425197
+KEGG_2021_Human,Other glycan degradation,18,15,0.8333333333333334
+KEGG_2021_Human,Other types of O-glycan biosynthesis,47,28,0.5957446808510638
+KEGG_2021_Human,Ovarian steroidogenesis,51,13,0.2549019607843137
+KEGG_2021_Human,Oxidative phosphorylation,133,108,0.8120300751879699
+KEGG_2021_Human,Oxytocin signaling pathway,154,75,0.487012987012987
+KEGG_2021_Human,PD-L1 expression and PD-1 checkpoint pathway in cancer,89,75,0.8426966292134831
+KEGG_2021_Human,PI3K-Akt signaling pathway,354,159,0.4491525423728814
+KEGG_2021_Human,PPAR signaling pathway,74,30,0.40540540540540543
+KEGG_2021_Human,Pancreatic cancer,76,64,0.8421052631578947
+KEGG_2021_Human,Pancreatic secretion,102,34,0.3333333333333333
+KEGG_2021_Human,Pantothenate and CoA biosynthesis,21,12,0.5714285714285714
+KEGG_2021_Human,"Parathyroid hormone synthesis, secretion and action",106,61,0.5754716981132075
+KEGG_2021_Human,Parkinson disease,249,192,0.7710843373493976
+KEGG_2021_Human,Pathogenic Escherichia coli infection,197,122,0.6192893401015228
+KEGG_2021_Human,Pathways in cancer,531,292,0.5499058380414312
+KEGG_2021_Human,Pathways of neurodegeneration,475,315,0.6631578947368421
+KEGG_2021_Human,Pentose and glucuronate interconversions,34,9,0.2647058823529412
+KEGG_2021_Human,Pentose phosphate pathway,30,21,0.7
+KEGG_2021_Human,Peroxisome,82,63,0.7682926829268293
+KEGG_2021_Human,Pertussis,76,37,0.4868421052631579
+KEGG_2021_Human,Phagosome,152,72,0.47368421052631576
+KEGG_2021_Human,Phenylalanine metabolism,17,5,0.29411764705882354
+KEGG_2021_Human,"Phenylalanine, tyrosine and tryptophan biosynthesis",6,2,0.3333333333333333
+KEGG_2021_Human,Phosphatidylinositol signaling system,97,75,0.7731958762886598
+KEGG_2021_Human,Phospholipase D signaling pathway,148,77,0.5202702702702703
+KEGG_2021_Human,Phosphonate and phosphinate metabolism,6,5,0.8333333333333334
+KEGG_2021_Human,Phototransduction,28,6,0.21428571428571427
+KEGG_2021_Human,Platelet activation,124,69,0.5564516129032258
+KEGG_2021_Human,Porphyrin and chlorophyll metabolism,43,20,0.46511627906976744
+KEGG_2021_Human,Primary bile acid biosynthesis,17,4,0.23529411764705882
+KEGG_2021_Human,Primary immunodeficiency,38,25,0.6578947368421053
+KEGG_2021_Human,Prion disease,273,192,0.7032967032967034
+KEGG_2021_Human,Progesterone-mediated oocyte maturation,100,60,0.6
+KEGG_2021_Human,Prolactin signaling pathway,70,46,0.6571428571428571
+KEGG_2021_Human,Propanoate metabolism,34,28,0.8235294117647058
+KEGG_2021_Human,Prostate cancer,97,64,0.6597938144329897
+KEGG_2021_Human,Proteasome,46,44,0.9565217391304348
+KEGG_2021_Human,Protein digestion and absorption,103,13,0.1262135922330097
+KEGG_2021_Human,Protein export,23,23,1.0
+KEGG_2021_Human,Protein processing in endoplasmic reticulum,171,145,0.847953216374269
+KEGG_2021_Human,Proteoglycans in cancer,205,110,0.5365853658536586
+KEGG_2021_Human,Proximal tubule bicarbonate reclamation,23,7,0.30434782608695654
+KEGG_2021_Human,Purine metabolism,129,76,0.5891472868217055
+KEGG_2021_Human,Pyrimidine metabolism,56,39,0.6964285714285714
+KEGG_2021_Human,Pyruvate metabolism,47,29,0.6170212765957447
+KEGG_2021_Human,RIG-I-like receptor signaling pathway,70,45,0.6428571428571429
+KEGG_2021_Human,RNA degradation,79,64,0.810126582278481
+KEGG_2021_Human,RNA polymerase,31,28,0.9032258064516129
+KEGG_2021_Human,RNA transport,186,136,0.7311827956989247
+KEGG_2021_Human,Rap1 signaling pathway,210,102,0.4857142857142857
+KEGG_2021_Human,Ras signaling pathway,232,106,0.45689655172413796
+KEGG_2021_Human,Regulation of actin cytoskeleton,218,124,0.5688073394495413
+KEGG_2021_Human,Regulation of lipolysis in adipocytes,55,27,0.4909090909090909
+KEGG_2021_Human,Relaxin signaling pathway,129,68,0.5271317829457365
+KEGG_2021_Human,Renal cell carcinoma,69,56,0.8115942028985508
+KEGG_2021_Human,Renin secretion,69,30,0.43478260869565216
+KEGG_2021_Human,Renin-angiotensin system,23,7,0.30434782608695654
+KEGG_2021_Human,Retinol metabolism,68,9,0.1323529411764706
+KEGG_2021_Human,Retrograde endocannabinoid signaling,148,79,0.5337837837837838
+KEGG_2021_Human,Rheumatoid arthritis,93,37,0.3978494623655914
+KEGG_2021_Human,Riboflavin metabolism,8,7,0.875
+KEGG_2021_Human,Ribosome,158,120,0.759493670886076
+KEGG_2021_Human,Ribosome biogenesis in eukaryotes,108,67,0.6203703703703703
+KEGG_2021_Human,SNARE interactions in vesicular transport,33,30,0.9090909090909091
+KEGG_2021_Human,Salivary secretion,93,34,0.3655913978494624
+KEGG_2021_Human,Salmonella infection,249,188,0.7550200803212851
+KEGG_2021_Human,Selenocompound metabolism,17,14,0.8235294117647058
+KEGG_2021_Human,Serotonergic synapse,113,39,0.34513274336283184
+KEGG_2021_Human,Shigellosis,246,174,0.7073170731707317
+KEGG_2021_Human,Signaling pathways regulating pluripotency of stem cells,143,61,0.42657342657342656
+KEGG_2021_Human,Small cell lung cancer,92,63,0.6847826086956522
+KEGG_2021_Human,Sphingolipid metabolism,49,32,0.6530612244897959
+KEGG_2021_Human,Sphingolipid signaling pathway,119,88,0.7394957983193278
+KEGG_2021_Human,Spinocerebellar ataxia,143,105,0.7342657342657343
+KEGG_2021_Human,Spliceosome,150,119,0.7933333333333333
+KEGG_2021_Human,Staphylococcus aureus infection,95,7,0.07368421052631578
+KEGG_2021_Human,Starch and sucrose metabolism,36,17,0.4722222222222222
+KEGG_2021_Human,Steroid biosynthesis,20,16,0.8
+KEGG_2021_Human,Steroid hormone biosynthesis,61,7,0.11475409836065574
+KEGG_2021_Human,Sulfur metabolism,10,8,0.8
+KEGG_2021_Human,Sulfur relay system,8,8,1.0
+KEGG_2021_Human,Synaptic vesicle cycle,78,36,0.46153846153846156
+KEGG_2021_Human,Synthesis and degradation of ketone bodies,10,6,0.6
+KEGG_2021_Human,Systemic lupus erythematosus,135,24,0.17777777777777778
+KEGG_2021_Human,T cell receptor signaling pathway,104,90,0.8653846153846154
+KEGG_2021_Human,TGF-beta signaling pathway,94,43,0.4574468085106383
+KEGG_2021_Human,TNF signaling pathway,112,78,0.6964285714285714
+KEGG_2021_Human,Taste transduction,86,11,0.12790697674418605
+KEGG_2021_Human,Taurine and hypotaurine metabolism,11,4,0.36363636363636365
+KEGG_2021_Human,Terpenoid backbone biosynthesis,22,19,0.8636363636363636
+KEGG_2021_Human,Th1 and Th2 cell differentiation,92,65,0.7065217391304348
+KEGG_2021_Human,Th17 cell differentiation,107,79,0.7383177570093458
+KEGG_2021_Human,Thermogenesis,232,175,0.7543103448275862
+KEGG_2021_Human,Thiamine metabolism,15,6,0.4
+KEGG_2021_Human,Thyroid cancer,37,30,0.8108108108108109
+KEGG_2021_Human,Thyroid hormone signaling pathway,121,83,0.6859504132231405
+KEGG_2021_Human,Thyroid hormone synthesis,75,32,0.4266666666666667
+KEGG_2021_Human,Tight junction,169,92,0.5443786982248521
+KEGG_2021_Human,Toll-like receptor signaling pathway,104,61,0.5865384615384616
+KEGG_2021_Human,Toxoplasmosis,112,69,0.6160714285714286
+KEGG_2021_Human,Transcriptional misregulation in cancer,192,94,0.4895833333333333
+KEGG_2021_Human,Tryptophan metabolism,42,19,0.4523809523809524
+KEGG_2021_Human,Tuberculosis,180,101,0.5611111111111111
+KEGG_2021_Human,Type I diabetes mellitus,43,13,0.3023255813953488
+KEGG_2021_Human,Type II diabetes mellitus,46,25,0.5434782608695652
+KEGG_2021_Human,Tyrosine metabolism,36,10,0.2777777777777778
+KEGG_2021_Human,Ubiquinone and other terpenoid-quinone biosynthesis,11,8,0.7272727272727273
+KEGG_2021_Human,Ubiquitin mediated proteolysis,140,125,0.8928571428571429
+KEGG_2021_Human,VEGF signaling pathway,59,36,0.6101694915254238
+KEGG_2021_Human,"Valine, leucine and isoleucine degradation",48,40,0.8333333333333334
+KEGG_2021_Human,Various types of N-glycan biosynthesis,39,32,0.8205128205128205
+KEGG_2021_Human,Vascular smooth muscle contraction,133,56,0.42105263157894735
+KEGG_2021_Human,Vasopressin-regulated water reabsorption,44,33,0.75
+KEGG_2021_Human,Vibrio cholerae infection,50,38,0.76
+KEGG_2021_Human,Viral carcinogenesis,203,140,0.6896551724137931
+KEGG_2021_Human,Viral myocarditis,60,28,0.4666666666666667
+KEGG_2021_Human,Viral protein interaction with cytokine and cytokine receptor,100,31,0.31
+KEGG_2021_Human,Vitamin B6 metabolism,6,5,0.8333333333333334
+KEGG_2021_Human,Vitamin digestion and absorption,24,10,0.4166666666666667
+KEGG_2021_Human,Wnt signaling pathway,166,78,0.46987951807228917
+KEGG_2021_Human,Yersinia infection,137,106,0.7737226277372263
+KEGG_2021_Human,alpha-Linolenic acid metabolism,25,6,0.24
+KEGG_2021_Human,beta-Alanine metabolism,30,18,0.6
+KEGG_2021_Human,cAMP signaling pathway,216,91,0.4212962962962963
+KEGG_2021_Human,cGMP-PKG signaling pathway,167,83,0.49700598802395207
+KEGG_2021_Human,mRNA surveillance pathway,98,76,0.7755102040816326
+KEGG_2021_Human,mTOR signaling pathway,154,105,0.6818181818181818
+KEGG_2021_Human,p53 signaling pathway,73,56,0.7671232876712328

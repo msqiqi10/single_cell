@@ -1,0 +1,7 @@
+sample,condition,tissue,n_cells,mice_per_label_reported_by_Rob,animal_IDs_available,independent_pool_count_confirmed,source
+Ctrl_BM,Ctrl,bone_marrow,3379,3,False,False,Meeting 2026-09-24 00:37:00-00:37:17; cell counts from audited existing metadata
+Ctrl_Spleen,Ctrl,spleen,3422,3,False,False,Meeting 2026-09-24 00:37:00-00:37:17; cell counts from audited existing metadata
+Ctrl_Thymus,Ctrl,thymus,1372,3,False,False,Meeting 2026-09-24 00:37:00-00:37:17; cell counts from audited existing metadata
+T2_BM,T2,bone_marrow,2731,3,False,False,Meeting 2026-09-24 00:37:00-00:37:17; cell counts from audited existing metadata
+T2_Spleen,T2,spleen,3371,3,False,False,Meeting 2026-09-24 00:37:00-00:37:17; cell counts from audited existing metadata
+T2_Thymus,T2,thymus,1257,3,False,False,Meeting 2026-09-24 00:37:00-00:37:17; cell counts from audited existing metadata

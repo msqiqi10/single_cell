@@ -1,0 +1,11 @@
+term,direction,n_query,pathway_size,overlap,universe_size,enrichment_ratio,pvalue,overlap_genes,rule,fdr,unit_id,library,sensitivity,score
+Retinol metabolism,Tumor,188,10,2,10670,11.351063829787234,0.0126620576560177,Rdh5;Retsat,paper,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,4.369145343402105
+"Glycine, serine and threonine metabolism",Tumor,188,19,2,10670,5.974244120940649,0.0433884226409363,Chdh;Sardh,paper,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,3.137562632887833
+Nicotinate and nicotinamide metabolism,Tumor,188,21,2,10670,5.405268490374874,0.0520832057987151,Nmnat2;Nnt,paper,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,2.954912727701404
+ABC transporters,Tumor,188,22,2,10670,5.159574468085106,0.0566437446558643,Abcb1b;Abcd3,paper,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,2.8709737185076185
+Bile secretion,Tumor,188,22,2,10670,5.159574468085106,0.0566437446558643,Abcb1b;Ephx1,paper,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,2.8709737185076185
+ErbB signaling pathway,Tumor,188,63,3,10670,2.702634245187437,0.0994474897786368,Camk2b;Erbb3;Hbegf,paper,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,2.308125515040065
+alpha-Linolenic acid metabolism,Tumor,188,6,1,10670,9.459219858156027,0.1011908983512499,Acox1,paper,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,2.290746463413982
+Peroxisome,Tumor,188,64,3,10670,2.6604055851063837,0.1030535830563322,Abcd3;Acox1;Hacl1,paper,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,2.2725062021741302
+PPAR signaling pathway,Tumor,188,32,2,10670,3.547207446808511,0.1086559324556833,Acox1;Sorbs1,paper,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,2.219568972245381
+Complement and coagulation cascades,Tumor,188,7,1,10670,8.10790273556231,0.1170363701357553,Cd46,paper,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,2.1452705366288973

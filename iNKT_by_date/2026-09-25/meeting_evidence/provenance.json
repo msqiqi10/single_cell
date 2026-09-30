@@ -1,0 +1,22 @@
+{
+  "sources": {
+    "GMT20260924-133029_Recording.m4a": {
+      "bytes": 68376904,
+      "sha256": "69a053e4db59e206d0dd8e69f66bcbc2684a11b7b0066c3741a8e083036b5340"
+    },
+    "GMT20260924-133029_RecordingnewChat.txt": {
+      "bytes": 32,
+      "sha256": "3850c207c52276fb99bbcdf089d4c83838d4ce0935c5c79b2ef3d158e7098be3"
+    },
+    "GMT20260924-133029_Recording.transcript.vtt": {
+      "bytes": 84788,
+      "sha256": "b67288e36901e6f2a3e717b45703b1939b570c664a7cae8b532ca8c00aa1f682"
+    },
+    "GMT20260924-133029_Recording_2498x1440.mp4": {
+      "bytes": 259350751,
+      "sha256": "0a407d10d570b03ec82bc6d5cb17e8f6a5ac63e4dfe3df3808963cff353ebc3a"
+    }
+  },
+  "review": "Full Zoom VTT read; opening 0-30:10 and closing 1:38:55-end locally retranscribed in Chinese; 12 timestamped frames inspected as contact sheet, selected frames enlarged. ASR is not a verbatim human-certified transcript.",
+  "quantitative_checks": "Read-only calculations on previously fetched, audited September 24 source tables; no new DE/GO/GSEA/network/velocity run; SSH authentication unavailable this turn."
+}

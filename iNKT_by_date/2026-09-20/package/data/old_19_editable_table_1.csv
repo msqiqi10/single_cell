@@ -1,0 +1,32 @@
+Pathway / reaction,Legacy source,Old FDR,T2-up FDR,Ctrl-up FDR,Current overlapping genes
+"hsa05020 Prion disease - Homo sapiens
+(human)","KEGG
+2021
+HUMAN",5.9e-05,2.6e-10,0.44,"T2: Cox5b, Cox6c, Cox8a +16 more
+Ctrl: Bax, Ccl5, Csnk2a2 +6 more"
+"p23 (PTGES3) binds
+HSP90:ATP:FKBP5:nascent protein","Reactome
+2021",4.2e-06,0.0047,0.00066,"T2: Hspa1a, Hspa1b
+Ctrl: Hspa8, Ptges3, Stip1"
+"p23 (PTGES3) binds
+HSP90:ATP:FKBP4:nascent protein","Reactome
+2021",4.2e-06,0.0047,0.00066,"T2: Hspa1a, Hspa1b
+Ctrl: Hspa8, Ptges3, Stip1"
+"HSP40s activate intrinsic ATPase
+activity of HSP70s in the cytosol","Reactome
+2021",2.8e-05,0.0018,0.00066,"T2: Dnajb1, Hspa1a, Hspa1b
+Ctrl: Dnajc2, Hspa14, Hspa5 +1 more"
+"HSP40s activate intrinsic ATPase
+activity of HSP70s in the nucleoplasm","Reactome
+2021",3.3e-05,0.0018,0.00066,"T2: Dnajb1, Hspa1a, Hspa1b
+Ctrl: Dnajc2, Hspa14, Hspa5 +1 more"
+"STIP1(HOP) binds HSP90 and
+HSP70:HSP40:nascent protein","Reactome
+2021",7.2e-09,0.0013,0.0012,"T2: Dnajb1, Hspa1a, Hspa1b
+Ctrl: Dnaja1, Hspa8, Stip1"
+ATP hydrolysis by HSP70,"Reactome
+2021",1.9e-09,0.0013,0.011,"T2: Dnajb1, Hspa1a, Hspa1b
+Ctrl: Dnaja1, Hspa8"
+HSP70 binds to HSP40:nascent protein,"Reactome
+2021",1.8e-09,0.0013,0.011,"T2: Dnajb1, Hspa1a, Hspa1b
+Ctrl: Dnaja1, Hspa8"

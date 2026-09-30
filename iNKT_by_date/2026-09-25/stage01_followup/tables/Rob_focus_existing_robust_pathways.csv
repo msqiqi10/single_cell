@@ -1,0 +1,351 @@
+term,direction,n_query,pathway_size,overlap,universe_size,enrichment_ratio,pvalue,overlap_genes,rule,fdr,unit_id,library,sensitivity,analysis,FDR_across_units
+Antigen processing and presentation,Tumor,500,54,2,10670,0.7903703703703703,0.7270390598126653,Hspa1a;Hspa1b,robust,1.0,global,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,500,54,5,10670,1.9759259259259256,0.1075538049506165,Fos;Fosb;Il17re;Jun;Mmp9,robust,1.0,global,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,500,166,7,10670,0.8998795180722892,0.6661691610448178,Dusp1;Fos;Gadd45g;Hspa1a;Hspa1b;Jun;Nr4a1,robust,1.0,global,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,500,103,4,10670,0.8287378640776698,0.7176837937690279,Fos;Hspa1a;Hspa1b;Jun,robust,1.0,global,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,500,81,4,10670,1.0538271604938272,0.5301469388087351,Fos;Il6ra;Jun;Rorc,robust,1.0,global,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,568,54,3,10670,1.043622848200313,0.5542235245830525,Cd8b1;Hspa8;Rfxap,robust,1.0,global,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,568,54,2,10670,0.6957485654668754,0.790333817469328,S100a8;S100a9,robust,1.0,global,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,568,166,9,10670,1.018475309689462,0.5265708653063554,Grb2;Hspa8;Map2k3;Map4k3;Max;Rras;Rras2;Sos1;Stmn1,robust,1.0,global,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,568,103,4,10670,0.7295227676740053,0.8054366989188336,Ccnd2;Cdkn1b;Hspa8;Il2,robust,1.0,global,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,568,81,1,10670,0.2319161884889584,0.9882989442786638,Il2,robust,1.0,global,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,350,54,3,10670,1.6936507936507936,0.2604774784282953,Hspa1a;Hspa1b;Klrc2,robust,1.0,tissue__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,350,54,4,10670,2.2582010582010583,0.1003817447786497,Fos;Fosb;Jun;Tnfaip3,robust,1.0,tissue__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,350,166,9,10670,1.6528399311531845,0.0958527742529146,Dusp1;Dusp2;Flna;Flt3l;Fos;Hspa1a;Hspa1b;Jun;Nr4a1,robust,1.0,tissue__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,350,103,5,10670,1.4798890429958391,0.2493043910856572,Fos;Hspa1a;Hspa1b;Jun;Tnfaip3,robust,1.0,tissue__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,350,81,5,10670,1.881834215167549,0.1266983482047623,Ahr;Fos;Hif1a;Jun;Runx1,robust,1.0,tissue__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,368,54,4,10670,2.147745571658615,0.1150673127372709,Cd74;Cd8b1;Hspa8;Rfxap,robust,1.0,tissue__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,368,54,2,10670,1.0738727858293076,0.5604735547720604,S100a8;S100a9,robust,1.0,tissue__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,368,166,9,10670,1.5719944997380828,0.1202906920778656,Grb2;Hspa8;Lamtor3;Max;Rasgrp2;Rras;Sos1;Stmn1;Taok2,robust,1.0,tissue__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,368,103,4,10670,1.1260025327142251,0.4772494199823514,Bbc3;Cdkn1b;Hspa8;Nfkbib,robust,1.0,tissue__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,368,81,1,10670,0.3579575952764358,0.942377486672411,Nfkbib,robust,1.0,tissue__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,274,54,2,10670,1.4422816977561503,0.4056242190741084,Hspa1a;Hspa1b,robust,1.0,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,274,54,4,10670,2.8845633955123007,0.049450145886553,Fos;Fosb;Jun;Tnfaip3,robust,0.8668319690701647,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,274,166,9,10670,2.1112918828599065,0.0273578963708674,Dusp1;Dusp2;Flt3l;Fos;Gadd45g;Hspa1a;Hspa1b;Jun;Nr4a1,robust,0.6271271629629622,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,274,103,6,10670,2.2684430586067608,0.0492119316475042,Fos;Hspa1a;Hspa1b;Jun;Tlr7;Tnfaip3,robust,0.8668319690701647,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,274,81,3,10670,1.4422816977561503,0.3453001814695134,Fos;Hif1a;Jun,robust,1.0,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,318,54,2,10670,1.2427207081295133,0.4815395039755067,Cd74;Hspa8,robust,1.0,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,318,54,1,10670,0.6213603540647566,0.8056268556457261,Traf3ip2,robust,1.0,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,318,166,5,10670,1.0106463590209898,0.5540568284877975,Grb2;Hspa8;Lamtor3;Mapk8ip3;Stmn1,robust,1.0,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,318,103,4,10670,1.303046956096965,0.3686497030261267,Bbc3;Ccnd2;Cdkn1b;Hspa8,robust,1.0,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,318,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,0,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,0,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,0,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,0,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,0,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,0,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,3,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,3,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,3,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,3,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,3,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,0,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,0,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,0,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,12,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C3__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,12,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C3__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,12,166,1,10670,5.3564257028112445,0.1715981897599851,Araf,robust,1.0,cluster_tissue__C3__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,12,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C3__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,12,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C3__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,4,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C3__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,4,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C3__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,4,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C3__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,4,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C3__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,4,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C3__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,56,54,2,10670,7.056878306878307,0.0325286543708639,Hspa1a;Hspa1b,robust,0.2851040883093367,cluster_tissue__C4__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,56,54,2,10670,7.056878306878307,0.0325286543708639,Fos;Fosb,robust,0.2851040883093367,cluster_tissue__C4__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,56,166,5,10670,5.739027538726334,0.0017277885332412,Dusp1;Fos;Hspa1a;Hspa1b;Rac2,robust,0.0439968645809937,cluster_tissue__C4__bone_marrow,KEGG_Mouse_2019,full,original_counts,0.126019820990949
+Measles,Tumor,56,103,3,10670,5.5495839112343965,0.0167309519137795,Fos;Hspa1a;Hspa1b,robust,0.1719249541484929,cluster_tissue__C4__bone_marrow,KEGG_Mouse_2019,full,original_counts,0.8471059634015544
+Th17 cell differentiation,Tumor,56,81,1,10670,2.352292768959436,0.3480887713124692,Fos,robust,1.0,cluster_tissue__C4__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,27,54,2,10670,14.636488340192043,0.0081375505748007,Cd8b1;Hspa8,robust,0.303123758911328,cluster_tissue__C4__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,27,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C4__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,27,166,1,10670,2.380633645693887,0.345496800534056,Hspa8,robust,1.0,cluster_tissue__C4__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,27,103,1,10670,3.836749370729953,0.2306618154769937,Hspa8,robust,1.0,cluster_tissue__C4__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,27,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C4__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,6,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,6,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,6,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,6,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,6,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,1,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,1,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,1,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,1,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,1,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-1__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,16,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,16,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,16,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,16,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,16,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,3,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,3,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,3,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,3,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,3,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__bone_marrow,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,356,54,2,10670,1.1100707449022056,0.5423005449374643,Hspa1a;Hspa1b,robust,1.0,tissue__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,356,54,6,10670,3.3302122347066168,0.0088582545353153,Fos;Fosb;Il17re;Jun;Jund;Mmp9,robust,0.2399781683203609,tissue__spleen,KEGG_Mouse_2019,full,original_counts,0.5021282326268401
+MAPK signaling pathway,Tumor,356,166,6,10670,1.0833220522539595,0.4799174750316738,Dusp1;Fos;Hspa1a;Hspa1b;Jun;Jund,robust,1.0,tissue__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,356,103,4,10670,1.1639576742663904,0.4516552169364813,Fos;Hspa1a;Hspa1b;Jun,robust,1.0,tissue__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,356,81,3,10670,1.1100707449022056,0.5105497212546062,Fos;Il6ra;Jun,robust,1.0,tissue__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,508,54,4,10670,1.5558471857684455,0.255080184805026,Hsp90aa1;Hsp90ab1;Hspa8;Rfxap,robust,1.0,tissue__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,508,54,6,10670,2.3337707786526685,0.0422910194261848,Chuk;Hsp90aa1;Hsp90ab1;S100a8;S100a9;Traf2,robust,1.0,tissue__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,508,166,10,10670,1.2652974101128929,0.2669850102922656,Chuk;Crkl;Fasl;Gng12;Grb2;Hspa8;Irak4;Map2k3;Max;Traf2,robust,1.0,tissue__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,508,103,7,10670,1.4274520296613409,0.2191837287838664,Bcl2;Ccnd2;Cdkn1b;Chuk;Fasl;Hspa8;Irak4,robust,1.0,tissue__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,508,81,3,10670,0.7779235928842227,0.7482905875444408,Chuk;Hsp90aa1;Hsp90ab1,robust,1.0,tissue__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,6,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C0__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,6,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C0__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,6,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C0__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,6,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C0__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,6,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C0__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,2,54,1,10670,98.7962962962963,0.0100966959869281,Hspa8,robust,0.7896901731128074,cluster_tissue__C0__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,2,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C0__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,2,166,1,10670,32.13855421686747,0.0308746718918591,Hspa8,robust,0.8364229294340032,cluster_tissue__C0__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,2,103,1,10670,51.796116504854375,0.0192141778732856,Hspa8,robust,0.7896901731128074,cluster_tissue__C0__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,2,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C0__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,0,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,0,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,0,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,0,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,0,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,0,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,0,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,0,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,0,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,0,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,0,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,0,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,275,54,2,10670,1.4370370370370371,0.4074076940838457,Hspa1a;Hspa1b,robust,1.0,cluster_tissue__C3__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,275,54,5,10670,3.592592592592593,0.0123896572240058,Fos;Fosb;Jun;Jund;Mmp9,robust,0.2840090655964425,cluster_tissue__C3__spleen,KEGG_Mouse_2019,full,original_counts,0.6593067594203087
+MAPK signaling pathway,Tumor,275,166,7,10670,1.636144578313253,0.1373492670942116,Dusp1;Dusp2;Fos;Hspa1a;Hspa1b;Jun;Jund,robust,1.0,cluster_tissue__C3__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,275,103,4,10670,1.5067961165048545,0.2745228522431467,Fos;Hspa1a;Hspa1b;Jun,robust,1.0,cluster_tissue__C3__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,275,81,2,10670,0.9580246913580246,0.6219280270750667,Fos;Jun,robust,1.0,cluster_tissue__C3__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,460,54,4,10670,1.7181964573268922,0.202888540854204,Hsp90aa1;Hsp90ab1;Hspa8;Rfxap,robust,1.0,cluster_tissue__C3__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,460,54,6,10670,2.577294685990338,0.0279260766760798,Chuk;Hsp90aa1;Hsp90ab1;S100a8;S100a9;Traf2,robust,1.0,cluster_tissue__C3__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,460,166,7,10670,0.9781299109481404,0.5783578789284443,Akt2;Chuk;Hspa8;Irak4;Map2k7;Rps6ka3;Traf2,robust,1.0,cluster_tissue__C3__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,460,103,6,10670,1.3512030392570704,0.284286402272344,Akt2;Ccnd2;Cdkn1b;Chuk;Hspa8;Irak4,robust,1.0,cluster_tissue__C3__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,460,81,3,10670,0.8590982286634461,0.6848180391049914,Chuk;Hsp90aa1;Hsp90ab1,robust,1.0,cluster_tissue__C3__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,33,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C4__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,33,54,2,10670,11.975308641975309,0.012006572650242,Fosb;Jun,robust,0.8944896624430347,cluster_tissue__C4__spleen,KEGG_Mouse_2019,full,original_counts,0.6488526048809536
+MAPK signaling pathway,Tumor,33,166,1,10670,1.9477911646586348,0.4044210180193296,Jun,robust,1.0,cluster_tissue__C4__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,33,103,1,10670,3.13915857605178,0.2742774847590142,Jun,robust,1.0,cluster_tissue__C4__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,33,81,1,10670,3.991769547325103,0.2226390437136546,Jun,robust,1.0,cluster_tissue__C4__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,12,54,2,10670,32.932098765432094,0.001606242832692,Hsp90aa1;Hspa8,robust,0.239330182071108,cluster_tissue__C4__spleen,KEGG_Mouse_2019,full,original_counts,0.745754100895849
+IL-17 signaling pathway,Control,12,54,1,10670,16.466049382716047,0.0590983920057494,Hsp90aa1,robust,1.0,cluster_tissue__C4__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,12,166,1,10670,5.3564257028112445,0.1715981897599851,Hspa8,robust,1.0,cluster_tissue__C4__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,12,103,1,10670,8.632686084142394,0.1099359660336434,Hspa8,robust,1.0,cluster_tissue__C4__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,12,81,1,10670,10.977366255144034,0.0874308510360039,Hsp90aa1,robust,1.0,cluster_tissue__C4__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,42,54,1,10670,4.704585537918872,0.1922557547759457,Hspa1b,robust,1.0,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,42,54,1,10670,4.704585537918872,0.1922557547759457,Jun,robust,1.0,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,42,166,2,10670,3.060814687320712,0.1386041434704164,Hspa1b;Jun,robust,1.0,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,42,103,2,10670,4.932963476652797,0.0619085332196264,Hspa1b;Jun,robust,1.0,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,42,81,1,10670,3.136390358612581,0.2743395727619303,Jun,robust,1.0,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,27,54,2,10670,14.636488340192043,0.0081375505748007,Hsp90ab1;Hspa8,robust,0.6062475178226561,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,27,54,1,10670,7.318244170096023,0.128168713528149,Hsp90ab1,robust,1.0,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,27,166,2,10670,4.761267291387774,0.0655308394721774,Hspa8;Map4k3,robust,1.0,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,27,103,1,10670,3.836749370729953,0.2306618154769937,Hspa8,robust,1.0,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,27,81,1,10670,4.878829446730681,0.1861679038807191,Hsp90ab1,robust,1.0,cluster_tissue__C5-1__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,0,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,0,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,0,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,0,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,0,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,0,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C5-2__spleen,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,195,54,2,10670,2.02659069325736,0.2593286816984178,Hspa1a;Hspa1b,robust,1.0,tissue__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,195,54,1,10670,1.01329534662868,0.6315732875458622,Fos,robust,1.0,tissue__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,195,166,4,10670,1.3185047883843064,0.3604135299429188,Dusp1;Fos;Hspa1a;Hspa1b,robust,1.0,tissue__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,195,103,3,10670,1.5937266616878267,0.2910412794742404,Fos;Hspa1a;Hspa1b,robust,1.0,tissue__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,195,81,1,10670,0.6755302310857867,0.7768015938018841,Fos,robust,1.0,tissue__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,157,54,3,10670,3.775654635527247,0.0449309469847948,Hspa5;Hspa8;Klrc1,robust,1.0,tissue__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,157,54,1,10670,1.258551545175749,0.5517828572851206,S100a9,robust,1.0,tissue__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,157,166,2,10670,0.818816667945668,0.7053647270271677,Hspa8;Mapkapk3,robust,1.0,tissue__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,157,103,5,10670,3.299115700946138,0.0178724103086352,Bax;Bcl2;Ccnd2;Csnk2a2;Hspa8,robust,0.8711699289883612,tissue__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,157,81,0,10670,0.0,1.0,,robust,1.0,tissue__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,0,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,0,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,0,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,0,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,0,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,0,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C2__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,140,54,2,10670,2.822751322751323,0.1578222724507861,Hspa1a;Hspa1b,robust,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,140,54,1,10670,1.4113756613756614,0.5108113294043848,Fos,robust,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,140,166,4,10670,1.836488812392427,0.1739982076271279,Dusp1;Fos;Hspa1a;Hspa1b,robust,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,140,103,3,10670,2.219833564493759,0.153111768891222,Fos;Hspa1a;Hspa1b,robust,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,140,81,1,10670,0.940917107583774,0.6583213591994673,Fos,robust,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,164,54,3,10670,3.61449864498645,0.0500191034262653,Hspa5;Hspa8;Klrc1,robust,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,164,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,164,166,3,10670,1.1758007640317367,0.4714742438251645,Grb2;Hspa8;Mapkapk3,robust,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,164,103,4,10670,2.526639829505091,0.0740738948694569,Bax;Ccnd2;Csnk2a2;Hspa8,robust,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,164,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C6__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C7__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C7__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,0,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C7__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,0,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C7__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,0,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C7__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C7__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,0,54,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C7__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,0,166,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C7__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,0,103,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C7__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,0,81,0,10670,0.0,1.0,,robust,1.0,cluster_tissue__C7__thymus,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,307,54,2,10670,1.2872481602123296,0.4630835375631068,Hspa1a;Hspa1b,robust,1.0,stable__bone_marrow_S0,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,307,54,4,10670,2.574496320424659,0.0692692731505282,Fos;Fosb;Jun;Tnfaip3,robust,1.0,stable__bone_marrow_S0,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,307,166,10,10670,2.0937168870923437,0.0216561534359767,Dusp1;Dusp2;Flt3l;Fos;Gadd45b;Gadd45g;Hspa1a;Hspa1b;Jun;Nr4a1,robust,0.5377944769934231,stable__bone_marrow_S0,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,307,103,6,10670,2.024603902469877,0.0763858631753034,Fos;Hspa1a;Hspa1b;Jun;Tlr7;Tnfaip3,robust,1.0,stable__bone_marrow_S0,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,307,81,5,10670,2.1454136003538826,0.0836711401727527,Ahr;Fos;Hif1a;Jun;Runx1,robust,1.0,stable__bone_marrow_S0,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,314,54,2,10670,1.258551545175749,0.4748712641996224,Cd74;Hspa8,robust,1.0,stable__bone_marrow_S0,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,314,54,2,10670,1.258551545175749,0.4748712641996224,S100a8;S100a9,robust,1.0,stable__bone_marrow_S0,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,314,166,4,10670,0.818816667945668,0.7247621326947646,Grb2;Hspa8;Mapk8ip3;Stmn1,robust,1.0,stable__bone_marrow_S0,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,314,103,3,10670,0.9897347102838414,0.5882552386119867,Bbc3;Cdkn1b;Hspa8,robust,1.0,stable__bone_marrow_S0,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,314,81,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S0,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,112,54,3,10670,5.29265873015873,0.0189513764002926,Hspa1a;Hspa1b;Klrc2,robust,0.2823755083643605,stable__bone_marrow_S1,KEGG_Mouse_2019,full,original_counts,0.9323719615804332
+IL-17 signaling pathway,Tumor,112,54,3,10670,5.29265873015873,0.0189513764002926,Fos;Fosb;Jund,robust,0.2823755083643605,stable__bone_marrow_S1,KEGG_Mouse_2019,full,original_counts,0.9323719615804332
+MAPK signaling pathway,Tumor,112,166,7,10670,4.017319277108434,0.0017928819911076,Dusp1;Fos;Hspa1a;Hspa1b;Jund;Ptpn7;Rac2,robust,0.0485708030318245,stable__bone_marrow_S1,KEGG_Mouse_2019,full,original_counts,0.1280805422414538
+Measles,Tumor,112,103,3,10670,2.7747919556171983,0.0939594002117127,Fos;Hspa1a;Hspa1b,robust,0.7179461862330868,stable__bone_marrow_S1,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,112,81,1,10670,1.176146384479718,0.5759761974181158,Fos,robust,1.0,stable__bone_marrow_S1,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,31,54,3,10670,19.121863799283155,0.0004982502310951,Cd8a;Cd8b1;Hspa8,robust,0.0494928562887805,stable__bone_marrow_S1,KEGG_Mouse_2019,full,original_counts,0.3997499931016841
+IL-17 signaling pathway,Control,31,54,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S1,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,31,166,1,10670,2.073455110765644,0.3853902848613154,Hspa8,robust,1.0,stable__bone_marrow_S1,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,31,103,1,10670,3.341684935797056,0.2600181117882683,Hspa8,robust,1.0,stable__bone_marrow_S1,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,31,81,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S1,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S2,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S2,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,0,166,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S2,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,0,103,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S2,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,0,81,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S2,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,0,54,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S2,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,0,54,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S2,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,0,166,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S2,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,0,103,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S2,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,0,81,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S2,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,20,54,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S3,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,20,54,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S3,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,20,166,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S3,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,20,103,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S3,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,20,81,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S3,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,3,54,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S3,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,3,54,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S3,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,3,166,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S3,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,3,103,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S3,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,3,81,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S3,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S4,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S4,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,0,166,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S4,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,0,103,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S4,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,0,81,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S4,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,1,54,1,10670,197.5925925925926,0.0050609184629803,Hspa8,robust,0.4245173383317714,stable__bone_marrow_S4,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,1,54,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S4,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,1,166,1,10670,64.27710843373494,0.0155576382380506,Hspa8,robust,0.4636176194939082,stable__bone_marrow_S4,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,1,103,1,10670,103.59223300970876,0.0096532333645735,Hspa8,robust,0.4398781630740394,stable__bone_marrow_S4,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,1,81,0,10670,0.0,1.0,,robust,1.0,stable__bone_marrow_S4,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,298,54,2,10670,1.3261247825006213,0.447712933422979,Hspa1a;Hspa1b,robust,1.0,stable__spleen_S0,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,298,54,5,10670,3.3153119562515534,0.017017923344704,Fos;Fosb;Jun;Jund;Mmp9,robust,0.3901031659016771,stable__spleen_S0,KEGG_Mouse_2019,full,original_counts,0.8574731424408827
+MAPK signaling pathway,Tumor,298,166,7,10670,1.5098649632085388,0.1827029832042427,Dusp1;Dusp2;Fos;Hspa1a;Hspa1b;Jun;Jund,robust,1.0,stable__spleen_S0,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,298,103,4,10670,1.390499771942399,0.3245823692343164,Fos;Hspa1a;Hspa1b;Jun,robust,1.0,stable__spleen_S0,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,298,81,2,10670,0.8840831883337477,0.6656710095212095,Fos;Jun,robust,1.0,stable__spleen_S0,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,480,54,4,10670,1.646604938271605,0.2242349912567399,Hsp90aa1;Hsp90ab1;Hspa8;Rfxap,robust,1.0,stable__spleen_S0,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,480,54,6,10670,2.469907407407407,0.0334391158890083,Chuk;Hsp90aa1;Hsp90ab1;S100a8;S100a9;Traf2,robust,1.0,stable__spleen_S0,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,480,166,5,10670,0.6695532128514057,0.8733821306385945,Chuk;Hspa8;Map2k7;Rps6ka3;Traf2,robust,1.0,stable__spleen_S0,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,480,103,4,10670,0.8632686084142395,0.6870588461534406,Ccnd2;Cdkn1b;Chuk;Hspa8,robust,1.0,stable__spleen_S0,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,480,81,3,10670,0.8233024691358024,0.7125774930300475,Chuk;Hsp90aa1;Hsp90ab1,robust,1.0,stable__spleen_S0,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,2,54,0,10670,0.0,1.0,,robust,1.0,stable__spleen_S1,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,2,54,0,10670,0.0,1.0,,robust,1.0,stable__spleen_S1,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,2,166,0,10670,0.0,1.0,,robust,1.0,stable__spleen_S1,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,2,103,0,10670,0.0,1.0,,robust,1.0,stable__spleen_S1,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,2,81,0,10670,0.0,1.0,,robust,1.0,stable__spleen_S1,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,0,54,0,10670,0.0,1.0,,robust,1.0,stable__spleen_S1,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,0,54,0,10670,0.0,1.0,,robust,1.0,stable__spleen_S1,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,0,166,0,10670,0.0,1.0,,robust,1.0,stable__spleen_S1,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,0,103,0,10670,0.0,1.0,,robust,1.0,stable__spleen_S1,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,0,81,0,10670,0.0,1.0,,robust,1.0,stable__spleen_S1,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,42,54,1,10670,4.704585537918872,0.1922557547759457,Hspa1b,robust,1.0,stable__spleen_S2,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,42,54,1,10670,4.704585537918872,0.1922557547759457,Jun,robust,1.0,stable__spleen_S2,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,42,166,2,10670,3.060814687320712,0.1386041434704164,Hspa1b;Jun,robust,1.0,stable__spleen_S2,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,42,103,2,10670,4.932963476652797,0.0619085332196264,Hspa1b;Jun,robust,1.0,stable__spleen_S2,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,42,81,1,10670,3.136390358612581,0.2743395727619303,Jun,robust,1.0,stable__spleen_S2,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,27,54,2,10670,14.636488340192043,0.0081375505748007,Hsp90ab1;Hspa8,robust,0.4041650118817707,stable__spleen_S2,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,27,54,1,10670,7.318244170096023,0.128168713528149,Hsp90ab1,robust,1.0,stable__spleen_S2,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,27,166,2,10670,4.761267291387774,0.0655308394721774,Hspa8;Map4k3,robust,1.0,stable__spleen_S2,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,27,103,1,10670,3.836749370729953,0.2306618154769937,Hspa8,robust,1.0,stable__spleen_S2,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,27,81,1,10670,4.878829446730681,0.1861679038807191,Hsp90ab1,robust,1.0,stable__spleen_S2,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,45,54,0,10670,0.0,1.0,,robust,1.0,stable__spleen_S3,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,45,54,3,10670,13.172839506172838,0.0014961901951631,Fos;Fosb;Jun,robust,0.0495405197954009,stable__spleen_S3,KEGG_Mouse_2019,full,original_counts,0.1114661695396509
+MAPK signaling pathway,Tumor,45,166,2,10670,2.856760374832664,0.1547732730098318,Fos;Jun,robust,1.0,stable__spleen_S3,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,45,103,2,10670,4.604099244875944,0.0698854903277528,Fos;Jun,robust,0.5950250319334389,stable__spleen_S3,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,45,81,2,10670,5.854595336076818,0.0456657494037031,Fos;Jun,robust,0.4692549421483976,stable__spleen_S3,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,19,54,3,10670,31.198830409356727,0.0001121231118805,Hsp90aa1;Hsp90ab1;Hspa8,robust,0.0167063436702025,stable__spleen_S3,KEGG_Mouse_2019,full,original_counts,0.167063436701945
+IL-17 signaling pathway,Control,19,54,2,10670,20.799220272904485,0.0040682918416833,Hsp90aa1;Hsp90ab1,robust,0.2424701937643268,stable__spleen_S3,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,19,166,1,10670,3.383005707038681,0.2578264766331022,Hspa8,robust,1.0,stable__spleen_S3,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,19,103,2,10670,10.90444557996934,0.0141798685549359,Csnk2a2;Hspa8,robust,0.3658170840858296,stable__spleen_S3,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,19,81,3,10670,20.79922027290448,0.0003741335129643,Hsp90aa1;Hsp90ab1;Lck,robust,0.0278729467158406,stable__spleen_S3,KEGG_Mouse_2019,full,original_counts,0.3547465945652408
+Antigen processing and presentation,Tumor,36,54,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S0,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,36,54,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S0,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,36,166,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S0,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,36,103,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S0,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,36,81,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S0,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,14,54,2,10670,28.227513227513228,0.0022003490873678,Hsp90ab1;Hspa8,robust,0.3278520140178139,stable__thymus_S0,KEGG_Mouse_2019,full,original_counts,0.8826784992786982
+IL-17 signaling pathway,Control,14,54,1,10670,14.113756613756614,0.0686090590169347,Hsp90ab1,robust,1.0,stable__thymus_S0,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,14,166,1,10670,4.591222030981067,0.1972033962687451,Hspa8,robust,1.0,stable__thymus_S0,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,14,103,1,10670,7.399445214979195,0.127056977326678,Hspa8,robust,1.0,stable__thymus_S0,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,14,81,1,10670,9.409171075837744,0.1012497019936277,Hsp90ab1,robust,1.0,stable__thymus_S0,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,51,54,1,10670,3.87436456063907,0.2284639932284731,Hspa1b,robust,1.0,stable__thymus_S1,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,51,54,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S1,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,51,166,1,10670,1.2603354594849987,0.5513762848442448,Hspa1b,robust,1.0,stable__thymus_S1,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,51,103,1,10670,2.0312202550923284,0.3909622174929545,Hspa1b,robust,1.0,stable__thymus_S1,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,51,81,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S1,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,26,54,2,10670,15.1994301994302,0.0075591316427595,Hspa5;Hspa8,robust,0.7508737431807796,stable__thymus_S1,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,26,54,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S1,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,26,166,1,10670,2.4721964782205745,0.3351276908650973,Hspa8,robust,1.0,stable__thymus_S1,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,26,103,1,10670,3.984316654219567,0.223144328236137,Hspa8,robust,1.0,stable__thymus_S1,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,26,81,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S1,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,62,54,1,10670,3.186977299880526,0.2705603260866488,Hspa1b,robust,1.0,stable__thymus_S2,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,62,54,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S2,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,62,166,1,10670,1.0367275553828217,0.6227952893011035,Hspa1b,robust,1.0,stable__thymus_S2,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,62,103,1,10670,1.670842467898528,0.4529100812461712,Hspa1b,robust,1.0,stable__thymus_S2,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,62,81,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S2,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,20,54,2,10670,19.75925925925926,0.0045057200682158,Hspa5;Hspa8,robust,0.6713522901641605,stable__thymus_S2,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,20,54,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S2,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,20,166,1,10670,3.213855421686747,0.2693935412166069,Hspa8,robust,1.0,stable__thymus_S2,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,20,103,2,10670,10.359223300970871,0.015657206562301,Ccnd2;Hspa8,robust,1.0,stable__thymus_S2,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,20,81,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S2,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S3,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S3,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,0,166,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S3,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,0,103,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S3,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,0,81,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S3,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,0,54,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S3,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,0,54,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S3,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,0,166,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S3,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,0,103,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S3,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,0,81,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S3,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S5,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Tumor,0,54,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S5,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Tumor,0,166,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S5,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Tumor,0,103,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S5,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Tumor,0,81,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S5,KEGG_Mouse_2019,full,original_counts,1.0
+Antigen processing and presentation,Control,0,54,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S5,KEGG_Mouse_2019,full,original_counts,1.0
+IL-17 signaling pathway,Control,0,54,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S5,KEGG_Mouse_2019,full,original_counts,1.0
+MAPK signaling pathway,Control,0,166,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S5,KEGG_Mouse_2019,full,original_counts,1.0
+Measles,Control,0,103,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S5,KEGG_Mouse_2019,full,original_counts,1.0
+Th17 cell differentiation,Control,0,81,0,10670,0.0,1.0,,robust,1.0,stable__thymus_S5,KEGG_Mouse_2019,full,original_counts,1.0

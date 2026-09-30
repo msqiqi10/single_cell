@@ -1,0 +1,17 @@
+signature,n_original,n_used,coverage,score_status,genes
+NK_resting,5,2,0.4,insufficient_marker_coverage,Gzma;Klrb1c
+NK_adaptive,4,0,0.0,insufficient_marker_coverage,
+NK_activated,9,6,0.6666666666666666,scored_continuous_program,Bcl2l11;Entpd1;Tnfrsf18;Tnfrsf4;Tnfrsf9;Tnfsf10
+NK_type_I_IFN,10,7,0.7,scored_continuous_program,Eif2ak2;Irf7;Irf9;Isg15;Oas1c;Oas2;Oas3
+NK_cytokine,5,3,0.6,scored_continuous_program,Cd69;Ifng;Tnf
+NK_early_activated,5,2,0.4,insufficient_marker_coverage,Gzmb;Tnfrsf9
+iNKT1,3,3,1.0,scored_continuous_program,Ifng;Il2rb;Tbx21
+iNKT2,5,5,1.0,scored_continuous_program,Cd4;Gata3;Il17rb;Il4;Zbtb16
+iNKT17,4,3,0.75,scored_continuous_program,Il23r;Rorc;Zbtb16
+iNKT_precursor,3,2,0.6666666666666666,insufficient_marker_coverage,Egr2;Hivep3
+Cycling,3,3,1.0,scored_continuous_program,Cks1b;Mki67;Top2a
+NK_maturation,5,3,0.6,scored_continuous_program,Gzma;Klf2;Zeb2
+NK_immaturity,3,2,0.6666666666666666,insufficient_marker_coverage,Cd27;Il7r
+TNF_SOCS_hypothesis,8,8,1.0,scored_continuous_program,Cish;Il2ra;Il2rb;Il7r;Socs1;Socs2;Tnf;Tnfrsf1b
+Cytotoxic_effector,4,4,1.0,scored_continuous_program,Gzma;Gzmb;Nkg7;Prf1
+Heat_shock,7,7,1.0,scored_continuous_program,Dnaja1;Hsp90aa1;Hsp90ab1;Hspa1a;Hspa1b;Hspa8;Hsph1

@@ -1,0 +1,70 @@
+{
+  "script": "/Users/zeruzhang/Documents/zhou2_latest_20260929/bio3/iNKT_by_date/2026-09-30/code/gnn_mouse_holdout.py",
+  "git_sha": "",
+  "env": {
+    "python": "3.12.14",
+    "platform": "macOS-27.0-arm64-arm-64bit",
+    "numpy": "2.4.6",
+    "pandas": "2.3.3",
+    "torch": "2.14.0",
+    "cuda_available": false,
+    "cuda_version": null,
+    "device": "cpu",
+    "cuda_device_name": ""
+  },
+  "data": {
+    "edge_file": "/Users/zeruzhang/Documents/zhou2_latest_20260929/bio3/iNKT_by_date/2026-09-30/results/network/excl/edges.tsv",
+    "feature_npz": "/Users/zeruzhang/Documents/zhou2_latest_20260929/bio3/iNKT_by_date/2026-09-30/results/network/excl/semantic_embeddings.npz",
+    "num_nodes": 66,
+    "input_dim": 384,
+    "n_edges_total": 157,
+    "n_edges_train": 127,
+    "n_edges_val": 15,
+    "n_edges_test": 15
+  },
+  "config": {
+    "weight_column": "JACCARD",
+    "edge_weight_transform": "none",
+    "hidden_dim": 256,
+    "num_layers": 2,
+    "dropout": 0.1,
+    "lr": 0.001,
+    "weight_decay": 0.0,
+    "epochs": 120,
+    "eval_every": 10,
+    "patience": 0,
+    "val_ratio": 0.1,
+    "test_ratio": 0.1,
+    "pos_samples_per_epoch": 50000,
+    "seed": 42,
+    "split_seed": 42
+  },
+  "model": {
+    "n_params_trainable": 328192
+  },
+  "best": {
+    "epoch": 80,
+    "train_loss": 0.7254789471626282,
+    "val_loss": 0.5480846762657166,
+    "val_auc": 0.9955555555555555,
+    "val_ap": 0.9958333333333333,
+    "test_auc": NaN,
+    "test_ap": NaN
+  },
+  "final_at_best": {
+    "val_loss": 0.5480846762657166,
+    "val_auc": 0.9955555555555555,
+    "val_ap": 0.9958333333333333,
+    "test_loss": 0.6795239448547363,
+    "test_auc": 0.9866666666666667,
+    "test_ap": 0.9866269841269841
+  },
+  "outputs": {
+    "metrics_csv": "/Users/zeruzhang/Documents/zhou2_latest_20260929/bio3/iNKT_by_date/2026-09-30/results/network/excl/models/gnn_seed42.csv",
+    "summary_json": "/Users/zeruzhang/Documents/zhou2_latest_20260929/bio3/iNKT_by_date/2026-09-30/results/network/excl/models/gnn_seed42.summary.json",
+    "embedding_npz": "/Users/zeruzhang/Documents/zhou2_latest_20260929/bio3/iNKT_by_date/2026-09-30/results/network/excl/models/gnn_seed42.npz"
+  },
+  "runtime": {
+    "elapsed_sec": 0.17690110206604004
+  }
+}

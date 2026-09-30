@@ -1,0 +1,27 @@
+{
+  "inputs": {
+    "output/iNKT_meeting_followup_20260905/objects/scored_base.h5ad": "f2c7e3c019044a48e8a08c08913e8617c77e6dc3abda432bf99100fd21cdb453",
+    "output/iNKT_meeting_followup_20260905/objects/bone_marrow_stable.h5ad": "57110aab150449ff1041a18f32d7de6b022c02f7106801a8301bfa789121ade2",
+    "output/iNKT_meeting_followup_20260905/objects/spleen_stable.h5ad": "183ed066c26534f19928ca585ab010ca37abb113e47092245f7b016b266bd292",
+    "output/iNKT_meeting_followup_20260905/objects/thymus_stable.h5ad": "e77b527ecb8fd7b245f1d4f9f46408d6e6526bcd0be362f641c841ce1dd00fd6",
+    "docs/pager-scFGA.pdf": "594ee566813a50e40eea3c8e79775e0dc22b6cf50a04e5b4f6a96be1cc6cf5fa",
+    "docs/Borra_et_al_2026_GAFA_CML_NK.pdf": "990c7094afda292d79bc0ba63a743fbbaad5c5271f9c6ef43bed02f5cff286f2",
+    "output/iNKT_meeting_followup_20260905/sources/MGI_MRK_ENSEMBL.rpt": "ad13bd0916d330f9a078aa6fd83b0272a14bd313801db5e0557e69bbfcdac17b"
+  },
+  "packages": {
+    "numpy": "2.4.6",
+    "pandas": "2.3.3",
+    "anndata": "0.12.18",
+    "scanpy": "1.12.1",
+    "scipy": "1.16.3",
+    "matplotlib": "3.11.0",
+    "python-pptx": "1.0.2"
+  },
+  "shape": [
+    15532,
+    10670
+  ],
+  "seed": 20260919,
+  "GPU_used": false,
+  "source_dates": "20260905 analysis objects; 20260915 presentation only"
+}

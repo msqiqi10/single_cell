@@ -1,0 +1,4 @@
+tissue,n_legacy_ppt_tissue_genes,n_current_tissue_genes_fdr05_abs_logfc025,n_shared_direction_agnostic,legacy_recovery,jaccard,legacy_filter,current_filter,note
+bone_marrow,39,711,36,0.9230769231,0.0504201681,legacy_scope=legacy_tissue,FDR<=0.05 and abs(logFC)>=0.25,Strict PPT tissue-only denominator; legacy sign convention pending confirmation
+spleen,50,777,45,0.9000000000,0.0575447570,legacy_scope=legacy_tissue,FDR<=0.05 and abs(logFC)>=0.25,Strict PPT tissue-only denominator; legacy sign convention pending confirmation
+thymus,34,1638,29,0.8529411765,0.0176506391,legacy_scope=legacy_tissue,FDR<=0.05 and abs(logFC)>=0.25,Strict PPT tissue-only denominator; legacy sign convention pending confirmation

@@ -1,0 +1,4 @@
+     tissue original_cluster best_overlap_stable_cluster  overlap_cells  original_n_cells  original_fraction_in_stable  stable_total_n_cells  stable_core_delta  stable_core_q_all
+bone_marrow               C4              bone_marrow_S1            461               467                     0.987152                   693           0.110535           0.000469
+     spleen               C3                   spleen_S0           5293              5319                     0.995112                  5529          -0.021906           0.001977
+Minimum original-cluster treatment cytotoxicity GO q: 0.6321302386819688

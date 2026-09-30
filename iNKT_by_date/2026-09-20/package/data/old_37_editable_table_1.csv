@@ -1,0 +1,10 @@
+Category,Interpretation
+Matched presentation,"Dotplot + DEG table; two composition denominators; volcano axes; ORA score strip; exact four-set
+Venn."
+Different computation,Current UMAP/Leiden vs paper t-SNE/K-means; current module scores vs legacy summed scores.
+Different pathway statistics,ORA uses −ln(P); signed GSEA uses NES. Displaying a term does not imply BH FDR significance.
+Different populations,iNKT vs paper NK; C# vs legacy c# or K#. No one-to-one identity assumed.
+Not performed / unsupported,"RNA velocity, paper qPCR/flow/function assays, PAGER interaction network replication; no replacement
+figures invented."
+Current state of completion,"R01–R13 remains as documented: velocity input gap, incomplete state coverage, old-library
+limitations and no animal-level replication."

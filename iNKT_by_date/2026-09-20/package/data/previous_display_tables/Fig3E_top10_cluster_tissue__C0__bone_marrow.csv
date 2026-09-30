@@ -1,0 +1,11 @@
+term,direction,n_query,pathway_size,overlap,universe_size,enrichment_ratio,pvalue,overlap_genes,rule,fdr,unit_id,library,sensitivity,score
+MAPK signaling pathway,Tumor,166,166,10,10670,3.872114965887647,0.0002618195211467,Dusp1;Fos;Gadd45g;Hspa1a;Hspa1b;Hspa2;Il1r1;Jun;Nr4a1;Ptpn5,paper,0.0780222173017346,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,8.247855142154869
+Estrogen signaling pathway,Tumor,166,71,6,10670,5.431868318343797,0.0008046810180951,Fos;Hspa1a;Hspa1b;Hspa2;Jun;Pomc,paper,0.1121486038375974,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,7.12506460988735
+Antigen processing and presentation,Tumor,166,54,5,10670,5.951584114234716,0.0014665811574602,Cd8a;Ciita;Hspa1a;Hspa1b;Hspa2,paper,0.1121486038375974,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,6.524821330157325
+Osteoclast differentiation,Tumor,166,80,6,10670,4.820783132530121,0.0015053503870818,Fos;Fosb;Fosl2;Il1r1;Jun;Junb,paper,0.1121486038375974,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,6.498729592541839
+Toxoplasmosis,Tumor,166,72,5,10670,4.463688085676037,0.0051877742569345,Ciita;Hspa1a;Hspa1b;Hspa2;Ldlr,paper,0.2656635505232224,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,5.261450526016176
+Measles,Tumor,166,103,6,10670,3.744297578664172,0.0053489305474474,Fos;Hspa1a;Hspa1b;Hspa2;Jun;Tlr7,paper,0.2656635505232224,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,5.230858635729808
+Aldosterone synthesis and secretion,Tumor,166,50,4,10670,5.142168674698795,0.0074611364362736,Ldlr;Nr4a1;Nr4a2;Pomc,paper,0.2800172274087362,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,4.898047539066525
+Influenza A,Tumor,166,111,6,10670,3.4744382937154024,0.0076556321447485,Ciita;Hspa1a;Hspa1b;Hspa2;Jun;Tlr7,paper,0.2800172274087362,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,4.872313673954934
+Th17 cell differentiation,Tumor,166,81,5,10670,3.967722742823145,0.0084992708825762,Ahr;Fos;Il1r1;Il6ra;Jun,paper,0.2800172274087362,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,4.767774897685501
+Fluid shear stress and atherosclerosis,Tumor,166,83,5,10670,3.872114965887647,0.0093965512553267,Dusp1;Fos;Il1r1;Jun;Sdc4,paper,0.2800172274087362,cluster_tissue__C0__bone_marrow,KEGG_Mouse_2019,full,4.667412544757151

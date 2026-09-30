@@ -1,0 +1,8 @@
+pathway,n_members,n_detected,n_shared,DEG BM C0,DEG Spleen C3,DEG BM C4,DEG BM C5-2,DEG Spleen C5-2,DEG Thymus C6,DEG_any_key
+KEGG MAPK,294,166,71,14,14,6,0,0,7,23
+KEGG IL-17,91,54,55,5,11,2,0,0,1,13
+KEGG TCR,101,92,68,5,7,2,0,0,4,11
+KEGG Th17,102,81,52,3,5,1,0,0,1,6
+KEGG TNF,110,79,69,7,10,2,0,0,2,14
+GO AP-1 complex,6,6,5,4,4,2,0,0,1,5
+Energy module (G01),181,154,5,31,36,8,1,0,21,39

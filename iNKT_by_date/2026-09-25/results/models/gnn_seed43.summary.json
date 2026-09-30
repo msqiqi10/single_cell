@@ -1,0 +1,70 @@
+{
+  "script": "/Users/zeruzhang/Documents/Codex/2026-09-24/users-zeruzhang-downloads-zoom-0923/local_inkt/src/gnn_mouse_holdout.py",
+  "git_sha": "",
+  "env": {
+    "python": "3.12.14",
+    "platform": "macOS-27.0-arm64-arm-64bit",
+    "numpy": "2.4.6",
+    "pandas": "2.3.3",
+    "torch": "2.14.0",
+    "cuda_available": false,
+    "cuda_version": null,
+    "device": "cpu",
+    "cuda_device_name": ""
+  },
+  "data": {
+    "edge_file": "runs/meeting_followup/network/mouse_GO_edges.tsv",
+    "feature_npz": "runs/meeting_followup/network/semantic_embeddings.npz",
+    "num_nodes": 97,
+    "input_dim": 384,
+    "n_edges_total": 577,
+    "n_edges_train": 463,
+    "n_edges_val": 57,
+    "n_edges_test": 57
+  },
+  "config": {
+    "weight_column": "JACCARD",
+    "edge_weight_transform": "none",
+    "hidden_dim": 256,
+    "num_layers": 2,
+    "dropout": 0.1,
+    "lr": 0.001,
+    "weight_decay": 0.0,
+    "epochs": 120,
+    "eval_every": 10,
+    "patience": 0,
+    "val_ratio": 0.1,
+    "test_ratio": 0.1,
+    "pos_samples_per_epoch": 50000,
+    "seed": 43,
+    "split_seed": 43
+  },
+  "model": {
+    "n_params_trainable": 328192
+  },
+  "best": {
+    "epoch": 100,
+    "train_loss": 0.5571183562278748,
+    "val_loss": 0.5587235689163208,
+    "val_auc": 0.9879963065558633,
+    "val_ap": 0.9823659848563747,
+    "test_auc": NaN,
+    "test_ap": NaN
+  },
+  "final_at_best": {
+    "val_loss": 0.5587235689163208,
+    "val_auc": 0.9879963065558633,
+    "val_ap": 0.9823659848563747,
+    "test_loss": 0.6425220370292664,
+    "test_auc": 0.9818405663281009,
+    "test_ap": 0.983334580351415
+  },
+  "outputs": {
+    "metrics_csv": "runs/meeting_followup/models/gnn_seed43.csv",
+    "summary_json": "runs/meeting_followup/models/gnn_seed43.summary.json",
+    "embedding_npz": "runs/meeting_followup/models/gnn_seed43.npz"
+  },
+  "runtime": {
+    "elapsed_sec": 0.18340492248535156
+  }
+}

@@ -1,0 +1,30 @@
+Pathway / reaction,Legacy source,Old FDR,T2-up FDR,Ctrl-up FDR,Current overlapping genes
+"hsa05020 Prion disease - Homo sapiens
+(human)","KEGG
+2021
+HUMAN",3.9e-11,5.3e-13,1,"T2: Atp5j, Cox5b, Cox6b1 +26 more
+Ctrl: Hspa8, Psmd2, Psmd6 +3 more"
+"FKBP4 binds
+HSP90:ATP:STIP1:HSP70:nascent protein","Reactome
+2021",3e-05,0.046,0.0062,"T2: Hspa1a, Hspa1b
+Ctrl: Fkbp4, Hspa8, Stip1"
+HSF1 acetylation at Lys80,"Reactome
+2021",3e-05,0.067,0.0062,"T2: Hspa1a, Hspa1b
+Ctrl: Ep300, Fkbp4, Hspa8 +1 more"
+"p23 (PTGES3) binds
+HSP90:ATP:FKBP4:nascent protein","Reactome
+2021",4.3e-05,0.046,0.0062,"T2: Hspa1a, Hspa1b
+Ctrl: Fkbp4, Hspa8, Stip1"
+"STIP1(HOP) binds HSP90 and
+HSP70:HSP40:nascent protein","Reactome
+2021",1.6e-07,0.051,0.011,"T2: Hspa1a, Hspa1b
+Ctrl: Dnaja1, Hspa8, Stip1"
+Acetylated HSF1 dissociates from DNA,"Reactome
+2021",1.3e-05,0.062,0.015,"T2: Hspa1a, Hspa1b
+Ctrl: Fkbp4, Hspa8, Hsph1"
+HSP70:DNAJB1 binds HSF1,"Reactome
+2021",1.3e-05,0.062,0.015,"T2: Hspa1a, Hspa1b
+Ctrl: Fkbp4, Hspa8, Hsph1"
+HSF1-mediated gene expression,"Reactome
+2021",5.9e-05,0.062,0.015,"T2: Hspa1a, Hspa1b
+Ctrl: Fkbp4, Hspa8, Hsph1"

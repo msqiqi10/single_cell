@@ -1,0 +1,7 @@
+Analysis,Reference,Presentation used here
+"Sample/QC, markers, DEG and pathway pages",Original iNKT deck,Counts + plots; gene dotplots + numerical tables
+Cluster composition,Blood Fig. 3C,"Two 100% stacked-bar plots, each with its own denominator"
+Differential expression,Blood Fig. 3D,Volcano: log2FC vs −log10 nominal P; blue/red direction
+Up-DEG pathway enrichment,Blood Fig. 3E,"Single score column, −ln(P), with driver-gene callouts"
+Shared upregulated genes,Blood Fig. 3F,Four-set Venn; identical saved membership and exact counts
+Signed GSEA; batch/state sensitivity,Additional analyses,Separate figures; NES is not the paper enrichment score
