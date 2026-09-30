@@ -16,8 +16,8 @@ NK 细胞 ≈ 常驻的巡检守护进程；T 细胞 ≈ 按需部署的专用 w
 
 ## 在本项目中
 
-- 参照论文：PAGER-scFGA（小鼠 NK CITE-seq，`docs/pager-scFGA.pdf`）、Borra et al. 2026 GAFA（CML 缓解相关 NK，`docs/Borra_et_al_2026_GAFA_CML_NK.pdf`）、Blood Advances（慢性炎症损害 NK 适应度与细胞毒性，`docs/blooda_adv-2024-014592-main.pdf`）。
-- NK 参考 marker：CD56（Ncam1）在全部六个 raw feature 表存在但累计读数为 0；CD94、IL-4 用于 C5 对照（`docs/inkt_history_and_supervisor_requirements_20260915.md` 阶段 5）。
+- 参照论文：PAGER-scFGA（小鼠 NK CITE-seq，`docs/references/pager-scFGA.pdf`）、Borra et al. 2026 GAFA（CML 缓解相关 NK，`docs/references/Borra_et_al_2026_GAFA_CML_NK.pdf`）、Blood Advances（慢性炎症损害 NK 适应度与细胞毒性，`docs/references/blooda_adv-2024-014592-main.pdf`）。
+- NK 参考 marker：CD56（Ncam1）在全部六个 raw feature 表存在但累计读数为 0；CD94、IL-4 用于 C5 对照（`docs/audits/inkt_history_and_supervisor_requirements_20260915.md` 阶段 5）。
 - 09-19 报告采用 PAGER 的细胞毒性模块思路（`iNKT_by_date/2026-09-19/notes/method_adaptation.md`）。
 
 ## 相关概念

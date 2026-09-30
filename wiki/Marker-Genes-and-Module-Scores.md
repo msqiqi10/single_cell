@@ -13,7 +13,7 @@
 ## 常见误读与注意
 
 - 分数不是概率，也不是表达比例；同一亚型不同来源的基因表重叠很低。
-- 稀疏基因必须同时看 fold change、均值和阳性细胞比例：Rorc global log2FC +0.350，但阳性细胞只有约 1–1.5%（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` Stage 7）。
+- 稀疏基因必须同时看 fold change、均值和阳性细胞比例：Rorc global log2FC +0.350，但阳性细胞只有约 1–1.5%（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` Stage 7）。
 
 ## 在本项目中
 

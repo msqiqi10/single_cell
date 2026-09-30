@@ -18,7 +18,7 @@
 ## 在本项目中
 
 - Rob 确认每个标签由 3 只小鼠混合（转录稿 00:37:00），所以每组 n=1 个 pool（`iNKT_by_date/2026-09-25/README.md`）。
-- `docs/inkt_pipeline_stage_by_stage_walkthrough.md` “统计设计只有六个样本”与 8.6；`iNKT_by_date/2026-09-25/results/README.md` 第 7 节引 Squair 等 2021。
+- `docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` “统计设计只有六个样本”与 8.6；`iNKT_by_date/2026-09-25/results/README.md` 第 7 节引 Squair 等 2021。
 - bootstrap 区间只说明细胞重抽样稳定性，不是生物学重复的置信区间（同 W 6.4）。
 
 ## 相关概念

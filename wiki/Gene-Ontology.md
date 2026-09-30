@@ -20,7 +20,7 @@ GO ≈ 一个带继承（is_a）和组合（part_of）关系的类型系统；�
 
 - GO 官方本体 `releases/2026-07-26`，仅小鼠 MGI 注释；排除 NOT 和 ND，保留 IEA；只沿 is_a/part_of 向上继承，不沿 regulates；词条大小 5–500（`iNKT_by_date/2026-09-19/README.md` GO 方法；来源与哈希 `iNKT_by_date/2026-09-19/sources/GO_provenance.json`）。
 - 骨髓 C0 独立复算：BP/MF/CC 共 17,912 项 GO 检验（`iNKT_by_date/2026-09-25/notes/local_inkt_README.md`）。
-- 关键条目：GO:0035976 transcription factor AP-1 complex（CC）；GO:0000165 MAPK cascade（BP）；GO:0042267 NK 细胞介导的细胞毒性（29 个基因）、GO:0001906 cell killing（66）、GO:0140507（10）（`docs/inkt_cytotoxicity_source_audit_20260922.md`）。
+- 关键条目：GO:0035976 transcription factor AP-1 complex（CC）；GO:0000165 MAPK cascade（BP）；GO:0042267 NK 细胞介导的细胞毒性（29 个基因）、GO:0001906 cell killing（66）、GO:0140507（10）（`docs/audits/inkt_cytotoxicity_source_audit_20260922.md`）。
 - 祖先路径表：`iNKT_by_date/2026-09-25/results/network/ontology_ancestry_paths.csv`。
 - 9/29：Yue 要求用 GO MF 再做一遍（以前只用 BP）（`/Users/zeruzhang/Downloads/Zoom会议/Zongliang Yue's Personal Meeting Room 2026-09-29 16:02(GMT-5:00).txt` 约 16:21:14–16:21:31）。
 

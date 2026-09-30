@@ -12,7 +12,7 @@
 
 ## 常见误读与注意
 
-- 不能写 legacy c1 = current c6；应写“legacy c1 的胸腺响应程序在当前 c6 中得到恢复”（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 5.5）。
+- 不能写 legacy c1 = current c6；应写“legacy c1 的胸腺响应程序在当前 c6 中得到恢复”（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 5.5）。
 
 ## 在本项目中
 
@@ -30,7 +30,7 @@
 | C6 | 2,379 | 37 | 28 | 2,314 | 胸腺 |
 | C7 | 92 | 0 | 3 | 89 | 胸腺 |
 
-- 所有簇都同时含 Ctrl 与 T2，没有 condition 独占簇（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 5.4）。
+- 所有簇都同时含 Ctrl 与 T2，没有 condition 独占簇（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 5.4）。
 - 主要候选簇：骨髓 C0、脾脏 C3（AP-1）；骨髓 C4、脾脏 C3（细胞毒性/CCT）；C5-2（iNKT17 相关）；C5-1（T2 脾脏中占比更高）。
 - 同一目录 `iNKT_by_date/2026-09-19/results/de/` 按 `cluster_tissue__C0__bone_marrow.csv.gz` 命名保存组织×簇 DE。
 

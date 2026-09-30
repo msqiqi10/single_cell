@@ -17,7 +17,7 @@
 
 ## 在本项目中
 
-- DE 里正 logFC = T2 上调（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 8.2）。
+- DE 里正 logFC = T2 上调（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 8.2）。
 - 描述性 marker log2FC = log2((T2 均值+0.001)/(Ctrl 均值+0.001))，不是 DE 模型估计（同上 Stage 7）。
 - Il1r1 的 fold change 很大但检出比例低，不能替代不确定性检查（`iNKT_by_date/2026-09-25/notes/2026-09-24_Rob_Yue会议意见与下一步.md` 第 4 节）。
 

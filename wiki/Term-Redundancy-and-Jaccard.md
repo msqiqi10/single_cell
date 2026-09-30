@@ -19,7 +19,7 @@ Jaccard 指数 J(A,B) = |A∩B| / |A∪B|，取值 0–1。两个术语的成员
 - 显示用：Jaccard≥0.75 去冗余，完整结果保留（`iNKT_by_date/2026-09-19/README.md`）。
 - 网络边：Jaccard≥0.25 且共享基因≥3，得到 97 节点 577 条边（`iNKT_by_date/2026-09-25/results/README.md` 第 5 节；`iNKT_by_date/2026-09-25/results/network/mouse_GO_edges.tsv`）。
 - GO:0002181 与 GO:0006412 的 Jaccard=0.507（194 个共享基因，主要是 Rpl/Rps）（`iNKT_by_date/2026-09-25/results/network/mouse_GO_edges.tsv`）。
-- legacy 与 current DEG 集合的 Recovery、Jaccard（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 9.2）也是同一个公式。
+- legacy 与 current DEG 集合的 Recovery、Jaccard（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 9.2）也是同一个公式。
 
 ## 相关概念
 

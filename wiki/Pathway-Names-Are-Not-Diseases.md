@@ -20,7 +20,7 @@
 - Rob：“Clearly these cells do not have measles”，它反映强烈的病毒/炎症反应；名称源于早期微阵列研究（转录稿 01:26:35–01:28:20）。
 - 该行实际显示的 driver 是 Fos、Hspa1a、Hspa1b、Hspa2、Jun、Tlr7（`iNKT_by_date/2026-09-25/notes/2026-09-24_Rob_Yue会议意见与下一步.md` 第 4 节）。
 - “synapse translation”可由核糖体基因驱动，不能推断形成神经突触（`iNKT_by_date/2026-09-19/README.md`）；G03 组即由 “translation at synapse” 等条目构成（`iNKT_by_date/2026-09-25/results/network/annotated_nodes.csv`）。
-- 旧 PPT 的 “Prion disease/Measles/Estrogen signaling” 同理（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 10.4）。
+- 旧 PPT 的 “Prion disease/Measles/Estrogen signaling” 同理（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 10.4）。
 
 ## 相关概念
 

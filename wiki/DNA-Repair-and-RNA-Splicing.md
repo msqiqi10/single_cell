@@ -18,8 +18,8 @@ DNA 修复 ≈ 数据库的崩溃恢复；剪接 ≈ 预处理阶段去掉注释
 ## 在本项目中
 
 - ZERU 在 9/24 会议指出 Sfpq、Dynll1 在骨髓/骨髓 C5-2 下调，Shld1 在骨髓 C5-2 下调，并强调这只是提出问题（转录稿约 00:48:19–00:48:53；00:54:33–00:55:29）。
-- Sfpq、Dnaja1、Hspa8 的下调在旧 PPT 重跑中方向一致（`docs/inkt_legacy_ppt_vs_legacy_qc_rerun_content.md`）。
-- “次级候选：骨髓 C0 剪接”：`docs/inkt_history_and_supervisor_requirements_20260915.md` 阶段 8。
+- Sfpq、Dnaja1、Hspa8 的下调在旧 PPT 重跑中方向一致（`docs/audits/inkt_legacy_ppt_vs_legacy_qc_rerun_content.md`）。
+- “次级候选：骨髓 C0 剪接”：`docs/audits/inkt_history_and_supervisor_requirements_20260915.md` 阶段 8。
 - “Fanconi/DNA 修复”条目在脾脏 C5-1 的全库排序中出现，FDR=1，属弱统计支持的探索线索（转录稿 01:06:57–01:07:37）。
 
 ## 相关概念

@@ -30,7 +30,7 @@
 
 - 会议：[TODOs.txt](/home/zzz0054/bio3/TODOs.txt)。转录中的英文存在误识别；表中按上下文规范了术语，不采用其中未验证的生物学推测作为事实。
 - 旧 PPT：[iNKT.pptx](/home/zzz0054/bio3/input/iNKT/iNKT.pptx)。R05/R07 的比较对象。
-- Blood 论文：[blooda_adv-2024-014592-main.pdf](/home/zzz0054/bio3/docs/blooda_adv-2024-014592-main.pdf)。R08 明确对应 Figure 3E。
+- Blood 论文：[blooda_adv-2024-014592-main.pdf](/home/zzz0054/bio3/docs/references/blooda_adv-2024-014592-main.pdf)。R08 明确对应 Figure 3E。
 - 会议在 09:59 之后还展示了其他参考论文及 RNA velocity 方法；R02/R04 的 state-marker/velocity 图源需在结果页各自标注，不全部归到 Blood Figure 3E。
 - 用户已明确 batch removal、velocity、旧 PPT 通路验证和论文通路验证均须保留；沿用最新 iNKT 分析流程，目的是在本数据里寻找新信息。
 - 会议末的执行顺序是先做参考 marker 映射，再尝试单组织分析和 batch removal。此顺序不删去其他事项。

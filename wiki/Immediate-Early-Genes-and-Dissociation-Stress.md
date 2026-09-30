@@ -18,7 +18,7 @@
 ## 在本项目中
 
 - ZERU/Yue 记录的替代解释见 `iNKT_by_date/2026-09-25/results/EXPERIMENT_CANDIDATES.md` A 节“会削弱该解释的情形”。
-- 旧 PPT 的 IEG/HSP/mitochondrial 驱动模块被高度保留（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 9.4 节）。
+- 旧 PPT 的 IEG/HSP/mitochondrial 驱动模块被高度保留（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 9.4 节）。
 - 需要 Rob 提供：样本处理记录、T2 时间点（`iNKT_by_date/2026-09-25/results/README.md` 第 7 节）。
 
 ## 相关概念

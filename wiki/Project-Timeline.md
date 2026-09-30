@@ -6,8 +6,8 @@
 
 | 日期 | 内容 | 来源 |
 |---|---|---|
-| 07-01/02 | 部署 Scanpy 环境，跑通 iNKT 基础流程：18,204 × 15,741，9 群（宽松 QC 基线，不同于后来的口径） | `docs/inkt_history_and_supervisor_requirements_20260915.md` 阶段 1 |
-| 08-18/19 | 按旧 PPT 重建 QC：**15,532 × 10,670**，六个样本细胞数与旧 PPT 一致；旧 11 群 vs 新 8 群；旧 tissue DEG 恢复 胸腺 31/34、骨髓 35/39、脾脏 44/50 | 同上 阶段 3；`docs/inkt_pipeline_stage_by_stage_walkthrough.md` |
+| 07-01/02 | 部署 Scanpy 环境，跑通 iNKT 基础流程：18,204 × 15,741，9 群（宽松 QC 基线，不同于后来的口径） | `docs/audits/inkt_history_and_supervisor_requirements_20260915.md` 阶段 1 |
+| 08-18/19 | 按旧 PPT 重建 QC：**15,532 × 10,670**，六个样本细胞数与旧 PPT 一致；旧 11 群 vs 新 8 群；旧 tissue DEG 恢复 胸腺 31/34、骨髓 35/39、脾脏 44/50 | 同上 阶段 3；`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` |
 | 08-25 | 50/100/200 PCs 的 UMAP 比较（选 50）；参考 marker；按组织分层比例 | 同上 阶段 4 |
 | 08-30 | C5 拆成 C5-1/C5-2（五种子平均 ARI=0.9868）；Blood Figure 3D/E/F 方法迁移（火山图、GSEA、Venn/UpSet） | 同上 阶段 5 |
 

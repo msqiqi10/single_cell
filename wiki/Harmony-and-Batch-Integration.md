@@ -12,13 +12,13 @@
 
 ## 常见误读与注意
 
-- 本项目没有独立的技术批次元数据，因此“去批次”无法证明被移除的都是技术偏差；因为每个 tissue×condition 只有一个文库，条件效应与文库效应无法拆开（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 5.4）。
+- 本项目没有独立的技术批次元数据，因此“去批次”无法证明被移除的都是技术偏差；因为每个 tissue×condition 只有一个文库，条件效应与文库效应无法拆开（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 5.4）。
 
 ## 在本项目中
 
-- R01：已尝试 Harmony，使组织更混合，同时改变了分群和条件结构；纯技术 batch 解释未解决（`docs/inkt_history_and_supervisor_requirements_20260915.md` 第 3 节表格；37 页版第 30 页 “Batch sensitivity”）。
+- R01：已尝试 Harmony，使组织更混合，同时改变了分群和条件结构；纯技术 batch 解释未解决（`docs/audits/inkt_history_and_supervisor_requirements_20260915.md` 第 3 节表格；37 页版第 30 页 “Batch sensitivity”）。
 - 9/5 会议的 Yue 要求尝试 batch removal 并比较前后结构（会议时刻 10:14–10:18，同 H 文档）。
-- Borra et al. 2026 用 scVI 做批次整合（`docs/Borra_et_al_2026_GAFA_CML_NK.pdf`）；本项目没有运行 scVI/SCORPION（`iNKT_by_date/2026-09-19/README.md`）。
+- Borra et al. 2026 用 scVI 做批次整合（`docs/references/Borra_et_al_2026_GAFA_CML_NK.pdf`）；本项目没有运行 scVI/SCORPION（`iNKT_by_date/2026-09-19/README.md`）。
 
 ## 相关概念
 

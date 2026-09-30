@@ -17,9 +17,9 @@
 
 ## 在本项目中
 
-- 基因过滤：32,285 → 10,670，移除 21,615 个低频基因；细胞 18,458 → 15,532（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` Stage 2）。
+- 基因过滤：32,285 → 10,670，移除 21,615 个低频基因；细胞 18,458 → 15,532（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` Stage 2）。
 - Ccr6：原始 92 个细胞检出；保留细胞中仍有 60 个，其中 54 个在 C5-2；Il17a 保留细胞 0 个（原始输入条码中 3 个），Il17f 保留细胞 2 个（原始 3 个）：`iNKT_by_date/2026-09-25/results/README.md` 第 4 节；`iNKT_by_date/2026-09-25/results/tables/full_feature_marker_status.csv`。
-- 旧稿曾把 Il17a/Il17f/Ccr6 “不在 gene universe” 解释为无法评价（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 6.2）；9/25 用原始矩阵补齐。
+- 旧稿曾把 Il17a/Il17f/Ccr6 “不在 gene universe” 解释为无法评价（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 6.2）；9/25 用原始矩阵补齐。
 - 9/24 会议上 ZERU 说 Ccr6 “was not retained in the future gene set”（转录稿 00:42:37–00:42:44）。
 
 ## 相关概念

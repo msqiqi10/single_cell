@@ -12,7 +12,7 @@ QC ≈ 数据清洗/输入校验：丢弃格式异常的记录。
 
 ## 常见误读与注意
 
-- 本流程没有做 doublet 检测、环境 RNA 校正、cell-cycle 回归、批次整合，所以“通过 QC”不等于满足现代标准的全部 QC（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 2.4 节）。
+- 本流程没有做 doublet 检测、环境 RNA 校正、cell-cycle 回归、批次整合，所以“通过 QC”不等于满足现代标准的全部 QC（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 2.4 节）。
 - `n_genes_by_counts` 要在过滤基因之后重新计算，顺序不同得到的细胞集合不同。
 
 ## 在本项目中
@@ -20,7 +20,7 @@ QC ≈ 数据清洗/输入校验：丢弃格式异常的记录。
 - mt 基因：`mt-`/`MT-` 开头；ribosomal：`Rps/Rpl`；hemoglobin：`^(Hb[ab]|HBA|HBB)`（同上 2.2 节）。
 - 保留细胞最低检出基因 284，最高 2,499；最高线粒体比例 4.99866%（同上 2.3 节）。
 - 37 页版第 2 页展示样本、检出基因、UMI、线粒体比例（`iNKT_by_date/2026-09-20/package/slides.json`，old_02）。
-- QC 精确重建证据：`docs/inkt_qc_exact_reconstruction.csv`。
+- QC 精确重建证据：`docs/audits/inkt_qc_exact_reconstruction.csv`。
 
 ## 相关概念
 

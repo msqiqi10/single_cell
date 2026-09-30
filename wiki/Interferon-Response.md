@@ -19,7 +19,7 @@ IFN 反应 ≈ 收到“全局告警”后，全网节点一起进入防御模�
 
 - Rob 的解释：Ifng 和 Tbx21 高表达使 “measles” 出现在某些簇（转录稿 01:26:35–01:28:20）。
 - 细胞元数据中含 `NK_type_I_IFN` 参考状态分数：`iNKT_by_date/2026-09-19/results/tables/cell_metadata_scores.csv.gz`。
-- 参考状态覆盖不足，不能强制五分类（`docs/inkt_history_and_supervisor_requirements_20260915.md` 阶段 7）。
+- 参考状态覆盖不足，不能强制五分类（`docs/audits/inkt_history_and_supervisor_requirements_20260915.md` 阶段 7）。
 
 ## 相关概念
 

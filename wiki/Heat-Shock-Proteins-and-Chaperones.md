@@ -17,7 +17,7 @@
 
 ## 在本项目中
 
-- 脾脏 C3：Cct2/3/4/6a/8、Tuba1a、Tubb4b 等表达降低，作为局部候选（`docs/inkt_history_and_supervisor_requirements_20260915.md` 阶段 8；37 页版第 36 页，`iNKT_by_date/2026-09-20/package/slides.json`）。
+- 脾脏 C3：Cct2/3/4/6a/8、Tuba1a、Tubb4b 等表达降低，作为局部候选（`docs/audits/inkt_history_and_supervisor_requirements_20260915.md` 阶段 8；37 页版第 36 页，`iNKT_by_date/2026-09-20/package/slides.json`）。
 - R10：mask heat-shock 后再找新信息，已做 Hsp/Dnaj 排除敏感性（同 H 文档要求表）。
 - “Measles” 行实际 driver 为 Fos、Hspa1a、Hspa1b、Hspa2、Jun、Tlr7（`iNKT_by_date/2026-09-25/notes/2026-09-24_Rob_Yue会议意见与下一步.md` 第 4 节）。
 - 功能组 G01 含 “protein folding” 及 spermatogenesis/gamete generation 等由热休克基因带出的名称（`iNKT_by_date/2026-09-25/results/network/annotated_nodes.csv`）；README 称 G01 为“混合注释，包含热应激、折叠”。

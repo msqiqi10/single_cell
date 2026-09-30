@@ -17,7 +17,7 @@
 ## 在本项目中
 
 - Rob 在 9/24 会议确认：“3 animals went into each label”（转录稿 00:37:00–00:37:12）。转录稿 00:36:45 中 ZERU 那句“can now treat these 6 labels as 6 independent animal replicates”疑似 ASR 把 “cannot” 识别成 “can”（推测），以 `iNKT_by_date/2026-09-25/README.md` 的结论为准。
-- 每个 tissue×condition 只有一个样本 → 没有独立动物重复（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 开篇）。
+- 每个 tissue×condition 只有一个样本 → 没有独立动物重复（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 开篇）。
 - 样本设计登记表：`iNKT_by_date/2026-09-25/results/existing_evidence/sample_design_registry.csv`。
 - 仍待确认：pool 与动物对应、跨组织是否取自同一批动物、批次、时间点（`iNKT_by_date/2026-09-25/notes/2026-09-24_Rob_Yue会议意见与下一步.md` 第 1 节）。
 

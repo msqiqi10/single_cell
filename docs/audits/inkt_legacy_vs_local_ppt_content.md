@@ -1239,13 +1239,13 @@
 
 - 总体运行：`output/iNKT_scanpy_tutorial_run/summary.json`
 - 输入与过滤：`output/iNKT_scanpy_tutorial_run/tables/input_summary.json`、`filter_summary.json`
-- Legacy QC 精确重构：`docs/inkt_qc_exact_reconstruction.csv`；重构规则为全体 cells 上 `min_cells=100` → 重算 QC → `200≤n_genes<2500` 且 `pct_counts_mt<5%`
+- Legacy QC 精确重构：`docs/audits/inkt_qc_exact_reconstruction.csv`；重构规则为全体 cells 上 `min_cells=100` → 重算 QC → `200≤n_genes<2500` 且 `pct_counts_mt<5%`
 - Cluster 组成：`output/iNKT_scanpy_tutorial_run/tables/cluster_percent_by_sample.csv`、`cluster_percent_by_condition.csv`
 - Global DE：`output/iNKT_scanpy_tutorial_run/tables/rank_genes_condition_t2_vs_ctrl_top500.csv` 只含 top 500；完整 3,000-HVG ranking 位于 `output/iNKT_scanpy_tutorial_run/inkt_scanpy_tutorial_processed.h5ad` 的 `uns/rank_genes_condition_t2_vs_ctrl`
 - Current tissue/cluster DE：`output/iNKT_extended_runs/20260818_105349/de_pathway/current_de/`
 - Legacy 表恢复：`output/iNKT_extended_runs/20260818_105349/de_pathway/legacy/`
 - Tissue/cluster overlap：`output/iNKT_extended_runs/20260818_105349/de_pathway/overlap_pathway/`
-- PPT 严格 tissue-only overlap：`docs/inkt_legacy_ppt_tissue_overlap_strict.csv`；现有 output 中的 `legacy_vs_current_tissue_gene_overlap.csv` 混入同组织 legacy cluster×tissue rows，只能作为宽 union 审计，不能支持 39/50/34 分母
+- PPT 严格 tissue-only overlap：`docs/audits/inkt_legacy_ppt_tissue_overlap_strict.csv`；现有 output 中的 `legacy_vs_current_tissue_gene_overlap.csv` 混入同组织 legacy cluster×tissue rows，只能作为宽 union 审计，不能支持 39/50/34 分母
 - Signature QC：`output/iNKT_extended_runs/20260818_105349/signatures/gene_sets/signature_qc.csv`
 - Subtype evidence：`output/iNKT_extended_runs/20260818_105349/signatures/signature_scores/cluster_subtype_evidence.csv`
 - Signature effects：`output/iNKT_extended_runs/20260818_105349/signatures/signature_scores/signature_t2_vs_ctrl_effects.csv`

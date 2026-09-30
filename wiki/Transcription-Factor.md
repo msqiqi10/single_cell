@@ -17,9 +17,9 @@ TF ≈ 配置文件里的 feature flag / 中间件路由：它本身是一个程
 
 ## 在本项目中
 
-- 本项目最核心的 TF 是 AP-1 家族（Fos/Jun，见 [[AP-1 转录因子复合体（AP-1: Fos/Jun family）|AP-1-Fos-Jun]]）；iNKT 亚型 marker 中的 Tbx21（T-bet）、Gata3、Rorc、Zbtb16 也是 TF（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 第 6 节的 marker panel 含 Tbx21、Zbtb16）。
+- 本项目最核心的 TF 是 AP-1 家族（Fos/Jun，见 [[AP-1 转录因子复合体（AP-1: Fos/Jun family）|AP-1-Fos-Jun]]）；iNKT 亚型 marker 中的 Tbx21（T-bet）、Gata3、Rorc、Zbtb16 也是 TF（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 第 6 节的 marker panel 含 Tbx21、Zbtb16）。
 - Rob 解释：Tbx21 又叫 T-bet，是诱导 interferon gamma 产生的转录因子（转录稿约 01:27:12–01:27:25）。
-- Borra et al. 2026（`docs/Borra_et_al_2026_GAFA_CML_NK.pdf`）的 GAFA 流程含转录因子调控网络（SCORPION），本项目未运行（`iNKT_by_date/2026-09-19/README.md` “解释边界”）。
+- Borra et al. 2026（`docs/references/Borra_et_al_2026_GAFA_CML_NK.pdf`）的 GAFA 流程含转录因子调控网络（SCORPION），本项目未运行（`iNKT_by_date/2026-09-19/README.md` “解释边界”）。
 
 ## 相关概念
 

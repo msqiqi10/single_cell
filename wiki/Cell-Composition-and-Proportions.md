@@ -17,7 +17,7 @@
 
 ## 在本项目中
 
-- 比例图 37 页版第 8–10 页（`iNKT_by_date/2026-09-20/package/slides.json`）；R12：27 个组织×簇核对（`docs/inkt_history_and_supervisor_requirements_20260915.md`）。
+- 比例图 37 页版第 8–10 页（`iNKT_by_date/2026-09-20/package/slides.json`）；R12：27 个组织×簇核对（`docs/audits/inkt_history_and_supervisor_requirements_20260915.md`）。
 - C5-1 在脾脏：Ctrl 239/3,422（7.0%）→ T2 345/3,371（10.2%），簇内 T2 占比 59.1%（我们对 `iNKT_by_date/2026-09-19/results/tables/cell_metadata_scores.csv.gz` 计数得到）。
 - 骨髓 C3：Ctrl 236 → T2 115（T2 占比 32.8%，同上计数）。
 - 9/24 会议：ZERU 指出 C5-1 在 T2 脾脏细胞中占更大份额（转录稿 00:44:36）。

@@ -14,11 +14,11 @@ PAG ≈ 一个“模块”；super-PAG ≈ 把模块聚合后的“包/命名空
 
 - 不同项目里 SP1、SP4 等标签指的是不同的东西；Yue 展示的是 TCGA_BRCA_GOLDEN 示例，不是 iNKT 结果。
 - super-PAG 是功能组，不是新的细胞亚型（N25 第 2 节）。
-- m-type 的精确定义在项目文件中没有给出；只可确认 PAGER 表格描述 m-type/r-type 为 PAG-PAG 关系（`docs/pager-scFGA.pdf`），本项目用 Jaccard 网络替代（不确定其数学等价性，`fusion_manifest.json` 明确写明“不完全相同”）。
+- m-type 的精确定义在项目文件中没有给出；只可确认 PAGER 表格描述 m-type/r-type 为 PAG-PAG 关系（`docs/references/pager-scFGA.pdf`），本项目用 Jaccard 网络替代（不确定其数学等价性，`fusion_manifest.json` 明确写明“不完全相同”）。
 
 ## 在本项目中
 
-- PAGER-scFGA（`docs/pager-scFGA.pdf`）：PAGER 分析部分给出 m-type/r-type PAG-PAG 关系表。
+- PAGER-scFGA（`docs/references/pager-scFGA.pdf`）：PAGER 分析部分给出 m-type/r-type PAG-PAG 关系表。
 - 本项目的替代：Jaccard≥0.25 且共享≥3 的冻结小鼠 GO 网络（`iNKT_by_date/2026-09-25/results/fusion_manifest.json`）。
 - 9/23 会议：Yue 的“大象”比喻——只看一个簇像只摸到象的一只角，super-PAG 把几百个条目分块并高亮（`/Users/zeruzhang/Downloads/Zoom会议/zoom-0923/GMT20260923-180025_Recording.transcript.vtt` 约 00:39:51–00:41:15；ASR 中文，字词有误）。
 - 9/29：Yue 建议构建“大图 + 小图”两层：小图为 super-PAG，大图为详细网络（`/Users/zeruzhang/Downloads/Zoom会议/Zongliang Yue's Personal Meeting Room 2026-09-29 16:02(GMT-5:00).txt` 约 16:19:45–16:20:10）。

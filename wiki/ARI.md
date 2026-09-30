@@ -16,7 +16,7 @@
 
 ## 在本项目中
 
-- C5 拆分：五个种子平均 ARI=0.9868（`docs/inkt_history_and_supervisor_requirements_20260915.md` 阶段 5）。
+- C5 拆分：五个种子平均 ARI=0.9868（`docs/audits/inkt_history_and_supervisor_requirements_20260915.md` 阶段 5）。
 - GNN 功能分组：三个种子在同一 k 下与参考种子 42 的 ARI 为 0.906、0.800（`iNKT_by_date/2026-09-25/results/README.md` 第 5 节）。
 - 09-30 最终：GNN+语义不同种子之间 ARI 版本 (a) 0.61–0.71、主版本 (b) 0.32–0.55；方法间 ARI (a) 最高 0.58、(b) GOLDEN–GNN 0.70（`iNKT_by_date/2026-09-30/results/tables/ARI_across_gnn_seeds_all.csv`、`iNKT_by_date/2026-09-30/results/tables/ARI_between_methods_all.csv`、`ARI_across_gnn_seeds_excl.csv`、`ARI_between_methods_excl.csv`）。
 

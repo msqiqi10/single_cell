@@ -17,7 +17,7 @@ OXPHOS ≈ 数据中心的供电系统；ATP ≈ 电。
 
 ## 在本项目中
 
-- QC 阈值：线粒体比例 <5%（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 2.3 节）。
+- QC 阈值：线粒体比例 <5%（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 2.3 节）。
 - 骨髓 C0 与脾脏 C3 的 T2 上调基因富集氧化磷酸化（`iNKT_by_date/2026-09-19/README.md`）；剔除 Rpl/Rps/Hsp/Dnaj 后 OXPHOS 仍通过家族 FDR（`iNKT_by_date/2026-09-25/results/README.md` 第 3 节）。
 - 功能组 G04（呼吸链、OXPHOS、ATP 生成）、G05（复合体组装）、G06（核苷酸代谢，与 G04 有 155 条条目边共享基因）：`iNKT_by_date/2026-09-25/results/network/module_edges.csv`。
 - Yue（9/29）：G04–G06 提供了“额外信息”，不只是 G01 的应激（ASR 文本，约 16:40:25–16:40:47）。

@@ -12,11 +12,11 @@ iNKT ≈ 一个“多态接口”对象：同一个不变签名，运行时可�
 
 ## 常见误读与注意
 
-- iNKT 的亚型是连续程序的混合，本项目只把 C5-2 描述为“iNKT17 相关特征”，并非已证实的离散亚型（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 阶段 12）。
+- iNKT 的亚型是连续程序的混合，本项目只把 C5-2 描述为“iNKT17 相关特征”，并非已证实的离散亚型（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 阶段 12）。
 
 ## 在本项目中
 
-- 数据：6 个样本标签共 15,532 个 iNKT 细胞（`docs/inkt_pipeline_stage_by_stage_walkthrough.md`）。
+- 数据：6 个样本标签共 15,532 个 iNKT 细胞（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md`）。
 - 12 套 signature（文献、in-house、Wang 2022 各含 iNKT1/2/17，加 Circulatory、Direct TCR activation、Residency）：同上 6.2 节。
 - 研究问题：肿瘤 T2 条件是否改变骨髓、脾、胸腺中的 iNKT 细胞（`iNKT_by_date/2026-09-25/README.md`）。
 

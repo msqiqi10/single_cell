@@ -17,9 +17,9 @@
 
 ## 在本项目中
 
-- 全局：root 选 c7（因代码 fallback 简化为 Cd27），root 细胞恰是第一个 c7 细胞（Ctrl 脾脏），使 root 很脆弱；DPT 几乎是 “c7 低，其余接近 1”（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` Stage 11）。
+- 全局：root 选 c7（因代码 fallback 简化为 Cd27），root 细胞恰是第一个 c7 细胞（Ctrl 脾脏），使 root 很脆弱；DPT 几乎是 “c7 低，其余接近 1”（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` Stage 11）。
 - 9/19 重新做每组织局部 diffusion map，root 取 Egr2/Hivep3 评分最高群（Cd24a 不在基因集）；骨髓/脾脏 root 敏感性最低相关约 0.76；胸腺没有可靠连续曲线（`iNKT_by_date/2026-09-19/README.md` “拟时序方法与限制”；19 页版第 13–15 页）。
-- R04 velocity：缺 spliced/unspliced 或可生成它们的 BAM/FASTQ（`docs/inkt_history_and_supervisor_requirements_20260915.md` 阶段 7）；Rob 只有 FASTQ、没有 BAM（转录稿 01:34:25–01:34:42）；Yue 期望新数据可做 velocity（01:34:49）。
+- R04 velocity：缺 spliced/unspliced 或可生成它们的 BAM/FASTQ（`docs/audits/inkt_history_and_supervisor_requirements_20260915.md` 阶段 7）；Rob 只有 FASTQ、没有 BAM（转录稿 01:34:25–01:34:42）；Yue 期望新数据可做 velocity（01:34:49）。
 
 ## 相关概念
 

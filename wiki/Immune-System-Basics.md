@@ -16,8 +16,8 @@
 
 ## 在本项目中
 
-- 本项目细胞是 iNKT 细胞，兼有 T 细胞受体和 NK 样标志（marker panel：iNKT/T lineage 与 NK/cytotoxic，见 `docs/inkt_pipeline_stage_by_stage_walkthrough.md` 6.1 节）。
-- 项目参照的论文均涉及 NK 细胞与白血病微环境（`docs/blooda_adv-2024-014592-main.pdf`、`docs/Borra_et_al_2026_GAFA_CML_NK.pdf`）。
+- 本项目细胞是 iNKT 细胞，兼有 T 细胞受体和 NK 样标志（marker panel：iNKT/T lineage 与 NK/cytotoxic，见 `docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 6.1 节）。
+- 项目参照的论文均涉及 NK 细胞与白血病微环境（`docs/references/blooda_adv-2024-014592-main.pdf`、`docs/references/Borra_et_al_2026_GAFA_CML_NK.pdf`）。
 - 与之相关的 KEGG/GO 疾病式名称（如 measles）指向的是免疫/炎症基因集，见 [[为什么会出现 “measles”、“synapse translation” 这样的名字（Pathway Names Are Not Diseases）|Pathway-Names-Are-Not-Diseases]]。
 
 ## 相关概念

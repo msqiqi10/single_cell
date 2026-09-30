@@ -26,8 +26,8 @@
 ## 其它待办与边界
 
 - 每个 pool 缺独立重复：任何结论保持“探索性”（[[伪重复与 n=1（Pseudoreplication, Why Cell-level p-values Are Not Animal-level Evidence）|Pseudoreplication-and-n-equals-1]]）。
-- 外部数据（仅检索，未下载）：GSE296020（小鼠 iNKT1 细胞毒性亚群 bulk）、GSE298293（胸腺 iNKT scRNA 参考）、GSE306154（结肠 iNKT）、Mouse MSigDB 2026.1.Mm（`docs/inkt_cytotoxicity_source_audit_20260922.md`）。
-- 肝/肾毒性数据任务不属于 iNKT（`docs/inkt_history_and_supervisor_requirements_20260915.md` 第 3 节末）。
+- 外部数据（仅检索，未下载）：GSE296020（小鼠 iNKT1 细胞毒性亚群 bulk）、GSE298293（胸腺 iNKT scRNA 参考）、GSE306154（结肠 iNKT）、Mouse MSigDB 2026.1.Mm（`docs/audits/inkt_cytotoxicity_source_audit_20260922.md`）。
+- 肝/肾毒性数据任务不属于 iNKT（`docs/audits/inkt_history_and_supervisor_requirements_20260915.md` 第 3 节末）。
 - 建议的科学问题（不是已证实结论）：AP-1 相关响应与效应/折叠状态是否脱钩？（`iNKT_by_date/2026-09-25/results/README.md` 第 6 节）
 
 ## 09-30 之后新增的待办（推断）

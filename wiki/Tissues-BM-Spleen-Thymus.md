@@ -16,9 +16,9 @@
 
 ## 在本项目中
 
-- 样本量（QC 后 T2/Ctrl）：骨髓 2,731/3,379；脾脏 3,371/3,422；胸腺 1,257/1,372；胸腺保留率最低（Ctrl 65.3%）——`docs/inkt_pipeline_stage_by_stage_walkthrough.md` Stage 1、8.3。
+- 样本量（QC 后 T2/Ctrl）：骨髓 2,731/3,379；脾脏 3,371/3,422；胸腺 1,257/1,372；胸腺保留率最低（Ctrl 65.3%）——`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` Stage 1、8.3。
 - 簇的组织构成：c0 95.8% 骨髓，c3 93.7% 脾脏，c6 97.3% 胸腺（同上 5.3 表）。
-- 骨髓 C4 局部候选与脾脏 C3 CCT/TriC 程序（`docs/inkt_history_and_supervisor_requirements_20260915.md` 阶段 8）。
+- 骨髓 C4 局部候选与脾脏 C3 CCT/TriC 程序（`docs/audits/inkt_history_and_supervisor_requirements_20260915.md` 阶段 8）。
 - Rob：与其它组织相比，很多信号只是细胞所处的邻域/应激（转录稿 01:22:42–01:23:10）。
 
 ## 相关概念

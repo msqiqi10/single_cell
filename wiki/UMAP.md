@@ -17,9 +17,9 @@ UMAP（uniform manifold approximation and projection）把高维邻居关系投�
 
 ## 在本项目中
 
-- `sc.tl.umap(random_state=0)`（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 5.2）。
+- `sc.tl.umap(random_state=0)`（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 5.2）。
 - 37 页版第 3、4 页：50/100/200 PCs 与样本/群/条件着色（`iNKT_by_date/2026-09-20/package/slides.json`）。
-- 9/9 会议主要讨论 R01 UMAP 的含义（`docs/inkt_history_and_supervisor_requirements_20260915.md` 阶段 9）。
+- 9/9 会议主要讨论 R01 UMAP 的含义（`docs/audits/inkt_history_and_supervisor_requirements_20260915.md` 阶段 9）。
 
 ## 相关概念
 

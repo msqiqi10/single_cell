@@ -4,14 +4,14 @@ This directory is configured as a `uv` project for Scanpy/scVI single-cell analy
 
 ## iNKT results by date
 
-Start with the [dated iNKT directory](iNKT_by_date/README.md) for each stage's code,
+Start with the [dated iNKT directory](../iNKT_by_date/README.md) for each stage's code,
 results, presentations, and notes. The directory uses relative symbolic links to
 the existing files; code links show the current source, not historical snapshots.
 
-- [2026-09-15: reference-aligned presentation](iNKT_by_date/2026-09-15/README.md)
-- [2026-09-06: R01–R13 report and complete delivery bundle](iNKT_by_date/2026-09-06/README.md)
-- [2026-09-05: meeting follow-up and discovery results](iNKT_by_date/2026-09-05/README.md)
-- [Experiment history and supervisor requirements](docs/inkt_history_and_supervisor_requirements_20260915.md)
+- [2026-09-15: reference-aligned presentation](../iNKT_by_date/2026-09-15/README.md)
+- [2026-09-06: R01–R13 report and complete delivery bundle](../iNKT_by_date/2026-09-06/README.md)
+- [2026-09-05: meeting follow-up and discovery results](../iNKT_by_date/2026-09-05/README.md)
+- [Experiment history and supervisor requirements](audits/inkt_history_and_supervisor_requirements_20260915.md)
 
 ## Layout
 

@@ -17,7 +17,7 @@
 
 ## 在本项目中
 
-- 全局：7,359 T2 vs 8,173 Ctrl，仅 3,000 HVG，345 个基因 FDR≤0.05，132 个同时 |logFC|≥0.25（57 上调、75 下调）（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 8.1）。
+- 全局：7,359 T2 vs 8,173 Ctrl，仅 3,000 HVG，345 个基因 FDR≤0.05，132 个同时 |logFC|≥0.25（57 上调、75 下调）（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 8.1）。
 - 组织内：骨髓 718（350↑/368↓）、脾脏 864（356/508）、胸腺 352（195/157）；主要簇：C0 骨髓 592（274↑）、C3 脾脏 735（275↑）、C6 胸腺 304（140↑）、C4 骨髓 83（56↑）（同上 8.3–8.4）。
 - 每组至少 20 个细胞，否则跳过；规划 26 个单元，19 完成、7 跳过（同上 8.2；这是 8 个簇版本的记录）。
 - 09-25 保留 26 份既有完整 DE（277,420 行），主功能分析使用 17 个组织×簇比较和 3 个组织整体比较：`iNKT_by_date/2026-09-25/results/tables/all_26_existing_DE_with_eligibility.csv.gz`、`iNKT_by_date/2026-09-25/results/tables/all_comparison_status.csv`。

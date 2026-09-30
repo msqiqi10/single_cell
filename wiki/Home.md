@@ -5,13 +5,13 @@
 
 ## 这个项目在问什么
 
-**肿瘤（T2 条件）是否改变小鼠骨髓（bone marrow, BM）、脾脏（spleen, Spl）、胸腺（thymus, Thy）中的 iNKT 细胞？** 更具体地：哪些细胞群（cluster）、哪些基因、哪些功能程序在 T2 和对照（Ctrl）之间不同，这些差异是否值得实验合作者（Rob）在台面上验证。（来源：`iNKT_by_date/2026-09-25/README.md`；`docs/inkt_history_and_supervisor_requirements_20260915.md`）
+**肿瘤（T2 条件）是否改变小鼠骨髓（bone marrow, BM）、脾脏（spleen, Spl）、胸腺（thymus, Thy）中的 iNKT 细胞？** 更具体地：哪些细胞群（cluster）、哪些基因、哪些功能程序在 T2 和对照（Ctrl）之间不同，这些差异是否值得实验合作者（Rob）在台面上验证。（来源：`iNKT_by_date/2026-09-25/README.md`；`docs/audits/inkt_history_and_supervisor_requirements_20260915.md`）
 
 ## 数据一览
 
 | 项目 | 内容 | 来源 |
 |---|---|---|
-| 样本标签 | 6 个 = 3 个组织（BM/Spl/Thy）× 2 个条件（Ctrl/T2） | `docs/inkt_pipeline_stage_by_stage_walkthrough.md` |
+| 样本标签 | 6 个 = 3 个组织（BM/Spl/Thy）× 2 个条件（Ctrl/T2） | `docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` |
 | 动物 | 每个标签由 3 只小鼠混合（pooled），即每组 n=1 个 pool | Rob，转录稿 00:37:00；`iNKT_by_date/2026-09-25/README.md` |
 | 原始规模 | 18,458 细胞 × 32,285 个基因特征 | 同上 Stage 1 |
 | QC 后 | **15,532 细胞 × 10,670 基因**（先 `min_cells=100` 筛基因，再 200≤n_genes<2500、线粒体<5% 筛细胞） | 同上 Stage 2 |

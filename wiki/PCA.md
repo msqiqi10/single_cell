@@ -16,8 +16,8 @@
 
 ## 在本项目中
 
-- `n_comps=50, svd_solver="arpack", mask_var="highly_variable"`；PC1 2.169%，前 50 PC 共 15.105%（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 4.2）。
-- 8/25 比较 50/100/200 PCs 的 UMAP，选定 50；该比较固定 Leiden 标签，只检验显示结构，不是独立重聚类稳定性（`docs/inkt_history_and_supervisor_requirements_20260915.md` 阶段 4；37 页版第 4 页）。
+- `n_comps=50, svd_solver="arpack", mask_var="highly_variable"`；PC1 2.169%，前 50 PC 共 15.105%（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 4.2）。
+- 8/25 比较 50/100/200 PCs 的 UMAP，选定 50；该比较固定 Leiden 标签，只检验显示结构，不是独立重聚类稳定性（`docs/audits/inkt_history_and_supervisor_requirements_20260915.md` 阶段 4；37 页版第 4 页）。
 
 ## 相关概念
 

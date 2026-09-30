@@ -12,7 +12,7 @@ p 值（p-value）是零假设下出现当前或更极端结果的概率。细�
 
 ## 常见误读与注意
 
-- 15,532 个细胞会让极小的相关性也 p 很小；应先看方向、效应大小、阳性比例，再看 p（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 8.6）。
+- 15,532 个细胞会让极小的相关性也 p 很小；应先看方向、效应大小、阳性比例，再看 p（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 8.6）。
 - 名义 p（nominal）不校正多重比较。
 
 ## 在本项目中

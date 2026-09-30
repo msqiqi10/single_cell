@@ -16,7 +16,7 @@ TCR ≈ 每个 T 细胞独有的“API 签名”；TCR 信号 ≈ 收到匹配�
 
 ## 在本项目中
 
-- marker panel 中 iNKT/T lineage 基因：Trac、Trav11、Traj18、Cd3d、Cd3e、Zbtb16（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 6.1）。
+- marker panel 中 iNKT/T lineage 基因：Trac、Trav11、Traj18、Cd3d、Cd3e、Zbtb16（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 6.1）。
 - T2−Ctrl 的 signature 变化中，Direct TCR activation 全局约 +0.121，在骨髓 +0.129、脾脏 +0.131、胸腺 +0.099（同上 6.5 节）。
 - KEGG “T cell receptor signaling pathway” 被列为 09-30 分析的 anchor 通路之一（`iNKT_by_date/2026-09-30/code/common.py`）。
 - Rob 点名的 Cd8a、Ciita（抗原处理相关）在骨髓 C0 未过 FDR 0.05（Cd8a FDR≈0.0886）：`iNKT_by_date/2026-09-25/notes/2026-09-24_Rob_Yue会议意见与下一步.md` 第 4 节。

@@ -10,7 +10,7 @@
 
 ### 来源边界
 
-- **老师原话**：以 [TODOs.txt](../TODOs.txt) 中 Zongliang Yue 的发言为准。文件只有会议时刻，没有明确会议日期；本文称“9 月 5 日会话提供的会议转录”，不把导入日期当开会日期。
+- **老师原话**：以 [TODOs.txt](../../TODOs.txt) 中 Zongliang Yue 的发言为准。文件只有会议时刻，没有明确会议日期；本文称“9 月 5 日会话提供的会议转录”，不把导入日期当开会日期。
 - **早期会议任务**：8 月 25 日、8 月 30 日聊天中粘贴的会议任务摘要，包含 ZERU/Zongliang 分工。可以确认你当时提供了这些任务，但没有对应完整原会议录音逐字稿。
 - **你的补充要求**：来自用户消息，例如按日期归档、扩展到全部 cluster、论文只参考方法、逐条制作汇报文档。
 - **分析方法与结果**：来自实际输出的 README、数值表及报告。QC 匹配、跨种子稳定性、抽样检查等不能全部归为老师原始要求。
@@ -28,7 +28,7 @@
 
 **意义：** 建立能运行的流程；尚不是对旧 PPT 的严格复现。PAGA/DPT 也不等于 RNA velocity。
 
-来源：[基线 summary](../output/iNKT_scanpy_tutorial_run/summary.json)；会话 S01。
+来源：[基线 summary](../../output/iNKT_scanpy_tutorial_run/summary.json)；会话 S01。
 
 ### 阶段 2｜8 月 18 日上午：新增 xlsx 后，补齐分析内容
 
@@ -38,7 +38,7 @@
 
 **意义：** 从通用教程流程扩展到本项目问题；讨论其他 pipeline 不等于已经运行了 CML 的 scVI/SCORPION。
 
-产物：[第一轮扩展结果](../output/iNKT_extended_runs/20260818_105349/)；会话 S02、S03。
+产物：[第一轮扩展结果](../../output/iNKT_extended_runs/20260818_105349/)；会话 S02、S03。
 
 ### 阶段 3｜8 月 18 日下午–19 日：按旧 PPT QC 重跑，制作复现报告
 
@@ -56,7 +56,7 @@
 
 **当时完成程度：** QC 计数和样本口径对齐；旧分析的完整代码、参数及库版本不齐，因此不等于整个旧 pipeline 精确复现。此阶段通路主要是驱动基因/模块恢复，尚未完成后来那种逐项完整通路核查。
 
-来源：[旧新逐页对照](inkt_legacy_ppt_vs_legacy_qc_rerun_content.md)、[流程讲解](inkt_pipeline_stage_by_stage_walkthrough.md)、[复现 PDF](../output/iNKT_reproduction_deck/iNKT_legacy_QC_reproduction_detailed.pdf)；会话 S04、S05。未按日期冻结的复现 PDF 后续有更新。
+来源：[旧新逐页对照](inkt_legacy_ppt_vs_legacy_qc_rerun_content.md)、[流程讲解](inkt_pipeline_stage_by_stage_walkthrough.md)、[复现 PDF](../../output/iNKT_reproduction_deck/iNKT_legacy_QC_reproduction_detailed.pdf)；会话 S04、S05。未按日期冻结的复现 PDF 后续有更新。
 
 ### 阶段 4｜8 月 25 日：UMAP、参考 marker 与组织分层比例
 
@@ -70,7 +70,7 @@
 
 **主要结果：** 选定 50 PCs；在既定分群标签下，其 cluster 分离度、局部结构保真度及与旧图样本重心的一致性更好。该比较固定 Leiden 标签，检验的是显示结构，不是三套 PC 独立重聚类的稳定性。生成 marker 图和比例图；CD56 源头零表达的最终核查在下一阶段完成。
 
-来源：[PC 选择报告](../output/iNKT_reproduction_deck/20260825_UMAP_PC_sweep/UMAP_PC_selection_report.md)、[当日结果 PDF](../output/iNKT_reproduction_deck/20260825_daily_results_summary/20260825_iNKT_daily_results_summary.pdf)；会话 S06。
+来源：[PC 选择报告](../../output/iNKT_reproduction_deck/20260825_UMAP_PC_sweep/UMAP_PC_selection_report.md)、[当日结果 PDF](../../output/iNKT_reproduction_deck/20260825_daily_results_summary/20260825_iNKT_daily_results_summary.pdf)；会话 S06。
 
 ### 阶段 5｜8 月 30 日：C5 细分与 Blood Figure 3D/E/F 分析
 
@@ -91,7 +91,7 @@
 
 **局限：** 当时全 cluster GSEA 合并了组织，可能受组织组成影响，后来会议要求把 scope 收窄到 tissue×cluster。
 
-来源：[详细结果 README](../output/iNKT_reproduction_deck/20260830_C5_paper_Fig3DEF_followup/20260830_README.md)、[D/E/F PDF](../output/iNKT_reproduction_deck/20260830_C5_paper_Fig3DEF_followup/20260830_iNKT_C5_Fig3DEF_results.pdf)；会话 S07。
+来源：[详细结果 README](../../output/iNKT_reproduction_deck/20260830_C5_paper_Fig3DEF_followup/20260830_README.md)、[D/E/F PDF](../../output/iNKT_reproduction_deck/20260830_C5_paper_Fig3DEF_followup/20260830_iNKT_C5_Fig3DEF_results.pdf)；会话 S07。
 
 ### 阶段 6｜9 月 1 日：逐页理解已有报告
 
@@ -116,7 +116,7 @@
 - 这轮组织×cluster GSEA 中 TNF、NF-κB、JAK–STAT、IL-17/Th17 等未出现 q≤0.05 的对照；不能据此泛化为所有方法都阴性。
 - RNA velocity 没有完成：缺 spliced/unspliced 或可生成这些计数的 BAM/FASTQ。DPT、UMAP 中位位移箭头不算替代完成。
 
-来源：[会议执行 README](../output/iNKT_meeting_followup_20260905/README.md)、[会议结果 PDF](../output/iNKT_meeting_followup_20260905/meeting_results_20260905.pdf)；会话 S09。
+来源：[会议执行 README](../../output/iNKT_meeting_followup_20260905/README.md)、[会议结果 PDF](../../output/iNKT_meeting_followup_20260905/meeting_results_20260905.pdf)；会话 S09。
 
 ### 阶段 8｜9 月 5 日第二轮：用当前 pipeline 找本数据的新信息
 
@@ -132,7 +132,7 @@
 
 严格优先表有 17 条 gene×contrast 记录，不等于 17 个独立发现。以上均为同一数据中的探索性候选，独立动物验证尚未完成。
 
-来源：[中文发现总结](../output/iNKT_discovery_20260905/DISCOVERIES.zh.md)、[发现报告 PDF](../output/iNKT_discovery_20260905/discovery_brief_20260905.pdf)；会话 S09。
+来源：[中文发现总结](../../output/iNKT_discovery_20260905/DISCOVERIES.zh.md)、[发现报告 PDF](../../output/iNKT_discovery_20260905/discovery_brief_20260905.pdf)；会话 S09。
 
 ### 阶段 9｜9 月 6 日及9 月 9 日：逐条回应、准备组会
 
@@ -142,11 +142,11 @@
 
 **性质：** 9 月 6 日整理的是 9 月 5 日两轮分析，另做结果核对和部分 dotplot 重绘，没有重跑 DE/富集/整合/velocity。9 月 9 日主要讨论如何讲解及 R01 UMAP 的含义。
 
-来源：[交付说明](../output/iNKT_revision_responses_20260906/README.md)、[逐条回应 PDF](../output/iNKT_revision_responses_20260906/iNKT_revision_responses_20260906.pdf)；会话 S09、S10。
+来源：[交付说明](../../output/iNKT_revision_responses_20260906/README.md)、[逐条回应 PDF](../../output/iNKT_revision_responses_20260906/iNKT_revision_responses_20260906.pdf)；会话 S09、S10。
 
 ## 3. 上级的最新要求：13 项及当前状态
 
-R01–R13 是后来为汇报整理的编号，并非老师在会议中逐条编号。下表与 [原要求清单](inkt_revision_checklist_20260906.md)、[逐条回应矩阵](../output/iNKT_revision_responses_20260906/R01_R13_response_matrix.csv) 对应。
+R01–R13 是后来为汇报整理的编号，并非老师在会议中逐条编号。下表与 [原要求清单](inkt_revision_checklist_20260906.md)、[逐条回应矩阵](../../output/iNKT_revision_responses_20260906/R01_R13_response_matrix.csv) 对应。
 
 | 编号 | 老师要求回答什么 | 当前状态 | 会议时刻 |
 |---|---|---|---|
@@ -184,7 +184,7 @@ R01–R13 是后来为汇报整理的编号，并非老师在会议中逐条编�
 
 我们先完成了 Scanpy 基础流程，并按旧 PPT 重建 QC，使六个样本及细胞/基因计数一致；之后选定 50-PC UMAP、细分 C5，完成参考 marker、比例和 D/E/F 分析。根据后续会议意见，又补做 batch 敏感性、参考状态映射、单组织重分析、旧新 DEG/通路核查，以及 heat-shock 排除分析。现在优先追踪骨髓 C4 的局部表达变化和脾脏 C3 的 CCT/TriC 程序；它们仍需独立样本验证。Velocity 因缺输入未完成，五状态分类、技术 batch 解释及部分旧库复现也仍有明确限制。
 
-汇报时每项按：**要求 → 方法 → 图/表和关键数字 → 解释 → 未解决事项**。若只选一个总入口，使用 [9 月 6 日逐条回应文档](../output/iNKT_revision_responses_20260906/iNKT_revision_responses_20260906.md)，需要原始图表时再回相应日期目录。
+汇报时每项按：**要求 → 方法 → 图/表和关键数字 → 解释 → 未解决事项**。若只选一个总入口，使用 [9 月 6 日逐条回应文档](../../output/iNKT_revision_responses_20260906/iNKT_revision_responses_20260906.md)，需要原始图表时再回相应日期目录。
 
 ## 5. Chat session 索引
 

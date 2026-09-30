@@ -19,7 +19,7 @@
 
 - 本项目做过的敏感性：QC 匹配（20 次）；Rpl/Rps/Hsp/Dnaj 排除（151 基因）；Harmony；PC 数 50/100/200；模块加/不加 Ctla2a、Nkg7；DPT root 敏感性；三组织稳定分群（见各概念页）。
 - “签名依赖性必须一并汇报”：加 Ctla2a 后骨髓 C4/脾脏 C3 均不显著（q=0.93、0.53）（`iNKT_by_date/2026-09-19/README.md`）。
-- R10：heat-shock mask（`docs/inkt_history_and_supervisor_requirements_20260915.md` 表格）。
+- R10：heat-shock mask（`docs/audits/inkt_history_and_supervisor_requirements_20260915.md` 表格）。
 - 09-30 分析同时运行“全部基因”与“排除 Rpl/Rps/Mrp/mt-/Hsp/Dnaj”两个版本（`iNKT_by_date/2026-09-30/code/common.py`）。
 
 ## 相关概念

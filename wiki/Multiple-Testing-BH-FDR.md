@@ -16,7 +16,7 @@
 
 ## 在本项目中
 
-- 基因层面：每个 DE 比较内对 10,670 个基因做 BH（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 8.2）。
+- 基因层面：每个 DE 比较内对 10,670 个基因做 BH（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 8.2）。
 - GO 富集：每个 对照×方向×GO 分支 在全部可检验条目内 BH（含零命中条目），另给 `q_analysis_global`（跨全部对照）（`iNKT_by_date/2026-09-19/README.md` GO 方法）。
 - AP-1 骨髓 C0：家族 q=0.000261，全局 q=0.00286；骨髓 C4：0.0351 / 0.159（家族内通过，全局不通过）（`iNKT_by_date/2026-09-25/results/tables/AP1_complex_GO_exact_ID.csv`）。
 - ORA 表列名 `q_family`/`q_analysis_global` 即这两种范围。

@@ -17,7 +17,7 @@
 
 ## 在本项目中
 
-- 核心模块 Prf1/Gzma/Gzmb：骨髓 C4 T2−Ctrl 差 +0.08620（q=0.02513）；脾脏 C3 −0.02297（q=0.001538）；加 Nkg7 后为 +0.07593/−0.03367（`docs/inkt_cytotoxicity_source_audit_20260922.md`，数据来自 `iNKT_by_date/2026-09-19/results/tables/cytotoxicity_contrasts.csv`）。
+- 核心模块 Prf1/Gzma/Gzmb：骨髓 C4 T2−Ctrl 差 +0.08620（q=0.02513）；脾脏 C3 −0.02297（q=0.001538）；加 Nkg7 后为 +0.07593/−0.03367（`docs/audits/inkt_cytotoxicity_source_audit_20260922.md`，数据来自 `iNKT_by_date/2026-09-19/results/tables/cytotoxicity_contrasts.csv`）。
 - 93 条合格模块对照中 11 条通过 BH q≤0.05，不能算 11 个独立发现（`iNKT_by_date/2026-09-19/README.md`）。
 - 19 页报告第 3–6、16–17 页（`iNKT_by_date/2026-09-19/presentation/slide_index.csv`）。
 - 矩阵覆盖：Prf1、Gzma、Gzmb、Nkg7、Gzmm、Ctsw、Fasl、Ccl5、Ifng 等存在；Gzmk、Gnly、Gzmh、Ncr3 不在过滤后矩阵（同 A 文档）。

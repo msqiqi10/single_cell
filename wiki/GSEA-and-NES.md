@@ -17,10 +17,10 @@ GSEA（gene set enrichment analysis）对全部基因的排序列表（如 T2 vs
 
 ## 在本项目中
 
-- 8/30 起 Figure E 扩展为 9 个 refined cluster 的 signed GSEA，用带方向 NES；后来要求收窄到 tissue×cluster（`docs/inkt_history_and_supervisor_requirements_20260915.md` 阶段 5）。
+- 8/30 起 Figure E 扩展为 9 个 refined cluster 的 signed GSEA，用带方向 NES；后来要求收窄到 tissue×cluster（`docs/audits/inkt_history_and_supervisor_requirements_20260915.md` 阶段 5）。
 - 基因集大小 15–500，默认 5000 次置换（`notebooks/scripts/iNKT/run_inkt_c5_paper_followup.py` 常量 `GSEA_MIN_SIZE`、`GSEA_MAX_SIZE`、`GSEA_DEFAULT_PERMUTATIONS`）。
 - 37 页版第 31 页 “signed GSEA and heat-shock sensitivity”：红/蓝表示带符号 NES，符号使用 GSEA q（`iNKT_by_date/2026-09-20/package/notes/presenter_guide.zh.md`）。
-- TNF、NF-κB、JAK–STAT、IL-17/Th17 在组织×簇 GSEA 中未出现 q≤0.05（`docs/inkt_history_and_supervisor_requirements_20260915.md` 阶段 7）；第 31 页已有数值的格子仍无 q≤0.05（`iNKT_by_date/2026-09-25/notes/2026-09-24_Rob_Yue会议意见与下一步.md` 第 4 节）。
+- TNF、NF-κB、JAK–STAT、IL-17/Th17 在组织×簇 GSEA 中未出现 q≤0.05（`docs/audits/inkt_history_and_supervisor_requirements_20260915.md` 阶段 7）；第 31 页已有数值的格子仍无 q≤0.05（`iNKT_by_date/2026-09-25/notes/2026-09-24_Rob_Yue会议意见与下一步.md` 第 4 节）。
 
 ## 相关概念
 

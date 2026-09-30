@@ -16,7 +16,7 @@ Ctrl vs T2 ≈ 对照组 vs 实验组（A/B test）；T2 是“加了肿瘤压�
 
 ## 在本项目中
 
-- ZERU 在 9/24 会议上说 T2 是 “the tumors dataset”（转录稿 00:34:51）；早期文档把 Ctrl/T2 写成 control/tumor（`docs/inkt_history_and_supervisor_requirements_20260915.md` 阶段 4）。
+- ZERU 在 9/24 会议上说 T2 是 “the tumors dataset”（转录稿 00:34:51）；早期文档把 Ctrl/T2 写成 control/tumor（`docs/audits/inkt_history_and_supervisor_requirements_20260915.md` 阶段 4）。
 - AML 患者与小鼠单细胞数据（全骨髓与 NK-only，约 40 位患者），Rob 愿意通过 Box 分享 FASTQ，尚未收到（转录稿 01:31:12–01:34:42；`iNKT_by_date/2026-09-25/README.md` 外部依赖）。
 - Rob 提出可比较 CML 与 AML 的 NK 基线差异（转录稿 01:32:52）。
 

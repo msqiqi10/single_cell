@@ -16,7 +16,7 @@
 
 ## 在本项目中
 
-- `n_neighbors=15, n_pcs=30, use_rep="X_pca"`，欧氏距离，random_state 0（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 5.1）。注意：PCA 计算了 50 个成分，邻居图只用前 30 个，而 UMAP PC 比较用“50 PCs”标签——`docs/` 中未见对此的进一步说明，若要引用请先核对（不确定）。
+- `n_neighbors=15, n_pcs=30, use_rep="X_pca"`，欧氏距离，random_state 0（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 5.1）。注意：PCA 计算了 50 个成分，邻居图只用前 30 个，而 UMAP PC 比较用“50 PCs”标签——`docs/` 中未见对此的进一步说明，若要引用请先核对（不确定）。
 - PAGA 使用同一个 15-neighbour 图（同上 11.1）。
 
 ## 相关概念

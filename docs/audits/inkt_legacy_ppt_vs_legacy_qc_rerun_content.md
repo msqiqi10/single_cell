@@ -4,7 +4,7 @@
 >
 > 对照对象：`input/iNKT/iNKT.pptx`（33 页）与 `output/iNKT_legacy_ppt_qc_runs/20260818_125231`。
 >
-> 本文是新版本，不覆盖此前基于 18,204 × 15,741 宽松 QC 运行撰写的 `docs/inkt_legacy_vs_local_ppt_content.md`。
+> 本文是新版本，不覆盖此前基于 18,204 × 15,741 宽松 QC 运行撰写的 `docs/audits/inkt_legacy_vs_local_ppt_content.md`。
 
 ## 一、这次更新后可以确定的总叙事
 

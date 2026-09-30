@@ -20,7 +20,7 @@ Enrichr 是提供数百个基因集库（gene-set library）的富集分析平�
 - 库来源标记 `downloaded_from_enrichr_and_frozen`，含 GMT SHA256（`notebooks/scripts/iNKT/run_inkt_c5_paper_followup.py`）。
 - 37 页版第 23–25 页脚注：“our ORA: nominal DEG P ≤ 0.05, linear FC ≥ 1.5; frozen KEGG_2019_Mouse”（`iNKT_by_date/2026-09-20/package/notes/presenter_guide.zh.md`）。
 - 09-30：KEGG GMT 大写符号按不区分大小写映射到测得的小鼠符号，映射统计见 `iNKT_by_date/2026-09-30/results/tables/KEGG_gene_mapping_summary.csv`。
-- 本项目没有原始 PAGER/Reactome/KEGG GMT（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 10.2）。
+- 本项目没有原始 PAGER/Reactome/KEGG GMT（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 10.2）。
 
 ## 相关概念
 

@@ -16,7 +16,7 @@
 
 ## 在本项目中
 
-- `sc.pp.normalize_total(adata, target_sum=1e4); sc.pp.log1p(adata)`（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` Stage 3）。
+- `sc.pp.normalize_total(adata, target_sum=1e4); sc.pp.log1p(adata)`（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` Stage 3）。
 - 细胞毒性模块的“T2−Ctrl 差”是 log1p 表达均值之差，不是 log2FC，也不是杀伤率（`iNKT_by_date/2026-09-19/README.md`）。
 
 ## 相关概念

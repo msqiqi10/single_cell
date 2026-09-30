@@ -19,7 +19,7 @@
 
 - 实现：`scipy.stats.hypergeom.sf(k-1, M, K, n)`，词条大小 5–500，上调/下调分开，基因筛选 gene BH≤0.05 且 |log2FC|≥0.25（`iNKT_by_date/2026-09-19/code/analyze.py`；`iNKT_by_date/2026-09-19/README.md`）。
 - 示例：AP-1 复合体，骨髓 C0：M=9562，K=6，n=225，k=4，p=4.3e-6，家族 q=0.000261（`iNKT_by_date/2026-09-25/results/tables/AP1_complex_GO_exact_ID.csv`）。
-- 早期 ORA：19 单元×2 方向×12 signature=456 次检验（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 10.2）。
+- 早期 ORA：19 单元×2 方向×12 signature=456 次检验（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 10.2）。
 - 09-30：同一规则再加 KEGG，并复核了对 09-19 结果的复用（312,550 行 q 值最大差 1.1e-16）：`iNKT_by_date/2026-09-30/results/tables/ORA_reuse_check_vs_0919.csv`。
 
 ## 相关概念

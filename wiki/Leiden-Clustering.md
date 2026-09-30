@@ -16,8 +16,8 @@ Leiden 算法在图上寻找连接紧密的社区（community）。分辨率（r
 
 ## 在本项目中
 
-- 三个分辨率：0.2→6 群，0.5→8 群，1.0→16 群；主分析用 0.5（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 5.3）。
-- C5 共 1,129 细胞拆为 C5-1=812、C5-2=317，五种子平均 ARI=0.9868（`docs/inkt_history_and_supervisor_requirements_20260915.md` 阶段 5）。
+- 三个分辨率：0.2→6 群，0.5→8 群，1.0→16 群；主分析用 0.5（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 5.3）。
+- C5 共 1,129 细胞拆为 C5-1=812、C5-2=317，五种子平均 ARI=0.9868（`docs/audits/inkt_history_and_supervisor_requirements_20260915.md` 阶段 5）。
 - 单组织稳定分群：骨髓 5 群、脾脏 4 群、胸腺 6 群（同上 阶段 7）。
 
 ## 相关概念

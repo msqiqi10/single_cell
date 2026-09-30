@@ -16,7 +16,7 @@
 
 ## 在本项目中
 
-- `iNKT_by_date/2026-09-25/results/README.md` 第 3、5 节；`iNKT_by_date/2026-09-19/README.md` “解释边界”；`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 10.3。
+- `iNKT_by_date/2026-09-25/results/README.md` 第 3、5 节；`iNKT_by_date/2026-09-19/README.md` “解释边界”；`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 10.3。
 - 实验讨论清单为每个候选写明“会削弱该解释的情形”（`iNKT_by_date/2026-09-25/results/EXPERIMENT_CANDIDATES.md`）。
 
 ## 相关概念

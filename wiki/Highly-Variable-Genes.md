@@ -17,7 +17,7 @@
 
 ## 在本项目中
 
-- `n_top_genes=3000, batch_key="sample", flavor="seurat"`；355 个基因在六个样本中都是 HVG（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` 4.1）。
+- `n_top_genes=3000, batch_key="sample", flavor="seurat"`；355 个基因在六个样本中都是 HVG（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` 4.1）。
 - global 组织合并 DE 只测了 3,000 个 HVG；后来的 tissue 与 cluster×tissue DE 用全部 10,670 基因（同上 Stage 8）——两者“基因宇宙”不同，图不可直接比较。
 
 ## 相关概念

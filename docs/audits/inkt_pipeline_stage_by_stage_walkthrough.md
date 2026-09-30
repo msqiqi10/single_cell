@@ -1128,7 +1128,7 @@ ORA 只表示：
 
 ## 10.4 PaGER-scFGA 在这套 reproduction 中的位置
 
-[PaGER-scFGA paper](/home/zzz0054/bio3/docs/pager-scFGA.pdf) 对应的是旧 pathway 分析的背景方法之一，但当前 reproduction 并没有完整重新运行同版本的 PaGER/Reactome/KEGG 流程。
+[PaGER-scFGA paper](/home/zzz0054/bio3/docs/references/pager-scFGA.pdf) 对应的是旧 pathway 分析的背景方法之一，但当前 reproduction 并没有完整重新运行同版本的 PaGER/Reactome/KEGG 流程。
 
 缺少的信息包括：
 
@@ -1349,7 +1349,7 @@ T2−Ctrl 的 mean DPT 差异也极小：
 
 - [Detailed reproduction PDF](/home/zzz0054/bio3/output/iNKT_reproduction_deck/iNKT_legacy_QC_reproduction_detailed.pdf)
 - [Editable PPTX](/home/zzz0054/bio3/output/iNKT_reproduction_deck/iNKT_legacy_QC_reproduction_detailed.pptx)
-- [逐页结果说明](/home/zzz0054/bio3/docs/inkt_legacy_ppt_vs_legacy_qc_rerun_content.md)
+- [逐页结果说明](/home/zzz0054/bio3/docs/audits/inkt_legacy_ppt_vs_legacy_qc_rerun_content.md)
 - [Processed H5AD](/home/zzz0054/bio3/output/iNKT_legacy_ppt_qc_runs/20260818_125231/preprocess/inkt_scanpy_tutorial_processed.h5ad)
 - [Legacy/current best matches](/home/zzz0054/bio3/output/iNKT_legacy_ppt_qc_runs/20260818_125231/comparison_to_legacy_ppt/legacy_ppt_de_best_matches.csv)
 - [Current curated ORA](/home/zzz0054/bio3/output/iNKT_legacy_ppt_qc_runs/20260818_125231/extended/de_pathway/overlap_pathway/current_offline_gene_set_enrichment.csv)

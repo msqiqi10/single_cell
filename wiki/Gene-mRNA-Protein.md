@@ -17,7 +17,7 @@
 
 ## 在本项目中
 
-- 基因符号是本项目每一张表的行名：10,670 个保留基因（`docs/inkt_pipeline_stage_by_stage_walkthrough.md`）。
+- 基因符号是本项目每一张表的行名：10,670 个保留基因（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md`）。
 - “AP-1 复合体富集不直接测量复合体形成、DNA 结合或蛋白活性”——`iNKT_by_date/2026-09-25/README.md` 与 `iNKT_by_date/2026-09-25/results/README.md` 第 3 节。
 - Rob 会上指出核糖体基因变化“可能是蛋白合成受损，需要检验，也可能只是细胞状态‘angry’”（`/Users/zeruzhang/Downloads/Zoom会议/zoom-9024/GMT20260924-133029_Recording.transcript.vtt`，约 01:21:52–01:22:06）。
 - KEGG 库中基因符号为大写，映射到小鼠符号时按不区分大小写匹配：`iNKT_by_date/2026-09-30/code/01_ora.py`。

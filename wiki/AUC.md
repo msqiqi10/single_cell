@@ -18,7 +18,7 @@ ROC 曲线以不同阈值下的假阳性率为横轴、真阳性率为纵轴；�
 ## 在本项目中
 
 - 09-25 内部留边测试：GNN AUC 0.982–0.993；语义余弦基线 0.894–0.916；共同邻居 0.960–0.968；每次 57 条测试正边与 57 条负边（`iNKT_by_date/2026-09-25/results/network_validation.json`；`iNKT_by_date/2026-09-25/results/network/gnn_baseline_comparison.csv`）。
-- Borra et al. 2026 的基因 panel 也报告 accuracy 与 AUC（`docs/Borra_et_al_2026_GAFA_CML_NK.pdf`）。
+- Borra et al. 2026 的基因 panel 也报告 accuracy 与 AUC（`docs/references/Borra_et_al_2026_GAFA_CML_NK.pdf`）。
 
 ## 相关概念
 

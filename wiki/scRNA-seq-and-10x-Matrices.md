@@ -17,7 +17,7 @@ barcodes = 行索引（主键），features = 列名，matrix.mtx = 稀疏矩阵
 
 ## 在本项目中
 
-- 每个样本用 `sc.read_10x_mtx` 读取；barcode 加样本名前缀避免重名；六个 RNA 矩阵 outer join；每个输入含 32,285 个 Gene Expression features 与 3 个 Multiplexing Capture features（BM、Spleen、Thymus），capture features 只被记录，未用于重新拆分或过滤（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` Stage 1）。
+- 每个样本用 `sc.read_10x_mtx` 读取；barcode 加样本名前缀避免重名；六个 RNA 矩阵 outer join；每个输入含 32,285 个 Gene Expression features 与 3 个 Multiplexing Capture features（BM、Spleen、Thymus），capture features 只被记录，未用于重新拆分或过滤（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` Stage 1）。
 - 原始 18,458 个细胞（Ctrl_BM 3,998；Ctrl_Spleen 3,829；Ctrl_Thymus 2,101；T2_BM 3,131；T2_Spleen 3,760；T2_Thymus 1,639）→ QC 后 15,532（同上）。
 - 数据压缩包 `input.zip`（约 7 GB，未解压）：`README.md`。
 

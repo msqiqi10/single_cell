@@ -16,7 +16,7 @@
 
 ## 在本项目中
 
-- `layers["counts"]` = QC 后整数计数；`X` = normalize+log1p；`raw` = 全部 10,670 基因的 log-normalised（`docs/inkt_pipeline_stage_by_stage_walkthrough.md` Stage 3）。
+- `layers["counts"]` = QC 后整数计数；`X` = normalize+log1p；`raw` = 全部 10,670 基因的 log-normalised（`docs/audits/inkt_pipeline_stage_by_stage_walkthrough.md` Stage 3）。
 - 09-25 又从六份原始矩阵重建同一批 15,532 个细胞的 32,285 基因计数对象，用于补查 Ccr6/Il17a/Il17f（`iNKT_by_date/2026-09-25/results/README.md` 第 4 节）。
 - 细胞元数据（sample、condition、tissue、leiden、C5 亚群、各类分数）：`iNKT_by_date/2026-09-19/results/tables/cell_metadata_scores.csv.gz`。
 
