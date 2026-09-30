@@ -1,0 +1,48 @@
+{
+  "repo_id": "si3g/inkt-scrna-data",
+  "repo_type": "dataset",
+  "files": [
+    {
+      "path": "output/iNKT_meeting_followup_20260905/objects/scored_base.h5ad",
+      "size": 213444986,
+      "sha256": "f2c7e3c019044a48e8a08c08913e8617c77e6dc3abda432bf99100fd21cdb453",
+      "description": "AnnData of all 15,532 cells x 10,670 genes with module scores, UMAP and refined clusters"
+    },
+    {
+      "path": "output/iNKT_meeting_followup_20260905/objects/bone_marrow_stable.h5ad",
+      "size": 84211048,
+      "sha256": "57110aab150449ff1041a18f32d7de6b022c02f7106801a8301bfa789121ade2",
+      "description": "Bone-marrow subset with stable re-clustering (sensitivity analysis)"
+    },
+    {
+      "path": "output/iNKT_meeting_followup_20260905/objects/spleen_stable.h5ad",
+      "size": 90886903,
+      "sha256": "183ed066c26534f19928ca585ab010ca37abb113e47092245f7b016b266bd292",
+      "description": "Spleen subset with stable re-clustering"
+    },
+    {
+      "path": "output/iNKT_meeting_followup_20260905/objects/thymus_stable.h5ad",
+      "size": 39354471,
+      "sha256": "e77b527ecb8fd7b245f1d4f9f46408d6e6526bcd0be362f641c841ce1dd00fd6",
+      "description": "Thymus subset with stable re-clustering"
+    },
+    {
+      "path": "iNKT_by_date/2026-09-19/results/objects/bone_marrow_local_trajectory.h5ad",
+      "size": 938554,
+      "sha256": "3600cbf33d3ea262af6132418fa4c7a74f301a547efb547359e7b90189af1414",
+      "description": "Bone-marrow local DPT trajectory object"
+    },
+    {
+      "path": "iNKT_by_date/2026-09-19/results/objects/spleen_local_trajectory.h5ad",
+      "size": 1062131,
+      "sha256": "3ce0c519316bb961c7d821d8b132a1e01d1f74c6c44841e71c3bb7560e560c78",
+      "description": "Spleen local DPT trajectory object"
+    },
+    {
+      "path": "iNKT_by_date/2026-09-19/results/objects/thymus_local_trajectory.h5ad",
+      "size": 436623,
+      "sha256": "dd933d59b9c8f82e4015b90e508cfbde243beb9c1027492db7a1b31aa131541b",
+      "description": "Thymus local DPT trajectory object"
+    }
+  ]
+}

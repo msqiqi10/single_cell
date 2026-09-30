@@ -67,6 +67,9 @@
 三个 >50 MB 的 `.h5ad`（scored_base / bone_marrow_stable / spleen_stable）以及其余 `.h5ad`（共 7 个，约 410 MiB）、`*.zip`、`.venv/`。
 清单、SHA-256 和来源见 [DATA_NOT_IN_GIT.md](DATA_NOT_IN_GIT.md)。未使用 Git LFS。
 
+7 个 `.h5ad` 托管在**私有** Hugging Face 数据集 `si3g/inkt-scrna-data`（需先获得访问授权）。获取：
+`hf auth login`，然后 `python scripts/fetch_data.py`（`--check` 仅校验本地文件 SHA-256）。清单见 `data_manifest.json`。
+
 ## Portability notes
 
 下列文件含本地或远程机器的绝对路径，属于历史记录，**未改写**；在别的机器上运行需手动替换：

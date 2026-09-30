@@ -22,5 +22,15 @@ Other things mentioned in the old README but never present in this snapshot: `in
 `CML_NK_scRNA_TKI/` (shallow clone of `https://github.com/ai-pharm-AU/CML_NK_scRNA_TKI`), and `.venv/`
 (recreate with `uv sync`). They are covered by `.gitignore` where applicable.
 
-To restore: copy the files from the server (`scp` / `rsync` from `/home/zzz0054/bio3`) to the same relative paths
-and verify with `shasum -a 256`.
+To restore: the 7 `.h5ad` files are hosted on the **private** Hugging Face dataset
+[`si3g/inkt-scrna-data`](https://huggingface.co/datasets/si3g/inkt-scrna-data) under the same relative paths
+(manifest with SHA-256: `data_manifest.json`). The repo is private, so access must be granted by the owner first.
+
+```
+hf auth login
+python scripts/fetch_data.py          # download missing files, verify SHA-256
+python scripts/fetch_data.py --check  # verify local files only
+```
+
+The script skips files that already have the right hash and never overwrites a local file whose hash differs.
+Alternatively copy from the server (`scp` / `rsync` from `/home/zzz0054/bio3`) and verify with `shasum -a 256`.
